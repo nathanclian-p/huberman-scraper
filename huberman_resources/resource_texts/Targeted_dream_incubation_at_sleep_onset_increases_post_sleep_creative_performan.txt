@@ -1,0 +1,196 @@
+All research procedures were approved by the MIT Institutional Review Board and the MIT Committee on the Use of Humans as Experimental Subjects and were performed in accordance with relevant guidelines and regulations, including the standards set forth in the Declaration of Helsinki. Informed consent was obtained from all participants.
+Participants
+We recruited 50 healthy participants (mean age = 26.7 ± S.D. 7.9 years, 24 females) to participate in a daytime napping study using an email advertisement sent to a university listserv containing MIT-affiliated students and researchers. Participants were screened for exclusion criteria of any self-reported history of sleep or psychiatric disorders. Participants arrived at the laboratory in the afternoon between the hours of 12:00 pm and 4:00 pm, optimizing for the postprandial increase in sleepiness. Participants were informed the study investigated the relationship between rest and cognitive flexibility and that they would engage in a nap or active rest. They were offered a sleep mask as compensation for participation in the study. Participants were instructed not to consume stimulants on the day of the experiment. All participants signed an informed consent form. After signing the consent form, participants filled out questionnaires on their demographic information and typical sleep quality.
+Design
+The experiment used a 2 × 2 between-subjects design in which the independent variables were state (Sleep or Wake) and condition (Incubation or No-Incubation). Using these states and conditions, we generated four groups to which participants were randomly assigned: Sleep Incubation (SI), Sleep No-Incubation (SN), Wake Incubation (WI), and Wake No-Incubation (WN) (Fig.
+1
+b). Participants engaged in a 45-min experimental period and then completed three creativity assessments (Fig.
+1
+a). One participant assigned to a sleep group was unable to sleep and was eliminated from analysis, leaving a total of 49 participants.
+Figure 1
+Experimental protocol. (
+a
+) Flowchart indicating the order of events in the experimental protocol. The period of sleep or wake was 45 min in length. CST: Creative Storytelling Task; AUT: Alternative Uses Task; VGT: Verb Generation Task. (
+b
+) Verbal report and system prompt parameters used in the experimental period for each independent variable level. (
+c
+) Hypnogram schematic displaying sleep staging for sleep participants. Participants repeatedly transitioned between wakefulness and N1 sleep throughout the experimental period. After the detection of N1 and a variable period of 1–5 min, participants were awakened and asked for a verbal report. After their verbal report, the Dormio system delivered a prompt and the participant was left undisturbed to return to sleep.
+The Dormio device
+Regardless of their assigned group, all participants wore the Dormio device during the 45-min experimental period. The Dormio system consists of a hand-worn sleep tracker and associated app installed on a laptop or smartphone
+36
+,
+37
+(Fig.
+S1
+a–c). The Dormio system was used to automatically track participants’ sleep onset, communicate auditory cues to participants, and record participants’ verbal reports (Fig.
+1
+)
+4
+,
+36
+,
+37
+,
+38
+,
+39
+. The Dormio device uses physiological sensors to automatically detect sleep onset, i.e., the transition from wake to N1. During the development of the Dormio device, concurrent polysomnographic data
+38
+(Fig.
+S1
+) identified the following changes as markers of sleep onset for use in the Dormio system: heart rate changes of > 5 BPM, electrodermal activity sensor changes > 4 μSiemen, or flexor muscle sensor changes > 8 KΩ. For participants in the Sleep groups, surpassing one of these thresholds triggered a variable timer of 1–5 min, after which the Dormio system delivered an auditory prompt to wake the participant and collected a verbal report (Fig.
+1
+). Verbal reports were not subject to a time limit. Additional pilot data indicated that this protocol not only corresponded well with entry into N1 sleep but also effectively limited participants’ entry into N2 sleep
+36
+,
+37
+. Note that due to the lack of polysomnographic confirmation of sleep staging within the study (such as with EEG), the term “N1 sleep” throughout our study refers to the period defined as 1–5 min after Dormio-detected sleep-onset N1.
+Targeted dream incubation protocol
+Targeted dream incubation (TDI) is a protocol designed for the induction of specific content into sleep-onset dreams, allowing for controlled studies using dream reports as an independent variable
+36
+,
+37
+. TDI requires sensors to track sleep onset and a method to deliver and record audio. The Dormio device enacts the TDI protocol automatically by delivering audio cues to suggest a dream theme to participants during each of a series of awakenings, creating a serial dream incubation paradigm
+36
+. In addition, Dormio enables an automated version of a manually run serial awakenings paradigm previously used to collect hypnagogic dream reports
+40
+,
+41
+. Using Dormio, each awakening from a dream incubation period is accompanied by an auditory prompt that requests a dream report, which the Dormio system automatically records (see Supplementary Table
+S1
+for sample reports)
+36
+.
+Experimental protocol
+We used Dormio to enact a serial auditory incubation of the theme “tree.” The data collected on the efficacy of the Dormio dream incubation in these participants have been previously reported
+36
+, while all data related to post-sleep creativity task performance are reported for the first time here. All participants engaged in a 45-min experimental period in which protocols differed based on their assigned state and condition. The precise wording of both the pre-experiment instructions (read by experimenters to participants) and the Dormio-delivered pre-recorded prompts (for theme incubation and requesting verbal reports) for each group can be found in the Supplementary Materials and are summarized below.
+SI
+: For the Sleep Incubation group, a variable timer initiated wakeups 1 to 5 min after Dormio detected entry into N1 sleep. During each wakeup, a computer with pre-recorded audio prompts requested a verbal dream report from the participant, which was recorded on the computer. Another pre-recorded voice prompt instructed participants to “remember to think of a tree” and go back to sleep.
+SN
+: The Sleep No-Incubation group followed a similar protocol of awakenings and dream reports, except that they were instructed to observe their thoughts (“remember to observe your thoughts”) rather than think of a tree.
+WI
+: In the Wake Incubation group, participants were left to mind-wander for periods of 7 min (mirroring the average time needed for sleep onset in the sleep groups) plus a variable period of 1 to 5 min. Following each period, the computer requested and recorded a verbal report from the participant about their thoughts and then instructed them to “continue thinking about a tree.”
+WN
+: The Wake No-Incubation group followed a similar protocol of mind-wandering and verbal reports, except that they were instructed to observe their thoughts rather than to think of a tree.
+Throughout the 45-min experimental period, experimenters remained in the room with the participant. Experimenters were out of sight, as participants assigned to sleep wore an eye mask and participants assigned to stay awake were instructed to have their eyes closed. Following the experimental period and completion of the creativity tasks, we also collected written reports from participants about their mentation during the experimental period (see Supplementary Table
+S2
+for sample post-experiment written reports).
+Assessing theme incorporation in verbal reports
+Throughout this study, “incubation” refers to the process of providing stimuli to direct dreaming or awake mentation towards a specific theme, as in “incubating” a specific dream topic. With each incubation group, participants experienced different degrees of successful incubation, reflected in differences in how many times their verbal reports referenced the “tree” theme. We quantified the degree of theme incorporation for each participant as the average number of direct references to the incubated theme (“tree”) made in each verbal report. A direct reference to “tree” is defined as an unambiguous mention of “tree” or part of a tree (including leaf, branch, root, or forest), adapting methods from Wamsley et al.
+40
+. For example, there was 1 direct reference in the report “
+trees splitting into infinite pieces”
+and there were 3 direct references in the report
+“thinking about how leaves are the eyes, roots are like lips, and the different senses trees must have”
+(counting the words “leaves,” “roots,” and “trees” as one reference each).
+Creativity tasks
+Due to its highly context-dependent nature, constructing a single definition or assessment of creativity has proven to be a major challenge for the sciences
+42
+. In many cases, studies have used just one assessment tool, leading to results constrained in their real-world relevance. In the present study, all participants completed a set of three widely validated creativity assessments, each shown to index a different aspect of creative performance, in order to facilitate a multifaceted measurement of creativity with broad real-world relevance. Immediately following the 45-min experimental period, participants completed the creativity assessments in the following order: the Creative Storytelling Task
+43
+,
+44
+, the Alternative Uses Task
+45
+,
+46
+, and the Verb Generation Task
+47
+.
+The Creative Storytelling Task (CST) has been used for decades to assess creative effort, semantic divergence, and the ability to make new combinations of mental elements that form the basis of a meaningful product. Importantly, the CST assesses abilities with real-world relevance for individuals engaging in creative writing in their professional or personal lives. The CST has been used to assess the neural correlates of creativity and has been shown to engage brain areas core to creativity
+43
+,
+44
+. In this task, all participants were instructed to write a creative story including the word “tree.” Participants wrote responses by hand. Participants were instructed to use their imagination and to be creative. They were told writing was necessary but drawing was additionally allowed. No time limit was given, but every 5 min that passed was announced so participants could have a sense of time, and total writing time was recorded. Writing times ranged from 2 to 19 min (mean time = 8.9 ± S.D. 3.9 min).
+The Alternative Uses Task (AUT) has been widely validated as a measure of creativity that specifically indexes divergent thinking abilities, namely the ability to broaden representational search space and produce wide-ranging responses to queries. Furthermore, task performance is correlated with and predictive of real-world creative achievements
+46
+,
+48
+. For this task, participants were prompted to “list all the creative, alternative uses you can think of for a tree” and given three minutes to provide handwritten responses. Participants were explicitly told to be creative, as noted in the prompt. Explicit instructions to be creative have been consistently shown to influence creativity across a wide variety of tasks, including divergent thinking tasks
+49
+.
+The Verb Generation Task (VGT), a classic cognitive neuroscience measure of language production and semantic processing abilities, has been used to quantify the contribution of semantic divergence to creativity
+49
+. Performance on the task can be automatically computationally assessed, and these objective assessments have been shown to correlate well with subjective assessments by raters
+50
+. For this task, a list of 31 nouns was presented and the participants were instructed to respond in writing with the first verb that came to mind for each noun. No time limit was given, but participants answered each noun prompt in under 10 s. Participants were instructed explicitly to generate creative verb associations, adapting methods from Heinen et al.
+47
+. The following nouns were presented: tree, forest, leaf, roots, branch, stick, plant, seed, apple, flower, grass, sunshine, shadow, wind, water, river, dirt, shovel, hole, squirrel, bird, frog, swing, rope, nest, chair, book, mountain, tea, pot, syrup.
+Creative performance ratings
+Human raters evaluated the degree of creativity in participants’ task responses.
+CST responses were evaluated by three trained, state and condition-blind raters. Raters were provided stories in two formats: typed text and scans of the page containing participants’ original handwritten words and accompanying imagery. Raters assessed the “overall creativity” of participants’ stories, adapted from Prabhakaran and defined as: the extent to which the participant told a unique story that "came alive”; the story did not need to be cohesive or have a plot
+49
+. Raters were instructed to score CST responses on a Likert scale from 1 (low creativity) to 7 (high creativity). In line with the Consensual Assessment Technique, after ratings were completed, raters discussed differences in ratings until a consensus (defined as ratings with difference of ≤ 2) was reached
+51
+,
+52
+. Then, a mean across the three raters’ scores was taken for each participant. While “overall creativity” was our measure of interest, in order to fully replicate the scoring procedures from Prabhakaran, raters also assessed the following four factors for each story: descriptiveness (the extent to which the participant added additional details), semantic flexibility (the manner and number of unique ways in which the participant used the word “tree”), humor (the extent to which the participant incorporated clever, witty, and/or amusing elements into the story), and emotiveness (the extent to which the participant used words that convey emotion and shifts of emotion). These additional factors are outside of the scope of the present study and are excluded from our analyses.
+AUT responses were evaluated by the same three raters as for the CST rating protocol. Raters scored the participant’s entire set of alternative uses as a group. For this task, creativity was defined for raters as a combination of originality (uniqueness of ideas), flexibility (variety of ideas), and fluency (number of ideas), with definitions for each of these constructs taken directly from the Torrance Tests of Creative Thinking
+53
+. Raters evaluated the creativity of a participant’s list of alternative uses by assigning a value of 1 (low creativity) to 5 (high creativity). After ratings were assigned, the Consensual Assessment Technique
+51
+was again used to address any discrepancy of ≥ 3 between any of the three raters. Then, a mean across the three raters’ scores was taken for each participant.
+VGT responses were evaluated by 39 “Master Workers” recruited on the Amazon Mechanical Turk platform. We first extracted the set of unique pairings of noun prompts and verb responses across all 49 participants’ VGT responses, resulting in a total of 1219 noun–verb pairings. We then obtained scores from 5 raters for each noun–verb pairing (resulting in a total of 6,095 data points with an average of 156.3 ratings provided per rater). Raters were presented with one noun–verb pair and asked to assign a score of 1 (“Not creative at all”), 2 (“A little creative”), 3 (“Somewhat creative”), 4 (“Creative”), or 5 (“Very Creative”) to the verb with respect to the noun. We scored each noun–verb pairing by taking a mean across the 5 MTurkers’ ratings. Finally, a mean was taken for each participant across their 31 noun–verb pairings.
+Creativity Index
+The three creativity tasks had different structures and indexed different aspects of creative performance. Partial Pearson correlations were calculated between task creativity ratings (with state and condition as covariates) and confirmed only moderate levels of correlations between creative performance on each task. To combine performance across all three tasks into a single multifaceted measure of creativity with broad real-world relevance, we constructed a composite measure called the “Creativity Index”. We compute the Creativity Index by first computing z-scores of creativity ratings using population means and standard deviations for each task, then averaging each participant’s z-scored creativity ratings across the three tasks
+54
+,
+55
+.
+Creative self efficacy
+Creative self-efficacy (CSE) is defined as “the belief that one has the ability to produce creative outcomes”
+56
+. CSE has been shown to correlate with performance on creativity tasks
+57
+,
+58
+. Participants completed a creative self-efficacy survey with the question “Do you consider yourself a creative thinker?” pre-experiment (before the period of sleep or wake). Participants responded on a scale of 1 (“Not so much”) to 10 (“Yes”). The results of this survey, presented in Table
+1
+, were used as a proxy for assessing baseline creative abilities pre-experiment, since the creativity tasks could not be presented pre-experiment (in order to avoid the tasks acting as incubation stimuli). An ART ANOVA found no significant effect for state (p = 0.29), condition (p = 0.23), and no significant interaction effect (p = 0.99). An ART multifactor contrast test with Holm-Bonferroni correction found no significant differences between groups (adjusted p = 1.00 for all contrasts).
+Table 1 Participant verbal report and task response metrics.
+Semantic distance
+We computationally evaluated the semantic distance in participant responses using a pre-trained semantic model called GloVe (Global Vectors for Word Representation)
+59
+. GloVe consists of a 300-dimensional word embedding space created by an unsupervised learning algorithm trained on 42 billion word tokens and their co-occurrence statistics. To evaluate the semantic distance between two words, we quantify the cosine distance between their GloVe embeddings (300-dimensional vectors). GloVe has shown robust associations with human judgments of word relatedness, comparable to other semantic models
+59
+.
+For the CST, we used the Divergent Semantic Integration (DSI) tool to score semantic distance
+60
+. Using DSI, stories were first stripped of punctuation and stop words and then tokenized. The GloVe embedding of each word token was extracted and the cosine distance was computed between all pairs of word embeddings (Fig.
+2
+). A single semantic distance score for each story was calculated by taking the mean of this set of pairwise cosine distances.
+Figure 2
+Divergent Semantic Integration with GloVe. DSI
+60
+with GloVe was used to measure the semantic distance in the Creative Storytelling Task. Stories were first stripped of punctuation and stop words and then broken into word tokens. The cosine distance was computed between all pairs of GloVe embeddings. The mean of the pairwise distances was taken to produce a semantic distance score for each story. See
+60
+for more details.
+For the AUT, semantic distance for each alternative use was evaluated by taking the GloVe cosine distance between the prompt word “tree” and the alternative use. For multiple-word use cases (such as “clothes hanger”), the semantic distance was calculated by taking the mean of the semantic distances between each component word in the response and the word “tree.” We produced a single score for each participant by taking the mean of semantic distance across their set of alternative uses.
+For the VGT, semantic distance was measured between pairs of noun prompts and verb responses. Semantic distance was computed by calculating the cosine distance between the GloVe embeddings of the noun prompt and verb response. For verb responses given as multiple words (for example, “launching into space” as a response to the noun prompt “swing”), the semantic distance was calculated by taking the mean of the semantic distances between each component word in the response and the noun prompt. Before calculating the semantic distance, verb responses were processed in three steps for consistency: (1) verbs were edited to take the “-ing” form of the verb (for example, “run” was changed to “running”); (2) stop words (e.g. a, at, is, the, which, and on) were removed; (3) for instances where the prompt noun was repeated in the verb response, the repeated noun was removed from the response. For example, using these processing steps, the response of “eat a leaf” to the noun prompt “leaf” was modified to just “eating”). For each participant, we produced a single score by taking the mean of the semantic distance values across the full set of noun–verb response pairs produced by the participant, adapting methods from Prabhakaran et al.
+49
+. Semantic distance in creative cued VGT has a demonstrated strong relationship to a creativity factor derived from verbal, nonverbal, and achievement-based creativity measures
+47
+.
+Semantic distance index
+Partial Pearson correlations were calculated between the semantic distance measurements of each task (with state and condition as covariates) and showed low to moderate levels of correlations between tasks. To combine semantic distance across all three tasks into a single multifaceted measure of semantic distance, we constructed a composite “Semantic Distance Index” by averaging each participant’s z-scored semantic distance measurements across the three tasks
+54
+,
+55
+.
+Statistical analysis with aligned rank transform
+For our omnibus analysis of main effects and interaction, we used the two-way, nonparametric Aligned Rank Transform ANOVA test (ART ANOVA)
+61
+. Post-hoc pairwise comparison analyses were conducted using nonparametric Aligned Rank Transform multifactor contrast tests (ART-C) corrected for multiple comparisons with Holm-Bonferroni adjustments
+62
+,
+63
+,
+64
+.
+Regression of creative performance on degree of theme incorporation in verbal reports
+We ran a multivariate ordinary least squares regression of creative performance on the degree of theme incorporation in verbal reports, along with one continuous control variable (semantic distance) and two binary control variables (sleep and incubation). The regression model was of the form Y = α + (β1 × Degree of Theme Incorporation) + (β2 × Semantic Distance) + (β3 × Sleep) + (β4 × Incubation), where Y was a measure of creative performance (the Creativity Index or one of the individual task ratings), α is a constant, Sleep is a binary variable (1 for sleep participants, 0 for wake participants) and Incubation is a binary variable (1 for incubation group participants, 0 for no-incubation group participants). One participant from the Sleep No-Incubation group was excluded from this analysis because their verbal reports were inaudible during the experiment.
+Assessing verbal report concept incorporation in task responses
+We assessed each participant’s verbal reports and task responses to identify instances of direct incorporation of concepts (including concepts beyond the word “tree”) from participants’ mentation during the experimental period in their responses to the creativity tasks. We measure direct incorporation adapting methods from Wamsley et al.
+40
+.

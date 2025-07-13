@@ -1,0 +1,717 @@
+The initial search strategy identified 911 articles and the updated search strategy identified 1271 articles. Following the screening process, eight studies met the inclusion criteria (see Fig.
+1
+). Two of the eight articles were separate publications of the same study with separated outcome measures across the papers. These two published papers by Crespo and colleagues [
+9
+] and Ziegler and associates [
+27
+] were combined within this review so that the ambulatory blood pressure reported in one article [
+27
+] was paired with the postprandial glucose data reported in the second article [
+9
+] and will only be discussed as Crespo and colleagues [
+9
+]. Therefore, seven studies were included in the final systematic review and meta-analysis.
+3.1
+Narrative Synthesis of Included Studies
+The seven articles reviewed were acute experimental studies with an emphasis on interrupting prolonged sitting with bouts of standing and light-intensity walking as a ‘break’ in sedentary time. Details of the study and participant characteristics of the seven included papers are presented in Tables
+1
+and
+2
+. Many of the included studies screened participant exercise/PA habits and ensured participants were not physically active [
+7
+,
+8
+,
+9
+,
+10
+,
+11
+,
+19
+]. Two studies used the 150-min threshold of MVPA, excluding participants who completed > 150 min of MVPA a week [
+7
+,
+9
+], whilst one study selected participants with ‘entirely sedentary or semi sedentary occupation’ where the participants would be chair-bound with no substantial walking or physical labour [
+10
+]. A further study excluded participants who completed more than three PA sessions per month [
+19
+] and one study screened for < 75 min of self-reported vigorous exercise a week [
+11
+]. Only one study had no criteria relating to the amount of exercise the participants completed [
+18
+], ensuring only that participants had no contraindications to physical exercise; this requirement was also observed in another study [
+11
+,
+18
+]. Two studies excluded individuals with known metabolic dysfunction or cardiovascular diseases [
+18
+,
+19
+], with one study excluding individuals with endocrine disorders [
+19
+]. A further study excluded participants who were taking glucose lowering medication [
+11
+], whereas two studies included participants who had been screened for impaired glucose regulation [
+7
+,
+8
+]. Five of the studies originated from the UK, whilst the remaining two were conducted in the USA [
+8
+,
+9
+]. Four studies recruited a mixed-sex population [
+9
+,
+10
+,
+11
+,
+18
+], whilst two recruited females only [
+7
+,
+8
+], and one recruited a male-only population [
+19
+].
+3.2
+Quality Assessment and Risk of Bias
+The quality of four of the included studies was mutually agreed upon with three of the studies included requiring discussion until a consensus was met. Two papers (28.6%) were evaluated as ‘good’ whilst five (71.4%) were determined as ‘fair’; the mean score and SD were 18.25 ± 1.62 (see Table
+2
+).
+The risk of bias (internal validity—confounding bias) within the included studies was low or unclear due to the included studies utilising randomised crossover study designs. The included studies minimised internal bias by conducting well-controlled trials with constant monitoring and washout periods made possible by the acute experimental nature of the trials. The individual scoring of each included study can be found in the ESM. The ‘reporting’ of the included papers scored high, with the main downfall of the included papers being failing to report adverse events consequential to the intervention [
+17
+]. While these studies may not have had participants who experienced adverse events, reporting this in the paper would still have been beneficial. The external validity of the included studies was generally low, due to the nature of the laboratory setting and the artificially induced experimental conditions. One study conducted its research within the participants’ workplace environment, increasing external validity [
+10
+]. However, internal validity was compromised due to a reduced washout period of 1 day compared to 7 days to limit the number of insertions of glucose-monitoring systems [
+10
+]. Two studies simulated an office environment within the laboratory setting [
+9
+,
+19
+]. However, all studies restricted normal daily free-living activities and diets to prioritise internal validity. When judging the internal validity, the included studies took a varied approach to the data collection and analysis of their outcome measures. Three studies used external investigators and statisticians, thereby increasing the studies’ internal validity as they were blinded to the experimental condition, when measuring the outcome variables and performing statistical analysis [
+7
+,
+8
+,
+11
+].
+3.3
+Study Design Protocols
+There was significant heterogeneity in the design of the included studies, specifically in terms of: (i) the frequency of breaks, ranging from every 20 min to every hour [
+8
+]; (ii) the duration of breaks, ranging from 2 min [
+8
+,
+10
+,
+18
+,
+19
+] to 30 min [
+9
+]; and (iii) the total time of sitting interrupted, ranging from 28 min to 2 h and 50 min (see Table
+2
+).
+When prescribing light-intensity walking breaks the included studies either utilised motorised treadmills [
+7
+,
+8
+,
+9
+,
+9
+,
+10
+,
+11
+,
+12
+,
+13
+,
+14
+,
+15
+,
+16
+,
+17
+,
+18
+,
+19
+]; hallways [
+8
+,
+10
+] or a marked track [
+11
+]. The definition of light-intensity varied between the studies with some studies using the Borg RPE scale [
+7
+,
+10
+,
+18
+], a fixed walking speed [
+9
+,
+19
+] or a self-selected purposeful comfortable pace [
+8
+] (see Table
+2
+). However, prescribing a fixed speed does not allow for intra-individual differences in fitness, thereby lowering external validity. The included studies that prescribed an RPE range or prescribed a self-selected pace can be considered weaker in design as they have limited control and standardisation over the intervention.
+3.3.1
+Difference in Meals Administered
+When controlling and prescribing the food and drink consumed prior to and during the trials, the included studies took varied approaches (see Table
+4
+). In terms of standardising the evening before the intervention arm trial, only one study did not standardise the evening meal [
+18
+], whereas two of the included studies [
+7
+,
+19
+] had participants replicate their food and drink intake the day before their first trial for every subsequent trial and one study asked the same of their participants but to replicate their food and drink intake for the 48 h before a subsequent trial [
+11
+]. These three studies thereby did not know the macronutrient composition of the meals the day prior to the trials but had attempted to standardise across the trials. Two studies prescribed meals for the days prior [
+8
+,
+10
+], with one study [
+9
+] prescribing the same meal on both the test day and the day prior, thereby repeating the same calories and macronutrient composition [
+8
+,
+9
+,
+10
+]. All but one study [
+9
+], which did not report this information in its methods section, asked their participants to fast ‘overnight’. One study simply stated ‘overnight’ [
+10
+] with no timeframe provided, whereas timeframes were provided by the other included studies such as 10 h [
+7
+,
+8
+,
+11
+] or 12.5 h [
+19
+]. In terms of the meals or drinks on the intervention day, two studies administered two drinks at once in the morning [
+10
+,
+18
+], one providing carbohydrates (80.3 g), fat (50 g) and no protein [
+18
+]. The other provided a mixed macronutrient test drink with carbohydrate (73.6 g), fat (23.2 g) and protein (23.6 g) [
+10
+]. Two studies provided two identical meals to their participants (breakfast and lunch); the meals’ total energy (kcal) was based on participants’ body weight but varied with respect to the energy kg
+−1
+of body mass, where one study provided 5 kcal kg
+−1
+[
+8
+] and the other 8 kcal kg
+−1
+of body mass [
+11
+]. However, both provided a mixed meal of macronutrients (see Table
+4
+) [
+8
+,
+11
+]. Only one of the included studies performed an oral glucose tolerance test, following a baseline blood sample of 75 g of glucose (1244.74 kJ) followed by a mixed macronutrient test meal at lunch as a meal replacement drink [
+19
+]. The final study provided three meals: breakfast, lunch and dinner, all consisting of mixed macronutrients with a high carbohydrate content [
+9
+].
+3.3.2
+Measurement of Glucose
+Comparing the different approaches taken in the measurement of glucose, this review found that from the seven papers included, three collected blood through a cannula [
+7
+,
+11
+,
+19
+] and one a catheter [
+8
+] inserted upon the arrival of the participants. Two studies inserted a continuous glucose monitor (CGM), the iPro2 [
+9
+,
+10
+]. The final study included in this review measured glucose via capillary sampling [
+18
+]. The differences in measurement techniques lead to variations in analysis and the number of postprandial time points measured. The iPro2 CGM measured interstitial glucose concentrations every 5 min throughout the trials, whereas the studies that sampled via cannulas or catheters recorded glucose at 30, 60, 120 and 180 min postprandial [
+7
+,
+11
+]. One of the included studies sampled glucose more frequently but over a shorter period, measuring at baseline 30, 60, 90 and 120 min postprandial [
+19
+], whereas one study sampled blood glucose hourly from baseline at 60, 120, 180, 240 and 300 min postprandial via capillary sampling [
+18
+].
+3.4
+Outcome Measures
+3.4.1
+Diastolic Blood Pressure
+Four studies compared interrupting prolonged sitting with standing and light-intensity walking on DBP [
+8
+,
+9
+,
+11
+,
+18
+]. DBP was not included in the meta-analysis as only two studies provided data, while the others provided data graphically or as a non-significant effect [
+8
+,
+11
+]. Three studies reported that neither intermittent standing nor light-intensity walking influenced DBP [
+9
+,
+11
+,
+18
+]. One study showed no effect of intermittent standing compared to prolonged sitting; however, light-intensity walking significantly increased DBP [
+8
+].
+3.4.2
+Triglycerides, Total Cholesterol, High Density Lipoprotein and Non-Esterified Fatty Acids
+Three studies measured the impact of interrupting prolonged sitting with standing and light-intensity walking on triglyceride levels, two measured postprandial triglycerides [
+7
+,
+11
+] and one pre- and post-triglycerides [
+18
+]. Due to the difference in measurement and subsequent analysis, triglycerides were not included in the meta-analysis. Two studies reported no significant effect when interrupting prolonged sitting with either standing or light-intensity walking [
+7
+,
+18
+]. In contrast, one study reported a significant increase in triglycerides when prolonged sitting was compared to intermittent standing, but reported no effect when comparing light-intensity walking breaks with prolonged sitting [
+11
+]. One study measured total cholesterol and HDL when performing intermittent standing and light-intensity walking breaks compared to prolonged sitting and found no significant effect [
+18
+]. One study found that both intermittent standing and light-intensity walking significantly reduced the suppression of NEFA compared to prolonged sitting with no differences between standing and light-intensity walking [
+7
+].
+3.4.3
+Heart Rate
+Two studies investigated the effect of interrupting standing and light-intensity walking on participants’ heart rate, one study [
+8
+] showed no effect when comparing the PA breaks compared to prolonged sitting. In contrast, the second study found heart rate to significantly increase during light-intensity walking compared to prolonged sitting and intermittent standing [
+9
+].
+3.4.4
+Flow-Mediated Dilation
+One study assessed FMD [
+8
+]. It investigated two standing conditions and reported standing for 10 min every hour significantly improved FMD whereas 2 min standing every 20 min showed no effect. Similarly, 2 min of walking every hour showed no effect after Bonferroni correction [
+8
+].
+3.5
+Meta-analysis Results
+All seven studies were included within the meta-analysis; however, outcome variables such as diastolic blood pressure (DBP), triglycerides, heart rate, total cholesterol, HDL, NEFA and FMD were not meta-analysed due to fewer than three studies measuring these outcome variables. Variables that were included within the meta-analysis were: postprandial glucose, insulin and SBP.
+3.5.1
+Glucose
+Nine effects were derived for standing versus sitting and walking versus standing, and eight effects were derived for walking versus sitting from seven studies [
+7
+,
+8
+,
+9
+,
+10
+,
+11
+,
+18
+,
+19
+]. Due to each study completing at minimum three trials and one study completing four trials, the total number of participants included within the glucose meta-analysis was 461. Figure
+2
+A–C illustrate the weighted distribution of effects for glucose for standing versus sitting, walking versus sitting, and walking versus standing comparisons, respectively.
+Fig. 2
+Forest plots from the postprandial glucose meta-analysis.
+A
+Intermittent standing breaks compared to prolonged sitting (glucose).
+B
+Intermittent walking breaks compared to prolonged sitting (glucose).
+C
+Intermittent walking breaks compared to intermittent standing breaks (glucose).
+WE
+White European,
+SA
+South Asian,
+min
+minutes
+3.5.1.1
+Standing Versus Sitting
+Compared to sitting, standing resulted in a small, statistically significant mean improvement in glucose (∆ = − 0.31, 95% CI − 0.60, − 0.03;
+z
+= − 2.15,
+p
+< 0.04). The effect was heterogeneous (
+Q
+8
+= 105.21,
+p
+< 0.001;
+I
+2
+= 93.4; 95% CI 91.5, 94.8). Neither Begg’s rank correlation (Kendall
+τ
+= − 0.48,
+p
+> 0.07) nor Egger’s regression (intercept = 1.27, SE = 1.24,
+p
+≥ 0.34) suggested publication bias.
+Variation in the overall effect was not explained by nationality (
+β
+= 0.19,
+p
+> 0.54), participant sex (
+β
+= − 0.48,
+p
+> 0.11), participant age (
+β
+= − 0.26,
+p
+> 0.44), participant BMI status (
+β
+= − 0.49,
+p
+> 0.08), prescribed standing breaks (
+β
+= − 0.30,
+p
+> 0.40), the nature of the participants’ evening meal (
+β
+= − 0.21,
+p
+> 0.54), energy composition of the participant meal (
+β
+= − 0.20,
+p
+> 0.53), or glucose quantification method (
+β
+= − 0.52,
+p
+> 0.05) (see Table
+5
+).
+Table 5 Summary of univariate moderator analysis for standing versus sitting on postprandial glucose and insulin
+3.5.1.2
+Walking Versus Sitting
+Compared to sitting, walking resulted in a moderate, statistically significant mean improvement in glucose (∆ = − 0.72, 95% CI − 1.03, − 0.41;
+z
+= − 4.57,
+p
+< 0.001). The effect was heterogeneous (
+Q
+7
+= 99.39,
+p
+< 0.001;
+I
+2
+= 94.0, 95% CI 92.2, 95.3). Begg’s rank correlation (Kendall
+τ
+= − 0.59,
+p
+< 0.05) and Egger’s regression (intercept = − 3.97, SE = 1.18,
+p
+≤ 0.015) suggested possible publication bias.
+Variation in the overall effect was not explained by participant age (
+β
+= 0.09,
+p
+> 0.81), prescribed walking breaks (
+β
+= 0.11,
+p
+> 0.77), the nature of the participants’ evening meal (
+β
+= − 0.16,
+p
+> 0.66), energy composition of the participants’ meal (
+β
+= 0.12,
+p
+> 0.73), or the glucose quantification method (
+β
+= − 0.35,
+p
+> 0.26).
+3.5.1.3
+Walking Versus Standing
+Compared to standing, walking resulted in a small, statistically significant improvement in glucose (∆ = − 0.30, 95% CI − 0.52, − 0.08;
+z
+= − 2.64,
+p
+< 0.009). The effect was heterogeneous (
+Q
+8
+= 65.14,
+p
+< 0.001;
+I
+2
+= 89.3, 95% CI 85.8, 91.9) (see Table
+6
+). Begg’s rank correlation (Kendall
+τ
+= 0.03,
+p
+> 0.91) was not statistically significant, but Egger’s regression (intercept = − 5.62, SE = 1.61,
+p
+≤ 0.01) suggested possible publication bias.
+Table 6 Summary of univariate moderator analysis for light-intensity versus sitting on postprandial glucose
+Participant sex (
+β
+= 0.56) and BMI status (
+β
+= 0.53) were significantly associated with the overall mean effect of walking compared to standing on glucose. Significantly larger improvements in glucose were derived from studies of mixed samples of males and females (∆ = − 0.52) compared to studies of females only (∆ = 0.09;
+z
+= 2.08,
+p
+< 0.04), and from studies of participants who were classified as overweight (∆ = − 0.45) compared to studies of participants with obesity (∆ = 0.09,
+z
+= 2.06,
+p
+< 0.04). Variation in the overall effect was not explained by nationality (
+β
+= 0.24,
+p
+> 0.42), participant age (
+β
+= 0.48,
+p
+> 0.10), prescribed standing breaks (
+β
+= 0.36,
+p
+> 0.28), prescribed walking breaks (
+β
+= 0.52,
+p
+> 0.11), the nature of the participants’ evening meal (
+β
+= 0.13,
+p
+> 0.70), energy composition of the participant meal (
+β
+= 0.47,
+p
+> 0.09), or the glucose quantification method (
+β
+= 0.44,
+p
+> 0.12) (see Table
+7
+).
+Table 7 Summary of univariate moderator analysis for light-intensity versus standing on postprandial glucose and insulin
+3.5.2
+Postprandial Insulin
+Six effects were derived for standing versus sitting and walking versus standing, and five effects were derived for walking versus sitting, from four studies [
+7
+,
+8
+,
+11
+,
+19
+] of 358 participants. Figure
+3
+A–C illustrate the weighted distribution of effects for insulin for standing versus sitting, walking versus sitting, and walking versus standing comparisons, respectively.
+Fig. 3
+Forest plots from the postprandial insulin meta-analysis. (
+A
+) Intermittent standing breaks compared to prolonged sitting (insulin). (
+B
+) Intermittent walking breaks compared to prolonged siting (insulin). (
+C
+) Intermittent walking breaks compared to intermittent standing breaks (insulin).
+WE
+White European,
+SA
+South Asian,
+min
+minutes
+3.5.2.1
+Standing Versus Sitting
+Compared to sitting, standing resulted in a small, non-significant improvement in insulin (∆ = − 0.30, 95% CI − 0.60, 0.01;
+z
+= − 1.89,
+p
+< 0.06). The effect was heterogeneous (
+Q
+5
+= 67.71,
+p
+< 0.001;
+I
+2
+= 94.1, 95% CI 92.0, 95.7). Neither Begg’s rank correlation (Kendall
+τ
+= − 0.55,
+p
+≥ 0.15) nor Egger’s regression (intercept = 1.49, SE = 1.41,
+p
+≥ 0.35) suggested publication bias. Variation in the overall mean effect was not explained by insulin quantification method (
+β
+= − 0.58,
+p
+> 0.06) or participant BMI status (
+β
+= − 0.58,
+p
+> 0.06) (see Table
+5
+).
+3.5.2.2
+Walking Versus Sitting
+Compared to sitting, walking resulted in a moderate, statistically significant improvement in insulin (∆ = − 0.83, 95% CI − 1.18, − 0.48;
+z
+= − 4.66,
+p
+< 0.001). The effect was heterogeneous (
+Q
+4
+= 61.06,
+p
+< 0.001;
+I
+2
+= 95.1, 95% CI 93.1, 96.5). Begg’s rank correlation (Kendall
+τ
+= − 0.32,
+p
+≥ 0.44) was not statistically significant, but Egger’s regression (intercept = − 8.58, SE = 1.43,
+p
+≤ 0.009) suggested possible publication bias.
+3.5.2.3
+Walking Versus Standing
+Compared to standing, walking resulted in a moderate, statistically significant improvement in insulin (∆ = − 0.54, 95% CI − 0.75, − 0.33;
+z
+= − 4.98,
+p
+< 0.001). The effect was heterogeneous (
+Q
+5
+= 31.22,
+p
+< 0.001;
+I
+2
+= 87.2, 95% CI 81.2, 91.3). Begg’s rank correlation (Kendall
+τ
+= 0.28,
+p
+> 0.44) was not statistically significant, but Egger’s regression (intercept = − 10.21, SE = 1.93,
+p
+≤ 0.006) suggested possible population bias. Variation in the overall mean effect was not explained by insulin quantification method (
+β
+= − 0.02,
+p
+> 0.95) or participant BMI status (
+β
+= − 0.02,
+p
+> 0.95) (see Table
+7
+).
+3.5.3
+Systolic Blood Pressure
+Six effects were derived for standing versus sitting and walking versus standing, and five effects were derived for walking versus sitting, from four studies [
+9
+,
+10
+,
+11
+,
+18
+] of 296 participants. Figure
+4
+A–C illustrate the weighted distribution of effects for SBP for standing versus sitting, walking versus sitting, and walking versus standing comparisons, respectively.
+Fig. 4
+Forest plots from the postprandial systolic blood pressure (SBP) meta-analysis.
+A
+Intermittent standing breaks compared to prolonged sitting (SBP).
+B
+Intermittent walking breaks compared to prolonged siting (SBP).
+C
+Intermittent walking breaks compared to intermittent standing breaks (SBP).
+WE
+White European,
+SA
+South Asian,
+min
+minutes
+3.5.3.1
+Standing Versus Sitting
+Compared to sitting, standing did not result in improvement in SBP (∆ = 0.02, 95% CI − 0.13, 0.16;
+z
+= 0.22,
+p
+> 0.82). The effect was not heterogeneous (
+Q
+5
+= 9.56,
+p
+> 0.08;
+I
+2
+= 58.2, 95% CI 31.4, 74.5). Neither Begg’s rank correlation (Kendall
+τ
+= − 0.15,
+p
+> 0.68) nor Egger’s regression (intercept = − 0.06, SE = 0.51,
+p
+> 0.91) suggested publication bias.
+3.5.3.2
+Walking Versus Sitting
+Compared to sitting, walking did not change SBP (∆ = 0.01, 95% CI − 0.28, 0.30;
+z
+= 0.09,
+p
+> 0.93). The effect was heterogeneous (
+Q
+4
+= 29.81,
+p
+< 0.001;
+I
+2
+= 89.9, 95% CI 84.8, 93.3). Begg’s rank correlation (Kendall
+τ
+= 0.67,
+p
+≥ 0.11) was not statistically significant, but Egger’s regression (intercept = − 5.48, SE = 0.78,
+p
+≤ 0.006) suggested possible population bias.
+3.5.3.3
+Walking Versus Standing
+Compared to standing, walking did not result in improvement in SBP (∆ = 0.14, 95% CI − 0.15, 0.44;
+z
+= 0.94,
+p
+> 0.34). The effect was heterogeneous (
+Q
+5
+= 41.40,
+p
+< 0.001;
+I
+2
+= 90.3, 95% CI 86.2, 93.2). Begg’s rank correlation (Kendall
+τ
+= 0.55,
+p
+≥ 0.15) was not statistically significant, but Egger’s regression (intercept = − 5.74, SE = 0.61,
+p
+≤ 0.001) suggested possible population bias.

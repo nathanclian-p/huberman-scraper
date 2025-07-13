@@ -1,0 +1,502 @@
+Abstract
+The ergogenic effect of acute caffeine ingestion has been widely investigated; however, scientific information regarding tolerance to the performance benefits of caffeine, when ingested on a day-to-day basis, is scarce. The aim of this investigation was to determine the time course of tolerance to the ergogenic effects of a moderate dose of caffeine. Eleven healthy active participants took part in a cross-over, double-blind, placebo-controlled experiment. In one treatment, they ingested 3 mg/kg/day of caffeine for 20 consecutive days while in another they ingested a placebo for 20 days. Each substance was administered daily in an opaque unidentifiable capsule, and the experimental trials started 45 min after capsule ingestion. Two days before, and three times per week during each 20-day treatment, aerobic peak power was measured with an incremental test to volitional fatigue (25 W/min) and aerobic peak power was measured with an adapted version of the Wingate test (15 s). In comparison to the placebo, the ingestion of caffeine increased peak cycling power in the incremental exercise test by ~4.0 ±1.3% for the first 15 days (
+P
+<0.05) but then this ergogenic effect lessened. Caffeine also increased peak cycling power during the Wingate test on days 1, 4, 15, and 18 of ingestion by ~4.9 ±0.9% (
+P
+<0.05). In both tests, the magnitude of the ergogenic effect of caffeine vs. placebo was higher on the first day of ingestion and then progressively decreased. These results show a continued ergogenic effect with the daily ingestion of caffeine for 15–18 days; however, the changes in the magnitude of this effect suggest progressive tolerance.
+Citation:
+Lara B, Ruiz-Moreno C, Salinero JJ, Del Coso J (2019) Time course of tolerance to the performance benefits of caffeine. PLoS ONE 14(1):
+           e0210275.
+        
+        https://doi.org/10.1371/journal.pone.0210275
+Editor:
+Øyvind Sandbakk, Norwegian University of Science and Technology, NORWAY
+Received:
+July 17, 2018;
+Accepted:
+December 19, 2018;
+Published:
+January 23, 2019
+Copyright:
+© 2019 Lara et al. This is an open access article distributed under the terms of the
+Creative Commons Attribution License
+, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Data Availability:
+All relevant data are within the manuscript and its Supporting Information files. Researchers might also contact the Exercise Physiology Laboratory of the Camilo Jose Cela University at
+jdelcoso@ucjc.edu
+for any additional query regarding the data of this investigation.
+Funding:
+The authors received no specific funding for this work.
+Competing interests:
+The authors have declared that no competing interests exist.
+Introduction
+The ergogenic effects of acute ingestion of caffeine (3–9 mg/kg) have been well contrasted in a variety of exercise situations in original investigations and subsequent meta-analyses [
+1
+–
+4
+], although other factors such as sex, timing and form of caffeine administration need further research [
+5
+]. There is also a growing consensus about the main mechanism behind caffeine ergogenicity during locomotor activities, with much evidence in animal [
+6
+,
+7
+] and human models [
+8
+] supporting the ability of caffeine to act as an adenosine A
+1
+and A
+2A
+receptor antagonist. Although other mechanisms, such as fatty acid mobilization and oxidation, potassium ion attenuation in the interstitium and calcium iron release from the sarcoplasmic reticulum have also been proposed [
+2
+,
+9
+], the inhibition of the negative effects that adenosine induces on neurotransmission, arousal and pain perception has been proposed as the main mechanism behind the effectiveness of caffeine to increase performance in endurance- and power-based exercises [
+10
+,
+11
+]. However, there is controversy about the presence of progressive tolerance to its ergogenic effects when ingested on a day-to-day basis.
+It is a common phenomenon that tissues respond to hormonal overstimulation with a decrease in the number of pertinent receptors and to hormonal understimulation with an increase in the number of pertinent receptors [
+12
+]. According to this notion, Fredholm [
+13
+] found an increase in the number of binding sites for adenosine in the brain cortex of rats treated for two weeks with 10 mg/kg/day of caffeine. This mechanism suggests that the daily intake of caffeine would result in more newly created adenosine receptors, reducing in part the blocking-action of caffeine and thus, its ergogenicity during exercise (e.g., habituation).
+Based on these investigations with animals, a progressive habituation to the performance benefits of caffeine has been proposed in humans when it is consumed chronically [
+14
+]. Previous investigations have focused on determining the changes in the performance benefits obtained with caffeine when it is consumed on a daily basis over long periods of time [
+15
+–
+20
+], but the experiments on this topic have used very diverse approaches. Several studies have used cross-sectional research protocols by comparing the improvements in performance of acute ingestion of caffeine in naïve/low caffeine consumers
+vs
+. individuals with habitual caffeine intake [
+15
+–
+17
+]. The outcomes of this type of research protocols are inconsistent because naïve/low caffeine consumers benefited from the acute intake of 3-to-6 mg/kg of caffeine to a similar extent compared to habitual caffeine consumers [
+15
+,
+16
+] while a higher ergogenic effect in non-habitual caffeine consumers
+vs
+. habitual consumers has also been reported with 5 mg/kg of acute caffeine intake [
+17
+]. It is possible that the testing of individuals with different degrees of habituation to caffeine (e.g., low, moderate and high caffeine consumers), the use of diverse thresholds to consider naïve/low caffeine consumers (25 and 50 mg/day) and the different exercise protocols (time trial and time-to-exhaustion tests) have made it impossible to reach definitive conclusions regarding caffeine tolerance on exercise performance, as has been recently debated [
+16
+,
+21
+].
+Other studies have used longitudinal research protocols to determine the presence of tolerance to caffeine ergogenicity. Some investigations have tested the changes in the ergogenic effects obtained with acute caffeine intake (3-to-6 mg/kg) after 2–4 days of caffeine withdrawal in habitual caffeine consumers [
+18
+,
+19
+]. These investigations have found that acute caffeine intake was equally effective before and after the caffeine withdrawal period. Thus, according to these investigations [
+18
+,
+19
+], the absence of effects on exercise performance produced by the cessation in the intake of caffeine might be related to the lack of habituation to caffeine, although withdrawal and habituation to caffeine might follow a different time course. Stadheim et al. [
+22
+] found that caffeine ingestion of either 3 or 4.5 mg/kg increased exercise performance when it is administered over two consecutive days. Beaumont et al. [
+20
+] administered caffeine (1.5-to-3 mg/kg/day) to a group of low caffeine consumers for 28 consecutive days and they were compared to individuals that received a placebo for the same period. They found that individuals in the caffeine treatment group demonstrated a lower ergogenic effect from acute caffeine supplementation after the 28-day treatment, measured with a 30-min timed performance task, while the individuals in the control group still responded to caffeine intake after the treatment (3 mg/kg). This investigation represented the first research protocol that used consistent caffeine administration to induce a standardized caffeine habituation among individuals, but the lack of a post-supplementation comparison between caffeine and placebo trials does not allow distinguishing between the effects of tolerance and the training effects during the 28-day treatment. Lastly, with the current evidence it is impossible to determine when tolerance to the ergogenic effects of caffeine appears, but the combined data of previous investigations [
+20
+,
+22
+] suggest that habituation to the ergogenic effect of caffeine might occur when it is ingested over 2 to 28 consecutive days.
+Thus, although there is a paradigm suggesting that habitual caffeine intake may influence the performance benefits derived from acute caffeine ingestion, the scientific literature does not support this notion. The aim of the current investigation was to determine the existence and time course of tolerance to the ergogenic effects of caffeine using a longitudinal research protocol in which participants received a 20-day treatment of caffeine and placebo, to control for between-subject variability and progressive training adaptations. We hypothesized that caffeine ergogenicity would be progressively reduced when this substance is consumed day-to-day in a moderate dose (3 mg/kg/day) for 20 consecutive days but that it would still be ergogenic after a short habituation protocol.
+Materials and methods
+Ethical statement
+One week before the onset of the study, the participants were fully informed of the experimental procedures and the risks and discomforts associated with the research and gave their informed written consent to participate in the investigation. The study was approved by the Camilo José Cela Research Ethics Committee and has been performed in accordance with the ethical standards as laid down in the 1964 Declaration of Helsinki and its later amendments or comparable ethical standards.
+Participants
+Eleven healthy active (>4 days of training per week; > 45 min per day) individuals volunteered to participate in this investigation. They had a mean ± standard deviation (SD) age of 32.3 ± 4.9 yrs., height of 171 ± 8 cm, body mass of 66.6 ± 13.6 kg, body fat of 16.6 ± 50% and maximal oxygen uptake (VO
+2
+max) of 48.0 ± 3.8 mL/kg/min. There were three women in the sample who always started the treatments at the beginning of the luteal phase. Because the duration of the caffeine/placebo treatments was longer than the luteal phase of the female participants, the last days of each treatment occurred in the follicular phase. A previous investigation indicated that the pharmacokinetics of caffeine is similar in all phases of the menstrual cycle [
+23
+] and thus, it is unlikely that the change from luteal to follicular phase within the same treatment had any effect on the outcomes of this investigation. All the participants were light caffeine consumers (< 50 mg of caffeine per day), were non-smokers, who had had no previous history of cardiopulmonary diseases or musculoskeletal injuries in the previous three months. All this information was obtained from a pre-participation screening that included a medical and training history and a food frequency questionnaire. The participants were also encouraged to avoid medications or nutritional supplements for the duration of the study.
+Experimental design
+A double-blind, placebo-controlled, randomized and cross-over experimental design was used in this study. Each participant took part in 2 identical protocols and thus acted as their own control: in one protocol, participants ingested an unidentifiable capsule containing 3 mg of caffeine per kg of body mass each day of the protocol (3 mg/kg/day; 100% purity, Bulk Powders, United Kingdom) for 20 consecutive days; in another protocol, they ingested the same capsule but filled with a placebo (e.g., cellulose; 100% purity, Guinama, Spain) for 20 consecutive days. The capsules were ingested daily at 9.00 am with 250 mL of tap water and in a fasted state (at least, 8 h after their last meal). Two days before the onset of each protocol of ingestion (day 0), and three times per week (i.e., day 1, 4, 6, 8, 13, 15, 18 and 20) within each treatment, participants performed the same exercise protocol composed of a maximal graded exercise test on a cycle ergometer to volitional fatigue and an adapted version of the Wingate test (all-out 15 s sprint). On day 0 of each treatment, no capsule was ingested before exercise while, on all but one of the remaining days, the exercise performance measurement always started 45 min after the ingestion of the assigned capsule (
+Fig 1
+). The experimental procedures on day 11 were different from the remaining days of measurement: on this day, the graded exercise test and the 15-s Wingate test were performed before -not after- capsule intake with the intention of having a “control” situation in the mid-point of the treatments to determine whether caffeine was still ergogenic at that time. Nevertheless, the capsule with caffeine/placebo was ingested on day 11 after the performance measurements to achieve 20 days of consecutive treatment (
+Fig 1
+). We chose to evaluate performance variables three times per week to have enough sensitivity to accurately detect habituation to the ergogenic effects of caffeine. The order of the 20-day ingestion protocols was randomized and they were separated by 7 days to allow for complete recovery and caffeine wash-out. Compliance with the treatments was verbally examined on a daily basis throughout the entire experiment and no incidences were reported during the whole experiment.
+Fig 1.
+Experimental design of the investigation.
+Caffeine (3 mg/kg/day) or a placebo was administered for 20 consecutive days in a randomized order. Exercise performance was measured on day 0 (48 h before treatment) and on days 1, 4, 6, 8, 11, 13, 15, 18 and 20 with each protocol. Exercise performance assessment included a graded exercise test on a cycle ergometer to volitional fatigue and the 15-s Wingate test 45 min after the ingestion of the assigned capsule. Only on day 11 during each treatment, participants ingested the capsule after the end of the exercise.
+https://doi.org/10.1371/journal.pone.0210275.g001
+Standardizations
+For the month before the onset of the experiment, participants refrained from all sources of dietary caffeine in order to eliminate any habituation to caffeine. Consumption of dietary caffeine (coffee, tea, chocolate, sodas, energy drinks, etc) and other stimulants also ceased for the duration of the experiment and compliance was verified with dietary recalls. Participants were also encouraged to maintain their training routines and to keep a stable fitness state during the experiment. One week before the first ingestion protocol, participants underwent a routine medical screening to ensure that they were in good health and suitable for the experiment. Participants were familiarized twice with all the experimental protocols and body mass was measured (±50 g, Radwag, Poland) to calculate caffeine dosage. Environmental temperature and humidity were kept constant in all experimental trials (21.3 ± 0.3°C air temperature and 30 ± 10% relative humidity). Standardized encouragement and feedback were given to the participants in all trials by the same researcher who was blinded to the treatments. The seat and handlebar positions on the cycle ergometer were obtained in the familiarization trials and replicated for each individual in all trials.
+Experimental trials
+On day 0, participants arrived at the laboratory at 8.00 and body fat percentage was measured by bioelectrical impedance (B-418, Tanita, Japan). Participants then dressed in a T-shirt, and shorts and a heart rate belt (Wearlink, Polar, Finland) was attached to their chest. After that, they rested supine for 45 min. Resting heart rate and systolic and diastolic blood pressure (M6 Comfort, Omron, Japan; by triplicate) were measured during the last 5 min of the resting period.
+After the resting measurements, participants performed a 10-min standardized warm-up on a cycle ergometer (SNT Medical, Cardgirus, Spain) at 50 W and then exercise intensity was progressively increased by 25 W/min (stepwise increases) until volitional fatigue. Pedaling frequency was individually-chosen (between 75 and 90 rpm) but maintained during the whole graded exercise test and replicated in all experimental trials. During the test, oxygen uptake (VO
+2
+) was continuously measured by means of a breath-by-breath analyzer (Metalyzer 3B, Cortex, Germany) and the data were averaged every 15 s. In this graded exercise test, the wattage attained at exhaustion (Wmax; aerobic peak power) and the VO
+2
+max were determined. Wmax was recorded as the exercise load on the cycle ergometer at the moment that participants abruptly stopped pedaling or when an individual’s pedaling frequency was lower than 50 rpm. VO
+2max
+was defined as the highest VO
+2
+value obtained during the test. The VO
+2max
+was considered valid when participants rated their perceived exertion higher than 19 on the Borg scale, the VO
+2
+difference between the last two consecutive workloads was less than 0.10 L/min
+-1
+, respiratory exchange ratio was higher than 1.10, heart rate was higher than 80% of the age-adjusted estimate of maximal heart rate and lactate concentration was more than 7 mmol/L [
+24
+]. Certified calibration gases (16.0% O
+2
+; 5.0% CO
+2
+, Cortex, Germany) and a 3-L syringe were used to calibrate the gas analyzer and the flow meter before each trial. One minute after the end of the graded test, a blood sample was obtained from a fingertip to analyze blood lactate concentration (Lactate Pro 2, Arkay, Japan).
+After the maximal graded exercise test, participants continued pedaling at 50 W for 7 min. After this, they performed a 15-s Wingate test on the same cycle ergometer (SNT Medical, Cardgirus, Spain) and with a load that represented 7.5% of body mass, as previously described [
+25
+]. For this test, participants started from a stationary position with their dominant leg ready to pedal and they were told that “they had to pedal as fast as they could from the beginning and for the whole duration of the test”. After the “start” command, the resistance load was progressively applied within 3 s to produce an acceleration phase, as previously suggested [
+26
+]. The researcher verified that participants remained seated during the whole test. During the Wingate test, cycling power was obtained with a frequency of 1 Hz and the peak and mean cycling power obtained during the test were recorded. One minute after the end of the test, blood lactate concentration was measured as previously described.
+Participants were asked about their self-perceived endurance and exertion just after the graded exercise test and about their self-perception of muscle power just after the 15-s Wingate test. This questionnaire included a 1–10 point scale to assess each item, and participants were previously informed that 1 point meant a minimal amount of that item and 10 points meant a maximal amount of the item. The questionnaire has been previously used to assess perceived ergogenicity after the intake of caffeine [
+27
+].
+The protocol described above for day 0 was replicated for each day of measurement during the 20-day treatment (e.g., days 1, 4, 6, 8, 13, 15, 18 and 20) but with the administration of caffeine or placebo 45 min before the onset of the performance tests. On day 11, participants ingested the assigned capsule after the end of the exercise testing (
+Fig 1
+) to produce a continuous 20-day ingestion protocol. Seven days after the conclusion of the first protocol of ingestion (placebo or caffeine), the remaining protocol of ingestion was carried out mimicking the procedures described above.
+Statistical analysis
+Data were collected as previously indicated and the results of each test were subsequently blindly introduced into the statistical package SPSS v 20.0 for later analysis. Normality was tested for each variable with the Shapiro-Wilk test. All the variables included in this investigation presented a normal distribution (
+P
+> 0.05) and parametric statistics were used to determine the ergogenicity of caffeine. Differences between the caffeine
+vs
+. placebo protocols were determined by two-way analysis of variance (substance × day of ingestion) with repeated measures. After a significant
+F
+test (Geisser-Greenhouse correction for the assumption of sphericity), differences between means were identified using Tukey’s HSD
+post hoc
+. The significance level was set at
+P
+< 0.05.
+The effect size was also calculated in all pairwise comparisons to allow a magnitude-based inference approach [
+28
+]. Specifically, the effect-size statistic ± 90% confidence intervals (CI) was used on log transformed data to reduce bias due to non-uniformity of error. The smallest significant standardized effect threshold was set as 0.2, and a qualitative descriptor was included to represent the likelihood of exceeding this threshold. Ranges of likelihood <1% indicated almost certainly no chances of change; 1% to 5%, very unlikely; 5% to 25%, unlikely; 25% to 75%, possible; 75% to 95%, likely; 95% to 99%, very likely; >99%, most likely. Differences were rated as unclear when likelihood exceeded >5% in both positive/negative directions. Effect sizes were interpreted according to the following ranges: <0.2, trivial; 0.2–0.6, small; 0.6–1.2, moderate; 1.2–2.0, large; 2.0–4.0, very large and; >4.0, extremely large [
+28
+].
+Results
+Incremental exercise testing
+The values for Wmax were very comparable for day 0 in placebo and caffeine ingestion protocols (3.99 ± 0.75 and 3.97 ± 0.75 W/kg, respectively;
+P
+= 0.66). In comparison to the placebo, the daily ingestion of caffeine increased Wmax for the trials performed within the first 18 days of the caffeine protocol (
+Fig 2
+, lower panel;
+P
+< 0.05), except for day 11 when caffeine and placebo were ingested after the testing. Besides, daily caffeine intake also increased Wmax for the whole treatment with respect to day 0 of the caffeine protocol (
+P
+< 0.05). In contrast, Wmax remained constant in the placebo protocol. In the pairwise comparisons, the effect size of caffeine intake on Wmax was large for day 1 and day 4 and decreased to moderate afterwards (
+Fig 2
+, upper panel).
+Fig 2.
+Peak cycling power (W
+max
+) obtained during a graded exercise test with the administration of 3 mg/kg/day of caffeine or a placebo for 20 consecutive days.
+The upper panel depicts the effect size (± 90% confidence intervals) for all pairwise comparisons. Only effect sizes with a possible likelihood of difference (>25%) are categorized: (++++) most likely, (+++) very likely, (++) likely, (+) possibly. The lower panel depicts data presented as mean ± standard deviation. The data have been normalized with respect to the values obtained on day 0 of each treatment to provide a better comparison of the caffeine ergogenic effect in the studied variables. (*) Caffeine different from placebo for the same day,
+P
+< 0.05. (†) Different from day 0 within the same treatment,
+P
+< 0.05.
+https://doi.org/10.1371/journal.pone.0210275.g002
+The values for VO
+2
+max were very comparable for day 0 in placebo and caffeine ingestion protocols (47.9 ± 8.0 and 46.1 ± 8.4 mL/kg/min;
+P
+= 0.19). In the day-to-day comparison to the placebo, the ingestion of caffeine increased VO
+2
+max on days 1 and 4 (
+Fig 3
+, lower panel;
+P
+< 0.05), and on days 1, 4 and 6 with respect to day 0 of the caffeine protocol (
+P
+< 0.05). VO
+2
+max remained constant in the placebo protocol, except for a reduction on day 1 with respect to day 0 (
+P
+< 0.05). In the pairwise comparisons, the effect size of caffeine intake on VO
+2
+max was very large for day 1, large for day 4 and from moderate to small afterwards (
+Fig 3
+, upper panel).
+Fig 3.
+Maximal oxygen uptake (VO
+2
+max) obtained during a graded exercise test with the administration of 3 mg/kg/day of caffeine or a placebo for 20 consecutive days.
+The upper panel depicts the effect size (± 90% confidence intervals) for all pairwise comparisons. Only effect sizes with a possible likelihood of difference (>25%) are categorized: (++++) most likely, (+++) very likely, (++) likely, (+) possibly. The lower panel depicts data presented as mean ± standard deviation. The data have been normalized with respect to the values obtained on day 0 of each treatment to provide a better comparison of the caffeine ergogenic effect in the studied variables. (*) Caffeine different from placebo for the same day,
+P
+< 0.05. (†) Different from day 0 within the same treatment,
+P
+< 0.05.
+https://doi.org/10.1371/journal.pone.0210275.g003
+The ingestion of caffeine increased maximal heart rate on day 1 and 8 respect to the placebo (
+Table 1
+) but there was no other statistically significant difference between caffeine vs. placebo in the remaining trials. In the pairwise comparisons, the effect size of caffeine intake on maximal heart rate was small for the first 8 days of ingestion and tended to be insignificant afterwards. The ingestion of caffeine increased maximal ventilation on days 1 and 4 respect to the placebo (
+Table 1
+) but did not produce any other statistically significant difference for caffeine vs. placebo comparison afterwards. The effect size of caffeine on maximal ventilation was small on days 1 and 4 and was then reduced afterwards.
+Table 1.
+Maximal heart rate (beats/min) and maximal pulmonary ventilation (L/min) during a maximal graded cycling test with the administration of 3 mg/kg/day of caffeine or a placebo for 20 consecutive days.
+https://doi.org/10.1371/journal.pone.0210275.t001
+Blood lactate concentration after the graded exercise test on day 1, and 15 (
+Table 2
+;
+P
+< 0.05) was higher with the ingestion of caffeine in comparison to the placebo and the effect size on these days was moderate. Participants perceived a higher endurance capacity in the incremental exercise test with caffeine vs. placebo on days 1 and 13 (
+Table 3
+;
+P
+< 0.05) while the size of the caffeine effect was small on these same days. Besides, on days 1, 13, 15 and 18 there was a significant increase in perceived endurance capacity with respect to day 0 of the caffeine protocol (
+P
+< 0.05). There were no effects of caffeine on perceived exertion after the incremental exercise test, which was always perceived as > 9 points on the 1–10 point scale (
+Table 3
+).
+Table 2.
+Blood lactate concentration (mmol/L) after a maximal graded cycling test (VO
+2max
+) and after a 15-s Wingate test (Wingate) with the administration of 3 mg/kg/day of caffeine or a placebo for 20 consecutive days.
+https://doi.org/10.1371/journal.pone.0210275.t002
+Table 3.
+Subjective feelings of endurance and exertion (1–10 point scales) after a graded exercise test, and perceived muscle power after a 15-s Wingate test with the administration of 3 mg/kg/day of caffeine or a placebo for 20 consecutive days.
+https://doi.org/10.1371/journal.pone.0210275.t003
+15-s Wingate test
+The values for the Wingate peak power were very comparable for day 0 in placebo and caffeine ingestion protocols (9.48 ± 0.44 and 9.35 ± 0.54 W/kg;
+P
+= 0.39). In comparison to the placebo, the daily intake of caffeine increased Wingate peak power on days 1, 4, 15 and 18 (
+Fig 4
+, lower panel;
+P
+< 0.05). Caffeine also increased Wingate peak power on days 1, 4, 13, 15, 18 and 20 with respect to day 0 of the caffeine protocol (
+P
+< 0.05). The effect size of caffeine intake on Wingate peak power was large on days 1 and 4 and was reduced to moderate/small afterwards (
+Fig 4
+, upper panel). From similar values on day 0 (8.22 ± 0.46 and 8.15 ± 0.43 W/kg;
+P
+= 0.57) Wingate mean cycling power only increased with caffeine on day 1 of ingestion with respect to the placebo (
+P
+< 0.05), and on days 1, 15 and 18 with respect to day 0 of the caffeine protocol (
+Fig 5
+, lower panel). The effect size of caffeine intake on Wingate mean power was moderate on days 1 and 4 and decreased to small afterwards (
+Fig 5
+, upper panel). Both peak and mean cycling power remained stable in the placebo protocol.
+Fig 4.
+Peak cycling power obtained during an adapted version of the Wingate test (all-out 15 s sprint) with the administration of 3 mg/kg/day of caffeine or a placebo for 20 consecutive days.
+The upper panel depicts the effect size (± 90% confidence intervals) for all pairwise comparisons. Only effect sizes with a possible likelihood of difference (>25%) are categorized: (++++) most likely, (+++) very likely, (++) likely, (+) possibly. The lower panel depicts data presented as mean ± standard deviation. The data have been normalized with respect to the values obtained on day 0 of each treatment to provide a better comparison of the caffeine ergogenic effect in the studied variables. (*) Caffeine different from placebo for the same day,
+P
+< 0.05. (†) Different from day 0 within the same treatment,
+P
+< 0.05.
+https://doi.org/10.1371/journal.pone.0210275.g004
+Fig 5.
+Mean cycling power obtained during an adapted version of the Wingate test (all-out 15 s sprint) with the administration of 3 mg/kg/day of caffeine or a placebo for 20 consecutive days.
+The upper panel depicts the effect size (± 90% confidence intervals) for all pairwise comparisons. Only effect sizes with a possible likelihood of difference (>25%) are categorized: (++++) most likely, (+++) very likely, (++) likely, (+) possibly. The lower panel depicts data presented as mean ± standard deviation. The data have been normalized with respect to the values obtained on day 0 of each treatment to provide a better comparison of the caffeine ergogenic effect in the studied variables. (*) Caffeine different from placebo for the same day,
+P
+< 0.05. (†) Different from day 0 within the same treatment,
+P
+< 0.05.
+https://doi.org/10.1371/journal.pone.0210275.g005
+There were no statistically significant differences in blood lactate concentration after the Wingate test in caffeine vs. placebo protocols although caffeine produced a higher blood lactate concentration on days 1, 4, 13 and 15 with respect to day 0 of the caffeine ingestion protocol (
+Table 2
+;
+P
+< 0.05). On these same days, the effect size of caffeine ingestion over the placebo was small-to-moderate. There were no statistically significant differences in perceived muscle power during the Wingate test in caffeine vs. placebo with small effect sizes in pairwise comparisons. However, caffeine produced a higher perceived muscle power on day 1, with respect to day 0 of the caffeine protocol (
+Table 3
+;
+P
+< 0.05).
+Discussion
+The aim of the study was to determine the existence of tolerance to the ergogenic effects of caffeine using a cross-over, repeated measures longitudinal research protocol that included 20 days of consecutive administration of a moderate dose of caffeine (3 mg/kg) or a placebo. The similar baseline values in all performance variables for the caffeine and placebo protocols, together with the absence of training/familiarization effects within the placebo treatment (as the stable values in all performance variables indicate) present the following main outcomes: a) in comparison to the ingestion of a placebo, for 15 days of consecutive ingestion, caffeine increased peak cycling power obtained during a maximal graded exercise test and VO
+2
+max for 4 days (Figs
+2
+and
+3
+); b) the ingestion of caffeine also increased for ~18 days of consecutive ingestion the maximal power obtained in a 15-s all-out cycling test, although the ergogenic effect on mean cycling power was only evident after the first day of caffeine ingestion (
+Fig 4
+); c) the analysis of the effect sizes derived from the pairwise comparison between the ingestion of 3 mg/kg/day of caffeine vs. placebo revealed that there is a gradual tolerance to the ergogenic effects of caffeine because the size of its ergogenic effect peaked on day 1 of ingestion and decreased afterwards. However, it is necessary to mention that caffeine still exerted small-to-moderate improvements on physical performance after 20 days of consecutive administration (Figs
+2
+–
+5
+). All these results suggest that there is a relative reduction in the ergogenic effects of caffeine when a moderate dose of this substance is ingested daily, but it still has the capacity to improve performance after 20 days of consecutive ingestion.
+One of the mechanism that explains the increase in physical performance with acute administration of caffeine is related to its ability to act as an adenosine A
+1
+and A
+2A
+receptor antagonist [
+6
+,
+7
+]. Specifically, caffeine is structurally similar to adenosine, a neuromodulator that might induce central fatigue through reduced neuroexcitability and decreased release of noradrenaline and dopamine, among other neurotransmitters [
+29
+]. In this regard, the micromolar tissue concentrations of caffeine resulting from ingestion of low to moderate doses can block A
+1
+and A
+2A
+adenosine receptors [
+30
+]. Thus, the intake of caffeine would blunt the fatiguing effects of adenosine through inhibition of the decreased release of the above-mentioned neurotransmitters. This theory is well-supported because it has been found that caffeine infusion (up to 4.3 mg/kg) can block up to 50% of adenosine receptors in the human brain [
+8
+]. However, the concept of tolerance/habituation to the ergogenic effects of caffeine has been based on previous research with rodents that reported the capacity of caffeine to block adenosine A
+1
+and A
+2A
+receptors and the upregulation in the number of adenosine receptors in neural and vascular tissues of the brain with the regular consumption of caffeine [
+31
+,
+32
+]. More recent investigations have shown that tolerance to caffeine might be driven by alterations in gene expression in striatum while the changes in caffeine metabolism induced after long-term caffeine intake cannot explain development of tolerance to caffeine [
+33
+]. All this information suggests that daily caffeine intake results in a higher likelihood of adenosine binding the newly created adenosine receptors, progressively reducing the adenosine-blocking-action of caffeine, coupled with adaptive changes in gene expression that ultimately lead to development of locomotor tolerance to caffeine.
+However, the evidence for tolerance to the stimulatory effects of caffeine in humans is inconclusive. In variables of cognitive performance, caffeine administration equally improved performance in habitual and non-consumers of caffeine [
+34
+] or even a higher performance benefit was found in high-caffeine consumers than in moderate caffeine consumers [
+35
+]. Several investigations indicated that the efficacy of caffeine to improve physical performance may be reduced in individuals who consume moderate to high doses of caffeine daily (130–300 mg/day) in comparison to low caffeine consumers (40–50 mg/day; [
+17
+,
+36
+]). Furthermore a progressive tolerance to the ergogenic effects has also been found in individuals that consume 1.5–3.0 mg/kg/day of caffeine for 28 consecutive days [
+20
+]. Nevertheless, other investigations have determined that habitual caffeine consumers might also benefit from the ergogenic effects of caffeine even when their self-reported daily caffeine intake surpassed 300 mg/day [
+15
+,
+16
+,
+18
+,
+37
+]. It is likely that the differences in the research protocols chosen to study this question, specifically, the use of individuals with different daily intakes and periods of habituation to caffeine, have contributed to the different outcomes. However, previous investigations suggest that caffeine can be ergogenic even after habituation to it.
+The experimental design used in the current investigation is innovative, respect to previous research, because the same individuals were tested in two identical treatments with caffeine and a placebo and they acted as their own controls during the whole experiment. All the participants were low caffeine consumers, withdrew from caffeine for one month before the experiment and received the same daily dosage per kg of body mass of caffeine to normalize the protocol for habituation to caffeine. The effects of caffeine intake on performance were measured three times per week to improve accuracy in identifying tolerance to it. Besides, we used a maximal graded exercise test and the Wingate test to broaden the range of the investigation to endurance-like and power-like performance. Finally, in addition to the traditional statistical analysis based on p values, we used a magnitude-inference approach to aid in the identification of tolerance to caffeine. With this experimental design, it was possible to determine a progressive tolerance to the ergogenic effects of caffeine, present in both maximal/peak values of aerobic-based and power-based exercise tests because of the progressive reduction in the effect size of caffeine ergogenicity. However, the results of the current investigation dispute the existence of a complete tolerance to caffeine after 20 days of continuous ingestion because the size of the caffeine ergogenic effect was moderate/small even after this period of consecutive ingestion (Figs
+2
+–
+5
+). In the light of the current results, we can conclude that caffeine benefits physical performance after 20 days of consecutive ingestion although the magnitude of the ergogenic effect is somewhat reduced when compared to the first day of ingestion (i.e., non-habituation to caffeine intake). In the current investigation, the dose of caffeine administrated (3 mg/kg/day, equivalent to ~200 mg/day in our participants) was moderate and it was below the daily ingestion reported by habitual caffeine consumers [
+15
+,
+16
+,
+18
+,
+37
+]. Thus, it should be investigated whether a higher dose of caffeine intake might change the time course of tolerance to the performance benefits of caffeine.
+We want to highlight day 11 of ingestion because participants performed the testing protocols before -instead of after- the ingestion of the assigned capsule, for both caffeine and placebo treatments. This particular variation in the day-to-day protocol of caffeine intake was chosen to assess caffeine tolerance at the mid-point of the treatments but did not interrupt the day-to-day ingestion of the substances. On day 11, caffeine Wmax and peak power in the Wingate decreased to a similar value to the placebo trial, while these performance variables again increased on day 13 with the administration of caffeine, confirming that it was still effective to increase performance and thus, no tolerance had been produced at this time. In the placebo ingestion protocol, all the performance variables were maintained similar to day 0 during the 20 days of treatment, suggesting a stable fitness level for the duration of this protocol. In contrast, caffeine produced numerous differences not only in the pairwise comparison to the placebo treatment but also to day 0 of the caffeine ingestion protocol. These outcomes reinforce the notion of the maintained ergogenicity of caffeine during a 20-day period together with a progressive reduction in the extent of its ergogenic effect.
+After the testing, the participants were asked about their feelings of exertion, endurance and muscle power to determine the perceived ergogenicity of the treatments (
+Table 3
+). They perceived high exertion after the graded exercise test on all days of the treatments and in both ingestion protocols, as was expected for this maximal test. They also perceived a significantly higher endurance capacity the first day of caffeine ingestion and after 13 days of ingestion which do not coincide with the increases of caffeine on Wmax (
+Fig 2
+). Similarly, the perception of muscle power was not significantly higher with caffeine in comparison to the placebo on any of the days of treatment, despite caffeine increasing peak cycling power on several occasions (
+Fig 4
+). These data indicate that caffeine can be ergogenic when ingested daily for 20 consecutive days even when the participants did not feel they had given an enhanced performance after the ingestion of this stimulant.
+The experimental design used in the present investigation had several limitations that should be discussed for a correct application of the results. First, the duration of the chronic caffeine intake lasted for 20 days and it is impossible to determine if greater tolerance to the ergogenic effects of caffeine would occur after 20 days of ingestion. In addition, individuals considered as habitual caffeine consumers can use this substance daily for years and thus, this investigation might not be representative of this chronic consumption [
+16
+]. Second, we used laboratory testing with a high reproducibility (between-day coefficient of variation for Wmax = 2.4 ± 1.1%; for peak cycling power in the 15-s Wingate = 2.6 ± 0.9%) to determine loss of responsiveness to the ergogenic effects of caffeine. However, these results should be confirmed with further research protocols that use field testing or performance assessments in real or simulated sport competition to accurately convey the conclusions of this investigation to athletes in sport situations. Third, tolerance to the ergogenic effects of caffeine was tested with a moderate dose (e.g., 3 mg/kg/day) because we have found that this dose is effective to increase performance in a myriad of laboratory-based tests and sports [
+38
+–
+43
+]. Nevertheless, it is likely that lower or higher doses of caffeine produce a different time course for tolerance to the ergogenic effect of this substance. Fourth, the obtaining of maximal/peak values in the performance tests used required high levels of motivation. To maintain motivation in all tests throughout the experiment, a researcher, blinded to the treatments, gave standardized encouragement commands in each trial but it is still possible that the changes in motivation within each treatment affected the outcomes of the investigation. Finally, we did not obtain blood samples during the ingestion protocols to determine plasma caffeine concentration before each experimental trial and thus, we cannot determine whether the changes in caffeine metabolism are in part responsible for the tolerance to the ergogenic effect of caffeine. Despite these limitations, the results of this investigation can shed light on the changes in caffeine ergogenicity when it is consumed daily in a moderate dose.
+In summary, the daily intake of caffeine (3 mg/kg/day) significantly increased peak cycling power during a maximal incremental test for the first 15 days of ingestion and improved VO
+2
+max for the first 4 days, when compared to the same treatment with a placebo. Day-to-day pre-exercise caffeine intake also produced higher peak cycling power during the 15-s Wingate tests for ~18 days of intake, although Wingate mean power was only increased on the first day of ingestion with respect to the placebo. After these periods of time, the increases in performance of these variables with caffeine were not statistically different from the placebo. These results suggest the existence of progressive tolerance to the performance benefits of caffeine, particularly because the magnitude of the ergogenic effect of caffeine was higher on the first day of ingestion for both aerobic-based and power-based exercise and decreased afterwards. Nevertheless, the effect size of the caffeine-placebo pairwise comparison remained small-to-moderate after 20 days of consecutive ingestion which suggests that caffeine was still ergogenic after this period of time.
+Supporting information
+S1 Fig.
+Individual responses for the percentage of change produced by the ingestion of caffeine over a placebo on peak cycling power (W
+max
+; upper panel) and maximal oxygen uptake (VO
+2
+max; lower panel) when 3 mg/kg/day of caffeine were administrated for 20 consecutive days.
+Each dot represents the caffeine vs placebo change in each individual and positive values indicate a superior performance with caffeine over placebo.
+https://doi.org/10.1371/journal.pone.0210275.s001
+(TIF)
+S2 Fig.
+Individual responses for the percentage of change produced by the ingestion of caffeine over a placebo on Wingate peak (upper panel) and mean cycling power (lower panel) when 3 mg/kg/day of caffeine were administrated for 20 consecutive days.
+Each dot represents the caffeine vs placebo change in each individual and positive values indicate a superior performance with caffeine over placebo.
+https://doi.org/10.1371/journal.pone.0210275.s002
+(TIF)
+Acknowledgments
+The authors wish to thank the subjects for their invaluable contribution to the study.
+References
+1.
+Grgic J. Caffeine ingestion enhances Wingate performance: a meta-analysis. Eur J Sport Sci. 2017:1–7. Epub 2017/11/01. .
+2.
+Glaister M, Gissane C. Caffeine and Physiological Responses to Submaximal Exercise: A Meta-Analysis. International journal of sports physiology and performance. 2017:1–23. Epub 2017/09/06.  pmid:28872376.
+3.
+Souza DB, Del Coso J, Casonatto J, Polito MD. Acute effects of caffeine-containing energy drinks on physical performance: a systematic review and meta-analysis. European journal of nutrition. 2017;56(1):13–27. Epub 2016/10/21.  pmid:27757591.
+4.
+Doherty M, Smith PM. Effects of caffeine ingestion on exercise testing: a meta-analysis. International journal of sport nutrition and exercise metabolism. 2004;14(6):626–46. Epub 2005/01/20. pmid:15657469.
+5.
+Grgic J, Trexler ET, Lazinica B, Pedisic Z. Effects of caffeine intake on muscle strength and power: a systematic review and meta-analysis. Journal of the International Society of Sports Nutrition. 2018;15:11. Epub 2018/03/13.  pmid:29527137; PubMed Central PMCID: PMC5839013.
+6.
+Davis JM, Zhao Z, Stock HS, Mehl KA, Buggy J, Hand GA. Central nervous system effects of caffeine and adenosine on fatigue. Am J Physiol Regul Integr Comp Physiol. 2003;284(2):R399–404. Epub 2002/10/26.  pmid:12399249.
+7.
+El Yacoubi M, Ledent C, Menard JF, Parmentier M, Costentin J, Vaugeois JM. The stimulant effects of caffeine on locomotor behaviour in mice are mediated through its blockade of adenosine A(2A) receptors. Br J Pharmacol. 2000;129(7):1465–73. Epub 2000/04/01.  pmid:10742303; PubMed Central PMCID: PMC1571962.
+8.
+Elmenhorst D, Meyer PT, Matusch A, Winz OH, Bauer A. Caffeine occupancy of human cerebral A1 adenosine receptors: in vivo quantification with 18F-CPFPX and PET. J Nucl Med. 2012;53(11):1723–9. Epub 2012/09/12.  pmid:22966134.
+9.
+Graham TE. Caffeine and exercise: metabolism, endurance and performance. Sports medicine (Auckland, NZ). 2001;31(11):785–807. Epub 2001/10/05.  pmid:11583104.
+10.
+Del Coso J, Estevez E, Mora-Rodriguez R. Caffeine effects on short-term performance during prolonged exercise in the heat. Medicine and science in sports and exercise. 2008;40(4):744–51. Epub 2008/03/05.  pmid:18317369.
+11.
+Davis JK, Green JM. Caffeine and anaerobic performance: ergogenic value and mechanisms of action. Sports medicine (Auckland, NZ). 2009;39(10):813–32. Epub 2009/09/18.  pmid:19757860.
+12.
+Ammon HP. Biochemical mechanism of caffeine tolerance. Archiv der Pharmazie. 1991;324(5):261–7. Epub 1991/05/01. pmid:1888264.
+13.
+Fredholm BB. Are the actions of methylxanthines due to antagonism of adenosine. Trends Pharmacol Sci. 1980;1:129–32.
+14.
+Sokmen B, Armstrong LE, Kraemer WJ, Casa DJ, Dias JC, Judelson DA, et al. Caffeine use in sports: considerations for the athlete. Journal of strength and conditioning research. 2008;22(3):978–86. Epub 2008/04/29.  pmid:18438212.
+15.
+Dodd SL, Brooks E, Powers SK, Tulley R. The effects of caffeine on graded exercise performance in caffeine naive versus habituated subjects. European journal of applied physiology and occupational physiology. 1991;62(6):424–9. Epub 1991/01/01. pmid:1893906.
+16.
+Goncalves LS, Painelli VS, Yamaguchi G, Oliveira LF, Saunders B, da Silva RP, et al. Dispelling the myth that habitual caffeine consumption influences the performance response to acute caffeine supplementation. Journal of applied physiology (Bethesda, Md: 1985). 2017;123(1):213–20. Epub 2017/05/13.  pmid:28495846.
+17.
+Bell DG, McLellan TM. Exercise endurance 1, 3, and 6 h after caffeine ingestion in caffeine users and nonusers. Journal of applied physiology (Bethesda, Md: 1985). 2002;93(4):1227–34. Epub 2002/09/18.  pmid:12235019.
+18.
+Irwin C, Desbrow B, Ellis A, O'Keeffe B, Grant G, Leveritt M. Caffeine withdrawal and high-intensity endurance cycling performance. J Sports Sci. 2011;29(5):509–15. Epub 2011/02/01.  pmid:21279864.
+19.
+Van Soeren MH, Graham TE. Effect of caffeine on metabolism, exercise endurance, and catecholamine responses after withdrawal. Journal of applied physiology (Bethesda, Md: 1985). 1998;85(4):1493–501. Epub 1998/10/07.  pmid:9760346.
+20.
+Beaumont R, Cordery P, Funnell M, Mears S, James L, Watson P. Chronic ingestion of a low dose of caffeine induces tolerance to the performance benefits of caffeine. J Sports Sci. 2017;35(19):1920–7. Epub 2016/10/21.  pmid:27762662.
+21.
+Areta JL, Irwin C, Desbrow B. Inaccuracies in caffeine intake quantification and other important limitations in recent publication by Goncalves et al. Journal of applied physiology (Bethesda, Md: 1985). 2017;123(5):1414. Epub 2017/11/24.  pmid:29167205.
+22.
+Stadheim HK, Spencer M, Olsen R, Jensen J. Caffeine and performance over consecutive days of simulated competition. Medicine and science in sports and exercise. 2014;46(9):1787–96. Epub 2014/08/19.  pmid:25134002.
+23.
+Kamimori GH, Joubert A, Otterstetter R, Santaromana M, Eddington ND. The effect of the menstrual cycle on the pharmacokinetics of caffeine in normal, healthy eumenorrheic females. European journal of clinical pharmacology. 1999;55(6):445–9. Epub 1999/09/24. pmid:10492057.
+24.
+Edvardsen E, Hem E, Anderssen SA. End criteria for reaching maximal oxygen uptake must be strict and adjusted to sex and age: a cross-sectional study. PLoS One. 2014;9(1):e85276. Epub 2014/01/24.  pmid:24454832; PubMed Central PMCID: PMC3891752.
+25.
+Hachana Y, Attia A, Nassib S, Shephard RJ, Chelly MS. Test-retest reliability, criterion-related validity, and minimal detectable change of score on an abbreviated Wingate test for field sport participants. Journal of strength and conditioning research. 2012;26(5):1324–30. Epub 2012/04/21.  pmid:22516906.
+26.
+Inbar O, Bar-Or O, Skinner JS. The Wingate anaerobic test: John Wiley & Sons; 1996.
+27.
+Salinero JJ, Lara B, Abian-Vicen J, Gonzalez-Millan C, Areces F, Gallo-Salazar C, et al. The use of energy drinks in sport: perceived ergogenicity and side effects in male and female athletes. Br J Nutr. 2014;112(9):1494–502. Epub 2014/09/13.  pmid:25212095.
+28.
+Hopkins WG, Marshall SW, Batterham AM, Hanin J. Progressive statistics for studies in sports medicine and exercise science. Medicine and science in sports and exercise. 2009;41(1):3–13. Epub 2008/12/19.  pmid:19092709.
+29.
+McLellan TM, Caldwell JA, Lieberman HR. A review of caffeine's effects on cognitive, physical and occupational performance. Neuroscience and biobehavioral reviews. 2016;71:294–312. Epub 2016/10/30.  pmid:27612937.
+30.
+Fredholm BB, Yang J, Wang Y. Low, but not high, dose caffeine is a readily available probe for adenosine actions. Mol Aspects Med. 2017;55:20–5. Epub 2016/12/05.  pmid:27915051.
+31.
+Fredholm BB. Adenosine actions and adenosine receptors after 1 week treatment with caffeine. Acta physiologica Scandinavica. 1982;115(2):283–6. Epub 1982/06/01.  pmid:6291335.
+32.
+Chou DT, Khan S, Forde J, Hirsh KR. Caffeine tolerance: behavioral, electrophysiological and neurochemical evidence. Life Sci. 1985;36(24):2347–58. Epub 1985/06/17. pmid:2989634.
+33.
+Svenningsson P, Nomikos GG, Fredholm BB. The stimulatory action and the development of tolerance to caffeine is associated with alterations in gene expression in specific brain regions. The Journal of neuroscience: the official journal of the Society for Neuroscience. 1999;19(10):4011–22. Epub 1999/05/11. pmid:10234030.
+34.
+Haskell CF, Kennedy DO, Wesnes KA, Scholey AB. Cognitive and mood improvements of caffeine in habitual consumers and habitual non-consumers of caffeine. Psychopharmacology. 2005;179(4):813–25. Epub 2005/01/29.  pmid:15678363.
+35.
+Attwood AS, Higgs S, Terry P. Differential responsiveness to caffeine and perceived effects of caffeine in moderate and high regular caffeine consumers. Psychopharmacology. 2007;190(4):469–77. Epub 2006/12/01.  pmid:17136398.
+36.
+Evans M, Tierney P, Gray N, Hawe G, Macken M, Egan B. Acute Ingestion of Caffeinated Chewing Gum Improves Repeated Sprint Performance of Team Sports Athletes With Low Habitual Caffeine Consumption. Int J Sport Nutr Exerc Metab. 2017:1–25. Epub 2017/11/02. .
+37.
+Tarnopolsky M, Cupido C. Caffeine potentiates low frequency skeletal muscle force in habitual and nonhabitual caffeine consumers. J Appl Physiol (1985). 2000;89(5):1719–24. Epub 2000/10/29.  pmid:11053318.
+38.
+Del Coso J, Munoz-Fernandez VE, Munoz G, Fernandez-Elias VE, Ortega JF, Hamouti N, et al. Effects of a caffeine-containing energy drink on simulated soccer performance. PLoS One. 2012;7(2):e31380. Epub 2012/02/22.  pmid:22348079; PubMed Central PMCID: PMC3279366.
+39.
+Del Coso J, Portillo J, Munoz G, Abian-Vicen J, Gonzalez-Millan C, Munoz-Guerra J. Caffeine-containing energy drink improves sprint performance during an international rugby sevens competition. Amino Acids. 2013;44(6):1511–9. Epub 2013/03/07.  pmid:23462927.
+40.
+Del Coso J, Salinero JJ, Gonzalez-Millan C, Abian-Vicen J, Perez-Gonzalez B. Dose response effects of a caffeine-containing energy drink on muscle performance: a repeated measures design. Journal of the International Society of Sports Nutrition. 2012;9(1):21. Epub 2012/05/10.  pmid:22569090; PubMed Central PMCID: PMC3461468.
+41.
+Lara B, Ruiz-Vicente D, Areces F, Abian-Vicen J, Salinero JJ, Gonzalez-Millan C, et al. Acute consumption of a caffeinated energy drink enhances aspects of performance in sprint swimmers. Br J Nutr. 2015;114(6):908–14. Epub 2015/08/19.  pmid:26279580.
+42.
+Perez-Lopez A, Salinero JJ, Abian-Vicen J, Valades D, Lara B, Hernandez C, et al. Caffeinated energy drinks improve volleyball performance in elite female players. Med Sci Sports Exerc. 2015;47(4):850–6. Epub 2014/07/23.  pmid:25051390.
+43.
+Salinero JJ, Lara B, Ruiz-Vicente D, Areces F, Puente-Torres C, Gallo-Salazar C, et al. CYP1A2 Genotype Variations Do Not Modify the Benefits and Drawbacks of Caffeine during Exercise: A Pilot Study. Nutrients. 2017;9(3). Epub 2017/03/14.  pmid:28287486; PubMed Central PMCID: PMC5372932.

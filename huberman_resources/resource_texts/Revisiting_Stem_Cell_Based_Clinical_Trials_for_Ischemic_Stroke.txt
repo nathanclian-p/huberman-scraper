@@ -1,0 +1,1188 @@
+Introduction
+Stroke is the leading cause of serious long-term disability, significantly reducing mobility in almost half of affected patients aged 65 years and older (
+Benjamin et al., 2017
+). Each year, 795,000 strokes occur in the US alone, and the annual economic impact of stroke is estimated at $33.9 billion. The current standard of care for ischemic stroke is acutely time-sensitive: administration of intravenous tPA is recommended within 4.5 h of stroke onset, and endovascular therapy in select patients within 24 h of stroke onset (
+Hacke et al., 2008
+;
+Berkhemer et al., 2015
+;
+Campbell et al., 2015
+;
+Goyal et al., 2015
+;
+Jovin et al., 2015
+;
+Saver et al., 2015
+,
+2016
+;
+Albers et al., 2018
+;
+Nogueira et al., 2018
+). Beyond the acute period, there are currently no proven neurorestorative treatments for stroke. Despite numerous clinical trials, drug-based therapies, including selective serotonin reuptake inhibitors, amphetamines, and ion channel modulators, have not yielded significant benefits, perhaps due to the complex cellular disruption that occurs within damaged ischemic tissue (
+Chollet et al., 2011
+;
+Mead et al., 2015
+;
+Simpson et al., 2015
+;
+Yeo et al., 2017
+). Unlike other organs, the brain responds to ischemia by undergoing liquefactive necrosis, a process in which dead tissue liquefies and is cleared by brain resident phagocytes over months. This long-lasting inflammatory process results in substantial neurotoxicity, myelin degradation, and glial scarring, as well as releasing a host of neuroinflammatory mediators, including cytokines (TNF-a, IL-1b, IL-6, IL-20),chemokines (MCP-1, MIP1a), cellular adhesion molecules (immunoglobulins, cadherins, integrins), reactive oxygen species, and matrix metalloproteases (
+Lakhan et al., 2009
+;
+Ceulemans et al., 2010
+;
+Stonesifer et al., 2017
+;
+Chung et al., 2018
+;
+Zbesko et al., 2018
+). At the liquefactive core of the infarct, hematopoietic lineage (myeloid and lymphoid), mesenchymal lineage (endothelial and other stromal), and neural lineage (neurons, astrocytes, and oligodendrocytes) cells undergo extreme stress, interacting and dying within this inflammatory, acidic, and hypoxic milieu (
+Chung et al., 2018
+).To address the complex problem of restoring function in ischemic tissue, stem cell transplantation-based therapies have been investigated as potential restorative treatments for chronic stroke. Aligning with the major cell types found within the ischemic brain, stem-cell-based clinical trials for ischemic stroke have fallen under three broad cell lineages: hematopoietic, mesenchymal, and neural (
+Table 1
+). In this review, we will discuss the scientific rationale for transplanting cells from each of these lineages and provide an overview of published and ongoing trials using this framework.
+Table 1
+. Lineage origin of transplanted cells in published clinical trials for ischemic stroke.
+Hematopoietic Lineage
+Hematopoietic stem cells (HSCs) at rest reside within the bone marrow niche but can be mobilized to the general blood circulation in response to stimulant factors such as granulocyte colony-stimulating factor (G-CSF). A majority of trials conducted using HSC lineage cells have relied on autologous bone marrow transplantation, favoring the lack of immunogenicity and ethical challenges to obtaining a reliable source of hematopoietic cells. In these studies, bone marrow was obtained from the patient and purified, either by density gradient alone or combined with immunosorting to obtain the cell population for transplantation. The cell surface marker CD34 characterizes a population enriched for HSCs, and the proportion of CD34+ cells found in the peripheral blood immediately after stroke has been found to directly correlate with functional recovery (
+Dunac et al., 2007
+).
+Bone Marrow Derived Cells
+Bone Marrow Mononuclear Cell (BM-MNC) Transplantation
+Early Phase I Trials (2009–2012)
+The first Phase I trials of bone-marrow-derived cells demonstrated unequivocally that BM-MNCs could safely be transplanted in stroke patients at varying time points after stroke onset, and
+via
+various routes of administration.
+Suarez-Monteagudo et al. (2009)
+implanted 14–55 million autologous BM-MNCs by stereotactic intralesional injection in five chronic stroke patients at least 1 year and no more than 10 years post-stroke onset. This trial found that intracranially-injected autologous BM-MNCs were well-tolerated and safe, with several patients reporting long-term neuropsychiatric improvements. Targeting the subacute phase of ischemic stroke,
+Barbosa da Fonseca et al. (2010)
+infused 125–500 million autologous BM-MNCs in six patients
+via
+intra-arterial injection 8–12 weeks after stroke onset and reported no cases of neurologic worsening. In the acute setting,
+Savitz et al. (2011)
+determined that intravenous infusion of 70–100 million cells per kilogram weight of autologous BM-MNCs in 10 patients with acute stroke (24–72 h after onset) was both safe and feasible. Additionally,
+Prasad et al.’s (2012)
+research group intravenously infused 11 patients with 80 million autologous BM-MNCs (mean 0.92 × 10
+6
+CD34+ cells) within 7–30 days of stroke onset and also confirmed the safety and feasibility of this treatment protocol.
+Friedrich et al. (2012)
+administered 50–600 million autologous BM-MNCs
+via
+intra-arterial (MCA) infusion to 20 patients within 3–10 days of stroke onset and found this method to be safe. Of note, while not known at the time, the brain biodistribution of intra-arterially and intravenously transplanted BM-MNCs was eventually determined to be comparable in a separate clinical trial completed a year later (
+Rosado-de-Castro et al., 2013
+). In both cases, brain biodistribution was low compared to that of lung or spleen, or liver. A summary of different routes of administration and their relative advantages and disadvantages concerning reaching ischemic brain tissue have been included in
+Table 2
+.
+Table 2
+. Routes of administration of completed stem cell trials for ischemic stroke.
+In the context of intracranial cell administration, transplantation into peri-ischemic vs. directly lesioned areas was extensively investigated in preclinical stroke models. The lesioned area was determined to be a poor injection target site due to unstable vascular supply and a highly inflammatory microenvironment. Moreover, the lesioned area was shown to eventually become a non-functional, fluid-filled cyst, suggesting that post-stroke recovery would be due to changes at the periphery of the lesion, not the cystic core (
+Veizovic et al., 2001
+;
+Modo et al., 2002
+;
+Smith et al., 2012
+). Of the clinical trials that utilized intracranial administration, only the porcine neural cell transplantation study conducted by
+Savitz et al. (2005)
+injected directly into the infarct. The study, discussed in a later section of this review, was terminated by the FDA after two of the five patients developed adverse events including cortical vein occlusion, complex partial seizures, and ring-enhancing lesions.
+Phase I/II, Phase II Trials (2014–2015)
+As Phase I/II trials progressed, the safety of these treatment protocols was consistently demonstrated, but BM-MNC administration was not found to significantly improve neurologic outcomes in transplant cohorts. In a follow-up to their initial Phase I trial,
+Prasad et al. (2014)
+performed a Phase II randomized study in which 120 patients received either 280 million autologous BM-MNCs or placebo intravenously within 7–30 days of stroke onset; this study yielded no clinical benefit for BM-MNC transplantation over placebo.
+Sharma et al.’s (2014)
+research group pursued a different route of administration, identifying 24 patients with chronic stroke (onset between 4 months to 10 years) to receive 1 million BM-MNCs per kilogram body weight intrathecally. Intrathecal administration proved safe, and functional improvement was noted in treated patients, however, there was no control group for comparison. In a phase I/IIa trial,
+Taguchi et al. (2015)
+intravenously administered either 250 million or 340 million cells of autologous BM-MNCs and found a trend toward improved neurologic outcomes and cerebral perfusion in the high dose group. Studies by
+Bhasin et al. (2016)
+additionally found that positive neurologic outcomes in patients given autologous BM-MNCs could be due to paracrine effects of secreted vascular endothelial growth factor (VEGF) and brain-derived neurotrophic factor (BDNF).
+Sorted CD34+ From Bone Marrow
+Hypothesizing that the hematopoietic stem cell-enriched CD34+ fraction of BM-MNCs contained the functional subset of cells responsible for repair during ischemic CNS injury,
+Moniche et al. (2012)
+conducted a Phase I/II study in which 160 million autologous CD34+ BM-MNCs were infused intra-arterially (MCA) into 10 patients within 5–9 days of stroke onset. The comparison group consisted of 10 subacute stroke patients who did not receive the intervention. In this trial, there was no clinical benefit at 180 days, but there was a statistically significant increase in b-NGF among the treated cohort (
+p
+< 0.02). Similarly,
+Banerjee et al.’s (2014)
+research group intra-arterially infused (
+via
+the MCA) 10 million autologous sorted CD34+ cells in five patients within 1–7 days of stroke onset, and found the intervention to be safe, and associated with a decrease in infarct size over time.
+Sorted Aldehyde Dehydrogenase-Bright (ALDH-BR) From Bone Marrow
+Aldehyde dehydrogenase (ALDH) was among the first markers used by immunologists to identify populations of human hematopoietic stem and progenitor cells in the 1990s. HSCs were found to express the highest levels of ALDH, while lymphocytes expressed the lowest (
+Kastan et al., 1990
+). Transplant of BM-derived ALDH-br cells was reported to improve functional recovery in limb ischemia and ischemic heart failure (
+Keller, 2009
+;
+Perin et al., 2011
+,
+2012
+). Based on these findings,
+Savitz et al. (2019)
+transplanted up to eight million autologous ALDH-br BM-MNCs (dubbed autologous ALD-401 cells)
+via
+intracarotid infusion in 29 patients and compared this cohort to 19 control patients who received a sham procedure. Disappointingly, the study found no significant difference in primary or secondary efficacy measures between treatment and placebo groups.
+Mobilized Peripheral Blood Stem Cells
+Shyu’s research group previously demonstrated peripheral blood-derived stem-cell (PBSC) transplant efficacy in treating chronic ischemia in rats (
+Shyu et al., 2006
+). To further evaluate the efficacy of this cell type in human subjects,
+Chen et al. (2014)
+conducted a Phase II trial in which autologous PBSCs were mobilized with G-CSF, and 3–8 million sorted CD34+ cells were stereotactically transplanted into 15 chronic stroke patients (stroke onset ranging from 6 months to 5 years prior). The authors noted improvement in multiple neurologic and functional outcome scores in the treated cohort.
+Umbilical Cord Blood Derived Cells
+Allogeneic umbilical cord blood is an immunologically tolerant source of readily available cells. Unlike other sources of HSCs, HLA-matching is not required, and its safety and efficacy as a blood donor graft have been well established (
+Zhou et al., 2012
+). In this context,
+Laskowitz et al. (2018)
+conducted a Phase I study to establish the safety and feasibility of administering a single intravenous infusion of allogeneic (non-HLA matched) umbilical cord blood in stroke patients. The study included 10 patients treated between 3 and 9 days post-stroke onset, and noted an improvement in neurological and functional outcome, although there was no control group for comparison. A list of pending and ongoing clinical trials using cells of hematopoietic origin have been compiled in
+Table 3
+.
+Table 3
+. Ongoing and pending unpublished hematopoietic lineage trials.
+Mesenchymal Lineage
+Mesenchymal stem cells (MSCs) are stromal cell precursors to cells of osteogenic, chondrogenic, and/or adipogenic lineages, and can be harvested and expanded from a variety of tissue types, including bone marrow (BM-MSCs, a cell population distinct from hematopoietic origin BM-MNCs), adipose tissue (adipose-derived MSCs, or AD-MSCs), and umbilical cord (UB-MSCs). This versatility, combined with low immunogenicity due to low expression of human leukocyte antigens, makes MSCs excellent candidates for allogeneic stem cell transplants (
+Le Blanc et al., 2003
+;
+Klyushnenkova et al., 2005
+). Unlike bone marrow-derived hematopoietic cells, MSCs from a single source can be expanded for transplant into many individuals, providing both standardization and scalability for large clinical studies.
+BM-MSCs have been shown to cross the blood-brain barrier and improve functional recovery after acute ischemic stroke in animal models (
+Chen et al., 2001
+;
+Lee et al., 2016
+), likely due to a paracrine effect by secreting neurotrophic, mitogenic, and angiogenic factors, including VEGF, BDNF, nerve growth factor, basic fibroblast growth factor, and insulin-like growth factor 1 (
+Eckert et al., 2013
+;
+Shichinohe et al., 2015
+;
+Stonesifer et al., 2017
+). One hypothesized mode of delivery for these factors is
+via
+the secretion of membrane fragments (extracellular vesicles, EVs) from transplanted cells (
+Bang and Kim, 2019
+;
+Surugiu et al., 2019
+). Recent preclinical data in organoids suggest that EVs alone may be sufficient to significantly decrease injury in a hypoxia-starvation model of injury, opening the possibility for future early phase clinical trials of EV delivery for ischemic stroke (
+Zheng et al., 2020
+).
+Additionally, AD-MSC transplants have also demonstrated success in experimental ischemic stroke models, in which animals treated with AD-MSCs demonstrated increased expression of BDNF and enhanced nerve regeneration, and simultaneously reduced expression of pro-apoptotic proteins such as BCL-2 and BAX within the ischemic lesion (
+Li et al., 2016
+). Multiple preclinical studies of UB-MSCs showed that transplanted cells quickly homed to the site of injury in rat ischemia models and resulted in improved long-term neurologic outcomes (
+Zhang et al., 2017
+;
+Wu et al., 2018
+). These results were also most likely due to paracrine effects, as transplanted cells did not persist long term.
+Bone Marrow Derived MSCs
+Autologous Transplant
+Bang et al. (2005)
+were the first to conduct autologous MSC transplants in stroke patients, to introduce cells with the potential to provide trophic support for neurogenesis and/or neuromodulatory effects—functions that are limited with hematopoietic cells. This group conducted a Phase I/II trial in which 100 million culture-expanded autologous BM-MSCs (grown in fetal bovine serum-containing media) were intravenously infused in five patients at 5–7 weeks post-stroke onset. Compared to a control cohort of 25 patients, treated patients demonstrated consistent neurologic improvement at 3, 6, and 12 months post-transplantation. Based on the success of this first study, the same group subsequently conducted a larger observer-blinded trial consisting of 52 patients (16 transplanted, 36 control;
+Lee et al., 2010
+). Due to the significant time required to expand MSCs in culture, the investigators opted to decrease the time-to-transplant by administering an initial dose of 50 million MSCs, and subsequently administering an additional 50 million MSCs 2 weeks later (rather than a one-time treatment with 100 million MSCs as in the Phase I/II trial). Notably, clinical improvement was found to be correlated with intactness of the subventricular zone—a known neurogenic site—as demonstrated on diffusion-weighted MR imaging. The MSC-transplanted cohort exhibited a higher rate of functional recovery and lower mortality compared to the control cohort. The authors reported that the use of bovine serum proteins to expand MSCs in culture did not appear to result in zoonoses or other adverse effects.
+Due to ongoing concern regarding the use of bovine serum, particularly in the context of infectious diseases such as Creutzfield-Jakob, a Phase I study using MSCs expanded with autologous human serum was also conducted and published by a different group (
+Honmou et al., 2011
+).
+Honmou et al.’s (2011)
+research group demonstrated the safety and feasibility of BM-MSCs expanded in culture with human autologous serum, injected intravenously in 12 patients. Human serum resulted in more rapid MSC expansion
+in vitro
+compared to bovine serum, and at 1-week post-transplant, the mean infarct volume, as measured on MRI, was reduced by approximately 20% in patients treated according to this protocol. Circumventing the issue of serum altogether,
+Bhasin et al.’s (2011)
+research group conducted a Phase I/II trial in which autologous MSCs expanded in culture under serum-free conditions were intravenously administered to 20 chronic stroke patients between 3 months and 2 years following stroke onset. While both the control (
+n
+= 20) and transplanted groups experienced statistically significant improvement, there was no statistically significant difference between the groups in terms of functional outcome.
+Bhasin et al. (2013)
+presented a follow-up study in 2013 in which mesenchymal cells were compared with hematopoietic/mononuclear cells. Again, stem cell transplantation was found to be safe and feasible, with no conclusive evidence for efficacy but a trend toward functional improvement. Their 2016 study, again transplanting BM-MNCs, was discussed previously.
+In a separate Phase I/IIa study,
+Fang et al. (2019)
+compared BM-MSCs to autologous endothelial progenitor cells (EPCs), as well as to placebo in patients within 5 weeks of stroke onset. This study included 18 total patients: six transplanted with BM-MSC, six with EPCs, and six with saline (placebo). The BM-MSCs were expanded in fetal bovine serum culture, and EPCs were derived by seeding bone marrow mononuclear cells on fibronectin plates to select for adherent cells, and subsequently maintained in bovine serum culture with endothelial cell media. Two injections of 2.5 million cells per kilogram body weight were given approximately 1 week apart, and patients were followed for 4 years. While the trial was deemed safe, no functional or neurological difference was observed between the BM-MSC, EPC, and placebo groups.
+Allogeneic Transplant
+The fact that MSCs express low levels of human leukocyte antigen and are easily expanded in culture is a significant advantage over other cell-based therapies about stroke therapy (
+Le Blanc et al., 2003
+). These features allow for the development of large quantities of standardized single-source cells for allogeneic transplant and also mitigate many of the challenges of autologous cell therapy in terms of timing of treatment. This is of particular benefit in patients who are unable to provide autologous cells. Moreover, because MSCs may be cultured and expanded
+in vitro
+without sacrificing stemness potential (
+Reyes et al., 2001
+;
+Jiang et al., 2002
+), genetic modification of these cells prior to transplantation in order to enhance supportive properties has also opened new possibilities.
+Unmodified Cell Transplants
+In the largest MSC trial to date,
+Hess et al.
+(
+2017
+; MASTERS, Athersys) conducted a phase II randomized, double-blind, placebo-controlled dose-escalation trial of intravenous adult BM-MSCs for acute ischemic stroke at 33 centers across the US and UK. In this trial, patients were randomized to receive either 400 million or 1.2 billion allogeneic BM-MSCs (
+n
+= 65) or placebo (
+n
+= 61) within 24–48 h after stroke onset. The allogeneic BM-MSC product used in this study—MultiStem—was derived from two independent donors (
+Boozer et al., 2009
+). No dose-dependent toxicity was observed and the treatment was deemed safe, but the transplanted group and placebo groups exhibited no significant difference in terms of functional outcome at 90 days post-stroke. Of note, a
+post hoc
+analysis of those patients achieving an “Excellent Outcome” defined as mRS ≤1 and NIHSS ≤1 and Barthel ≥95, demonstrated a statistically significant benefit for all patients treated at 1 year (23.1% transplant vs. 8.2% placebo;
+p
+= 0.02) and for all patients treated within the originally planned time window of ≤36 h post-stroke the benefit at 1 year was even greater (29.0% transplant vs. 8.2% placebo;
+p
+< 0.01). This finding was encouraging enough for Athersys to initiate another Phase III prospective, randomized, placebo-controlled, double-blind trial treating patients between 18–36 h of stroke (MASTERS-2).
+In a separate Phase I/II trial using allogeneic single-donor adult mesenchymal BM-MSCs (
+Levy et al., 2019
+; Stemedica) transplanted up to 1.5 million BM-MSCs per kg body weight intravenously in 38 patients with chronic stroke (>6 months post-stroke). The highest dose (1.5 million/kg) was found to be safe, and significant behavioral gains were observed. Excellent functional outcome (Barthel score >95) was reported in 35.5% of patients at 12 months post-transplant, compared to in 11.4% at baseline; however, there was no control group included in this study.
+Modified MSC Transplants
+SB623 is a BM-MSC line that has been transiently transfected with a plasmid containing the human Notch1 intracellular domain, which results in constitutive Notch1 expression. Importantly, the Notch1 plasmid is not replicated during mitosis and is therefore rapidly lost during cell division. In
+in vitro
+preclinical models, Notch1-modified MSCs promoted neural cell growth and rescued neural cell survival after ischemia by providing trophic support
+via
+the secreted extracellular matrix, promoting angiogenesis, and playing a protective, anti-inflammatory role (
+Aizman et al., 2009
+;
+Tate et al., 2010
+;
+Dao et al., 2011
+,
+2013
+). Experimental stroke models transplanted with Notch-1-modified MSCs have demonstrated functional recovery and peri-infarct neuroprotection as measured by a reduction in cell loss. Despite these benefits, however, the SB623 cells themselves are short-lived
+in vivo
+(
+Yasuhara et al., 2009
+;
+Tajiri et al., 2013
+). This finding suggests that observed improvements are a result of supportive trophic activity rather than engraftment, and alleviates concerns over the challenges of achieving long-term allogeneic cell engraftment.
+Based on this encouraging preclinical data,
+Steinberg et al. (2016)
+completed a Phase I/IIa trial in which 18 chronic stroke patients (6 months to 3 years post-stroke onset) received a stereotactic intracranial injection of either 2.5, 5, or 10 million allogeneic modified SB623 BM-MSCs (six patients per cohort). Each patient received five stereotactic image-guided injections of 20 μl each surrounding the infarct. Of note, the intracranial administration of SB623 was chosen because of the desire to prioritize trophic factor delivery by transplanted cells over cell engraftment (
+Bliss et al., 2010
+). In comparison to intra-arterial and intravenous delivery, the intracranial injection was shown to result in greater delivery of transplanted cells to the lesion, although cells are unequally distributed throughout (
+Rosado-de-Castro et al., 2013
+). Patients who received intracranial injections reported several treatment-emergent adverse events (TEAEs), including headache, nausea, and vomiting. It was determined that most, if not all, of the TEAEs, were due to the surgical procedure rather than the cell transplantation. No link between TEAE and cell dosage was identified, and all TEAEs recovered without sequelae. No antibody response to SB623 cells was observed, and a significant improvement in neurological function was noted after 3, 6 (the pre-determined efficacy endpoint), and 12 months. In a follow-up article detailing 2-year outcomes, the initial improvements were found to be stable at 2 years post-transplantation (
+Steinberg et al., 2018
+). Interestingly, the authors noted that the size of a transient T2-FLAIR signal (DWI negative) on MRI at an early time point (1–2 weeks post-transplant) was correlated with the degree of long-term functional improvements, and could be a possible indicator of functional transplant activity. A larger Phase IIb randomized, double-blind, placebo-controlled study, ACTIsSIMA, has been completed but the results are as yet unpublished. Additional pending clinical trials using cells of mesenchymal origin have been detailed in
+Table 4
+.
+Table 4
+. Ongoing and pending unpublished mesenchymal lineage trials.
+Neural Lineage
+Neural stem cells (NSCs) are multipotent cells that can differentiate into neurons, astrocytes, and oligodendrocytes. This native capacity to repopulate and support endogenous cell types within the brain has generated much interest in NSC transplantation for stroke. The subventricular zone of the lateral ventricle and the dentate gyrus of the hippocampus have been identified as neurogenic sites, and in murine models, NSC’s have been shown to migrate from these niches to promote neurogenesis and vascular remodeling in response to ischemic stroke (
+Zhang et al., 2014
+;
+Hao et al., 2015
+).
+One of the greatest barriers to developing an NSC transplantation model is the challenge of harvesting cells for transplantation. Clinical trials utilizing NSCs have attempted to overcome this barrier by: (1) modifying a human teratoma cell line [teratomas and cancer lines were the only non-embryonic source of pluripotent human cells before the development of induced pluripotent stem cells (iPSCs)] to induce neuronal differentiation by introducing the morphogen retinoic acid; (2) using NSCs harvested from human fetal tissue and/or clonal lines derived from these cells; or (3) using cells of non-human origin (i.e., porcine fetal NSCs).
+Retinoic Acid-Induced Differentiated Tumor Cells
+Kondziolka et al. (2000)
+were the first to conduct NSC transplants for chronic stroke. In a Phase I trial published in 2000, 12 patients received either two or six million human “LBS-Neurons”
+via
+intracranial injection between 6 months and 6 years post-stroke. These cells were derived by differentiating the NT2/D1 human cell line, originally derived from a lung metastasis of testicular embryonal carcinoma, into neurons using a 10 μM dose of retinoic acid. Before the discovery of iPSCs in 2007, NT2/D1 was among the lines widely used to represent human pluripotent cells and was shown to be capable of terminal differentiation into multiple cell types, including neurons and astrocytes (
+Bani-Yaghoub et al., 1999
+). Preclinical studies demonstrated that NT2/D1-derived neurons resulted in improved functional outcomes after ischemia when injected intracranially (
+Borlongan et al., 1998
+). In humans, treatment with NT2/D1-derived neurons was found to be safe and associated with significantly improved functional outcome at 6 months.
+Subsequently, the same University of Pittsburg group, with the addition of Stanford University investigators, conducted a Phase II randomized observer-blinded trial in which 14 chronic stroke patients received an intracranial injection of either five or 10 million LBS-Neurons; four patients acted as nonsurgical controls. While the primary efficacy endpoint—improvement of European Stroke Scale score at 6 months — was not achieved, one of the prespecified secondary outcome measures (the Action Research Arm Test designed to measure gross hand-movement) improved significantly compared with controls and with baseline scores on the same test.
+Porcine
+Given the concerns surrounding implanting cells derived from malignant human tumors, compounded with the ethical implications and difficulty of obtaining fetal tissue,
+Savitz et al. (2005)
+attempted a Phase I trial to xenotransplant up to 50 million fetal porcine cells in five patients with chronic stroke, 18 months to 10 years post-stroke onset. Before intracranial transplantation, the cells were treated with anti-MHC to prevent rejection. While two patients reported clinical improvement, one patient developed seizures, and one experienced a temporary worsening of motor symptoms. As a result, this trial was halted due to safety concerns.
+Human Primary Fetal Brain Derived
+The human fetal brain represents a source of actively dividing NSCs that have demonstrated proven engraftment and functional capacity in both preclinical and clinical studies for disorders such as leukodystrophies (
+Uchida et al., 2000
+,
+2012
+;
+Tamaki et al., 2002
+;
+Kelly et al., 2004
+;
+Gupta et al., 2012
+,
+2019
+); however, fetal tissue is difficult to obtain in the US due to governmental policy. CTX0E03 is one such fetal tissue line, derived by a research group in the UK and is currently being studied in ischemic stroke in the PISCES clinical trials (ReNeuron). CTX0E03 cells are a clonally derived human fetal cortical cell line that was transfected with a single copy of c-mycERTAM, an immortalizing gene dependent on tamoxifen administration for function (
+Pollock et al., 2006
+). Despite c-myc’s role as a known oncogene, preclinical stroke models indicated that CTX0E03 cells were safe to transplant, and promoted behavioral recovery
+via
+enhanced neurogenesis and angiogenesis in a dose-dependent fashion after ischemia (
+Stroemer et al., 2009
+). It is unclear if CTX0E03 cells exhibit long-term engraftment in the brain (
+Hicks et al., 2013
+;
+Baker et al., 2019
+). The PISCES 1 clinical trial for ischemic stroke transplanted 2.5, 5, 10, or 20 million CTX0E03 cells intracranially in 11 patients who had experienced a stroke 6–24 months prior (
+Kalladka et al., 2016
+). The treatment was found to be safe, and treated patients exhibited improved neurologic outcomes on several scales. However, the initial study was limited to cisgender male patients due to concerns about the potential for estrogen to activate c-myc. The PISCES 2 open-label Phase 2 trial transplanted 20 million CTX0E03 cells into the putamen of 23 patients, 13 males, and 10 females, 2–13 months after subcortical ischemic stroke (individuals actively taking tamoxifen were excluded). While the primary endpoint [two patients improving two points in the Action Research Arm Test (ARAT) subtest 2 at 3 months] was not met, there were substantial improvements in this metric as well as the mRS and Barthel Index (
+Muir et al., 2020
+). A Phase III prospective, randomized, controlled, double-blinded study (PISCES 3) treating 130 patients 6–12 months post-stroke is currently ongoing in the US.
+Cotransplant Studies of Primary Fetal NSC and UB-MSCs
+Given the significant trophic support provided by mesenchymal cells and the regenerative capacity of NSCs, combined engraftment of fetal-derived neural and cord-blood-derived mesenchymal lineage cells together has been investigated as a potential therapeutic strategy to improve and support stem cell engraftment.
+Chen et al. (2013)
+sought to establish the safety and feasibility, as well as the optimal route of cell administration, of a multiple cell type co-transplantation in a group of 10 patients. The investigators isolated three distinct neural cell types from a single fetal donor: (1) olfactory ensheathing cells (OECs) from the fetal olfactory bulb; (2) neural progenitor cells (NPCs) from the subependymal zone; and (3) Schwann cells (SCs) from the sciatic nerve. Cord blood from a separate donor was used to derive UB-MSCs, and all transplanted UB-MSCs were derived from a single cord. Chronic stroke patients who were 6 months to 20 years post-stroke onset were included, and were divided amongst five distinct treatment protocols: (1) OECs alone (intracranial,
+n
+= 2); (2) OECs + NPCs (intracranial,
+n
+= 2); (3) OECs + NPCs (intracranial) with a second dose of NPCs at a later time point (intrathecal,
+n
+= 4); (4) OECs + NPCs (intracranial) + later doses of NPCs (intrathecal) and UB-MSCs (intravenous,
+n
+= 1); and (5) OECs and NPCs (intracranial) + later doses of SC and NPCs (intrathecal) and UB-MSCs (intravenous,
+n
+= 1). Treatment was found to be safe and feasible in all cases, however, due to the variety of cell types and routes of administration evaluated, the authors concluded that the study was not sufficiently powered to conclude that co-transplantation is safe under all studied conditions. The authors also noted a trend towards functional benefits with intracranial injections, but not with intrathecal and intravenous cell administration.
+Another Phase I study conducted by
+Qiao et al. (2014)
+involved co-transplantation of UB-MSCs with human fetal cells. Enrolled patients received either four intravenous doses of 0.5 × 10
+6
+UB-MSC cells per kg body weight or one intravenous dose of 0.5 × 10
+6
+UB-MSC cells per kg body weight followed by three intrathecal doses of 0.5 × 10
+6
+UB-MSC cells per kg body weight and 6 × 10
+6
+human fetal derived NPCs (
+Qiao et al., 2014
+). In total, the investigators treated six subacute to chronic stroke patients between 1 week and 2 years post-stroke onset. Two of these patients received UB-MSCs only. The trial demonstrated that co-transplantation was safe and feasible; no malignancies were observed from the use of multipotent fetal cells. Further, each treated patient experienced clinical improvement that was stable at 2 years post-transplant. A list of pending clinical trials using cells of neural origin has been compiled in
+Table 5
+.
+Table 5
+. Ongoing and pending unpublished neural lineage trials.
+Conclusions
+The regenerative properties of stem cells have brought cell-based transplantation studies into the spotlight as appealing therapies for otherwise recalcitrant disorders such as subacute and chronic ischemic stroke. In this review article, we have detailed the clinical trials to date, which have featured transplantation of various cell types, administered
+via
+a variety of routes and in a variety of doses, to treat ischemic stroke of varying chronicity. We have discussed the history of and scientific rationale for the different cell types transplanted, their routes of administration, and associated trial outcomes, and have provided snapshots of current ongoing trials. Additional studies are necessary to strengthen our understanding of the relationship between neural cells and their surrounding stromal, endothelial, and immune landscape in both the healthy state and in pathologic conditions. As discussed in this review, specific attention should be given to the paracrine mechanisms by which transplanted cells exert their therapeutic effect, especially in light of data that suggests that these benefits persist even after the clearance of the originally transplanted cell type.
+Furthermore, promising preclinical studies require adequate support and prudent design to overcome the “translational roadblock,” a notable decrease in efficacy between preclinical studies and their clinical trial counterparts. The difference is thought to be due to a series of factors. First, a combination of publication bias and overstated efficacy in preclinical studies has led to overly optimistic preclinical data that fail to result in statistically meaningful clinical interventions (
+Dirnagl et al., 2009
+;
+Macleod et al., 2009
+). Poor translation to the clinic has also resulted from the differences in primary endpoints between animal models and trials, lengthening of time-to-treatment in the clinic compared to in animal models, nuances in translating dosage, and heterogeneity of patient characteristics such as age (
+Dirnagl et al., 2009
+;
+Hermann et al., 2019
+). Recent studies have shown patient age to be a significant prognostic factor, and have suggested that, for clinical improvement, the timing of interventions must be increased to account for increased age (
+Sandu et al., 2017
+). Additionally, the underpowered clinical trial design has also contributed significantly to the difficulty of translating otherwise promising preclinical interventions to the bedside (
+Dirnagl and Macleod, 2009
+;
+Schmidt-Pogoda et al., 2020
+). Judiciously guiding the development of future stem-cell-based clinical interventions, including those harnessing recent advances in cellular regeneration, trophic support, immunomodulation, and perhaps as-of-yet undiscovered mechanisms of repair, will be essential in achieving successful clinical trials of promising neurorestorative therapies.
+Author Contributions
+ES and GS contributed to the conception of this review. JH and ES contributed to the design and organization of the material. JH and GS created and updated the tables. JH, ES, and GS wrote sections of the manuscript, contributed to manuscript revision, read, and approved the submitted version.
+Funding
+This article was supported in part by funding from Bernard and Ronni Lacroute, the William Randolph Hearst Foundation, Marc Paskin and Penny Bradley to GS, from the National Cancer Institute (F30CA228215) and the Stanford Medical Scientist Training Program (T32GM007365) to JH, and National Institutes of Health (NIH; R01 NS058784) to GS.
+Conflict of Interest
+GS is a consultant for Qool Therapeutics, Peter Lazic US, NeuroSave, SanBio, Audaxion Therapeutics, Zeiss and Surgical Theater.
+The remaining authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+Acknowledgments
+We thank Christine Plant for editorial support.
+References
+Aizman, I., Tate, C. C., McGrogan, M., and Case, C. C. (2009). Extracellular matrix produced by bone marrow stromal cells and by their derivative, SB623 cells, supports neural cell growth.
+J. Neurosci. Res.
+87, 3198–3206. doi: 10.1002/jnr.22146
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Albers, G. W., Marks, M. P., Kemp, S., Christensen, S., Tsai, J. P., Ortega-Gutierrez, S., et al. (2018). Thrombectomy for stroke at 6 to 16 hours with selection by perfusion imaging.
+N. Engl. J. Med.
+378, 708–718. doi: 10.1056/NEJMoa1713973
+CrossRef Full Text
+|
+Google Scholar
+Baker, E. W., Kinder, H. A., and West, F. D. (2019). Neural stem cell therapy for stroke: a multimechanistic approach to restoring neurological function.
+Brain Behav.
+9:e01214. doi: 10.1002/brb3.1214
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Banerjee, S., Bentley, P., Hamady, M., Marley, S., Davis, J., Shlebak, A., et al. (2014). Intra-arterial immunoselected CD34+ stem cells for acute ischemic stroke.
+Stem Cells Transl. Med.
+3, 1322–1330. doi: 10.5966/sctm.2013-0178
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Bang, O. Y., and Kim, E. H. (2019). Mesenchymal stem cell-derived extracellular vesicle therapy for stroke: challenges and progress.
+Front. Neurol.
+10:211. doi: 10.3389/fneur.2019.00211
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Bani-Yaghoub, M., Felker, J. M., and Naus, C. C. (1999). Human NT2/D1 cells differentiate into functional astrocytes.
+Neuroreport
+10, 3843–3846. doi: 10.1097/00001756-199912160-00022
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Barbosa da Fonseca, L. M., Gutfilen, B., Rosado de Castro, P. H., Battistella, V., Goldenberg, R. C., Kasai-Brunswick, T., et al. (2010). Migration and homing of bone-marrow mononuclear cells in chronic ischemic stroke after intra-arterial injection.
+Exp. Neurol.
+221, 122–128. doi: 10.1016/j.expneurol.2009.10.010
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Barish, M. E., Herrmann, K., Tang, Y., Argalian Herculian, S., Metz, M., Aramburo, S., et al. (2017). Human neural stem cell biodistribution and predicted tumor coverage by a diffusible therapeutic in a mouse glioma model.
+Stem Cells Transl. Med.
+6, 1522–1532. doi: 10.1002/sctm.16-0397
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Benjamin, E. J., Blaha, M. J., Chiuve, S. E., Cushman, M., Das, S. R., Deo, R., et al. (2017). Heart disease and stroke statistics-2017 update: a report from the american heart association.
+Circulation
+135, e146–e603. doi: 10.1161/CIR.0000000000000485
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Berkhemer, O. A., Fransen, P. S., Beumer, D., van den Berg, L. A., Lingsma, H. F., Yoo, A. J., et al. (2015). A randomized trial of intraarterial treatment for acute ischemic stroke.
+N. Engl. J. Med.
+372, 11–20. doi: 10.1056/NEJMoa1411587
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Bhasin, A., Srivastava, M. V., Kumaran, S. S., Mohanty, S., Bhatia, R., Bose, S., et al. (2011). Autologous mesenchymal stem cells in chronic stroke.
+Cerebrovasc. Dis. Extra
+1, 93–104. doi: 10.1159/000333381
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Bhasin, A., Srivastava, M. V., Mohanty, S., Bhatia, R., Kumaran, S. S., and Bose, S. (2013). Stem cell therapy: a clinical trial of stroke.
+Clin. Neurol. Neurosurg.
+115, 1003–1008. doi: 10.1016/j.clineuro.2012.10.015
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Bhasin, A., Srivastava, M. V. P., Mohanty, S., Vivekanandhan, S., Sharma, S., Kumaran, S., et al. (2016). Paracrine mechanisms of intravenous bone marrow-derived mononuclear stem cells in chronic ischemic stroke.
+Cerebrovasc. Dis. Extra
+6, 107–119. doi: 10.1159/000446404
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Bliss, T. M., Andres, R. H., and Steinberg, G. K. (2010). Optimizing the success of cell transplantation therapy for stroke.
+Neurobiol. Dis.
+37, 275–283. doi: 10.1016/j.nbd.2009.10.003
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Boozer, S., Lehman, N., Lakshmipathy, U., Love, B., Raber, A., Maitra, A., et al. (2009). Global characterization and genomic stability of human multistem, a multipotent adult progenitor cell.
+J. Stem Cells
+4, 17–28. doi: jsc.2009.4.1.17
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Borlongan, C. V., Tajima, Y., Trojanowski, J. Q., Lee, V. M., and Sanberg, P. R. (1998). Transplantation of cryopreserved human embryonal carcinoma-derived neurons (NT2N cells) promotes functional recovery in ischemic rats.
+Exp. Neurol.
+149, 310–321. doi: 10.1006/exnr.1997.6730
+CrossRef Full Text
+|
+Google Scholar
+Campbell, B. C., Mitchell, P. J., Kleinig, T. J., Dewey, H. M., Churilov, L., Yassi, N., et al. (2015). Endovascular therapy for ischemic stroke with perfusion-imaging selection.
+N. Engl. J. Med.
+372, 1009–1018. doi: 10.1056/NEJMoa1414792
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Ceulemans, A. G., Zgavc, T., Kooijman, R., Hachimi-Idrissi, S., Sarre, S., and Michotte, Y. (2010). The dual role of the neuroinflammatory response after ischemic stroke: modulatory effects of hypothermia.
+J. Neuroinflammation
+7:74. doi: 10.1186/1742-2094-7-74
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Chen, J., Li, Y., Wang, L., Zhang, Z., Lu, D., Lu, M., et al. (2001). Therapeutic benefit of intravenous administration of bone marrow stromal cells after cerebral ischemia in rats.
+Stroke
+32, 1005–1011. doi: 10.1161/01.str.32.4.1005
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Chen, D. C., Lin, S. Z., Fan, J. R., Lin, C. H., Lee, W., Lin, C. C., et al. (2014). Intracerebral implantation of autologous peripheral blood stem cells in stroke patients: a randomized phase II study.
+Cell Transplant.
+23, 1599–1612. doi: 10.3727/096368914X678562
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Chen, L., Xi, H., Huang, H., Zhang, F., Liu, Y., Chen, D., et al. (2013). Multiple cell transplantation based on an intraparenchymal approach for patients with chronic phase stroke.
+Cell Transplant.
+22 Suppl. 1, S83–S91. doi: 10.3727/096368913X672154
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Chollet, F., Tardy, J., Albucher, J. F., Thalamas, C., Berard, E., Lamy, C., et al. (2011). Fluoxetine for motor recovery after acute ischaemic stroke (FLAME): a randomised placebo-controlled trial.
+Lancet Neurol.
+10, 123–130. doi: 10.1016/S1474-4422(10)70314-8
+CrossRef Full Text
+|
+Google Scholar
+Chung, A. G., Frye, J. B., Zbesko, J. C., Constantopoulos, E., Hayes, M., Figueroa, A. G., et al. (2018). Liquefaction of the brain following stroke shares a similar molecular and morphological profile with atherosclerosis and mediates secondary neurodegeneration in an osteopontin-dependent mechanism.
+eNeuro
+5:ENEURO.0076-18.2018. doi: 10.1523/ENEURO.0076-18.2018
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Dao, M. A., Tate, C. C., Aizman, I., McGrogan, M., and Case, C. C. (2011). Comparing the immunosuppressive potency of naive marrow stromal cells and Notch-transfected marrow stromal cells.
+J. Neuroinflammation
+8:133. doi: 10.1186/1742-2094-8-133
+CrossRef Full Text
+|
+Google Scholar
+Dao, M., Tate, C. C., McGrogan, M., and Case, C. C. (2013). Comparing the angiogenic potency of naive marrow stromal cells and Notch-transfected marrow stromal cells.
+J. Transl. Med.
+11:81. doi: 10.1186/1479-5876-11-81
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Dirnagl, U., Becker, K., and Meisel, A. (2009). Preconditioning and tolerance against cerebral ischaemia: from experimental strategies to clinical use.
+Lancet Neurol.
+8, 398–412. doi: 10.1016/S1474-4422(09)70054-7
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Dirnagl, U., and Macleod, M. R. (2009). Stroke research at a road block: the streets from adversity should be paved with meta-analysis and good laboratory practice.
+Br. J. Pharmacol.
+157, 1154–1156. doi: 10.1111/j.1476-5381.2009.00211.x
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Dunac, A., Frelin, C., Popolo-Blondeau, M., Chatel, M., Mahagne, M. H., and Philip, P. J. (2007). Neurological and functional recovery in human stroke are associated with peripheral blood CD34+ cell mobilization.
+J. Neurol.
+254, 327–332. doi: 10.1007/s00415-006-0362-1
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Eckert, M. A., Vu, Q., Xie, K., Yu, J., Liao, W., Cramer, S. C., et al. (2013). Evidence for high translational potential of mesenchymal stromal cell therapy to improve recovery from ischemic stroke.
+J. Cereb. Blood Flow Metab.
+33, 1322–1334. doi: 10.1038/jcbfm.2013.91
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Fang, J., Guo, Y., Tan, S., Li, Z., Xie, H., Chen, P., et al. (2019). Autologous endothelial progenitor cells transplantation for acute ischemic stroke: a 4-year follow-up study.
+Stem Cells Transl. Med.
+8, 14–21. doi: 10.1002/sctm.18-0012
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Friedrich, M. A., Martins, M. P., Araujo, M. D., Klamt, C., Vedolin, L., Garicochea, B., et al. (2012). Intra-arterial infusion of autologous bone marrow mononuclear cells in patients with moderate to severe middle cerebral artery acute ischemic stroke.
+Cell Transplant.
+21 Suppl. 1, S13–S21. doi: 10.3727/096368912X612512
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Giraldi-Guimardes, A., Rezende-Lima, M., Bruno, F. P., and Mendez-Otero, R. (2009). Treatment with bone marrow mononuclear cells induces functional recovery and decreases neurodegeneration after sensorimotor cortical ischemia in rats.
+Brain Res.
+1266, 108–120. doi: 10.1016/j.brainres.2009.01.062
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Goyal, M., Demchuk, A. M., Menon, B. K., Eesa, M., Rempel, J. L., Thornton, J., et al. (2015). Randomized assessment of rapid endovascular treatment of ischemic stroke.
+N. Engl. J. Med.
+372, 1019–1030. doi: 10.1056/NEJMoa1414905
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Gupta, N., Henry, R. G., Kang, S. M., Strober, J., Lim, D. A., Ryan, T., et al. (2019). Long-term safety, immunologic response and imaging outcomes following neural stem cell transplantation for Pelizaeus-Merzbacher disease.
+Stem Cell Reports
+13, 254–261. doi: 10.1016/j.stemcr.2019.07.002
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Gupta, N., Henry, R. G., Strober, J., Kang, S. M., Lim, D. A., Bucci, M., et al. (2012). Neural stem cell engraftment and myelination in the human brain.
+Sci. Transl. Med.
+4:155ra137. doi: 10.1126/scitranslmed.3004373
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Hacke, W., Kaste, M., Bluhmki, E., Brozman, M., Davalos, A., Guidetti, D., et al. (2008). Thrombolysis with alteplase 3 to 4.5 hours after acute ischemic stroke.
+N. Engl. J. Med.
+359, 1317–1329. doi: 10.1056/NEJMoa0804656
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Hao, L., Zou, Z., Tian, H., Zhang, Y., Song, C., Zhou, H., et al. (2015). Novel roles of perivascular nerves on neovascularization.
+Neurol. Sci.
+36, 353–360. doi: 10.1007/s10072-014-2016-x
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Hermann, D. M., Popa-Wagner, A., Kleinschnitz, C., and Doeppner, T. R. (2019). Animal models of ischemic stroke and their impact on drug discovery.
+Expert Opin. Drug Discov.
+14, 315–326. doi: 10.1080/17460441.2019.1573984
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Hess, D. C., Wechsler, L. R., Clark, W. M., Savitz, S. I., Ford, G. A., Chiu, D., et al. (2017). Safety and efficacy of multipotent adult progenitor cells in acute ischaemic stroke (MASTERS): a randomised, double-blind, placebo-controlled, phase 2 trial.
+Lancet Neurol.
+16, 360–368. doi: 10.1016/S1474-4422(17)30046-7
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Hicks, C., Stevanato, L., Stroemer, R. P., Tang, E., Richardson, S., and Sinden, J. D. (2013).
+In vivo
+and
+in vitro
+characterization of the angiogenic effect of CTX0E03 human neural stem cells.
+Cell Transplant.
+22, 1541–1552. doi: 10.3727/096368912X657936
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Honmou, O., Houkin, K., Matsunaga, T., Niitsu, Y., Ishiai, S., Onodera, R., et al. (2011). Intravenous administration of auto serum-expanded autologous mesenchymal stem cells in stroke.
+Brain
+134, 1790–1807. doi: 10.1093/brain/awr063
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Jiang, Y., Jahagirdar, B. N., Reinhardt, R. L., Schwartz, R. E., Keene, C. D., Ortiz-Gonzalez, X. R., et al. (2002). Pluripotency of mesenchymal stem cells derived from adult marrow.
+Nature
+418, 41–49. doi: 10.1038/nature00870
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Jovin, T. G., Chamorro, A., Cobo, E., de Miquel, M. A., Molina, C. A., Rovira, A., et al. (2015). Thrombectomy within 8 hours after symptom onset in ischemic stroke.
+N. Engl. J. Med.
+372, 2296–2306. doi: 10.1056/NEJMoa1503780
+CrossRef Full Text
+|
+Google Scholar
+Kalladka, D., Sinden, J., Pollock, K., Haig, C., McLean, J., Smith, W., et al. (2016). Human neural stem cells in patients with chronic ischaemic stroke (PISCES): a phase 1, first-in-man study.
+Lancet
+388, 787–796. doi: 10.1016/S0140-6736(16)30513-X
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Kastan, M. B., Schlaffer, E., Russo, J. E., Colvin, O. M., Civin, C. I., and Hilton, J. (1990). Direct demonstration of elevated aldehyde dehydrogenase in human hematopoietic progenitor cells.
+Blood
+75, 1947–1950.
+PubMed Abstract
+|
+Google Scholar
+Keller, L. H. (2009). Bone marrow-derived aldehyde dehydrogenase-bright stem and progenitor cells for ischemic repair.
+Congest. Heart Fail.
+15, 202–206. doi: 10.1111/j.1751-7133.2009.00101.x
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Kelly, S., Bliss, T. M., Shah, A. K., Sun, G. H., Ma, M., Foo, W. C., et al. (2004). Transplanted human fetal neural stem cells survive, migrate and differentiate in ischemic rat cerebral cortex.
+Proc. Natl. Acad. Sci. U S A
+101, 11839–11844. doi: 10.1073/pnas.0404474101
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Klyushnenkova, E., Mosca, J. D., Zernetkina, V., Majumdar, M. K., Beggs, K. J., Simonetti, D. W., et al. (2005). T cell responses to allogeneic human mesenchymal stem cells: immunogenicity, tolerance and suppression.
+J. Biomed. Sci.
+12, 47–57. doi: 10.1007/s11373-004-8183-7
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Kondziolka, D., Steinberg, G. K., Wechsler, L., Meltzer, C. C., Elder, E., Gebel, J., et al. (2005). Neurotransplantation for patients with subcortical motor stroke: a phase 2 randomized trial.
+J. Neurosurg.
+103, 38–45. doi: 10.3171/jns.2005.103.1.0038
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Kondziolka, D., Wechsler, L., Goldstein, S., Meltzer, C., Thulborn, K. R., Gebel, J., et al. (2000). Transplantation of cultured human neuronal cells for patients with stroke.
+Neurology
+55, 565–569. doi: 10.1212/wnl.55.4.565
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Laskowitz, D. T., Bennett, E. R., Durham, R. J., Volpi, J. J., Wiese, J. R., Frankel, M., et al. (2018). Allogeneic umbilical cord blood infusion for adults with ischemic stroke: clinical outcomes from a phase I safety study.
+Stem Cells Transl. Med.
+7, 521–529. doi: 10.1002/sctm.18-0008
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Le Blanc, K., Tammik, C., Rosendahl, K., Zetterberg, E., and Ringden, O. (2003). HLA expression and immunologic properties of differentiated and undifferentiated mesenchymal stem cells.
+Exp. Hematol.
+31, 890–896. doi: 10.1016/s0301-472x(03)00110-3
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Lee, J. S., Hong, J. M., Moon, G. J., Lee, P. H., Ahn, Y. H., Bang, O. Y., et al. (2010). A long-term follow-up study of intravenous autologous mesenchymal stem cell transplantation in patients with ischemic stroke.
+Stem Cells
+28, 1099–1106. doi: 10.1002/stem.430
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Lee, J. Y., Kim, E., Choi, S. M., Kim, D. W., Kim, K. P., Lee, I., et al. (2016). Microvesicles from brain-extract-treated mesenchymal stem cells improve neurological functions in a rat model of ischemic stroke.
+Sci. Rep.
+6:33038. doi: 10.1038/srep33038
+CrossRef Full Text
+|
+Google Scholar
+Levy, M. L., Crawford, J. R., Dib, N., Verkh, L., Tankovich, N., and Cramer, S. C. (2019). Phase I/II study of safety and preliminary efficacy of intravenous allogeneic mesenchymal stem cells in chronic stroke.
+Stroke
+50, 2835–2841. doi: 10.1161/STROKEAHA.119.026318
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Li, Y., Chopp, M., Chen, J., Wang, L., Gautam, S. C., Xu, Y. X., et al. (2000). Intrastriatal transplantation of bone marrow nonhematopoietic cells improves functional recovery after stroke in adult mice.
+J. Cereb. Blood Flow Metab.
+20, 1311–1319. doi: 10.1097/00004647-200009000-00006
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Li, X., Zheng, W., Bai, H., Wang, J., Wei, R., Wen, H., et al. (2016). Intravenous administration of adipose tissue-derived stem cells enhances nerve healing and promotes BDNF expression
+via
+the TrkB signaling in a rat stroke model.
+Neuropsychiatr. Dis. Treat.
+12, 1287–1293. doi: 10.2147/NDT.S104917
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Macleod, M. R., Fisher, M., O’Collins, V., Sena, E. S., Dirnagl, U., Bath, P. M., et al. (2009). Good laboratory practice: preventing introduction of bias at the bench.
+Stroke
+40, e50–52. doi: 10.1161/STROKEAHA.108.525386
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Mead, G., Hackett, M. L., Lundstrom, E., Murray, V., Hankey, G. J., and Dennis, M. (2015). The focus, affinity and effects trials studying the effect(s) of fluoxetine in patients with a recent stroke: a study protocol for three multicentre randomised controlled trials.
+Trials
+16:369. doi: 10.1186/s13063-015-0864-1
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Modo, M., Stroemer, R. P., Tang, E., Patel, S., and Hodges, H. (2002). Effects of implantation site of stem cell grafts on behavioral recovery from stroke damage.
+Stroke
+33, 2270–2278. doi: 10.1161/01.str.0000027693.50675.c5
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Moniche, F., Gonzalez, A., Gonzalez-Marcos, J. R., Carmona, M., Pinero, P., Espigado, I., et al. (2012). Intra-arterial bone marrow mononuclear cells in ischemic stroke: a pilot clinical trial.
+Stroke
+43, 2242–2244. doi: 10.1161/STROKEAHA.112.659409
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Muir, K. W., Bulters, D., Willmot, M., Sprigg, N., Dixit, A., Ward, N., et al. (2020). Intracerebral implantation of human neural stem cells and motor recovery after stroke: multicentre prospective single-arm study (PISCES-2).
+J. Neurol. Neurosurg. Psychiatry
+91, 396–401. doi: 10.1136/jnnp-2019-322515
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Nogueira, R. G., Jadhav, A. P., Haussen, D. C., Bonafe, A., Budzik, R. F., Bhuva, P., et al. (2018). Thrombectomy 6 to 24 hours after stroke with a mismatch between deficit and infarct.
+N. Engl. J. Med.
+378, 11–21. doi: 10.1056/NEJMoa1706442
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Perin, E. C., Silva, G., Gahremanpour, A., Canales, J., Zheng, Y., Cabreira-Hansen, M. G., et al. (2011). A randomized, controlled study of autologous therapy with bone marrow-derived aldehyde dehydrogenase bright cells in patients with critical limb ischemia.
+Catheter. Cardiovasc. Interv.
+78, 1060–1067. doi: 10.1002/ccd.23066
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Perin, E. C., Silva, G. V., Zheng, Y., Gahremanpour, A., Canales, J., Patel, D., et al. (2012). Randomized, double-blind pilot study of transendocardial injection of autologous aldehyde dehydrogenase-bright stem cells in patients with ischemic heart failure.
+Am. Heart. J.
+163, 415–421, 421 e411. doi: 10.1016/j.ahj.2011.11.020
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Pollock, K., Stroemer, P., Patel, S., Stevanato, L., Hope, A., Miljan, E., et al. (2006). A conditionally immortal clonal stem cell line from human cortical neuroepithelium for the treatment of ischemic stroke.
+Exp. Neurol.
+199, 143–155. doi: 10.1016/j.expneurol.2005.12.011
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Prasad, K., Mohanty, S., Bhatia, R., Srivastava, M. V., Garg, A., Srivastava, A., et al. (2012). Autologous intravenous bone marrow mononuclear cell therapy for patients with subacute ischaemic stroke: a pilot study.
+Indian J. Med. Res.
+136, 221–228.
+PubMed Abstract
+|
+Google Scholar
+Prasad, K., Sharma, A., Garg, A., Mohanty, S., Bhatnagar, S., Johri, S., et al. (2014). Intravenous autologous bone marrow mononuclear stem cell therapy for ischemic stroke: a multicentric, randomized trial.
+Stroke
+45, 3618–3624. doi: 10.1161/STROKEAHA.114.007028
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Qiao, L. Y., Huang, F. J., Zhao, M., Xie, J. H., Shi, J., Wang, J., et al. (2014). A two-year follow-up study of cotransplantation with neural stem/progenitor cells and mesenchymal stromal cells in ischemic stroke patients.
+Cell Transplant.
+23 Suppl. 1, S65–S72. doi: 10.3727/096368914X684961
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Reyes, M., Lund, T., Lenvik, T., Aguiar, D., Koodie, L., and Verfaillie, C. M. (2001). Purification and ex vivo expansion of postnatal human marrow mesodermal progenitor cells.
+Blood
+98, 2615–2625. doi: 10.1182/blood.v98.9.2615
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Rosado-de-Castro, P. H., Schmidt Fda, R., Battistella, V., Lopes de Souza, S. A., Gutfilen, B., Goldenberg, R. C., et al. (2013). Biodistribution of bone marrow mononuclear cells after intra-arterial or intravenous transplantation in subacute stroke patients.
+Regen. Med.
+8, 145–155. doi: 10.2217/rme.13.2
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Sandu, R. E., Balseanu, A. T., Bogdan, C., Slevin, M., Petcu, E., and Popa-Wagner, A. (2017). Stem cell therapies in preclinical models of stroke. Is the aged brain microenvironment refractory to cell therapy?
+Exp. Gerontol.
+94, 73–77. doi: 10.1016/j.exger.2017.01.008
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Saver, J. L., Goyal, M., Bonafe, A., Diener, H. C., Levy, E. I., Pereira, V. M., et al. (2015). Stent-retriever thrombectomy after intravenous t-PA vs. t-PA alone in stroke.
+N. Engl. J. Med.
+372, 2285–2295. doi: 10.1056/NEJMoa1415061
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Saver, J. L., Goyal, M., van der Lugt, A., Menon, B. K., Majoie, C. B., Dippel, D. W., et al. (2016). Time to treatment with endovascular thrombectomy and outcomes from ischemic stroke: a meta-analysis.
+JAMA
+316, 1279–1288. doi: 10.1001/jama.2016.13647
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Savitz, S. I., Dinsmore, J., Wu, J., Henderson, G. V., Stieg, P., and Caplan, L. R. (2005). Neurotransplantation of fetal porcine cells in patients with basal ganglia infarcts: a preliminary safety and feasibility study.
+Cerebrovasc. Dis.
+20, 101–107. doi: 10.1159/000086518
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Savitz, S. I., Misra, V., Kasam, M., Juneja, H., Cox, C. S., Jr., Alderman, S., et al. (2011). Intravenous autologous bone marrow mononuclear cells for ischemic stroke.
+Ann. Neurol.
+70, 59–69. doi: 10.1002/ana.22458
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Savitz, S. I., Yavagal, D., Rappard, G., Likosky, W., Rutledge, N., Graffagnino, C., et al. (2019). A phase 2 randomized, sham-controlled trial of internal carotid artery infusion of autologous bone marrow-derived ALD-401 cells in patients with recent stable ischemic stroke (RECOVER-Stroke).
+Circulation
+139, 192–205. doi: 10.1161/CIRCULATIONAHA.117.030659
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Schmidt-Pogoda, A., Bonberg, N., Koecke, M. H. M., Strecker, J. K., Wellmann, J., Bruckmann, N. M., et al. (2020). Why most acute stroke studies are positive in animals but not in patients: a systematic comparison of preclinical, early phase and phase 3 clinical trials of neuroprotective agents.
+Ann. Neurol.
+87, 40–51. doi: 10.1002/ana.25643
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Sharma, A., Sane, H., Gokulchandran, N., Khopkar, D., Paranjape, A., Sundaram, J., et al. (2014). Autologous bone marrow mononuclear cells intrathecal transplantation in chronic stroke.
+Stroke Res. Treat.
+2014:234095. doi: 10.1155/2014/234095
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Shichinohe, H., Ishihara, T., Takahashi, K., Tanaka, Y., Miyamoto, M., Yamauchi, T., et al. (2015). Bone marrow stromal cells rescue ischemic brain by trophic effects and phenotypic change toward neural cells.
+Neurorehabil. Neural Repair
+29, 80–89. doi: 10.1177/1545968314525856
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Shyu, W. C., Lin, S. Z., Chiang, M. F., Su, C. Y., and Li, H. (2006). Intracerebral peripheral blood stem cell (CD34+) implantation induces neuroplasticity by enhancing beta1 integrin-mediated angiogenesis in chronic stroke rats.
+J. Neurosci.
+26, 3444–3453. doi: 10.1523/JNEUROSCI.5165-05.2006
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Simpson, D. M., Goldenberg, J., Kasner, S., Nash, M., Reding, M. J., Zweifler, R. M., et al. (2015). Dalfampridine in chronic sensorimotor deficits after ischemic stroke: a proof of concept study.
+J. Rehabil. Med.
+47, 924–931. doi: 10.2340/16501977-2033
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Smith, E. J., Stroemer, R. P., Gorenkova, N., Nakajima, M., Crum, W. R., Tang, E., et al. (2012). Implantation site and lesion topology determine efficacy of a human neural stem cell line in a rat model of chronic stroke.
+Stem Cells
+30, 785–796. doi: 10.1002/stem.1024
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Steinberg, G. K., Kondziolka, D., Wechsler, L. R., Lunsford, L. D., Coburn, M. L., Billigen, J. B., et al. (2016). Clinical outcomes of transplanted modified bone marrow-derived mesenchymal stem cells in stroke: a phase 1/2a study.
+Stroke
+47, 1817–1824. doi: 10.1161/STROKEAHA.116.012995
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Steinberg, G. K., Kondziolka, D., Wechsler, L. R., Lunsford, L. D., Kim, A. S., Johnson, J. N., et al. (2018). Two-year safety and clinical outcomes in chronic ischemic stroke patients after implantation of modified bone marrow-derived mesenchymal stem cells (SB623): a phase 1/2a study.
+J. Neurosurg.
+131, 1–11. doi: 10.3171/2018.5.JNS173147
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Stonesifer, C., Corey, S., Ghanekar, S., Diamandis, Z., Acosta, S. A., and Borlongan, C. V. (2017). Stem cell therapy for abrogating stroke-induced neuroinflammation and relevant secondary cell death mechanisms.
+Prog. Neurobiol.
+158, 94–131. doi: 10.1016/j.pneurobio.2017.07.004
+CrossRef Full Text
+|
+Google Scholar
+Stroemer, P., Patel, S., Hope, A., Oliveira, C., Pollock, K., and Sinden, J. (2009). The neural stem cell line CTX0E03 promotes behavioral recovery and endogenous neurogenesis after experimental stroke in a dose-dependent fashion.
+Neurorehabil. Neural Repair
+23, 895–909. doi: 10.1177/1545968309335978
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Suarez-Monteagudo, C., Hernandez-Ramirez, P., Alvarez-Gonzalez, L., Garcia-Maeso, I., de la Cuetara-Bernal, K., Castillo-Diaz, L., et al. (2009). Autologous bone marrow stem cell neurotransplantation in stroke patients. An open study.
+Restor. Neurol. Neurosci.
+27, 151–161. doi: 10.3233/RNN-2009-0483
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Surugiu, R., Olaru, A., Hermann, D. M., Glavan, D., Catalin, B., and Popa-Wagner, A. (2019). Recent advances in mono- and combined stem cell therapies of stroke in animal models and humans.
+Int. J. Mol. Sci.
+20:6029. doi: 10.3390/ijms20236029
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Taguchi, A., Sakai, C., Soma, T., Kasahara, Y., Stern, D. M., Kajimoto, K., et al. (2015). Intravenous autologous bone marrow mononuclear cell transplantation for stroke: phase1/2a clinical trial in a homogeneous group of stroke patients.
+Stem Cells Dev.
+24, 2207–2218. doi: 10.1089/scd.2015.0160
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Tajiri, N., Kaneko, Y., Shinozuka, K., Ishikawa, H., Yankee, E., McGrogan, M., et al. (2013). Stem cell recruitment of newly formed host cells
+via
+a successful seduction? Filling the gap between neurogenic niche and injured brain site.
+PLoS One
+8:e74857. doi: 10.1371/journal.pone.0074857
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Tamaki, S., Eckert, K., He, D., Sutton, R., Doshe, M., Jain, G., et al. (2002). Engraftment of sorted/expanded human central nervous system stem cells from fetal brain.
+J. Neurosci. Res.
+69, 976–986. doi: 10.1002/jnr.10412
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Tate, C. C., Fonck, C., McGrogan, M., and Case, C. C. (2010). Human mesenchymal stromal cells and their derivative, SB623 cells, rescue neural cells
+via
+trophic support following in vitro ischemia.
+Cell Transplant.
+19, 973–984. doi: 10.3727/096368910X494885
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Uchida, N., Buck, D. W., He, D., Reitsma, M. J., Masek, M., Phan, T. V., et al. (2000). Direct isolation of human central nervous system stem cells.
+Proc. Natl. Acad. Sci. U S A
+97, 14720–14725. doi: 10.1073/pnas.97.26.14720
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Uchida, N., Chen, K., Dohse, M., Hansen, K. D., Dean, J., Buser, J. R., et al. (2012). Human neural stem cells induce functional myelination in mice with severe dysmyelination.
+Sci. Transl. Med.
+4:155ra136. doi: 10.1126/scitranslmed.3004371
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Veizovic, T., Beech, J. S., Stroemer, R. P., Watson, W. P., and Hodges, H. (2001). Resolution of stroke deficits following contralateral grafts of conditionally immortal neuroepithelial stem cells.
+Stroke
+32, 1012–1019. doi: 10.1161/01.str.32.4.1012
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Wu, K. J., Yu, S. J., Chiang, C. W., Lee, Y. W., Yen, B. L., Tseng, P. C., et al. (2018). Neuroprotective action of human wharton’s jelly-derived mesenchymal stromal cell transplants in a rodent model of stroke.
+Cell Transplant.
+27, 1603–1612. doi: 10.1177/0963689718802754
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Yasuhara, T., Matsukawa, N., Hara, K., Maki, M., Ali, M. M., Yu, S. J., et al. (2009). Notch-induced rat and human bone marrow stromal cell grafts reduce ischemic cell loss and ameliorate behavioral deficits in chronic stroke animals.
+Stem Cells Dev.
+18, 1501–1514. doi: 10.1089/scd.2009.0011
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Yeo, S. H., Lim, Z. I., Mao, J., and Yau, W. P. (2017). Effects of central nervous system drugs on recovery after stroke: a systematic review and meta-analysis of randomized controlled trials.
+Clin. Drug Investig.
+37, 901–928. doi: 10.1007/s40261-017-0558-4
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Zbesko, J. C., Nguyen, T. V., Yang, T., Frye, J. B., Hussain, O., Hayes, M., et al. (2018). Glial scars are permeable to the neurotoxic environment of chronic stroke infarcts.
+Neurobiol. Dis.
+112, 63–78. doi: 10.1016/j.nbd.2018.01.007
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Zhang, R. L., Chopp, M., Roberts, C., Liu, X., Wei, M., Nejad-Davarani, S. P., et al. (2014). Stroke increases neural stem cells and angiogenesis in the neurogenic niche of the adult mouse.
+PLoS One
+9:e113972. doi: 10.1371/journal.pone.0113972
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Zhang, L., Wang, L. M., Chen, W. W., Ma, Z., Han, X., Liu, C. M., et al. (2017). Neural differentiation of human Wharton’s jelly-derived mesenchymal stem cells improves the recovery of neurological function after transplantation in ischemic stroke rats.
+Neural Regen. Res.
+12, 1103–1110. doi: 10.4103/1673-5374.211189
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Zheng, X., Zhang, L., Kuang, Y., Venkataramani, V., Jin, F., Hein, K., et al. (2020). Extracellular vesicles derived from neural progenitor cells–a preclinical evaluation for stroke treatment in mice.
+Transl. Stroke Res.
+doi: 10.1007/s12975-020-00814-z
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Zhou, H., Chang, S., and Rao, M. (2012). Human cord blood applications in cell therapy: looking back and look ahead.
+Expert Opin. Biol. Ther.
+12, 1059–1066. doi: 10.1517/14712598.2012.691161
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar

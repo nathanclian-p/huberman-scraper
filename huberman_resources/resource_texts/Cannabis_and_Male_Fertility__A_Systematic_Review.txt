@@ -1,0 +1,447 @@
+Abbreviations and Acronyms
+AEA
+anandamide
+CB1
+cannabinoid receptor 1
+CB2
+cannabinoid receptor 2
+ED
+erectile dysfunction
+FSH
+follicle stimulating hormone
+LH
+luteinizing hormone
+Met-AEA
+methanandamide
+THC
+Δ-9-tetrahydrocannabinol
+Marijuana is a drug derived from the hemp plant
+Cannabis sativa
+or
+Cannabis indica
+.
+1
+Its main psychoactive component is THC, which is linked to altered sensual perception,
+      mood changes and impaired body movement.
+1
+Sweeping legalization reforms in the United States in the last decade have broadly
+      expanded access to marijuana, such that 8 states have legalized marijuana for recreational
+      use while an additional 19 states permit marijuana for medical purposes.
+2
+Cannabis binds to the CB1 and CB2 G protein-coupled cannabinoid receptors, which are
+      the sites of action of endogenous endocannabinoids.
+3
+This signaling system is involved in a broad array of functions, including energy
+      homeostasis, memory, movement and pain.
+4
+Exocannabinoids such as cannabis plant derived THC modulate cannabinoid receptors,
+      likely interfering with the balance of downstream endogenous signaling pathways.
+5
+Studies to date have broadly demonstrated the presence of cannabinoid receptors on
+      sperm, suggesting that cannabis has the potential to disrupt sperm function.
+4,6
+Medical cannabis has been used as an experimental remedy with varying degrees of success
+      in a large number of disorders, including dementia, multiple sclerosis, Parkinson
+      disease, social anxiety disorder, depression, tobacco use disorder and neuropathic
+      pain.
+7
+Despite its growing popularity in the recreational and medical spheres, considerable
+      research is still needed to understand the potential negative effects of marijuana.
+      Particularly in the area of male fertility cannabis use has been linked to reproductive
+      hormone changes, altered semen parameters and reductions in libido and sexual performance.
+8
+A detailed review of how marijuana affects male fertility at each point along the
+      fertility axis is needed for clinicians to assess the potential risks that patients
+      incur when using this substance.
+To examine whether cannabis alters male fertility we systematically reviewed current
+      literature comparing hormone levels, semen parameters, gonadal size and sexual function
+      between subjects using cannabis and noncannabis using controls.
+Materials and Methods
+We systematically reviewed the literature to identify relevant studies of how cannabis
+      affects male fertility. We performed a PubMed®/MEDLINE® search in May 2018 using certain
+      MeSH terms in combination with cannabis and in combination with marijuana, including
+      cannabinoid receptors, CB1, CB2, sperm count, sperm concentration, sperm morphology,
+      sperm motility, sperm energy metabolism, sperm viability, sperm fertilization capacity,
+      sperm capacitation reaction, sperm acrosome reaction, follicle stimulating hormone,
+      luteinizing hormone, testosterone, estrogen, testicular size, testicular weight, sexual
+      drive and erectile dysfunction. These search terms were chosen to reflect the various
+      points of male sexual dysfunction which may contribute to infertility. The literature
+      search was limited to English publications or publications translated into English
+      and databases were searched from the date of inception to May 2018.
+We included animal and human studies in which primary data were gathered or retrospective
+      analyses were done. Reviews, meta-analyses and unpublished material were excluded
+      from analysis. Article titles and abstracts were reviewed in an unblinded manner to
+      determine eligibility and relevance, and 48 selected studies were included.
+Information was extracted from each study based on 1) study participant characteristics,
+      including human or animal status and the previous level of cannabis exposure; 2) intervention
+      type, including acute or chronic marijuana administration and prospective vs retrospective
+      analysis; and 3) outcome measure type, including sperm viability, sperm motility,
+      gonadal size and mating behaviors. Supplementary Appendix 1 (
+https://www.jurology.com
+) provides summary data on all surveyed literature regarding sperm parameters. Supplementary
+      Appendix 2 (
+https://www.jurology.com
+) provides summary data on all surveyed literature regarding changes to the hormonal
+      axis.
+Cannabis Effects on Sperm Parameters
+Count and Concentration
+Cannabis use is strongly associated with reductions in sperm count and concentration
+      in animal and human studies. Decreased epididymal sperm concentrations were observed
+      in mature male rats exposed to 16 puffs per day of marijuana, comparable to the recreational
+      level in humans, for 75 days.
+9
+This effect was replicated in a study in which 3 to 6 mg/kg of the
+Cannabis sativa
+derivative bhang was administered in adult male mice, which demonstrated a significantly
+      depressed sperm count (p <0.05).
+10
+Echoing these observations in rodents, daily administration of cannabis at a rate
+      of 12.5 mg/kg for 30 days in dogs was associated with complete spermatogenesis arrest.
+11
+Human studies have shown similar findings. In 20 chronic marijuana users who smoked
+      marijuana at least 4 days per week for 6 months those who smoked 10 or more times
+      per week had a significantly lower average ± SD sperm count than men who smoked 5
+      to 9 marijuana cigarettes per week (26.6 ± 7.3 vs 67.9 ± 6.3 million per ml, p <0.01).
+12
+This suggests an inverse relationship between marijuana use and sperm count. A Danish
+      cohort study on marijuana use in 1,215 participants revealed similar changes.
+13
+Men who reported using marijuana more than once per week had a 28% lower sperm concentration
+      and a 29% lower sperm count than men who had never used marijuana. In a study in which
+      16 chronic marijuana smokers were exposed to 4 weeks of high dose marijuana the time
+      to a reduced sperm count was 5 to 6 weeks after initiating marijuana use.
+14
+In human and animal models cannabis has shown strong links to reduced sperm count
+      and concentration which may be linked to arrested spermatogenesis. Future work is
+      needed to elucidate causal mechanisms.
+Morphology
+Cannabis use also appears to induce considerable morphological changes in sperm. In
+      a 1978 study Zimmerman et al treated male mice for 5 consecutive days with intraperitoneal
+      injections of the marijuana components THC, cannabinoid or cannabinol.
+15
+On microscopy 35 days after exposure mice treated with THC and cannabinol had a significantly
+      higher incidence of abnormal morphology than the control group, such as banana-shaped,
+      amorphous, folded or hookless heads. In another study rats given inhaled marijuana
+      demonstrated similar changes in sperm with increased detachment of sperm heads from
+      tails.
+9
+These findings were expanded by a prospective, 1,700 unmatched case reference study
+      of men in the United Kingdom presenting at a total of 14 fertility clinics.
+16
+Men who had used cannabis in the 3 months prior to collection of a semen sample and
+      were younger than 30 years were more likely to be in the category of abnormal sperm
+      morphology, defined as less than 4% normal sperm morphology (OR 1.94, 95% CI 1.05–3.60).
+Despite morphological changes the research suggests that cannabis does not induce
+      chromosome breakage in sperm. Generoso et al administered 50 mg/kg THC 5 times per
+      week for 6 weeks in 498 male mice.
+17
+After mating them with females no increase was observed in fetal dominant lethal
+      mutations or heritable translocations over those in controls. These findings were
+      supported by a study by Berryman et al, who found no THC induced increase in pre-implantation
+      loss, fetal mortality or the mutation index in fetuses fathered by male mice chronically
+      dosed with THC.
+18
+In animal and human models evidence suggests that cannabis induces morphological
+      changes in sperm while genetic material is preserved.
+Motility and Energy Metabolism
+The most extensive body of evidence for cannabis related alterations to sperm is for
+      sperm motility. Whan et al noted spermatotoxic effects of THC by incubating sperm
+      with THC at therapeutic doses, similar to concentrations shown to relieve pain or
+      reduce spasticity in humans with multiple sclerosis (0.032 μM) and recreational concentrations
+      (4.8 and 0.32 μM) for 3 hours, and then measuring motility by computer assisted semen
+      analysis.
+19
+The sperm were divided into fractions of 90% with the best fertilizing potential
+      and 45% with a poorer subpopulation. Compared to controls the 45% fraction showed
+      28% reduced motility at 0.032 μM THC (p=0.004) and 56% reduced motility at 4.8 μM
+      THC (p=0.01). The 90% fraction showed no significant difference in motility at 0.032
+      μM (p=0.80) but a 28% decrease in motility at 4.8 μM (p <0.001). Therapeutic and recreational
+      THC concentrations also resulted in reduced straight line velocity. A similar decrease
+      in sperm motility was seen in an analysis of semen samples from 16 healthy, chronic
+      marijuana users after 4 weeks of high dose marijuana.
+14
+Barbonetti et al elucidated the mechanism of these findings by establishing a link
+      between CB1 and sperm mitochondrial activity.
+20
+In sperm incubated with the CB1 receptor agonist Met-AEA a significant reduction
+      was observed in mitochondrial transmembrane potential. When the sperm were placed
+      under glycolysis blockade, causing them to switch oxidative phosphorylation, the introduction
+      of Met-AEA abolished sperm motility.
+The link between cannabis and sperm mitochondrial dysfunction was furthered by Badawy
+      et al, who added THC to semen and measured the oxygen concentration as a marker of
+      respiration.
+21
+Upon the addition of THC mitochondrial respiration immediately declined and was concentration
+      dependent in effect. The results were much more pronounced in washed sperm than in
+      neat semen, suggesting that seminal plasma contains some protective factors.
+These various investigations suggest that through the action of cannabis on the CB1
+      receptor the mitochondrial activity of sperm is reduced and as a result motility is
+      significantly impaired. Although Met-AEA and THC administration in the laboratory
+      has helped map potential pathways, to our knowledge it is not known whether these
+      effects are fully replicated in the male testes. Future testing should be done to
+      explore whether mitochondrial impairment is present in the semen of chronic cannabis
+      users.
+Viability
+Cannabis also has a detrimental effect on sperm viability. Rossato et al incubated
+      semen samples with the endocannabinoid AEA at varying concentrations and found that
+      viability was decreased in a dose dependent manner at supraphysiological AEA concentrations.
+22
+Reduced sperm viability related to cannabis has also been investigated using the highly
+      specific CB1 receptor antagonist rimonabant (SR141716). Cobellis et al found that
+      adding a micromolar concentration of rimonabant induced a small but significant increase
+      in the number of viable spermatozoa.
+23
+Aquila et al reported similar findings with 1 and 10 nM concentrations of rimonabant
+      increasing sperm viability with no further viability changes observed at higher concentrations.
+4
+While the cannabinoid system has clear links to sperm viability, future work should
+      be done to confirm these findings with exogenous cannabinoids as well as in the in
+      vivo setting.
+Fertilization Capacity
+Research suggests that the cannabinoid signaling pathway may be involved in inhibiting
+      sperm capacitation and activation. Using high performance liquid chromatography Schuel
+      et al observed that high levels of AEA are present in seminal plasma and in progressively
+      decreasing amounts in oviductal and follicular fluid, indicating that sperm are exposed
+      to progressively decreasing AEA levels along the entire fertilization path.
+24,25
+The authors speculated that high AEA levels maintain sperm in a quiescent state and
+      the decrease in AEA levels which occurs in the fertilization environment enables sperm
+      to become activated. These data suggest that increases in cannabinoid levels may interfere
+      with sperm activation and may be especially pertinent in the female reproductive tract,
+      which the sperm depend on for tightly regulated AEA levels to maintain proper function.
+Rossato et al reported that AEA inhibits the capacitation induced acrosome reaction
+      of human sperm after incubation in capacitating medium.
+22
+Using boar sperm Maccarrone et al found that Met-AEA reduced sperm capacitation in
+      a time dependent manner.
+26
+They also noted that this effect was mediated by the CB1 receptor since when rimonabant,
+      which blocks CB1, was added, Met-AEA produced no change in capacitation.
+Schuel et al used the cannabinoid agonist AM-365 to identify concentration dependent
+      stimulation and inhibition of sperm hyperactivated motility, which is a state needed
+      for sperm to reach the egg surface and which assists with penetration of the zona
+      pellucida.
+25
+In addition, they found that AM-365 administration completely inhibited the acrosomal
+      modifications needed to prepare for zona pellucida binding and AM-365 decreased tight
+      binding of sperm to the zona pellucida, which is needed for fertilization, by 49%
+      (p <0.001). Whan et al used THC with similar results.
+19
+They reported that for sperm undergoing artificial induction of the acrosome reaction
+      THC resulted in 57% inhibition of the acrosome reaction (p <0.001).
+Current work suggests that the endocannabinoid system is intimately linked to the
+      fertilization process in the male and female reproductive tracts. Given the well described
+      inhibitory effects, cannabis is likely to have negative impacts on fertilizing potential.
+Cannabis Effects on Reproductive Hormones
+Follicle Stimulating Hormone
+Relatively few studies have focused on cannabis and FSH levels, and most have observed
+      no effect. Cone et al found no significant change in FSH levels in 4 healthy males
+      with a history of frequent marijuana use before and after 2 marijuana cigarettes per
+      day for 3 consecutive days.
+27
+This finding was replicated by Wenger et al, who injected THC in the third cerebral
+      ventricle of adult male rats and subsequently observed no alteration in serum FSH
+      levels with time.
+28
+Vescovi et al observed that cannabis did not alter the response of FSH to gonadotropin-releasing
+      hormone in 10 male chronic marijuana users given gonadotropin-releasing hormone intravenously.
+29
+A depression in FSH levels was observed only by Kolodny et al, who compared plasma
+      hormone levels among 11 men who used 5 to 9 marijuana cigarettes per week, 9 who used
+      10 or more marijuana cigarettes per week and normal controls.
+12
+The group using 10 or more cigarettes per week had significantly lower FSH (p <0.01).
+Based on current studies, FSH may not be affected by cannabis except perhaps in the
+      limited case of heavy chronic use. Human studies to date have been limited in suggestive
+      power due to the small cohort sizes, leaving considerable room for further validation
+      with larger sample size investigations.
+Luteinizing Hormone
+In human and animal models LH is consistently lowered by cannabis.
+27–30
+In the single exception Kolodny et al did not observe any significant difference
+      in plasma LH levels between men who smoked 5 to 9 marijuana cigarettes per week and
+      men who smoked 10 or more per week.
+12
+However, the variation in marijuana use levels in this study may have been insufficient
+      to induce LH variations.
+The relationship between cannabis and LH was strengthened in a study by Wenger et
+      al, who used polyclonal antibodies against CB1 and CB2 to localize individual cells
+      expressing cannabinoid receptors.
+31
+The CB1 receptor was found in the anterior pituitary in LH secreting gonadotrophic
+      cells. Wenger et al reaffirmed these results after administering AEA to wild-type
+      and CB1 knockout mice, which revealed decreased LH secretion in the wild-type mice
+      but unchanged LH levels in the CB1 knockout mice.
+32
+As is the case with FSH related investigations, understanding how cannabis impacts
+      LH would be improved by larger randomized, controlled trials in human subjects.
+Testosterone
+The reported effect of cannabis on serum testosterone levels is widely variable across
+      current studies. In an early work in 20 chronic marijuana users Kolodny et al found
+      a significant reduction in testosterone levels between chronic and never marijuana
+      users (p <0.001).
+12
+The average plasma testosterone level in the control group was 742 ± 29 ng/ml, while
+      levels were 503 ± 40 and 309 ± 34 ng/ml in the 5 to 9 and the 10 or more marijuana
+      cigarettes a week groups, respectively (p <0.005). Serum testosterone reduction in
+      the setting of cannabis use has also been observed in several animal models.
+10,32
+In rats dosed acutely with THC at 10 mg/kg, a significant depression in testicular
+      testosterone synthesis was observed. An even larger effect on testicular testosterone
+      synthesis was observed in rats dosed chronically with THC at 2 mg/kg.
+33
+The evidence that cannabis depresses testosterone levels relies heavily on animal
+      studies. In contrast to findings in animals, most human studies support the conclusion
+      that testosterone levels are not significantly changed by cannabis use. A 1974 study
+      by Mendelson et al in 27 chronic marijuana users who were administered marijuana for
+      21 days showed no significant changes in plasma testosterone levels.
+34
+In a 1986 study of 4 male chronic marijuana users given 2 marijuana cigarettes per
+      day depressed free testosterone levels were observed but the levels did not significantly
+      differ from baseline.
+27
+In a later study free testosterone levels were compared in 41 normal controls and
+      in 66 Pakistani men who smoked cannabis daily or regularly consumed cannabis tea.
+35
+No significant difference was observed in plasma testosterone levels between the
+      cannabis users and the normal controls. Although sample size was limited in these
+      early human studies, they suggest that cannabis consumption does not significantly
+      alter testosterone levels.
+It is only recently that large cohort studies of cannabis users have been possible.
+      To date these studies have continued the trend of presenting conflicting or inconclusive
+      evidence on the link between cannabis use and testosterone levels.
+The first large cohort study on the effects of cannabis use was performed by Gundersen
+      et al in 2015 using a registry of 1,215 Danish men undergoing compulsory medical examination
+      to determine fitness for service.
+13
+Testosterone levels were 7% higher in self-reported marijuana smokers than in nonusers.
+      This was within the same range of testosterone elevation observed in cigarette smokers
+      in the cohort. The authors cautioned that the increased testosterone levels in marijuana
+      users could not be separated from the effect of tobacco smoking alone.
+A second major cohort study was done in 2017 by Thistle et al.
+36
+They used data on 1,577 American men using data from the 2011 to 2012 United States
+      National Health and Nutrition Survey with several novel outcomes. No difference was
+      observed in serum testosterone levels between ever and never users of marijuana. However,
+      serum testosterone levels showed an inverse association with time since the last regular
+      use of marijuana, and since the last marijuana use (p for trend 0.02 and <0.01, respectively).
+      This indicated that recency rather than frequency of use may have the strongest relationship
+      with serum testosterone levels. Additional large, population based samples are needed
+      to clarify currently conflicting reported effects of cannabis on testosterone levels.
+Testicular Size Changes
+Current research suggests a link between cannabis and testicular atrophy, although
+      this evidence relies largely on animal models. Studies in mice and rats have recorded
+      significant dose dependent reductions in prostate and seminal vesicle weight.
+10,37–39
+A study of dogs administered daily cannabis extract (12.5 mg/kg body weight) recorded
+      testicular degeneration and necrosis after only 30 days of exposure.
+11
+In a histological examination of the testes of mice exposed to cannabis Mandal and
+      Das found fewer spermatogonia as well as basement membrane damage, scant cytoplasm
+      and shrunken nuclei.
+40
+They also observed a reduction in seminiferous tubule diameter. Fortunately complete
+      recovery of spermatogenesis and testicular cell function was seen 45 days after ceasing
+      cannabis use, although testicular weight and seminiferous tubule size were not completely
+      restored at that time. The authors speculated that testicular damage may be due to
+      oxidative stress as a result of finding a significant decrease in antioxidant enzymes
+      in affected testicles. This hypothesis was furthered by the work of Alagbonsi et al,
+      who found that testicular damage induced by
+Cannabis sativa
+in rats was ameliorated by administering an antioxidant combination of melatonin
+      and vitamin C.
+41
+Banerjee et al reported that cannabis has direct effects on seminiferous tubule function
+      which is not mediated simply by hormone levels.
+10
+The seminiferous tubules express LH receptor and fatty acid amide hydrolase, which
+      has a pivotal role in modulating sperm motility, capacitation and the acrosome reaction.
+      Western blot of LH receptor and fatty acid amide hydrolase after low and high dose
+      administration of bhang showed significant reductions in the expression of each protein
+      (p <0.05).
+Animal models present clear evidence of testicular atrophy after prolonged and consistent
+      exposure to cannabis, an effect which is likely to be largely reversible. Current
+      research indicates that this effect is at least in part due to direct damage to the
+      seminiferous tubules, which may be mediated by oxidative stress. Future work is needed
+      to better understand how these findings carry over into human models, particularly
+      in terms of identifying the quantity and the duration of cannabis exposure which could
+      produce changes equivalent to those observed in animal studies to date.
+Sexual Function
+Cannabis, which has been used as an aphrodisiac since ancient times, was anecdotally
+      described to enhance sexual performance and enjoyment.
+42
+In interview data on 800 chronic cannabis users collected by Kolodny et al 83% reported
+      enhanced sexual pleasure while using cannabis.
+43
+A recent investigation by Androvicova et al validated these results by showing that
+      cannabis intoxication increased activation of the right nucleus accumbens upon presentation
+      of erotic stimuli, leading the authors to conclude that cannabis may help in the treatment
+      of hypoactive sexual desire.
+44
+In contrast to these findings, animal studies demonstrated reduced libido after acute
+      and chronic cannabis administration. Using 5 mg/kg THC Murphy et al found that 30
+      minutes after THC injection the percent of male rats showing copulatory behavior with
+      sexually receptive females was significantly diminished.
+45
+Using 10 mg/kg THC Dhawan and Sharma found that after 30 consecutive days of THC
+      administration male rats showed reduced copulatory and mounting behaviors without
+      decreased motor activity levels overall.
+46
+Supporting the findings in animal models, research has also tied cannabis to sexual
+      dysfunction. Aversa et al observed that of 64 men evaluated for ED complaints 78%
+      with organic ED admitted to frequently smoking cannabis in contrast to only 3% with
+      nonorganic ED.
+47
+The group demonstrated that impaired epithelium dependent vasodilation occurred more
+      frequently in individuals with organic ED, leading to the conclusion that cannabis
+      likely induces ED through early endothelial damage.
+Strengthening the evidence that the cannabinoid system is linked to erectile capacity,
+      Succu et al found that the CB1 receptor blocker rimonabant induced erection in rats
+      when injected into the paraventricular nucleus.
+48
+Melis et al followed up on these results and reported that the mechanism is likely
+      mediated by neuronal nitric oxide synthase activation by rimonabant.
+49
+On the whole, current research points to a paradoxical effect of cannabis on sexual
+      function. While short-term libido is augmented, the ability to achieve erection appears
+      to be diminished. Future research is needed to elucidate the causative effects.
+Conclusions
+As cannabis increasingly gains legalized status across the United States, the popularity
+      and prevalence of use continue to grow. Although medically it demonstrates therapeutic
+      promise in some areas such as multiple sclerosis and chronic neuropathic pain, the
+      potential adverse effects remain widely under studied.
+8
+Because men of reproductive age are the most prevalent users of marijuana, its ability
+      to impact male fertility is of special importance.
+50
+Current research shows that cannabis likely has negative impacts at several points
+      along the male fertility pathway. Human sperm express cannabinoid receptors, suggesting
+      that they are directly impacted by alterations in the balance of the endocannabinoid
+      system. The effect of cannabis on testosterone levels is largely undetermined while
+      LH levels appear to be lowered and FSH levels are unchanged.
+The strongest evidence for the deleterious effects of cannabis on male reproductive
+      capacity is its impact on semen parameters. Studies demonstrate reduced sperm count
+      and concentration, morphological changes, reduced motility and viability, and decreased
+      fertilizing capacity in animals and humans exposed to marijuana or cannabis derivatives.
+      Furthermore, animal studies suggest that cannabis has a role in testicular atrophy.
+      While cannabis may increase libido in the short term, chronic use may diminish erectile
+      function in men.
+The evidence presented to date largely relies on animal models, in vitro studies of
+      endogenous cannabinoid compounds and retrospective analyses. The ethical and legal
+      complications of an in vivo, controlled study drive the limited amount of data presented
+      in human subjects, a limitation which is unlikely to abate going forward. Future studies
+      should focus on gathering large cohort data in national surveys, similar to the voluntary,
+      cannabis related data collection done with compulsory military fitness examinations
+      in Denmark.
+13
+These types of studies are needed to confirm that animal models can be translated
+      to human experience.
+Furthermore, the mechanistic underpinnings of cannabis effects on the hormonal axis,
+      libido and erectile function require greater elucidation to move beyond current associational
+      studies. Special attention should be given to determining effect reversibility and
+      establishing a level of cannabis use which would meaningfully decrease fertilizing
+      potential. Until the links between cannabis use and male fertility become more concrete
+      and well described, physicians should consider probing the degree of cannabis use
+      in evaluations of male infertility and they may choose to consider possible complications
+      in reproductive age individuals when evaluating the prescription of medical marijuana.
+© 2019 by American Urological Association Education and Research, Inc.

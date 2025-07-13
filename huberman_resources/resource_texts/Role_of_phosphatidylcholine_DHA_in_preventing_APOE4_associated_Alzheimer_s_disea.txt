@@ -1,0 +1,2807 @@
+ABBREVIATIONS
+AD
+Alzheimer's disease
+APOE
+apolipoprotein E
+BBB
+blood-brain barrier
+DHA
+docosahexaenoic acid
+DHA-lysoPC
+lysophosphatidylcholine DHA
+free DHA
+nonesterified DHA
+GLUT
+glucose transporter
+LCAT
+lecithin-cholesterol acytransferase
+MFSD2A
+major facilitator superfamily domain-containing protein 2A
+PLA
+phospholipase A
+Alzheimer's disease (AD) is a neurodegenerative disorder characterized by progressive memory loss, spatial disorientation, cognitive dysfunction, and behavioral changes. The primary risk factor for sporadic AD is aging, with prevalence roughly doubling every 5 yr after age 65. Approximately one-third of individuals aged 85 and older have AD (
+1
+). The major genetic risk factor for late-onset AD is a variant in the apolipoprotein E (
+APOE
+) gene called
+APOE4
+.
+The human
+APOE
+gene contains several single nucleotide polymorphisms that result in 3 common APOE isoforms: APOE2, -3, and -4. Approximately 65–80% of all individuals who develop AD carry at least 1
+APOE4
+allele, a characteristic observed in ∼25% of the global population (
+2
+). Compared with individuals who have no
+APOE4
+alleles, having 1
+APOE4
+allele increases AD risk 2–3-fold; carrying 2
+APOE4
+alleles increases risk as much as 15-fold (
+3
+). However, having an
+APOE4
+allele does not necessarily mean that a person will develop AD. Some individuals with an
+APOE4
+allele never get AD, and others who do develop AD do not have any
+APOE4
+alleles (
+4
+). Although the presence of the
+APOE4
+allele poses a significantly higher risk for AD and cognitive impairment later in life, it is associated with improved cognition and intelligence in early life, suggesting that the
+APOE4
+allele is an example of antagonistic pleiotropy (
+5
+–
+7
+).
+APOE is widely distributed in both peripheral and brain tissue, where it participates in lipid and cholesterol transport
+via
+an LDL receptor-mediated mechanism. Peripheral APOE, which is synthesized primarily in the liver, regulates lipid and cholesterol transport to tissues, and participates in reverse cholesterol transport in plasma. In peripheral tissues, the isoforms of APOE have various effects on lipid metabolism. The APOE3 isoform, considered the benchmark of normal lipid homeostasis, is the standard by which other isoforms are compared. The APOE2 isoform is associated with increased APOE protein expression, increased plasma triglycerides, and decreased plasma cholesterol. The APOE4 isoform is associated with decreased APOE protein expression and increased plasma cholesterol. Brain APOE, which is synthesized primarily by astrocytes, regulates lipid and cholesterol transport to neurons. In the brain, APOE2 and -3 isoforms accumulate in neurons 2–4-fold higher than APOE4, rendering APOE4 less effective at performing its function in the brain (
+8
+).
+PATHOLOGIC HALLMARKS OF ALZHEIMER'S DISEASE
+The pathologic hallmarks of AD include extracellular amyloid-β plaques, intracellular neurofibrillary (tau) tangles, and reduced glucose uptake in the brain (
+Fig.
+1
+). A summary of these hallmarks provides a framework for understanding the disease processes that drive the progression of AD.
+Hallmarks of AD. AD is associated with decreased GLUT1 transporters and glucose uptake, tau tangles inside of neurons, and amyloid-β plaques in the extracellular space between neurons. Both tau tangles and amyloid-β plaques disrupt neuronal synaptic transmission. These 3 key pathologies lead to progression of AD.
+Extracellular amyloid-β plaques
+Normal aging is associated with the accumulation of reactive oxygen species and inflammation in brain tissue, leading to activation of microglial cells, the brain's resident immune cells. Microglial cells serve an essential role in maintaining brain microenvironment homeostasis. Their activation in the acutely injured brain modulates inflammation and neurotoxicity. In the setting of AD, however, microglial cells are chronically activated by the presence of a 42-aa peptide called amyloid-β42, which results from the cleavage of the full-length amyloid-β protein (
+9
+). Chronic microglia activation promotes the production of amyloid-β plaques and initiates a vicious cycle of sustained microglial activation and further production of amyloid-β42 (
+10
+). The aggregation of amyloid-β plaques outside of neurons disrupts and destroys synapses between neurons, inhibiting synaptic transmission and inducing neuronal cell death and neurite retraction associated with AD (Fig.
+1
+).
+Amyloid-β plaques are cleared from the brain primarily through the glymphatic system and, to a lesser degree,
+via
+an APOE-mediated mechanism. The glymphatic system is activated in sleep, during which cerebrospinal fluid diffuses into the brain and carries away waste products including amyloid plaques (
+11
+). Poor quality or insufficient sleep prevents glymphatic system activation and leads to greater amyloid plaque accumulation, particularly in APOE4-positive individuals who are unable to clear amyloid peptides
+via
+APOE receptor-mediated uptake (
+12
+). In APOE-mediated clearance, APOE binds to amyloid-β42 peptide and clears it out of the extracellular space between neurons
+via
+the APOE receptor. The APOE4 isoform, however, is unable to clear amyloid-β plaques from the brain because it binds to amyloid-β42 peptide with 20-fold lower affinity than APOE3 (
+13
+).
+Intracellular neurofibrillary tangles
+Whereas amyloid-β aggregates outside of neurons, tau, a microtubule-associated protein, aggregates and forms neurofibrillary (tau) tangles inside the neurons in the brains of individuals with AD (Fig.
+1
+). When tau tangles form, the microtubules inside the axon lose stability, thus disrupting the primary system for transporting mitochondria, lipids, and cellular metabolites (
+9
+). Cellular energy is thereby reduced, and new synapse formation is halted, resulting in impaired memory, an early hallmark of AD. Eventually, energy levels are insufficient to maintain previously formed synapses, leading to long-term memory deficits, neuronal cell death, and brain atrophy, which are all associated with AD.
+Reduced brain glucose uptake
+Brain glucose uptake and metabolism are impaired in AD (Fig.
+1
+) (
+14
+). Metabolic profiling indicates that a subtype of AD specifically associated with the
+APOE4
+variant is associated with decreased brain glucose utilization (
+15
+). Carriers of 1 or 2
+APOE4
+alleles demonstrate decreased brain glucose uptake decades before manifesting clinical features of AD, and individuals with sporadic AD demonstrate decreased brain glucose uptake and increased amyloid plaque deposition comparable to that observed in individuals with autosomal dominant AD mutations, such as amyloid precursor protein, presenilin-1, or presenilin-2 (
+16
+,
+17
+).
+Glucose enters the brain solely
+via
+glucose transporters (GLUTs) resident at the blood–brain barrier (BBB). Brain glucose metabolism is tightly regulated, and neurons are incapable of glucose synthesis or storage. The major GLUTs in the brain are GLUT1 and -3, which do not depend on insulin for glucose uptake and are not insulin sensitive (
+16
+,
+18
+). Both GLUT1 and -3 are markedly decreased in the brains of patients with AD carrying an
+APOE4
+allele, compared with healthy individuals without an
+APOE4
+allele (
+18
+–
+20
+). In mice, GLUT1 deficiency decreases brain glucose uptake and promotes greater accumulation of amyloid plaques, decreases amyloid clearance, and causes widespread neuronal loss and dysfunction consistent with AD (
+21
+).
+Impaired brain glucose uptake also plays a causal role in formation of tau tangles. Decreased brain glucose uptake impairs attachment of
+O
+-linked
+N
+-acetylglucosamine (
+O
+-GlcNAcylation), a post-translational modification of tau protein, leading to tau hyperphosphorylation and subsequent formation of tau tangles (
+22
+–
+24
+). A possible explanation for the increase in hyperphosphorylated tau in the setting of decreased brain glucose metabolism may be low levels of GLUT1 and -3 transporters. Decreased GLUT1 and -3 diminishes
+O
+-GlcNAcylation as much as 50% (
+22
+,
+25
+,
+26
+) and increases hyperphosphorylation of tau and the quantity of tau tangles in AD brains (
+18
+). Furthermore, hyperphosphorylated tau, which promotes formation of tau tangles, exhibits 4-fold less
+O
+-GlcNAcylation than nonphosphorylated tau in the brains of individuals with AD (
+25
+). These data suggest that normal glucose transport into the brain is dependent on GLUT1 and -3 transporters and may be instrumental in preventing hyperphosphorylation of tau protein, the formation of tau tangles, and subsequent development of AD.
+DHA INFLUENCES 3 KEY AD PATHOLOGIES
+Docosahexaenoic acid (DHA) is an essential ω-3 fatty acid that comprises ∼30% of the lipids in the human brain. Whereas low levels of DHA promote the 3 pathologies characteristic of AD, normal or high levels prevent or ameliorate them (
+Fig.
+2
+). Although DHA can be synthesized from plant-derived ω-3 fatty acids, this metabolic pathway is inefficient in humans. As such, most DHA in the human brain is supplied from marine dietary or supplemental sources (
+27
+). Supplementation with DHA reduces amyloid-β plaque production, aggregation, and toxicity, and promotes plaque clearance in individuals with moderate dementia and AD (
+28
+–
+30
+). Furthermore, DHA supplementation decreases tau tangles. Patients with AD who received ∼2 g of supplemental DHA for 6 mo exhibited decreased amounts of phosphorylated tau protein in cerebrospinal fluid (
+31
+), and nonhuman primates given DHA supplementation demonstrated decreased tau pathology (
+32
+). Finally, because DHA is an important component of cell membranes, it facilitates transport of glucose into the brain by regulating GLUT1 transporters (Fig.
+2
+). In rats, DHA deficiency decreases GLUT1 transporters by up to 30% (
+33
+,
+34
+), but DHA supplementation increases GLUT1 transporters by 37% and causes endothelial cells to take up more glucose, compared with rodent and nonhuman primate controls (
+35
+,
+36
+).
+DHA regulates brain glucose uptake, which prevents amyloid-β plaque and tau tangle formation.
+A
+) DHA in the brain increases GLUT1 at the BBB, facilitating glucose transport into the brain. Glucose is required for
+O
+-GlcNAcylation (GlcNAc) of tau protein, which prevents tau phosphorylation.
+B
+) Low DHA concentrations in the brain reduce GLUT1 transporter expression. Subsequently, less glucose is transported across the BBB, resulting in less GlcNAc of tau, which leads to increased tau phosphorylation and ensuing tau tangle formation. Decreased brain glucose also promotes amyloid-β plaque formation.
+GENE-DIET INTERACTION: APOE4-DHA
+Healthy diet and lifestyle factors such as sufficient micro-nutrient status, increased vegetable intake, adequate sleep, and physical activity decrease AD risk in individuals carrying an
+APOE4
+allele (
+28
+–
+30
+,
+37
+). In contrast, unhealthy diet and lifestyle factors such as excessive alcohol consumption, low polyunsaturated fat intake, high saturated fat intake, and smoking increase AD risk among
+APOE4
+carriers (
+38
+). Dietary fish intake also slows the progression of AD in both
+APOE4
+carriers and noncarriers. Individuals with the
+APOE4
+allele who have high dietary intakes of fish or seafood demonstrate improved brain neuropathology on measures related to AD, including global AD pathology, neuritic plaque density, and AD diagnostic score (
+39
+). Patients with AD (both
+APOE4
+carriers and noncarriers) who were treated with a complex dietary and lifestyle protocol that included wild fish experienced a reversal of cognitive decline (
+28
+,
+40
+). Dietary intake of fish had no effect in
+APOE4
+carriers in 2 studies, but those studies included <1 serving of fish per week, which may not provide a high enough concentration of ω-3 fatty acids to the brain (
+41
+,
+42
+).
+The benefits of dietary fish intake on cognitive function in
+APOE4
+carriers have not been observed with DHA supplementation. Multiple studies demonstrate that supplementation with 2 g of DHA per day slows the progression of cognitive decline of AD in
+APOE4
+noncarriers, but has no effect in
+APOE4
+carriers (
+43
+,
+44
+). In addition, the positive effects on brain neuropathology observed with high dietary fish intake in
+APOE4
+carriers are not observed with DHA supplementation in
+APOE4
+carriers (
+39
+). Furthermore, individuals with the
+APOE4
+allele do not clear amyloid-β plaques after DHA supplementation, and APOE4 impairs DHA transport into the brain, suggesting a possible gene-diet interaction (
+45
+,
+46
+).
+DHA is critical for preventing or ameliorating the 3 principal pathologies associated with AD. Individuals with
+APOE4
+have increased risk of developing AD and exhibit impaired DHA transport into the brain. Whereas dietary DHA improves AD pathology and reduces AD risk in both
+APOE4
+carriers and noncarriers, DHA supplementation improves AD pathology only in noncarriers. Discerning the mechanisms by which DHA is transported into the brain may be key to understanding the heterogeneous response to DHA supplementation and why the
+APOE4
+allele significantly increases AD risk.
+I suggest that
+APOE4
+carriers respond to DHA from fish but not DHA supplements because fish contains DHA in phospholipid form, whereas supplements do not. This difference in form influences whether DHA is metabolized to nonesterified DHA (free DHA) or a specific phospholipid form called lysophosphatidylcholine DHA (DHA-lysoPC). I propose that APOE4 carriers have an impaired brain transport mechanism in free DHA (but not in DHA-lysoPC) that is related to a BBB defect and that puts them at an increased risk for AD because of the accumulation of amyloid β plaques, tau tangles, and low brain glucose levels. I enumerate dietary sources that have greater amounts of DHA in phospholipid form than do fish and suggest that these sources provide a means to increase plasma levels of DHA-lysoPC. Such an increase may allow
+APOE4
+carriers to bypass their defective transport of free DHA and effectively deliver DHA-lysoPC into their brains, thereby lowering their risk of AD.
+DHA TRANSPORT INTO THE BRAIN
+Even though DHA is abundant in the brain, neurons lack the ability to synthesize it, and although astrocytes are capable of synthesizing DHA from the plant ω-3 fatty acid α-linolenic acid, most DHA must be acquired in the diet and transported from the plasma across the BBB into the brain (
+47
+).
+DHA is present in 2 major pools in plasma:
+1
+) as components of lipoproteins esterified to triacylglycerol, cholesteryl esters, or phospholipids, and
+2
+) bound to albumin, either as nonesterified free DHA or as esterified DHA-lysoPC (
+48
+). Approximately 45% of DHA in human plasma is present as free DHA bound to albumin, whereas the remaining 55% is esterified in DHA-lysoPC, most of which is bound to albumin (
+49
+). Albumin-bound free DHA and DHA-lysoPC are the only forms of DHA that are transported into the brain; however, they use different transport mechanisms (
+Fig.
+3
+). Free-DHA is transported across the outer membrane leaflet of the BBB
+via
+passive diffusion, and DHA-lysoPC is transported across the inner membrane leaflet of the BBB
+via
+the major facilitator superfamily domain-containing protein 2A (MFSD2A) (Fig.
+3
+) (
+50
+–
+52
+). MFSD2A is a transmembrane protein that is selectively found on endothelial cells that line blood vessels on the BBB (
+50
+).
+Transport of free DHA and DHA-lysoPC into the brain. Free DHA detaches from albumin in the plasma and is transported along the outer membrane leaflet of the BBB
+via
+passive diffusion. APOE3 produced in astrocytes plays a role in maintaining the tight junctions, which keep the outer membrane leaflet of the BBB intact. DHA-lysoPC detaches from albumin and is transported along the inner membrane leaflet of the BBB
+via
+the major facilitator superfamily domain-containing MFSD2A, which uses the electrochemical potential of sodium to transfer DHA-lysoPC into the brain.
+DHA-lysoPC appears to be the brain's preferred source of DHA (
+50
+). Studies demonstrate that DHA-lysoPC accumulates by 10-fold higher amounts in the brains of young rats and piglets, compared with DHA in free fatty acid form (
+53
+,
+54
+). After intravenous administration of DHA-lysoPC or free DHA, more DHA-lysoPC is transported into the brain than free DHA (
+48
+,
+50
+,
+55
+,
+56
+). Mice engineered to lack the MFSD2A transporter have 60% less DHA in their brains, have small brains, and exhibit a variety of motor and cognitive deficits (
+50
+). Humans with a partial or total deficiency in the MFSD2A transporter have impaired brain function that progressively worsens with age, suggesting that DHA-lysoPC transport into the brain is important for maintaining brain function during the aging process (
+57
+,
+58
+).
+Plasma levels of phosphatidylcholine DHA, which is the precursor to DHA-lysoPC, predict the occurrence of dementia. Approximately 70% of all dementia cases are related to AD (
+59
+). Individuals with plasma phosphatidylcholine DHA levels in the highest quartile had a 47% lower risk of dementia than did those with levels in the lower 3 quartiles, independent of the
+APOE4
+allele (
+59
+,
+60
+). In addition, low plasma lysophosphatidylcholine levels predicted a diagnosis of mild dementia and AD within 2–3 yr with 90% accuracy, independent of the
+APOE4
+allele (
+61
+). DHA levels in plasma phospholipids do not differ in
+APOE4
+carriers
+vs
+. noncarriers (
+45
+). These data suggest that low levels of phosphatidylcholine DHA and lysophosphatidylcholine both predict dementia and AD and that the presence of
+APOE4
+does not affect either of these.
+IMPAIRED FREE-DHA TRANSPORT INTO THE BRAINS OF APOE4 CARRIERS
+Multiple studies demonstrate that APOE4 present in the brain causes a breakdown in BBB integrity, as evidenced by the disruption of tight junctions and decreased cerebral vascularization (
+62
+–
+65
+). APOE produced by astrocytes in the brain participates in maintaining the integrity of the tight junctions in the BBB by activating occludin (one of the main components of tight junctions)
+via
+an LDL receptor-related protein 1–mediated mechanism (
+63
+). However, APOE4 in astrocytes is unable to activate occludin, which leads to degradation of the tight junctions and breakdown of the outer membrane leaflet of the BBB (
+63
+). In addition, APOE4 in astrocytes induces breakdown of the BBB caused by microvascular degeneration, basement membrane degradation, and diminished pericyte coverage, all of which progressively worsen with age (
+64
+,
+65
+). Furthermore, the basement membrane surface area is reduced in postmortem brains of
+APOE4
+carriers
+vs. APOE3
+carriers (
+66
+).
+Free-DHA is highly diffusible across the BBB and does not require a transporter to enter the brain (Fig.
+3
+) because of its small size (<500 D), low hydrogen bonding capability, and lipophilicity. It is transported across the outer membrane leaflet of the BBB
+via
+passive diffusion, which depends on the integrity of tight junctions and surface permeability, both of which are disrupted by APOE4 produced in astrocytes (
+59
+,
+61
+–
+63
+). APOE4 also disrupts the passage of other lipophilic compounds that are highly diffusible across the BBB, such as diazepam (
+59
+). DHA transport into the brain is disrupted in APOE4 transgenic mice and in
+APOE4
+carriers (
+45
+,
+46
+). However, which form of DHA transport, free DHA or DHA-lysoPC, is disrupted remains unknown. I propose that individuals who carry the
+APOE4
+allele have a defect in the transport of free DHA (but not DHA-lysoPC) into the brain because APOE4 causes degradation of tight junctions, which disrupts the outer membrane leaflet of the BBB, but not the inner membrane leaflet (
+Fig.
+4
+).
+APOE4 disrupts tight junctions and transport of free DHA into the brain. APOE4 produced in astrocytes promotes degradation of the tight junctions and breakdown of the outer leaflet of the BBB, which disrupts the transport of free DHA. APOE4 also causes breakdown of the BBB caused by microvascular degeneration, basement membrane degradation, and diminished pericyte coverage. DHA-lysoPC is carried across the BBB
+via
+the MFSD2A transporter, which transfers it to the inner membrane leaflet membrane of endothelial cells lining the BBB, allowing DHA-lysoPC to bypass the tight junction defect on the outer membrane leaflet between endothelial cells and to be transported into the brain.
+The effect of APOE4 produced in astrocytes on impaired transport of DHA and other compounds that are readily transported into the brain
+via
+passive diffusion progressively worsens with age (
+46
+,
+64
+). This aligns with evidence indicating that the aging process breaks down the integrity of the BBB and disrupts cerebral vascularization similar to the
+APOE4
+allele (
+67
+). DHA supplementation does not improve cognitive function in older individuals with
+APOE4
+but does in young
+APOE4
+carriers (
+43
+,
+68
+,
+69
+), perhaps because, in younger
+APOE4
+carriers, sufficient free DHA is transported into the brain to positively affect cognitive function; however, as the BBB deteriorates with age, insufficient free DHA is transported into the brain and cognitive function is impaired.
+DHA-lysoPC is another form of DHA that is transported into the brain. Its transport may provide a potential bypass for the BBB defect in
+APOE4
+carriers because in contrast to free DHA transport, DHA-lysoPC is transported through the inner membrane leaflet of the BBB and does not depend on tight junctions, which are disrupted by APOE4 produced in astrocytes (Fig.
+4
+). DHA-lysoPC is transported
+via
+the MFSD2A transporter, which uses the electrochemical potential of sodium to transfer DHA-lysoPC across the BBB (Fig.
+4
+). Once DHA-lysoPC reaches the BBB, it detaches from albumin and binds to Mfsd2a, which then transfers it to the inner membrane leaflet of endothelial cells lining the BBB (Fig.
+4
+). This transfer allows DHA-lysoPC to bypass the tight junctions on the outer membrane leaflet between endothelial cells (Fig.
+4
+) (
+50
+). This point is important because APOE4 produced in astrocytes leads to degradation of the tight junctions in the BBB, suggesting that in individuals with an
+APOE4
+allele, DHA-lysoPC transport into the brain is superior to free DHA transport. The specific transport of DHA-lysoPC into the brain
+via
+the MFSD2A transporter also appears to be critical for maintaining the integrity of the BBB, suggesting that DHA-lysoPC is even more important for
+APOE4
+carriers because they have disruption of tight junctions in the BBB and a decrease in cerebral vascularization (
+70
+,
+71
+).
+PHOSPHOLIPID DHA: A DIETARY BYPASS
+The reasons that carriers of the
+APOE4
+allele experience positive effects from dietary DHA intake but experience no benefits from DHA supplementation remain poorly understood. This difference in response most likely occurs because some of the DHA in fish and seafood is present in phospholipid form and maintains this form throughout its metabolic disposition. As such, it can be effectively transported across the BBB as DHA-lysoPC
+via
+the MFSD2A transporter (Fig.
+4
+). Fish contain ∼1.0–1.5% of their ω-3 fatty acids in phospholipids, whereas fish oil in supplements does not contain any DHA in phospholipid form. Fish roe, in particular, is one of the most concentrated sources of DHA in phospholipid form. The roe from salmon, herring, pollock, and flying fish contain ∼38–75% of their ω-3 fatty acids in phospholipid form, mostly present in phosphatidylcholine. Another rich source of DHA in phospholipid form is krill oil, which contains ∼35% of DHA in phospholipids (
+72
+). In contrast, formulations of fish oil supplements containing DHA are generally present as free fatty acids, ethyl esters, and, to a lesser extent, re-esterified triglyceride (
+73
+).
+DHA is metabolized differently depending on whether it is in phospholipid form (
+i.e
+., fish, fish roe, and krill oil), triglyceride form (
+i.e
+., fish and some DHA supplements), free fatty acid form (
+i.e
+., most DHA supplements), or ethyl ester form (
+i.e
+., most DHA supplements) (
+Fig.
+5
+). A summary of the metabolism of DHA in these various forms provides a useful framework for understanding how DHA present in fish, fish roe, and krill oil may be especially important for delivering DHA-lysoPC into the brains of
+APOE4
+carriers.
+Metabolism of phospholipid DHA, ethyl ester DHA, and triglyceride DHA.
+A
+) DHA is present on the
+sn
+1 and -2 positions of phosphatidylcholine. Human PLA
+2
+, present in the intestines, cleaves DHA on the
+sn
+2 position, yielding lysophosphatidylcholine with DHA at the
+sn1
+position and free fatty acid DHA (free DHA). The
+sn1
+DHA-lysoPC is resecreted into HDL, forming DHA-lysoPC bound to albumin
+via
+the enzyme LCAT. The free fatty acid DHA is resecreted into both LDL and HDL. In LDL, it forms free DHA bound to albumin
+via
+the enzyme lipase; in HDL, it forms DHA-lysoPC bound to albumin
+via
+LCAT.
+B
+) DHA in ethyl ester form is broken down into free fatty acid DHA, which is resecreted into both HDL and LDL. The DHA present in LDL readily forms free DHA bound to albumin, whereas the DHA present in HDL readily forms DHA-lysoPC bound to albumin.
+C
+) DHA present in triglyceride form is located at the
+sn2
+position of the triacylglycerol. Human pancreatic lipase generally liberates fatty acids from the
+sn1
+or
+-3
+positions and leaves the
+sn2
+monoglyceride intact. The
+sn2
+monoglyceride is resecreted into both LDL and HDL, where it forms free DHA bound to albumin and DHA-lysoPC bound to albumin, respectively.
+Metabolism of DHA in phospholipid form
+In phospholipids, fatty acids can be attached to the first and second carbons of the glycerol molecule, denoted as the nucleophilic substitution (
+sn
+)
+1
+and
+sn2
+positions, respectively. DHA can be attached at the
+sn1
+or -
+2
+position of the glycerol backbone. Most marine sources of fatty acids, such as fish and fish roe, have phosphatidylcholine with DHA at the
+sn
+2 position, with a small amount in the
+sn1
+position, with the exception of krill oil, which has a significant amount of phosphatidylcholine with DHA in the
+sn
+1 position (
+74
+–
+76
+). DHA at the
+sn2
+position in phospholipids can be broken down in the intestine by pancreatic phospholipase A
+2
+(PLA
+2
+), which releases DHA as free fatty acids. In turn, DHA free fatty acids are resecreted in chylomicrons into both HDL and LDL (
+77
+). The pool of DHA that is resecreted into HDL readily forms DHA-lysoPC
+via
+the enzyme lecithin-cholesterol acyltransferase (LCAT), whereas the DHA that is resecreted into LDL readily forms free DHA bound to albumin
+via
+the enzyme lipase (Fig.
+5
+A
+) (
+47
+,
+78
+,
+79
+). Another enzyme that is present in the plasma that can form DHA-lysoPC is endothelial lipase, which exhibits PLA
+1
+activity and is particularly abundant at the BBB (
+78
+). PLA
+1
+catalyzes the hydrolysis of fatty acids to produce a free fatty acid and a lysophospholipid (
+80
+).
+In contrast to DHA at the
+sn2
+position, DHA at the
+sn
+1 position on phospholipids escapes the action of pancreatic PLA
+2
+, thus allowing all of the DHA to be retained in phospholipid form and increasing the probability that DHA-lysoPC will be generated (Fig.
+5
+A
+) (
+77
+,
+81
+). DHA in the
+sn1
+position of phospholipids is incorporated into phospholipids at a rate ∼5-fold higher than DHA in free fatty acid form after absorption. In addition, DHA in the sn1 position of phospholipids accumulates in the HDL fraction by more than 2-fold (
+77
+). DHA-lysoPC derives from DHA present in phosphatidylcholine in HDL particles
+via
+the actions of LCAT, suggesting that all the DHA at the
+sn1
+position is likely to form DHA-lysoPC (
+78
+).
+Together, these data suggest that DHA at the
+sn2
+position of phospholipids is metabolized to a free fatty acid DHA, which is then resecreted into both LDL and HDL particles. Only the DHA in HDL forms DHA-lysoPC, however (Fig.
+5
+A
+). The DHA in LDL forms free DHA; only a portion of the DHA at the
+sn2
+position of phospholipids forms DHA-lysoPC. In contrast, all of the DHA at the
+sn1
+position retains its phospholipid form and is incorporated into HDL particles, thus forming even more DHA-lysoPC (Fig.
+5
+A
+).
+Metabolism of DHA in ethyl ester and triglyceride form
+In contrast to the DHA present in fish, fish roe, and krill oil, DHA from fish oil supplements is mostly present in the ethyl ester form, free fatty acid form, or, to a lesser extent, the re-esterified triglyceride form and is mostly broken down by pancreatic lipases in the intestines (
+73
+). In triglycerides, fatty acids can be attached to the first, second, or third carbons of the glycerol molecule, denoted as the
+sn1
+, -
+2
+, or -
+3
+positions, respectively. DHA can be attached at any of these positions on the glycerol backbone. DHA in ethyl ester form is broken down into free fatty acid DHA, which is resecreted in chylomicrons into both HDL and LDL (Fig.
+5
+B
+) (
+77
+). The DHA present in LDL readily forms free DHA, whereas the DHA present in HDL readily forms DHA-lysoPC (Fig.
+5
+B
+) (
+47
+,
+78
+,
+79
+). The DHA found in fish or fish oil supplements in triglyceride form is mostly located at the
+sn2
+position of the triacylglycerol (Fig.
+5
+C
+) (
+82
+). However, human pancreatic lipase generally liberates DHA from the
+sn1
+or -
+3
+positions and leaves the
+sn2
+monoglyceride intact (
+83
+). The
+sn2
+monoglyceride is resecreted in chylomicrons into both HDL and LDL (Fig.
+5
+C
+). DHA in triglyceride form from either fish or fish oil supplements accumulates in plasma phospholipids 4-fold higher than DHA in ethyl ester form (
+73
+).
+These data suggest that DHA has a different metabolic fate, depending on whether it originates from phospholipids, ethyl esters, or triglycerides (Fig.
+5
+). Similar to DHA at the
+sn2
+position in phospholipids, the DHA in ethyl ester form is metabolized to free fatty acid DHA, which ultimately can form both DHA-lysoPC and free DHA bound to albumin. DHA present in triglyceride form is metabolized to
+sn2
+monoglyceride, is resecreted in chylomicrons into both HDL and LDL, and ultimately forms both DHA-lysoPC and free DHA bound to albumin. However, phospholipids also have DHA at the
+sn1
+position, where it retains its phospholipid form and only forms DHA-lysoPC, therefore making DHA in phospholipid form a better source of DHA-lysoPC (Fig.
+5
+). However, since DHA in both triglyceride and ethyl ester forms can generate DHA-lysoPC, it remains possible that a higher dose of DHA in those forms may markedly increase the DHA-lysoPC pool.
+Plasma levels of DHA-lysoPC from DHA in phospholipid
+vs
+. triglyceride
+The metabolic disposition of DHA in the phospholipid form occurs more rapidly than that of the triglyceride form. For example, when humans consume DHA in phospholipid form, albumin-bound DHA-lysoPC appears in plasma faster than when they consume DHA in triglyceride form (
+81
+,
+84
+). In addition, red blood cell quantities of DHA-lysoPC, a biomarker for brain DHA levels, increase (
+49
+). Individuals who received an oral dose of phospholipid DHA demonstrated higher DHA uptake in red blood cells compared with those given an oral dose of DHA in triglyceride form (
+81
+,
+84
+). Humans who consume fish oil consisting of DHA in triglyceride form exhibit an increase in free DHA bound to albumin but a slower appearance of DHA-lysoPC 2 h later (
+49
+,
+84
+). In addition, more DHA is delivered to the brain when it is consumed in phospholipid form than when it is consumed in triglyceride form. Rats that were fed radiolabeled DHA in phospholipid form exhibited 78% more DHA in the cerebellum, 140% more DHA in the hippocampus, and 69% more DHA in the remainder of the brain after 6 h compared with rats fed DHA in triglyceride form (
+85
+). Furthermore, oral DHA-lysoPC given to mice increased brain DHA levels 2-fold and improved spatial learning and memory, whereas free DHA did not (
+86
+). These data suggest that consuming DHA in phospholipid form (
+i.e
+., fish, fish roe, krill oil) increases the formation of DHA-lysoPC in plasma, and more DHA is taken up by the brain compared with DHA consumed in triglyceride form (
+i.e
+., DHA supplements, fish).
+DISCUSSION
+Based on several independent lines of evidence, I suggest that the reason individuals with an
+APOE4
+allele have improved cognitive function with fish intake but not with DHA supplementation is that fish contains DHA in phospholipid form, whereas supplements do not. This difference in form influences whether DHA is metabolized to plasma free DHA or a specific phospholipid form called DHA-lysoPC. I propose that
+APOE4
+carriers have impaired brain transport of free DHA but not DHA-lysoPC as a consequence of a breakdown in BBB integrity. This impaired transport puts them at an increased risk for AD caused by the accumulation of amyloid β plaques, tau tangles, and low brain glucose levels. Dietary sources that contain high amounts of DHA in phospholipid form may provide a means to increase plasma levels of DHA-lysoPC. Such an increase may allow
+APOE4
+carriers to bypass their defective transport of free DHA and effectively deliver DHA-lysoPC into their brains, thereby lowering their risk of AD.
+This proposal is derived from the following observations:
+1
+)
+APOE4
+carriers have improved brain neuropathology and cognitive function with high dietary fish intake, but not with DHA supplementation;
+2
+) after DHA supplementation, humans and mice carrying the
+APOE4
+allele have decreased DHA transport into the brain, which progressively worsens with age;
+3
+) APOE4 in astrocytes inhibits occludin activation, which leads to degradation of the tight junctions, breakdown of the outer membrane leaflet of the BBB, and morphologic disturbances, including diminished cerebral vascularization, leading to BBB dysfunction;
+4
+) free DHA is highly diffusible across the BBB and is transported along the outer membrane leaflet of the BBB, but this process is disrupted by tight junction degradation caused by APOE4 produced in the brain;
+5
+) transport of DHA-lysoPC into the brain does not depend on tight junctions in the BBB, but instead is transported along the inner membrane leaflet
+via
+the MFSD2A transporter, which uses the electrochemical potential of sodium to transfer DHA-lysoPC into the brain;
+6
+) fish, fish roe, and krill oil contain DHA in phospholipid form to various extents, whereas DHA supplements contain DHA in triglyceride or ethyl ester form;
+7
+) more DHA in phospholipid form appears in the plasma as DHA-lysoPC compared with DHA in triglyceride form or ethyl ester form; and
+8
+) more DHA is taken up by the brain when DHA is consumed in phospholipid form compared with DHA consumed in triglyceride form.
+All clinical trials to date that have evaluated the effect of DHA on cognitive function and brain morphology, separately or together, in patients with AD with an
+APOE4
+allele have used fish oil supplements, which do not contain DHA in phospholipid form. When DHA is consumed in phospholipid form (as from dietary fish or seafood) more DHA appears in the plasma as DHA-lysoPC, which may be better transported across the BBB of
+APOE4
+carriers. There is a pressing need for clinical trials evaluating the effects of ω-3 in phospholipid form, either from fish roe oil or krill oil, on cognitive function in
+APOE4
+carriers with AD.
+ACKNOWLEDGMENTS
+The author thanks Bruce Ames (University of California San Francisco Benioff Children's Hospital Oakland Research Institute), Giovanna Ferro-Luzzi Ames, Teresa L. Johnson, Daniel Patrick, and Robert Ryan (University of Nevada, Reno, NV, USA) for comments, editing, and suggestions on the manuscript, and Alison Gates for assistance during drafting of the figures. R.P.P. is grateful for the support of financial contributors to her website
+FoundMy-Fitness.com
+, and to the Children's Hospital Oakland Research Institute (CHORI)–Ames Supporting Foundation for financially sustaining her during different periods of the drafting of this manuscript. R.P.P. produces a web-based podcast series and provides single nucleotide polymorphism–related resources that help listeners identify their individual genotypes from raw data provided by consumer genetic testing services. The author declares no conflicts of interest.
+AUTHOR CONTRIBUTION
+R. P. Patrick is the sole author of this manuscript.
+REFERENCES
+1
+Alzheimer's Association
+. (
+2015
+)
+2015 Alzheimer's disease facts and figures
+.
+Alzheimers Dement.
+11
+,
+332
+–
+384
+2
+Huang, Y.
+(
+2011
+)
+Roles of apolipoprotein E4 (ApoE4) in the pathogenesis of Alzheimer's disease: lessons from ApoE mouse models
+.
+Biochem. Soc. Trans.
+39
+,
+924
+–
+932
+3
+APOE and Alzheimer Disease Meta Analysis Consortium
+. (
+1997
+)
+Effects of age, sex, and ethnicity on the association between apolipoprotein E genotype and Alzheimer disease: a meta-analysis
+.
+JAMA
+278
+,
+1349
+–
+1356
+4
+Masters, C. L.
+,
+Bateman, R.
+,
+Blennow, K.
+,
+Rowe, C. C.
+,
+Sperling, R. A.
+, and
+Cummings, J. L.
+(
+2015
+)
+Alzheimer's disease
+.
+Nat. Rev. Dis. Primers
+1
+,
+15056
+5
+Jochemsen, H. M.
+,
+Muller, M.
+,
+van der Graaf, Y.
+, and
+Geerlings, M. I.
+(
+2012
+)
+APOE ε4 differentially influences change in memory performance depending on age: the SMART-MR study
+.
+Neurobiol. Aging
+33
+,
+832.e15
+–
+832.e22
+6
+Mondadori, C. R.
+,
+de Quervain, D. J.
+,
+Buchmann, A.
+,
+Mustovic, H.
+,
+Wollmer, M. A.
+,
+Schmidt, C. F.
+,
+Boesiger, P.
+,
+Hock, C.
+,
+Nitsch, R. M.
+,
+Papassotiropoulos, A.
+, and
+Henke, K.
+(
+2007
+)
+Better memory and neural efficiency in young apolipoprotein E epsilon4 carriers
+.
+Cereb. Cortex
+17
+,
+1934
+–
+1947
+7
+Yu, Y. W.
+,
+Lin, C. H.
+,
+Chen, S. P.
+,
+Hong, C. J.
+, and
+Tsai, S. J.
+(
+2000
+)
+Intelligence and event-related potentials for young female human volunteer apolipoprotein E epsilon4 and non-epsilon4 carriers
+.
+Neurosci. Lett.
+294
+,
+179
+–
+181
+8
+Hauser, P. S.
+,
+Narayanaswami, V.
+, and
+Ryan, R. O.
+(
+2011
+)
+Apolipoprotein E: from lipid transport to neurobiology
+.
+Prog. Lipid Res.
+50
+,
+62
+–
+74
+9
+Serrano-Pozo, A.
+,
+Frosch, M. P.
+,
+Masliah, E.
+, and
+Hyman, B. T.
+(
+2011
+)
+Neuropathological alterations in Alzheimer disease
+.
+Cold Spring Harb. Perspect. Med.
+1
+, a006189
+10
+Solito, E.
+, and
+Sastre, M.
+(
+2012
+)
+Microglia function in Alzheimer's disease
+.
+Front. Pharmacol.
+3
+,
+14
+11
+Tarasoff-Conway J. M.
+,
+Carare, R. O.
+,
+Osorio, R. S.
+,
+Glodzik, L.
+,
+Butler, T.
+,
+Fieremans, E.
+,
+Axel, L.
+,
+Rusinek, H.
+,
+Nicholson, C.
+,
+Zlokovic, B. V.
+,
+Frangione, B.
+,
+Blennow, K.
+,
+Ménard J.
+,
+Zetterberg, H.
+,
+Wisniewski, T.
+, and
+de Leon, M. J.
+(
+2015
+)
+Clearance systems in the brain-implications for Alzheimer disease
+.
+Nat. Rev. Neurol.
+11
+,
+457
+–
+470
+; erratum: 12, 248
+12
+Lim, A. S.
+,
+Kowgier, M.
+,
+Yu, L.
+,
+Buchman, A. S.
+, and
+Bennett, D. A.
+(
+2013
+)
+Sleep fragmentation and the risk of incident Alzheimer's disease and cognitive decline in older persons
+.
+Sleep (Basel)
+36
+,
+1027
+–
+1032
+13
+Kanekiyo, T.
+,
+Xu, H.
+, and
+Bu, G.
+(
+2014
+)
+ApoE and Aβ in Alzheimer's disease: accidental encounters or partners?
+Neuron
+81
+,
+740
+–
+754
+14
+Nordberg, A.
+,
+Rinne, J. O.
+,
+Kadir, A.
+, and
+Långström, B.
+(
+2010
+)
+The use of PET in Alzheimer disease
+.
+Nat. Rev. Neurol.
+6
+,
+78
+–
+87
+15
+Bredesen, D. E.
+(
+2015
+)
+Metabolic profiling distinguishes three subtypes of Alzheimer's disease
+.
+Aging (Albany N. Y.)
+7
+,
+595
+–
+600
+16
+Cunnane, S.
+,
+Nugent, S.
+,
+Roy, M.
+,
+Courchesne-Loyer, A.
+,
+Croteau, E.
+,
+Tremblay, S.
+,
+Castellano, A.
+,
+Pifferi, F.
+,
+Bocti, C.
+,
+Paquet, N.
+,
+Begdouri, H.
+,
+Bentourkia, M.
+,
+Turcotte, E.
+,
+Allard, M.
+,
+Barberger-Gateau, P.
+,
+Fulop, T.
+, and
+Rapoport, S. I.
+(
+2011
+)
+Brain fuel metabolism, aging, and Alzheimer's disease
+.
+Nutrition
+27
+,
+3
+–
+20
+17
+Rodriguez-Vieitez, E.
+,
+Saint-Aubert, L.
+,
+Carter, S. F.
+,
+Almkvist, O.
+,
+Farid, K.
+,
+Schöll, M.
+,
+Chiotis, K.
+,
+Thordardottir, S.
+,
+Graff, C.
+,
+Wall, A.
+,
+Långström, B.
+, and
+Nordberg, A.
+(
+2016
+)
+Diverging longitudinal changes in astrocytosis and amyloid PET in autosomal dominant Alzheimer's disease
+.
+Brain
+139
+,
+922
+–
+936
+18
+Liu, Y.
+,
+Liu, F.
+,
+Iqbal, K.
+,
+Grundke-Iqbal, I.
+, and
+Gong, C. X.
+(
+2008
+)
+Decreased glucose transporters correlate to abnormal hyperphosphorylation of tau in Alzheimer disease
+.
+FEBS Lett.
+582
+,
+359
+–
+364
+19
+Simpson, I. A.
+,
+Chundu, K. R.
+,
+Davies-Hill, T.
+,
+Honer, W. G.
+, and
+Davies, P.
+(
+1994
+)
+Decreased concentrations of GLUT1 and GLUT3 glucose transporters in the brains of patients with Alzheimer's disease
+.
+Ann. Neurol.
+35
+,
+546
+–
+551
+20
+Mooradian, A. D.
+,
+Chung, H. C.
+, and
+Shah, G. N.
+(
+1997
+)
+GLUT-1 expression in the cerebra of patients with Alzheimer's disease
+.
+Neurobiol. Aging
+18
+,
+469
+–
+474
+21
+Winkler, E. A.
+,
+Nishida, Y.
+,
+Sagare, A. P.
+,
+Rege, S. V.
+,
+Bell, R. D.
+,
+Perlmutter, D.
+,
+Sengillo, J. D.
+,
+Hillman, S.
+,
+Kong, P.
+,
+Nelson, A. R.
+,
+Sullivan, J. S.
+,
+Zhao, Z.
+,
+Meiselman, H. J.
+,
+Wendy, R. B.
+,
+Soto, J.
+,
+Abel, E. D.
+,
+Makshanoff, J.
+,
+Zuniga, E.
+,
+De Vivo, D. C.
+, and
+Zlokovic, B. V.
+(
+2015
+)
+GLUT1 reductions exacerbate Alzheimer's disease vasculoneuronal dysfunction and degeneration
+.
+Nat. Neurosci.
+18
+,
+521
+–
+530
+22
+Liu, F.
+,
+Iqbal, K.
+,
+Grundke-Iqbal, I.
+,
+Hart, G. W.
+, and
+Gong, C. X.
+(
+2004
+)
+O-GlcNAcylation regulates phosphorylation of tau: a mechanism involved in Alzheimer's disease
+.
+Proc. Natl. Acad. Sci. USA
+101
+,
+10804
+–
+10809
+23
+Li, X.
+,
+Lu, F.
+,
+Wang, J. Z.
+, and
+Gong, C. X.
+(
+2006
+)
+Concurrent alterations of O-GlcNAcylation and phosphorylation of tau in mouse brains during fasting
+.
+Eur. J. Neurosci.
+23
+,
+2078
+–
+2086
+24
+Deng, Y.
+,
+Li, B.
+,
+Liu, F.
+,
+Iqbal, K.
+,
+Grundke-Iqbal, I.
+,
+Brandt, R.
+, and
+Gong, C. X.
+(
+2008
+)
+Regulation between O-GlcNAcylation and phosphorylation of neurofilament-M and their dysregulation in Alzheimer disease
+.
+FASEB J.
+22
+,
+138
+–
+145
+25
+Liu, F.
+,
+Shi, J.
+,
+Tanimukai, H.
+,
+Gu, J.
+,
+Gu, J.
+,
+Grundke-Iqbal, I.
+,
+Iqbal, K.
+, and
+Gong, C. X.
+(
+2009
+)
+Reduced O-GlcNAcylation links lower brain glucose metabolism and tau pathology in Alzheimer's disease
+.
+Brain
+132
+,
+1820
+–
+1832
+26
+Gong, C. X.
+,
+Liu, F.
+,
+Grundke-Iqbal, I.
+, and
+Iqbal, K.
+(
+2006
+)
+Impaired brain glucose metabolism leads to Alzheimer neurofibrillary degeneration through a decrease in tau O-GlcNAcylation
+.
+J. Alzheimers Dis.
+9
+,
+1
+–
+12
+27
+Burdge, G. C.
+, and
+Calder, P. C.
+(
+2006
+)
+Dietary alpha-linolenic acid and health-related outcomes: a metabolic perspective
+.
+Nutr. Res. Rev.
+19
+,
+26
+–
+52
+28
+Bredesen, D. E.
+,
+Amos, E. C.
+,
+Canick, J.
+,
+Ackerley, M.
+,
+Raji, C.
+,
+Fiala, M.
+, and
+Ahdidan, J.
+(
+2016
+)
+Reversal of cognitive decline in Alzheimer's disease
+.
+Aging (Albany N. Y.)
+8
+,
+1250
+–
+1258
+29
+Lim, A. S.
+,
+Yu, L.
+,
+Kowgier, M.
+,
+Schneider, J. A.
+,
+Buchman, A. S.
+, and
+Bennett, D. A.
+(
+2013
+)
+Modification of the relationship of the apolipoprotein E ε4 allele to the risk of Alzheimer disease and neurofibrillary tangle density by sleep
+.
+JAMA Neurol.
+70
+,
+1544
+–
+1551
+30
+Smith J. C.
+,
+Nielson, K. A.
+,
+Woodard, J. L.
+,
+Seidenberg, M.
+,
+Durgerian, S.
+,
+Hazlett, K. E.
+,
+Figueroa, C. M.
+,
+Kandah, C. C.
+,
+Kay, C. D.
+,
+Matthews, M. A.
+, and
+Rao, S. M.
+(
+2014
+)
+Physical activity reduces hippo campal atrophy in elders at genetic risk for Alzheimer's disease
+.
+Front. Aging Neurosci.
+6
+,
+61
+31
+Freund Levi, Y.
+,
+Vedin, I.
+,
+Cederholm, T.
+,
+Basun, H.
+,
+Faxén Irving, G.
+,
+Eriksdotter, M.
+,
+Hjorth, E.
+,
+Schultzberg, M.
+,
+Vessby, B.
+,
+Wahlund, L. O.
+,
+Salem, N. Jr.
+, and
+Palmblad, J.
+(
+2014
+)
+Transfer of omega-3 fatty acids across the blood-brain barrier after dietary supplementation with a docosahexaenoic acid-rich omega-3 fatty acid preparation in patients with Alzheimer's disease: the OmegAD study
+.
+J. Intern. Med.
+275
+,
+428
+–
+436
+32
+Green, K. N.
+,
+Martinez-Coria, H.
+,
+Khashwji, H.
+,
+Hall, E. B.
+,
+Yurko-Mauro, K. A.
+,
+Ellis, L.
+, and
+LaFerla, F. M.
+(
+2007
+)
+Dietary docosahexaenoic acid and docosapentaenoic acid ameliorate amyloid-beta and tau pathology via a mechanism involving presenilin 1 levels
+.
+J. Neurosci.
+27
+,
+4385
+–
+4395
+33
+Pifferi, F.
+,
+Roux, F.
+,
+Langelier, B.
+,
+Alessandri J. M.
+,
+Vancassel, S.
+,
+Jouin, M.
+,
+Lavialle, M.
+, and
+Guesnet, P.
+(
+2005
+)
+(n-3) polyunsaturated fatty acid deficiency reduces the expression of both isoforms of the brain glucose transporter GLUT1 in rats
+.
+J. Nutr.
+135
+,
+2241
+–
+2246
+34
+Ximenes da Silva, A.
+,
+Lavialle, F.
+,
+Gendrot, G.
+,
+Guesnet, P.
+,
+Alessandri, J. M.
+, and
+Lavialle, M.
+(
+2002
+)
+Glucose transport and utilization are altered in the brain of rats deficient in n-3 polyunsaturated fatty acids
+.
+J. Neurochem.
+81
+,
+1328
+–
+1337
+35
+Pifferi, F.
+,
+Jouin, M.
+,
+Alessandri, J. M.
+,
+Haedke, U.
+,
+Roux, F.
+,
+Perrière, N.
+,
+Denis, I.
+,
+Lavialle, M.
+, and
+Guesnet, P.
+(
+2007
+)
+n-3 Fatty acids modulate brain glucose transport in endothelial cells of the blood-brain barrier
+.
+Prostaglandins Leukot. Essent. Fatty Acids
+77
+,
+279
+–
+286
+36
+Brenna, J. T.
+, and
+Diau, G. Y.
+(
+2007
+)
+The influence of dietary docosahexaenoic acid and arachidonic acid on central nervous system polyunsaturated fatty acid composition
+.
+Prostaglandins Leukot. Essent. Fatty Acids
+77
+,
+247
+–
+250
+37
+Smith, J. C.
+,
+Nielson, K. A.
+,
+Woodard, J. L.
+,
+Seidenberg, M.
+,
+Durgerian, S.
+,
+Antuono, P.
+,
+Butts, A. M.
+,
+Hantke, N. C.
+,
+Lancaster, M. A.
+, and
+Rao, S. M.
+(
+2011
+)
+Interactive effects of physical activity and APOE-ε4 on BOLD semantic memory activation in healthy elders
+.
+Neuroimage
+54
+,
+635
+–
+644
+38
+Eivipelto, M.
+,
+Rovio, S.
+,
+Ngandu, T.
+,
+Kåreholt, I.
+,
+Eskelinen, M.
+,
+Winblad, B.
+,
+Hachinski, V.
+,
+Cedazo-Minguez, A.
+,
+Soininen, H.
+,
+Tuomilehto, J.
+, and
+Nissinen, A.
+(
+2008
+)
+Apolipoprotein E epsilon4 magnifies lifestyle risks for dementia: a population-based study
+.
+J. Cell. Mol. Med.
+12
+(
+6B
+),
+2762
+–
+2771
+39
+Morris, M. C.
+,
+Brockman, J.
+,
+Schneider, J. A.
+,
+Wang, Y.
+,
+Bennett, D. A.
+,
+Tangney, C. C.
+, and
+van de Rest, O.
+(
+2016
+)
+Association of seafood consumption, brain mercury level, and APOE ε4 status with brain neuropathology in older adults
+.
+JAMA
+315
+,
+489
+–
+497
+40
+Bredesen, D. E.
+(
+2014
+)
+Reversal of cognitive decline: a novel therapeutic program
+.
+Aging (Albany N. Y.)
+6
+,
+707
+–
+717
+41
+Huang, T. L.
+,
+Zandi, P. P.
+,
+Tucker, K. L.
+,
+Fitzpatrick, A. L.
+,
+Kuller, L. H.
+,
+Fried, L. P.
+,
+Burke, G. L.
+, and
+Carlson, M. C.
+(
+2005
+)
+Benefits of fatty fish on dementia risk are stronger for those without APOE epsilon4
+.
+Neurology
+65
+,
+1409
+–
+1414
+42
+Barberger-Gateau, P.
+,
+Raffaitin, C.
+,
+Letenneur, L.
+,
+Berr, C.
+,
+Tzourio, C.
+,
+Dartigues, J. F.
+, and
+Alpérovitch, A.
+(
+2007
+)
+Dietary patterns and risk of dementia: the Three-City cohort study
+.
+Neurology
+69
+,
+1921
+–
+1930
+43
+Quinn, J. F.
+,
+Raman, R.
+,
+Thomas, R. G.
+,
+Yurko-Mauro, K.
+,
+Nelson, E. B.
+,
+Van Dyck, C.
+,
+Galvin, J. E.
+,
+Emond, J.
+,
+Jack, C. R., Jr.
+,
+Weiner, M.
+,
+Shinto, L.
+, and
+Aisen, P. S.
+(
+2010
+)
+Docosahexaenoic acid supplementation and cognitive decline in Alzheimer disease: a randomized trial
+.
+JAMA
+304
+,
+1903
+–
+1911
+44
+Cole, G. M.
+, and
+Frautschy, S. A.
+(
+2010
+)
+DHA may prevent age-related dementia
+.
+J. Nutr.
+140
+,
+869
+–
+874
+45
+Yassine, H. N.
+,
+Rawat, V.
+,
+Mack, W. J.
+,
+Quinn, J. F.
+,
+Yurko-Mauro, K.
+,
+Bailey-Hall, E.
+,
+Aisen, P. S.
+,
+Chui, H. C.
+, and
+Schneider, L. S.
+(
+2016
+)
+The effect of APOE genotype on the delivery of DHA to cerebrospinal fluid in Alzheimer's disease
+.
+Alzheimers Res. Ther.
+8
+,
+25
+46
+Vandal, M.
+,
+Alata, W.
+,
+Tremblay, C.
+,
+Rioux-Perreault, C.
+,
+Salem, N., Jr.
+,
+Calon, F.
+, and
+Plourde, M.
+(
+2014
+)
+Reduction in DHA transport to the brain of mice expressing human APOE4 compared to APOE2
+.
+J. Neurochem.
+129
+,
+516
+–
+526
+47
+Spector, A. A.
+(
+2001
+)
+Plasma free fatty acid and lipoproteins as sources of polyunsaturated fatty acid for the brain
+.
+J. Mol. Neurosci.
+16
+,
+159
+–
+165
+; discussion 215-221
+48
+Frayn, K. N.
+,
+Summers, L. K.
+, and
+Fielding, B. A.
+(
+1997
+)
+Regulation of the plasma non-esterified fatty acid concentration in the postprandial state
+.
+Proc. Nutr. Soc.
+56
+,
+713
+–
+721
+49
+Lagarde, M.
+,
+Bernoud, N.
+,
+Brossard, N.
+,
+Lemaitre-Delaunay, D.
+,
+Thiès, F.
+,
+Croset, M.
+, and
+Lecerf, J.
+(
+2001
+)
+Lysophosphatidylcholine as a preferred carrier form of docosahexaenoic acid to the brain
+.
+J. Mol. Neurosci.
+16
+,
+201
+–
+204
+; discussion 215-221
+50
+Nguyen, L. N.
+,
+Ma, D.
+,
+Shui, G.
+,
+Wong, P.
+,
+Cazenave-Gassiot, A.
+,
+Zhang, X.
+,
+Wenk, M. R.
+,
+Goh, E. L.
+, and
+Silver, D. L.
+(
+2014
+)
+Mfsd2a is a transporter for the essential omega-3 fatty acid docosahexaenoic acid
+.
+Nature
+509
+,
+503
+–
+506
+51
+Ouellet, M.
+,
+Emond, V.
+,
+Chen, C. T.
+,
+Julien, C.
+,
+Bourasset, F.
+,
+Oddo, S.
+,
+LaFerla, F.
+,
+Bazinet, R. P.
+, and
+Calon, F.
+(
+2009
+)
+Diffusion of docosahexaenoic and eicosapentaenoic acids through the blood-brain barrier: an in situ cerebral perfusion study
+.
+Neurochem. Int.
+55
+,
+476
+–
+482
+52
+Quek, D. Q.
+,
+Nguyen, L. N.
+,
+Fan, H.
+, and
+Silver, D. L.
+(
+2016
+)
+Structural insights into the transport mechanism of the human sodium-dependent lysophosphatidylcholine transporter MFSD2A
+.
+J. Biol. Chem.
+291
+,
+9383
+–
+9394
+53
+Croset, M.
+,
+Brossard, N.
+,
+Polette, A.
+, and
+Lagarde, M.
+(
+2000
+)
+Characterization of plasma unsaturated lysophosphatidylcholines in human and rat
+.
+Biochem. J.
+345
+,
+61
+–
+67
+54
+Liu, L.
+,
+Bartke, N.
+,
+Van Daele, H.
+,
+Lawrence, P.
+,
+Qin, X.
+,
+Park, H. G.
+,
+Kothapalli, K.
+,
+Windust, A.
+,
+Bindels, J.
+,
+Wang, Z.
+, and
+Brenna, J. T.
+(
+2014
+)
+Higher efficacy of dietary DHA provided as a phospholipid than as a triglyceride for brain DHA accretion in neonatal piglets
+.
+J. Lipid Res.
+55
+,
+531
+–
+539
+55
+Lagarde, M.
+,
+Hachem, M.
+,
+Bernoud-Hubac, N.
+,
+Picq, M.
+,
+Véricel, E.
+, and
+Guichardant, M.
+(
+2015
+)
+Biological properties of a DHA-containing structured phospholipid (AceDoPC) to target the brain
+.
+Prostaglandins Leukot. Essent. Fatty Acids
+92
+,
+63
+–
+65
+56
+Thies, F.
+,
+Pillon, C.
+,
+Moliere, P.
+,
+Lagarde, M.
+, and
+Lecerf, J.
+(
+1994
+)
+Preferential incorporation of sn-2 lysoPC DHA over unesterified DHA in the young rat brain
+.
+Am. J. Physiol.
+267
+,
+R1273
+–
+R1279
+57
+Guemez-Gamboa, A.
+,
+Nguyen, L. N.
+,
+Yang, H.
+,
+Zaki, M. S.
+,
+Kara, M.
+,
+Ben-Omran, T.
+,
+Akizu, N.
+,
+Rosti, R. O.
+,
+Rosti, B.
+,
+Scott, E.
+,
+Schroth, J.
+,
+Copeland, B.
+,
+Vaux, K. K.
+,
+Cazenave-Gassiot, A.
+,
+Quek, D. Q.
+,
+Wong, B. H.
+,
+Tan, B. C.
+,
+Wenk, M. R.
+,
+Gunel, M.
+,
+Gabriel, S.
+,
+Chi, N. C.
+,
+Silver, D. L.
+, and
+Gleeson, J. G.
+(
+2015
+)
+Inactivating mutations in MFSD2A, required for omega-3 fatty acid transport in brain, cause a lethal microcephaly syndrome
+.
+Nat. Genet.
+47
+,
+809
+–
+813
+58
+Alakbarzade, V.
+,
+Hameed, A.
+,
+Quek, D. Q.
+,
+Chioza, B. A.
+,
+Baple, E. L.
+,
+Cazenave-Gassiot, A.
+,
+Nguyen, L. N.
+,
+Wenk, M. R.
+,
+Ahmad, A. Q.
+,
+Sreekantan-Nair, A.
+,
+Weedon, M. N.
+,
+Rich, P.
+,
+Patton, M. A.
+,
+Warner, T. T.
+,
+Silver, D. L.
+, and
+Crosby, A. H.
+(
+2015
+)
+A partially inactivating mutation in the sodium-dependent lysophosphatidylcholine transporter MFSD2A causes a non-lethal microcephaly syndrome
+.
+Nat. Genet.
+47
+,
+814
+–
+817
+59
+Schaefer, E. J.
+,
+Bongard, V.
+,
+Beiser, A. S.
+,
+Lamon-Fava, S.
+,
+Robins, S. J.
+,
+Au, R.
+,
+Tucker, K. L.
+,
+Kyle, D. J.
+,
+Wilson, P. W.
+, and
+Wolf, P. A.
+(
+2006
+)
+Plasma phosphatidylcholine docosahexaenoic acid content and risk of dementia and Alzheimer disease: the Framingham Heart Study
+.
+Arch. Neurol.
+63
+,
+1545
+–
+1550
+60
+Mulder, M.
+,
+Ravid, R.
+,
+Swaab, D. F.
+,
+de Kloet, E. R.
+,
+Haasdijk, E. D.
+,
+Julk, J.
+,
+van der Boom, J. J.
+, and
+Havekes, L. M.
+(
+1998
+)
+Reduced levels of cholesterol, phospholipids, and fatty acids in cerebrospinal fluid of Alzheimer disease patients are not related to apolipoprotein E4
+.
+Alzheimer Dis. Assoc. Disord.
+12
+,
+198
+–
+203
+61
+Mapstone, M.
+,
+Cheema, A. K.
+,
+Fiandaca, M. S.
+,
+Zhong, X.
+,
+Mhyre, T. R.
+,
+MacArthur, L. H.
+,
+Hall, W. J.
+,
+Fisher, S. G.
+,
+Peterson, D. R.
+,
+Haley, J. M.
+,
+Nazar, M. D.
+,
+Rich, S. A.
+,
+Berlau, D. J.
+,
+Peltz, C. B.
+,
+Tan, M. T.
+,
+Kawas, C. H.
+, and
+Federoif, H. J.
+(
+2014
+)
+Plasma phospholipids identify antecedent memory impairment in older adults
+.
+Nat. Med.
+20
+,
+415
+–
+418
+62
+Halliday, M. R.
+,
+Pomara, N.
+,
+Sagare, A. P.
+,
+Mack, W. J.
+,
+Frangione, B.
+, and
+Zlokovic, B. V.
+(
+2013
+)
+Relationship between cyclophilin a levels and matrix metalloproteinase 9 activity in cerebrospinal fluid of cognitively normal apolipoprotein e4 carriers and blood-brain barrier breakdown
+.
+JAMA Neurol.
+70
+,
+1198
+–
+1200
+63
+Nishitsuji, K.
+,
+Hosono, T.
+,
+Nakamura, T.
+,
+Bu, G.
+, and
+Michikawa, M.
+(
+2011
+)
+Apolipoprotein E regulates the integrity of tight junctions in an isoform-dependent manner in an in vitro blood-brain barrier model
+.
+J. Biol. Chem.
+286
+,
+17536
+–
+17542
+64
+Alata, W.
+,
+Ye, Y.
+,
+St-Amour, I.
+,
+Vandal, M.
+, and
+Calon, F.
+(
+2015
+)
+Human apolipoprotein E ε4 expression impairs cerebral vascularization and blood-brain barrier function in mice
+.
+J. Cereb. Blood Flow Metab.
+35
+,
+86
+–
+94
+65
+Bell, R. D.
+,
+Winkler, E. A.
+,
+Singh, I.
+,
+Sagare, A. P.
+,
+Deane, R.
+,
+Wu, Z.
+,
+Holtzman, D. M.
+,
+Betsholtz, C.
+,
+Armulik, A.
+,
+Sallstrom, J.
+,
+Berk, B. C.
+, and
+Zlokovic, B. V.
+(
+2012
+)
+Apolipoprotein E controls cerebrovascular integrity via cyclophilin A
+.
+Nature
+485
+,
+512
+–
+516
+66
+Salloway, S.
+,
+Gur, T.
+,
+Berzin, T.
+,
+Tavares, R.
+,
+Zipser, B.
+,
+Correia, S.
+,
+Hovanesian, V.
+,
+Fallon, J.
+,
+Kuo-Leblanc, V.
+,
+Glass, D.
+,
+Hulette, C.
+,
+Rosenberg, C.
+,
+Vitek, M.
+, and
+Stopa, E.
+(
+2002
+)
+Effect of APOE genotype on microvascular basement membrane in Alzheimer's disease
+.
+J. Neurol. Sci.
+203–204
+,
+183
+–
+187
+67
+Montagne, A.
+,
+Barnes, S. R.
+,
+Sweeney, M. D.
+,
+Halliday, M. R.
+,
+Sagare, A. P.
+,
+Zhao, Z.
+,
+Toga, A. W.
+Jacobs R. E.
+,
+Liu C. Y.
+,
+Amezcua L.
+,
+Harrington M. G.
+,
+Chui H. C.
+,
+Law M.
+, and
+Zlokovic, B. V.
+(
+2015
+)
+Blood-brain barrier breakdown in the aging human hippocampus
+.
+Neuron
+85
+,
+296
+–
+302
+68
+Stonehouse, W.
+,
+Conlon, C. A.
+,
+Podd, J.
+,
+Hill, S. R.
+,
+Minihane, A. M.
+,
+Haskell, C.
+, and
+Kennedy, D.
+(
+2013
+)
+DHA supplementation improved both memory and reaction time in healthy young adults: a randomized controlled trial
+.
+Am. J. Clin. Nutr.
+97
+,
+1134
+–
+1143
+69
+Van de Rest, O.
+,
+Geleijnse, J. M.
+,
+Kok, F. J.
+,
+van Staveren, W. A.
+,
+Dullemeijer, C.
+,
+Olderikkert, M. G.
+,
+Beekman, A. T.
+, and
+de Groot, C. P.
+(
+2008
+)
+Effect of fish oil on cognitive performance in older subjects: a randomized, controlled trial
+.
+Neurology
+71
+,
+430
+–
+438
+70
+Andreone, B. J.
+,
+Chow, B. W.
+,
+Tata, A.
+,
+Lacoste, B.
+,
+Ben-Zvi, A.
+,
+Bullock, K.
+,
+Deik, A. A.
+,
+Ginty, D. D.
+,
+Clish, C. B.
+, and
+Gu, C.
+(
+2017
+)
+Blood-brain barrier permeability is regulated by lipid transport-dependent suppression of caveolae-mediated transcytosis
+.
+Neuron
+94
+,
+581
+–
+594
+.e5
+71
+Ben-Zvi, A.
+,
+Lacoste, B.
+,
+Kur, E.
+,
+Andreone, B. J.
+,
+Mayshar, Y.
+,
+Yan, H.
+, and
+Gu, C.
+(
+2014
+)
+Mfsd2a is critical for the formation and function of the blood-brain barrier
+.
+Nature
+509
+,
+507
+–
+511
+72
+Burri, L.
+,
+Hoem, N.
+,
+Banni, S.
+, and
+Berge, K.
+(
+2012
+)
+Marine omega-3 phospholipids: metabolism and biological activities
+.
+Int. J. Mol. Sci.
+13
+,
+15401
+–
+15419
+73
+Dyerberg, J.
+,
+Madsen, P.
+,
+Møller, J. M.
+,
+Aardestrup, I.
+, and
+Schmidt, E. B.
+(
+2010
+)
+Bioavailability of marine n-3 fatty acid formulations
+.
+Prostaglandins Leukot. Essent. Fatty Acids
+83
+,
+137
+–
+141
+74
+Chen, S.
+,
+Belikova, N. A.
+, and
+Subbaiah, P. V.
+(
+2012
+)
+Structural elucidation of molecular species of pacific oyster ether amino phospholipids by normal-phase liquid chromatography/negativeion electrospray ionization and quadrupole/multiple-stage linear ion-trap mass spectrometry
+.
+Anal. Chim. Acta
+735
+,
+76
+–
+89
+75
+Chen, S.
+, and
+Li, K. W.
+(
+2008
+)
+Comparison of molecular species of various transphosphatidylated phosphatidylserine (PS) with bovine cortex PS by mass spectrometry
+.
+Chem. Phys. Lipids
+152
+,
+46
+–
+56
+76
+Winther, B.
+,
+Hoem, N.
+,
+Berge, K.
+, and
+Reubsaet, L.
+(
+2011
+)
+Elucidation of phosphatidylcholine composition in krill oil extracted from Euphausia superba
+.
+Lipids
+46
+,
+25
+–
+36
+77
+Subbaiah, P. V.
+,
+Dammanahalli, K. J.
+,
+Yang, P.
+,
+Bi, J.
+, and
+O'Donnell, J. M.
+(
+2016
+)
+Enhanced incorporation of dietary DHA into lymph phospholipids by altering its molecular carrier
+.
+Biochim. Biophys. Acta
+1861
+(8 Pt A),
+723
+–
+729
+78
+Chen, S.
+, and
+Subbaiah, P. V.
+(
+2007
+)
+Phospholipid and fatty acid specificity of endothelial lipase: potential role of the enzyme in the delivery of docosahexaenoic acid (DHA) to tissues
+.
+Biochim. Biophys. Acta
+1771
+,
+1319
+–
+1328
+79
+Chen, S.
+, and
+Subbaiah, P. V.
+(
+2013
+)
+Regioisomers of phosphatidylcholine containing DHA and their potential to deliver DHA to the brain: role of phospholipase specificities
+.
+Lipids
+48
+,
+675
+–
+686
+80
+Richmond, G. S.
+, and
+Smith, T. K.
+(
+2011
+)
+Phospholipases A
+1
+.
+Int. J. Mol. Sci.
+12
+,
+588
+–
+612
+81
+Lemaitre-Delaunay, D.
+,
+Pachiaudi, C.
+,
+Laville, M.
+,
+Pousin, J.
+,
+Armstrong, M.
+, and
+Lagarde, M.
+(
+1999
+)
+Blood compartmental metabolism of docosahexaenoic acid (DHA) in humans after ingestion of a single dose of [(13)C]DHA in phosphatidylcholine
+.
+J. Lipid Res.
+40
+,
+1867
+–
+1874
+82
+Ruiz-Lopez, N.
+,
+Stubhaug, I.
+,
+Ipharraguerre, I.
+,
+Rimbach, G.
+, and
+Menoyo, D.
+(
+2015
+)
+Positional distribution of fatty acids in triacylglycerols and phospholipids from fillets of Atlantic salmon (Salmo salar) fed vegetable and fish oil blends
+.
+Mar. Drugs
+13
+,
+4255
+–
+4269
+83
+Tso, P.
+, and
+Hayashi, H.
+(
+1989
+)
+The physiology and regulation of the intestinal absorption and transport of omega-3 and omega-6 fatty acids
+.
+Adv. Prostaglandin Thromboxane Leukot. Res.
+19
+,
+623
+–
+626
+84
+Brassard, N.
+,
+Croset, M.
+,
+Normand, S.
+,
+Pousin, J.
+,
+Lecerf, J.
+,
+Laville, M.
+,
+Tayot, J. L.
+, and
+Lagarde, M.
+(
+1997
+)
+Human plasma albumin transports [13C] docosahexaenoic acid in two lipid forms to blood cells
+.
+J. Lipid Res.
+38
+,
+1571
+–
+1582
+85
+Kitson, A. P.
+,
+Metherel, A. H.
+,
+Chen, C. T.
+,
+Domenichiello, A. F.
+,
+Trépanier, M. O.
+,
+Berger, A.
+, and
+Bazinet, R. P.
+(
+2016
+)
+Effect of dietary docosahexaenoic acid (DHA) in phospholipids or triglycerides on brain DHA uptake and accretion
+.
+J. Nutr. Biochem.
+33
+,
+91
+–
+102
+86
+Sugasini, D.
+,
+Thomas, R.
+,
+Yalagala, P. C. R.
+,
+Tai, L. M.
+, and
+Subbaiah, P. V.
+(
+2017
+)
+Dietary docosahexaenoic acid (DHA) as lysophosphatidylcholine, but not as free acid, enriches brain DHA and improves memory in adult mice
+.
+Sci. Rep.
+7
+,
+11263

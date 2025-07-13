@@ -1,0 +1,448 @@
+Key Points
+A perceived lack of time and access to facilities are commonly cited barriers to regular physical activity.
+Exercise snacks are isolated bouts of vigorous exercise lasting ≤1 min and performed periodically throughout the day.
+Recent small-scale proof-of-concept studies show that exercise snacks can improve cardiorespiratory fitness and indices of cardiometabolic health in previously inactive adults.
+Exercise snacks seem to be well tolerated and can also offset the detrimental effects of prolonged sitting on metabolic outcomes and vascular function.
+The cardiometabolic health benefits of exercise snacks are apparent using both laboratory-based cycling protocols and more practical approaches involving stair climbing, which may increase the likelihood of their adoption in a home-, office-, or school-based setting.
+The feasibility and time efficiency of exercise snacks make them suitable for incorporating in between activities of daily living, thereby alleviating the need for planning and allocating leisure time for structured exercise.
+INTRODUCTION
+Low cardiorespiratory fitness (CRF) and sedentary behavior (
+i.e.
+, waking behaviors characterized by an energy expenditure ≤1.5 metabolic equivalents (METs) while in a sitting or reclining posture) (
+1
+) are independently associated with increased all-cause mortality and cardiovascular disease risk (
+2,3
+). Although the detrimental effects of physical inactivity (
+i.e.
+, achieving insufficient amounts of weekly moderate-to-vigorous physical activity) (
+1
+) are widely recognized, many individuals fail to meet current physical activity guidelines because of a perceived lack of time and barriers accessing equipment and facilities (
+4,5
+). Vigorous intermittent exercise including various interventions deemed “high-intensity” and “sprint” interval training (HIIT and SIT, respectively) can enhance CRF and other health-related markers similar to traditional moderate-intensity continuous training (
+6–9
+). Although efficacious to improve fitness and health, these protocols typically require dedicated leisure time and can be difficult to implement outside controlled laboratory settings. There also is increasing appreciation for the independent effect of sedentary behavior on cardiometabolic risk (
+3,10,11
+) and the benefits of breaking up sedentary time with more frequent bouts of activity throughout the day (
+12–14
+).
+The application of HIIT/SIT principles to more feasible and accessible forms of exercise that can improve CRF and simultaneously reduce the negative impacts of prolonged sedentary time offers a novel method to enhance health outcomes in the general population. One such strategy involves performing brief isolated bouts of vigorous exercise over the course of the day. This approach, called “exercise snacks,” can obviate the requirement for specialized equipment and alleviates the need for planning and allocating leisure time for structured exercise. It can be incorporated in between or structured within activities of daily living and implemented in a home, office, or school setting. An important added benefit of exercise snacks beyond their potential to improve CRF in a practical manner (
+15
+) is that they can naturally break up periods of prolonged sitting to reduce sedentary behavior and the associated health consequences (
+16
+).
+Several recent reports have shown that exercise snacks can boost indices of cardiometabolic health in young inactive adults (
+15–18
+). These studies have involved relatively small numbers of participants and should be classified primarily as proof-of-concept. Nonetheless, the emerging body of research highlights the potential value of exercise snacks as an additional tool in the repertoire of strategies aimed at increasing physical activity and improving cardiometabolic health among the general population. The purpose of this review is to highlight key findings from these studies to support our novel central hypothesis that exercise snacks are a feasible, well-tolerated, and time-efficient approach to improve CRF and reduce the negative impact of sedentary behavior on cardiometabolic health.
+WHAT ARE EXERCISE SNACKS?
+To our knowledge, the term “exercise snacks” was first used by Dr Howard Hartley in a 2007 weekly news magazine article (
+https://www.newsweek.com/exercise-snack-plan-96095
+). A 2014 study by Francois
+et al.
+(
+19
+), which demonstrated the benefits of brief intermittent bouts of vigorous-intensity walking for glycemic control in individuals with insulin resistance, seems to be the first to use the term in a peer-reviewed article. The protocol in that original study involved an 11-min exercise session (6 × 1-min bouts with 1-min recovery periods) in addition to a 5-min warm-up and 3-min cooldown performed on three separate occasions during the day before meals (
+19
+). In contrast, more recent studies have adopted the term “exercise snacks” to describe isolated bouts of vigorous exercise lasting ≤1 min that are performed multiple times throughout the day (
+15–18
+). The brief nature of exercise bouts that correspond to the latter definition makes it challenging to gauge intensity based on most traditional metrics including percentages of maximal heart rate (HR) or maximal oxygen uptake (V˙O
+2
+), which may not be sensitive enough to accurately reflect the physiological demands imposed on cardiac or skeletal muscle during short bouts of vigorous activity. A similar argument can be made against the use of the Borg rating of perceived exertion (RPE) 6–20 scale in this scenario, which, to our knowledge, has not been validated for brief isolated bouts of vigorous exercise that typify exercise snacks. Rather, for the purpose of characterizing exercise snacks, it seems most practical to gauge relative effort, which in our published articles has resulted typically in mean values close to or greater than 5 — or a “hard” effort — on the Borg category ratio 10 (CR10) scale (
+15–17
+). As such, although our focus is on studies that fit this definition, we acknowledge the health benefits conferred by other practical variations of brief activity breaks (
+12,14,20
+) and brief vigorous exercise that could align with concepts related to our definition of exercise snacks (
+19,21–25
+).
+THE EFFICACY OF EXERCISE SNACKS FOR IMPROVING CRF IN INACTIVE ADULTS
+Our first exercise snacks study (
+15
+) was developed based on previous work showing a ~1 MET improvement in CRF after a 6-wk stair climbing protocol that involved 3 × 20-s hard efforts over a 10-min period performed 3 d·wk
+−1
+(
+26
+). In the subsequent study (
+15
+), we exposed previously inactive young adults to an intervention involving either three daily bouts of vigorous stair climbing performed 1–4 h apart on 3 d·wk
+−1
+or a no-exercise control (n = 12 per group) (
+15
+). For each stair-based exercise snack, participants were instructed to safely ascend 60 steps in a three-flight stairwell as quickly as possible. Each exercise snack was preceded by a dynamic warm-up (10 jumping jacks, 10 air squats, and 5 lunges on each side) and followed by a 1-min walking cooldown. After the 6-wk intervention, there were modest, albeit significant, improvements in CRF as measured using cycling V˙O
+2peak
+and peak power output in the exercise snacks group as compared with control (
+15
+). CRF and peak power output values in the exercise snacks group were ~5% and ~12% higher postintervention, respectively, as compared with baseline. Of note, the vigorous exercise snacks elicited mean RPE values corresponding to a “hard” effort (5 ± 1 on the Borg CR10 scale) and mean HR responses equating ~85% of the age-predicted maximum over the course of the training intervention (
+15
+).
+The potential for exercise snacks to improve CRF (
+15
+) was confirmed in a study involving three isolated 20-s “all-out” cycling bouts (each with a 2-min warm-up and 1-min cooldown) performed 1–4 h apart (
+17
+). V˙O
+2peak
+and time-trial performance improved by ~4% and ~9%, respectively, over a 6-wk period in a group of 12 inactive adults (
+17
+). The CRF and performance gains with cycling-based exercise snacks seemed to be similar in magnitude to those observed in participants who were randomized to a traditional SIT protocol in this study, although the study was admittedly underpowered for between-group comparisons (
+Fig. 1
+). These results suggest that the vigorous nature of these protocols may be a more important adaptive stimulus than performing successive bouts of fatiguing exercise within a short period. In support of this supposition, an isolated 10-s sprint is sufficient to alter the concentration of intramuscular metabolites (
+27
+), and a 30-s sprint activates key intracellular signaling cascades involved in mediating training adaptation (
+e.g.
+, adenosine monophosphate (AMP)–activated protein kinase) (
+28
+). These findings extended earlier work in 18 middle-aged females demonstrating a ~14% improvement in V˙O
+2peak
+when three isolated 30-s Wingate tests undertaken 4 h apart were performed thrice weekly over an 8-wk period (
+29
+).
+Figure 1:
+Equipotency of laboratory-based exercise snacks (3 × 20-s isolated bouts of all-out cycling performed 1–4 h apart) and traditional sprint interval training (3 × 20-s all-out bouts interspersed with 3-min rest within a 10-min exercise session) for improving peak oxygen uptake (A), peak power output (B), and 150-kJ cycling time-trial performance (C) in sedentary young adults over a 6-wk intervention. *Significant main effect of time. (Reprinted from (17). Copyright © 2019 Springer Nature. Used with permission.)
+Taken together, evidence gleaned from the aforementioned studies suggests that vigorous exercise snacks are an effective strategy to improve CRF and indices of exercise performance in previously inactive adults. Despite participants in our studies still being considered physically inactive based on the recently revised Physical Activity Guidelines for Americans (
+i.e.
+, by completing exercise snacks, they would not necessarily achieve 150 min of moderate-intensity or 75 min of vigorous-intensity aerobic physical activity, or an equivalent combination of both each week (
+30
+)), the CRF gains conferred by the exercise snacks approach would still be expected to have health benefits (
+2
+). Importantly, for the adoption of exercise snacks by the general population outside the laboratory, the CRF gains attained using the exercise snacks approach do not require all-out efforts (
+15
+) and are apparent using both cycling-based exercise snacks and a more practical stair-based snack protocol that can be easily implemented in a home-, school-, or office-based setting.
+THE FEASIBILITY OF EXERCISE SNACKS IN PRECLINICAL AND CLINICAL POPULATIONS
+Sedentary behavior is linked to adverse metabolic outcomes independent of CRF and physical activity levels (
+3,10,11
+), and evidence from both observational and interventional studies supports the health benefits of interrupting sedentary time with bouts of low- to moderate-intensity physical activity such as walking (
+12–14
+). Although these strategies effectively mitigate the cardiometabolic health defects arising from sedentary behavior, practical lifestyle approaches that break up prolonged periods of inactivity while simultaneously improving in CRF in populations at risk for, or diagnosed with, cardiometabolic disease (
+e.g.
+, type 2 diabetes, coronary artery disease) are presently limited. Relatedly, a large proportion of individuals in this demographic are elderly and have low physical fitness levels or other disease-related risk factors that may prevent participation in traditional forms of exercise that are typically well suited for healthy adults. Thus, there is an urgent need for feasible exercise strategies that can effectively improve cardiometabolic health in these populations.
+Recent work from our laboratory supports the feasibility and efficacy of vigorous exercise snacks to disrupt prolonged periods of inactivity and improve cardiometabolic health markers in preclinical and clinical populations. Using a randomized crossover design, we demonstrated that breaking up 9 h of sitting with hourly bouts of vigorous stair-based exercise snacks (~15–30 s) significantly reduced the area under the curve for insulin by ~17% and nonesterified fatty acids by ~21% in 11 adults with overweight/obesity (
+Fig. 2
+) (
+16
+). Unlike our previous studies (
+15,17
+), we opted not to include a warm-up and cooldown in this study to capture what an exercise snack may look like in the real world. These preliminary findings are reinforced by a recent study from Wolfe
+et al.
+(
+31
+) that reported improvements in some measures of metabolic control when 8 h of continuous sitting was compared with a condition where participants performed 5 × 4-second maximal cycling sprints on a specialized ergometer, once per hour. Breaking up prolonged sitting with hourly sprints resulted in a ~31% reduction in postprandial plasma triglycerides and 43% increase in fat oxidation after the consumption of a high-fat meal on the morning after the experimental trial (
+31
+). The exercise protocol was not strictly an exercise snacks study per our definition here, however, because it involved a total of 20 s of maximal intensity cycling over ~4–5 min once per hour. Other reports also show the feasibility of short practical bouts of stair-based vigorous exercise in individuals with type 2 diabetes (
+32
+) and coronary artery disease (
+33,34
+), and research into the potential of exercise snacks for improving metabolic outcomes in clinical populations represents a promising avenue for future work. It will also be of interest to examine how the more vigorous exercise snacks approach discussed here compares to breaking up prolonged sitting with frequent light- to moderate-activity breaks — an approach that has previously demonstrated benefits for improving markers of metabolic control in individuals with obesity and type 2 diabetes (
+12,14,20,35
+).
+Figure 2:
+Hourly bouts of stair-based exercise snacks (~15–30 s) improve blood insulinemia (A) and lipidemia (B) in 11 adults with overweight and obesity as compared with 9-h of uninterrupted sitting. (Reprinted from (16). Copyright © 2020 the American College of Sports Medicine. Used with permission.)
+THE POTENTIAL FOR EXERCISE SNACKS TO IMPROVE VASCULAR HEALTH
+In addition to causing metabolic disruptions, prolonged sitting also reduces leg blood flow and shear stress — factors implicated in endothelial dysfunction and the pathogenesis of cardiovascular disease (
+36,37
+). The detrimental effects of sedentary behavior on vascular function can be mitigated when exercise is undertaken before (
+38
+), during (
+39
+), or immediately after (
+40
+) an extended bout of prolonged sitting. In this regard, recent work from our laboratory also supports the potential for exercise snacks to improve vascular function during extended periods of sitting. Caldwell
+et al.
+(
+18
+) exposed 10 healthy males to ~8.5 h of sitting with or without hourly stair-based exercise snacks involving ~14–20 s of ascending three flights of stairs at a brisk speed. Significant improvements in femoral artery hemodynamics, but not flow-mediated dilation (FMD), were apparent when prolonged sitting was interrupted with hourly exercise snacks, as reflected by ~32% higher blood flow and vascular conductance and a ~15% increase in shear rate (
+18
+) (
+Fig. 3
+). Although we are unaware of other studies examining vascular function in response to the exercise snacks approach as defined here, our work is supported by recent observations of improved popliteal artery blood flow and shear rate in healthy adults when a postprandial 4-h sitting period is interrupted with hourly 5-min bouts of vigorous stair climbing (
+23
+). Notably, the longer stair climbing bouts used by Cho
+et al.
+(
+23
+) also offset the reduction in FMD during prolonged sitting, suggesting that longer acute bouts of exercise may be required to elicit favorable effects on this parameter of vascular function. Taken together, these findings support the potential of exercise snacks to favorably impact vascular health, although additional studies are required to confirm the findings presented here, particularly with regard to the effects of exercise snacks on vascular and endothelial function.
+Figure 3:
+Breaking up ~8.5 h of sitting with hourly stair-based exercise snacks (~14–20 s) improve some (but not all) indices of leg vascular function during ~8.5 h of sitting in 10 healthy young males. Mean shear rate (A); oscillatory shear index (B); femoral vascular conductance (C); and FMD (D).
+$
+Pre-Snacks different than Post-Snacks;
+#
+Post-Snacks different than Post-Sed. (Reprinted from (18). Copyright © 2020 Canadian Science Publishing. Used with permission.)
+WHERE DO EXERCISE SNACKS FIT IN?
+Exercise snacks align with the recently revised Physical Activity Guidelines for Americans and the World Health Organization (WHO) Guidelines on Physical Activity and Sedentary Behavior (
+30,41
+). In recognition of the potential health benefits of short bouts of physical activity, the updated recommendations from these and other organizations eliminated the previous requirement that physical activity had to be accumulated in bouts lasting at least 10-min minimum (
+30,41
+). In line with this recommendation, other work has demonstrated the maintenance of health benefits when splitting longer sessions of continuous exercise into shorter bouts dispersed over the course of the day (
+42
+). Stamatakis
+et al.
+(
+43
+) recently proposed a framework encouraging four pillars of research to better understand the health benefits of a strategy called “vigorous intermittent lifestyle physical activity” (VILPA). These authors define VILPA as a single session of vigorous activity (≥14 or 15 on the Borg 6–20 scale or >6 MET) lasting no more than 5 min performed as part of activities of daily living or other lifestyle physical activities (
+43
+). Exercise snacks align closely with the VILPA framework in terms of their brevity, intensity, and accessibility but are technically distinct. First, unlike VILPA, exercise snacks are not purely incidental to, or inherently part of, activities of daily living but rather can be planned or structured within lifestyle activities — a distinction that still preserves the important aspects of feasibility and accessibility upon which VILPA is based. Exercise snacks also embody key elements of exercise that are not necessarily part of VILPA — namely, structure (≤1 min in duration and performed as a hard effort), planning (required some anticipation or decision making), repetition (must be performed multiple times over the day), and intention (performed for the improvement of cardiometabolic health) — further distinguishing them from the VILPA approach. Nonetheless, it becomes somewhat difficult to delineate between a purposeful exercise snack embedded within activities of daily living — for instance, vigorously ascending the stairs to use the restroom on a different floor in an office building or performing a set of jumping jacks during a break between virtual meetings — and lifestyle approaches such as incidental VILPA (
+e.g.
+, carrying groceries up several flights of stairs, maximizing walking pace to the bus stop). Relatedly, although exercise snacks are sometimes compared as a more practical alternative to SIT (
+17
+), the health benefits of exercise snacks do not require “all out” efforts and can be achieved without the use of specialized cycle ergometers (
+15,16,18
+) — both of which are typical components of traditional SIT protocols. As such, we believe it is most appropriate to classify exercise snacks as a distinct subset of brief vigorous exercise (
+6
+), but we also recognize that — as with most things in science — the concept of exercise snacks proposed here is not necessarily new but rather may be an alternative iteration of an idea that has likely been presented by others in different contexts, both in the past and present.
+FUTURE DIRECTIONS
+We have proposed a working definition of exercise snacks based on the existing literature, but also recognize the need to balance establishing a more standardized definition with the pragmaticism of avoiding hard cutoffs that draw the line at distinct intensities, durations, or numbers of isolated, short bouts of exercise within the exercise snacking concept. Ultimately, our intention is not to advocate for strictly defined terminology but rather to highlight the overall concept that isolated bouts of brief vigorous exercise represent an additional lifestyle approach to improve cardiometabolic health. With this in mind, it is entirely possible that others may view this approach as a physical activity strategy as opposed to an exercise protocol
+per se
+and, thus, choose to use terminology that differs from that implemented here (
+e.g.
+, activity snacks). The decision to use the term “exercise” (as opposed to “activity”) snacks for the purpose of this article was to maintain consistency with our published work in the area and because the approach presented in this article embodies key aspects of exercise in that it is planned, structured, repetitive, and intended for the purpose of improving cardiometabolic health. Other researchers have used variations of the term “exercise snacks” to describe protocols that deviate slightly from our proposed definition but still may yield important benefits for cardiometabolic health (
+19,24,44
+). As such, the exact characteristics of exercise snacks required to maximize health benefits are yet to be determined, but it does seem that a single isolated daily 20-s sprint may not be sufficient to increase CRF in young healthy adults (
+45
+).
+A standardized definition could also help better understand this novel exercise approach given the similarities between exercise snacks and other forms of brief vigorous activity such as VILPA or low-volume SIT (
+6,43,46
+). However, characterizing the intensity, duration, or mode of exercise snacks based on established exercise prescription guidelines (
+e.g.
+, American College of Sports Medicine, WHO) and principles (
+e.g.
+, “FITT”) becomes difficult because of the short-duration, purposefully sporadic and isolated nature of this type of activity. For instance, it is possible that, when evaluating intensity using traditional metrics such as RPE, HR, or V˙O
+2
+, exercise snacks may elicit values that are distinct from those observed during more common types of activity that established exercise prescription guidelines are based on. Thus, we encourage future attempts to classify exercise snacks in a manner that distinguishes them from existing physical activity and exercise paradigms and call for research validating traditional metrics for characterizing this type of activity.
+Another aspect that is missing from the existing exercise snacks literature is their impact on psychological and affective responses, as these behavioral factors may be among the most important determinants of exercise participation. Little
+et al.
+(
+17
+) found no impact on exercise enjoyment after 6 wk of laboratory-based exercise snacks, but participants indicated the desire to perform exercise snacks in a “real-world” setting. This again highlights the need to examine both physiological and psychological responses to exercise snacks outside the laboratory. In general, stair-based brief vigorous exercise seems to elicit favorable effects on cognition and mood in healthy young adults (
+47
+), but whether these beneficial effects persist using the exercise snacks approach as defined here remains to be determined. On a related note, qualitative measures that capture the feasibility of this approach in a setting where participants may not have adequate time or opportunity to prepare for intense activity during daily activities (
+e.g.
+, by warming up or changing into active wear) should be assessed to rule out potential barriers to exercise snacks in the real world.
+Given the relatively short duration and laboratory-based nature of existing exercise snacks studies, another important next step is to investigate the physiological and behavioral responses to longer exercise snacks interventions (
+e.g.
+, several months to >1 year). Relatedly, as most of the existing research has involved healthy individuals, future studies should include populations at risk for cardiometabolic disease (
+e.g.
+, preclinical/clinical populations, elderly individuals) to assess comprehensively the feasibility and efficacy of the exercise snacks approach. A plausible concern with the implementation of any vigorous exercise strategy in the real world is the potential of injury — particularly in at-risk or elderly populations. This highlights another outcome that should be addressed when attempting to translate exercise snacks outside the laboratory, albeit in a manner that balances the potential risk of injury with the numerous health benefits highlighted here and the detrimental effects of inactivity itself.
+Lastly, the aerobically conditioning nature of the exercise snacks in the studies discussed here favor improvements in CRF, but the exercise snacks approach may be additionally attractive if geared toward improving muscular strength and endurance. A pilot study by Perkin
+et al.
+(
+24
+) reported improvements in functional capacity (sit to stand score) in older adults who participated in a 28-d home-based intervention involving two daily bouts of body weight exercise involving 5 × 1-min bouts of maximum repetitions. At the molecular level, brief vigorous bouts of stair climbing improved fiber-specific satellite cell content and myonuclei number as well as indices of capillarization in patients with coronary artery disease over a 12-wk period (
+33
+). However, because neither of these studies involved isolated bouts of exercise using an exercise snacks approach, whether these changes in muscle function and phenotype would manifest in response to exercise snacks requires confirmation in future work. Future research also should probe the mechanistic basis of the adaptive response to exercise snacks, which — similar to other forms of brief vigorous exercise — likely involves muscular oxidative remodeling mediated by activation of canonical intracellular signaling pathways (
+e.g.
+, AMP-activated protein kinase) and transcriptional regulators (
+e.g.
+, peroxisome proliferative activated receptor gamma coactivator 1-alpha) (
+48–50
+).
+CONCLUSIONS
+The persistence of insufficient physical activity levels and sedentary lifestyles among the general population in modern Western societies highlights the ongoing need for feasible exercise strategies that simultaneously improve CRF and reduce the impact of sedentariness on cardiometabolic health. Based on the emerging evidence presented in this article, we propose that exercise snacks — defined here as isolated bouts of brief vigorous exercise performed multiple times throughout the day — may be one such strategy (
+Fig. 4
+). Exercise snacks involving thrice daily ~15–30 s of hard effort involving cycling and more practical stair climbing are efficacious for improving CRF and exercise performance in inactive adults. Exercise snacks may also have potential to improve aspects of cardiometabolic health in individuals with obesity, but their efficacy in clinical populations remains to be established as existing reports have studied a small number of participants in laboratory-based settings. Relatedly — and perhaps most importantly — the applicability of exercise snacks in a “real-world” (
+e.g.
+, in home-, office-, or work-based) setting and the potential for exercise snacks to target musculoskeletal health remain to be determined.
+Figure 4:
+Exercise snacks — brief isolated bouts of vigorous exercise performed over the course of the day — represent a feasible, well-tolerated, and time-efficient strategy to simultaneously improve cardiorespiratory fitness (CRF) and reduce the detrimental impact of prolonged sedentary behavior on cardiometabolic health (created with
+BioRender.com
+).
+Acknowledgments
+H.I. is supported by a postdoctoral fellowship from the Natural Sciences and Engineering Research Council of Canada (NSERC). M.J.G. is supported by NSERC (RGPIN-2015-04632). J.P.L. is supported by a Michael Smith Foundation for Health Research (MSFHR) Scholar Award (16890).
+References
+1. Sedentary Behaviour Research Network. Letter to the editor: standardized use of the terms “sedentary” and “sedentary behaviours”.
+Appl. Physiol. Nutr. Metab
+. 2012; 37(3):540–2.
+2. Ross R, Blair SN, Arena R, et al. Importance of assessing cardiorespiratory fitness in clinical practice: a case for fitness as a clinical vital sign: a scientific statement from the American Heart Association.
+Circulation
+. 2016; 134(24):e653–99.
+3. Thorp AA, Owen N, Neuhaus M, Dunstan DW. Sedentary behaviors and subsequent health outcomes in adults a systematic review of longitudinal studies, 1996-2011.
+Am. J. Prev. Med
+. 2011; 41(2):207–15.
+4. Trost SG, Owen N, Bauman AE, Sallis JF, Brown W. Correlates of adults' participation in physical activity: review and update.
+Med. Sci. Sports Exerc
+. 2002; 34(12):1996–2001.
+5. Hoare E, Stavreski B, Jennings GL, Kingwell BA. Exploring motivation and barriers to physical activity among active and inactive Australian adults.
+Sports (Basel)
+. 2017 [cited 2021 Jan 22]; 5(3):47. Available from:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5968958/
+.
+6. Gibala MJ, Little JP. Physiological basis of brief vigorous exercise to improve health.
+J. Physiol
+. 2020 [cited 2021 Apr 2]; 598(1):61–9. Available from:
+https://onlinelibrary.wiley.com/doi/abs/10.1113/JP276849
+.
+7. Gist NH, Fedewa MV, Dishman RK, Cureton KJ. Sprint interval training effects on aerobic capacity: a systematic review and meta-analysis.
+Sports Med
+. 2014 [cited 2018 Sep 5]; 44(2):269–79. Available from:
+http://link.springer.com/10.1007/s40279-013-0115-0
+.
+8. Milanović Z, Sporiš G, Weston M. Effectiveness of high-intensity interval training (HIT) and continuous endurance training for VO
+2max
+improvements: a systematic review and meta-analysis of controlled trials.
+Sports Med
+. 2015 [cited 2018 Sep 5]; 45(10):1469–81. Available from:
+http://link.springer.com/10.1007/s40279-015-0365-0
+.
+9. Bonafiglia JT, Islam H, Preobrazenski N, Gurd BJ. Risk of bias and reporting practices in studies comparing VO
+2max
+responses to sprint interval vs. continuous training: a systematic review and meta-analysis.
+J. Sport Health Sci
+. 2021 [cited 2021 Nov 20]; published ahead of print. Available from:
+https://www.sciencedirect.com/science/article/pii/S2095254621000302?via%3Dihub
+.
+10. Biswas A, Oh PI, Faulkner GE, et al. Sedentary time and its association with risk for disease incidence, mortality, and hospitalization in adults: a systematic review and meta-analysis.
+Ann. Intern. Med
+. 2015; 162(2):123–32.
+11. Owen N, Healy GN, Matthews CE, Dunstan DW. Too much sitting: the population health science of sedentary behavior.
+Exerc. Sport Sci. Rev
+. 2010; 38(3):105–13.
+12. Benatti FB, Ried-Larsen M. The effects of breaking up prolonged sitting time: a review of experimental studies.
+Med. Sci. Sports Exerc
+. 2015; 47(10):2053–61.
+13. Henson J, Dunstan DW, Davies MJ, Yates T. Sedentary behaviour as a new behavioural target in the prevention and treatment of type 2 diabetes.
+Diabetes Metab. Res. Rev
+. 2016; 32(Suppl. 1):213–20.
+14. Dempsey PC, Owen N, Yates TE, Kingwell BA, Dunstan DW. Sitting less and moving more: improved glycaemic control for type 2 diabetes prevention and management.
+Curr. Diab. Rep
+. 2016 [cited 2021 Apr 2]; 16(11):114. Available from:
+http://link.springer.com/10.1007/s11892-016-0797-4
+.
+15. Jenkins EM, Nairn LN, Skelly LE, Little JP, Gibala MJ. Do stair climbing exercise “snacks” improve cardiorespiratory fitness?
+Appl. Physiol. Nutr. Metab
+. 2019 [cited 2021 Jan 19]; 44(6):681–4. Available from:
+http://www.nrcresearchpress.com/doi/10.1139/apnm-2018-0675
+.
+16. Rafiei H, Omidian K, Myette-Côté É, Little JP. Metabolic impact of breaking up prolonged sitting with stair climbing exercise snacks.
+Med Sci Sports Exerc [Internet]
+. 2020[cited 2021 Jan 19];published ahead of print. Available from:
+https://journals.lww.com/10.1249/MSS.0000000000002431
+.
+17. Little JP, Langley J, Lee M, et al. Sprint exercise snacks: a novel approach to increase aerobic fitness.
+Eur. J. Appl. Physiol
+. 2019; 119(5):1203–12.
+18. Caldwell HG, Coombs GB, Rafiei H, Ainslie PN, Little JP. Hourly staircase sprinting exercise “snacks” improve femoral artery shear patterns but not flow-mediated dilation or cerebrovascular regulation: a pilot study.
+Appl. Physiol. Nutr. Metab
+. 2021 [cited 2021 Jan 19]; 46(5):521–9. Available from:
+https://cdnsciencepub.com/doi/10.1139/apnm-2020-0562
+.
+19. Francois ME, Baldi JC, Manning PJ, et al. “Exercise snacks” before meals: a novel strategy to improve glycaemic control in individuals with insulin resistance.
+Diabetologia
+. 2014; 57(7):1437–45.
+20. Chang CR, Russell BM, Dempsey PC, Christie HE, Campbell MD, Francois ME. Accumulating physical activity in short or brief bouts for glycemic control in adults with prediabetes and diabetes.
+Can. J. Diabetes
+. 2020; 44(8):759–67.
+21. Boreham CAG. Training effects of short bouts of stair climbing on cardiorespiratory fitness, blood lipids, and homocysteine in sedentary young women.
+Br. J. Sports Med
+. 2005 [cited 2021 Mar 19]; 39(9):590–3. Available from:
+https://bjsm.bmj.com/lookup/doi/10.1136/bjsm.2002.001131
+.
+22. Michael E, White MJ, Eves FF. Home-based stair climbing as an intervention for disease risk in adult females; a controlled study.
+Int. J. Environ. Res. Public Health
+. 2021; 18(2):603.
+23. Cho MJ, Bunsawat K, Kim HJ, Yoon ES, Jae SY. The acute effects of interrupting prolonged sitting with stair climbing on vascular and metabolic function after a high-fat meal.
+Eur. J. Appl. Physiol
+. 2020 [cited 2021 Mar 19]; 120(4):829–39. Available from:
+http://link.springer.com/10.1007/s00421-020-04321-9
+.
+24. Perkin OJ, McGuigan PM, Stokes KA. Exercise snacking to improve muscle function in healthy older adults: a pilot study.
+J. Aging Res
+. 2019 [cited 2021 Mar 19]; 2019:7516939. Available from:
+https://www.hindawi.com/journals/jar/2019/7516939/
+.
+25. Hatamoto Y, Yoshimura E, Takae R, et al. Breaking sedentary time with exercise bouts on metabolism.
+Nutr Metab Cardiovasc Dis [Internet]
+. 2021 [cited 2021 Apr 13]; 0(0). Available from:
+https://www.nmcd-journal.com/article/S0939-4753(21)00121-6/abstract
+.
+26. Allison MK, Baglole JH, Martin BJ, Macinnis MJ, Gurd BJ, Gibala MJ. Brief intense stair climbing improves cardiorespiratory fitness.
+Med. Sci. Sports Exerc
+. 2017 [cited 2021 Jan 19]; 49(2):298–307. Available from:
+https://journals.lww.com/00005768-201702000-00010
+.
+27. Bogdanis GC, Nevill ME, Lakomy HK, Boobis LH. Power output and muscle metabolism during and following recovery from 10 and 20 s of maximal sprint exercise in humans.
+Acta Physiol. Scand
+. 1998; 163(3):261–72.
+28. Morales-Alamo D, Guerra B, Ponce-González JG, et al. Skeletal muscle signaling, metabolism, and performance during sprint exercise in severe acute hypoxia after the ingestion of antioxidants.
+J. Appl. Physiol
+. 2017 [cited 2018 Dec 29]; 123(5):1235–45. Available from:
+http://www.physiology.org/doi/10.1152/japplphysiol.00384.2017
+.
+29. Ho BH, Lim I, Tian R, Tan F, Aziz AR. Effects of a novel exercise training protocol of Wingate-based sprint bouts dispersed over a day on selected cardiometabolic health markers in sedentary females: a pilot study.
+BMJ Open Sport Exerc. Med
+. 2018 Jul [cited 2021 Jan 19]; 4(1):e000349. Available from:
+https://bmjopensem.bmj.com/lookup/doi/10.1136/bmjsem-2018-000349
+.
+30. Piercy KL, Troiano RP, Ballard RM, et al. The physical activity guidelines for Americans.
+JAMA
+. 2018 Nov 20; 320(19):2020–8.
+31. Wolfe AS, Burton HM, Vardarli E, Coyle EF. Hourly 4-s sprints prevent impairment of postprandial fat metabolism from inactivity.
+Med. Sci. Sports Exerc
+. 2020; 52(10):2262–9.
+32. Godkin FE, Jenkins EM, Little JP, Nazarali Z, Percival ME, Gibala MJ. The effect of brief intermittent stair climbing on glycemic control in people with type 2 diabetes: a pilot study.
+Appl. Physiol. Nutr. Metab
+. 2018; 43(9):969–72.
+33. Lim C, Dunford EC, Valentino SE, et al. Both traditional and stair climbing-based HIIT cardiac rehabilitation induce beneficial muscle adaptations.
+Med. Sci. Sports Exerc
+. 2021; 53(6):1114–24;published ahead of print.
+34. Dunford EC, Valentino SE, Dubberley J, et al. Brief vigorous stair climbing effectively improves cardiorespiratory fitness in patients with coronary artery disease: a randomized trial.
+Front Sports Act Living
+. 2021; 3:630912.
+35. Dunstan DW, Kingwell BA, Larsen R, et al. Breaking up prolonged sitting reduces postprandial glucose and insulin responses.
+Diabetes Care
+. 2012; 35(5):976–83.
+36. Padilla J, Fadel PJ. Prolonged sitting leg vasculopathy: contributing factors and clinical implications.
+Am. J. Physiol. Heart Circ. Physiol
+. 2017; 313(4):H722–8.
+37. Carter S, Hartman Y, Holder S, Thijssen DH, Hopkins ND. Sedentary behavior and cardiovascular disease risk: mediating mechanisms.
+Exerc. Sport Sci. Rev
+. 2017; 45(2):80–6.
+38. Morishima T, Restaino RM, Walsh LK, Kanaley JA, Padilla J. Prior exercise and standing as strategies to circumvent sitting-induced leg endothelial dysfunction.
+Clin. Sci. (Lond.)
+. 2017 [cited 2021 Apr 2]; 131(11):1045–53. Available from:
+https://portlandpress.com/clinsci/article/131/11/1045/71603/Prior-exercise-and-standing-as-strategies-to
+.
+39. Thosar SS, Bielko SL, Mather KJ, Johnston JD, Wallace JP. Effect of prolonged sitting and breaks in sitting time on endothelial function.
+Med. Sci. Sports Exerc
+. 2015 [cited 2021 Apr 2]; 47(4):843–9. Available from:
+https://journals.lww.com/00005768-201504000-00022
+.
+40. Restaino RM, Holwerda SW, Credeur DP, Fadel PJ, Padilla J. Impact of prolonged sitting on lower and upper limb micro- and macrovascular dilator function.
+Exp. Physiol
+. 2015 Jul 1; 100(7):829–38.
+41. Bull FC, Al-Ansari SS, Biddle S, et al. World Health Organization 2020 guidelines on physical activity and sedentary behaviour.
+Br. J. Sports Med
+. 2020; 54(24):1451–62.
+42. Murphy MH, Lahart I, Carlin A, Murtagh E. The effects of continuous compared to accumulated exercise on health: a meta-analytic review.
+Sports Med
+. 2019; 49(10):1585–607.
+43. Stamatakis E, Huang BH, Maher C, et al. Untapping the health enhancing potential of vigorous intermittent lifestyle physical activity (VILPA): rationale, scoping review, and a 4-pillar research framework.
+Sports Med
+. 2021 [cited 2021 Jan 22]; 51(1):1–10. Available from:
+http://link.springer.com/10.1007/s40279-020-01368-8
+.
+44. Hasan R, Perez-Santiago D, Churilla JR, et al. Can short bouts of exercise (“exercise snacks”) improve body composition in adolescents with type 1 diabetes? A feasibility study.
+Horm. Res. Paediatr
+. 2019 [cited 2021 Jan 19]; 92(4):245–53. Available from:
+https://www.karger.com/Article/FullText/505328
+.
+45. Songsorn P, Lambeth-Mansell A, Mair JL, et al. Exercise training comprising of single 20-s cycle sprints does not provide a sufficient stimulus for improving maximal aerobic capacity in sedentary individuals.
+Eur. J. Appl. Physiol
+. 2016; 116(8):1511–7.
+46. Vollaard NBJ, Metcalfe RS. Research into the health benefits of sprint interval training should focus on protocols with fewer and shorter sprints.
+Sports Med
+. 2017; 47(12):2443–51.
+47. Stenling A, Moylan A, Fulton E, Machado L. Effects of a brief stair-climbing intervention on cognitive performance and mood states in healthy young adults.
+Front. Psychol
+. 2019; 10:2300.
+48. Gibala MJ, McGee SL, Garnham AP, Howlett KF, Snow RJ, Hargreaves M. Brief intense interval exercise activates AMPK and p38 MAPK signaling and increases the expression of PGC-1alpha in human skeletal muscle.
+J. Appl. Physiol
+. 2009 [cited 2019 Aug 5]; 106(3):929–34. Available from:
+http://www.physiology.org/doi/10.1152/japplphysiol.90880.2008
+.
+49. Little JP, Safdar A, Bishop D, Tarnopolsky MA, Gibala MJ. An acute bout of high-intensity interval training increases the nuclear abundance of PGC-1α and activates mitochondrial biogenesis in human skeletal muscle.
+Am. J. Physiol. Regul. Integr. Comp. Physiol
+. 2011 [cited 2019 Aug 5]; 300(6):R1303–10. Available from:
+http://www.physiology.org/doi/10.1152/ajpregu.00538.2010
+.
+50. Granata C, Oliveira RS, Little JP, Renner K, Bishop DJ. Sprint-interval but not continuous exercise increases PGC-1α protein content and p53 phosphorylation in nuclear fractions of human skeletal muscle.
+Sci. Rep
+. 2017 [cited 2018 Jul 10]; 7:44227. Available from:
+http://www.nature.com/articles/srep44227
+.
+View full references list

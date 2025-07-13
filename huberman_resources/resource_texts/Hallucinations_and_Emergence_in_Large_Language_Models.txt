@@ -1,0 +1,10 @@
+Hallucinations and Emergence in Large Language Models
+7 Pages
+Posted: 16 Jan 2024
+Date Written: September 18, 2023
+Abstract
+We argue that phase transitions in the underlying graph of associative memory belonging to Transformers provide a unifying explanation for the ob- served hallucinations and creative outputs of large language models (LLMs). They also provide insights into useful ways to mitigate hallucinations, by shrinking the semantic horizon of the token graph used by the Transformer.
+Keywords:
+Large Language Models, Hallucinations, Emergence
+Suggested Citation:
+Suggested Citation

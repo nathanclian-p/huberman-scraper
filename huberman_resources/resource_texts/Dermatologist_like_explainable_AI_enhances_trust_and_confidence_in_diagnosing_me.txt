@@ -1,0 +1,290 @@
+Inclusion and Ethics
+Our research complies with all ethics regulations. The study’s ethics vote is held by the University Clinic Mannheim of the Medical Faculty of the University of Heidelberg. Informed consent was collected from all participants. We did not collect any data on sex and gender of the clinicians participating in our reader study. As compensation, we offered them the opportunity to be credited as a collaborator of our work, which we have listed in Supplementary Data
+1
+.
+Software and Statistics
+Prior to data collection, we registered our hypotheses and analysis plan on the Open Science Framework website (
+https://osf.io/
+), which may be accessed under
+https://osf.io/g3keh
+. We followed the STARD guidelines
+57
+, which we report in detail in Supplementary Information A. All code was written in Python (3.9.9). PyTorch (1.10.0), PyTorch Lightning (1.5.10), Albumentations (1.0.3), NumPy (1.22.2), Pandas (1.4.0), SciPy (1.8.0), OpenCV (4.5.5), Scikit-learn (1.1.0), Matplotlib (3.1.1), and Seaborn (0.11.2) were used for image processing, model development and training, data analysis, and visualisation. All pairwise significance testing was performed using the two-sided paired t test. We utilised the Mann‒Whitney U test to determine the significance of the difference between the trust and confidence scores for high- and low-confidence AI predictions and the Wilcoxon signed-rank test to determine the significance of the difference in mean pixel activation ratios due to the nonnormality of the distributions. To calculate confidence intervals, we utilised the bootstrapping method with 10000 samples and a random seed of 42 each time the confidence interval was calculated. We set an alpha value of 0.05, and the P values were adjusted using the Bonferroni method to correct for multiple comparisons.
+Explanatory ontology
+To allow for speedy annotation by both our annotating dermatologists as well as the study participants in phase 1 of the reader study and to facilitate a streamlined evaluation of the explanations, we created an ontology containing typical features of melanomas and nevi based on pattern analysis. We combined well-established features from several sources
+33
+,
+38
+,
+39
+and included feedback from the dermatologists participating in the pilot study (see Supplementary Information B for details) as well as from the ground-truth annotators. The ontology was first compiled in German and approved by a panel of board-certified dermatologists prior to the study. The German-speaking participants of the three-phase reader study received the original German version of the ontology. We translated the ontology to English for the international study participants. The translation was approved by two board-certified dermatologists (RB, MLV). All features are listed in Tab. 1. More details on the ontology can be found in Supplementary Information C.
+Images and annotation procedure
+We used the publicly available dataset HAM10000
+35
+for our study, which contains 10015 dermoscopic images of several skin diseases at different localisations on the body. The dataset contains images from both sexes and patient age ranges from 0 to 85 reported in 5-year intervals. During the construction of the dataset, several images per lesion were often taken, and occasionally, more than one lesion per patient was included. Thus, the number of images is greater than the number of unique lesions, and the number of unique lesions is greater than the number of patients. The diagnoses were confirmed by excision and subsequent pathological evaluation, by panel decision or by follow-up.
+In this study, we used all the biopsy-verified melanoma and nevus images in the HAM10000 dataset, i.e., a set of
+n
+= 3611 images of 1981 unique lesions. We refer to this set of images as the base set in the remainder of this section. To acquire the necessary annotations for training the classifier, we asked 14 international board-certified dermatologists to annotate these 3611 images of biopsy-verified melanomas and nevi from the dataset. To prevent any data loss as a result of misdiagnoses, we provided the ground truth diagnoses to the annotators. With knowledge of the diagnosis of the lesion, the annotating dermatologists were tasked with explaining the given diagnosis by selecting the relevant features from the explanatory ontology and by annotating the image regions of interest (ROIs) corresponding to the selected features. One dermatologist (SHo) annotated all 3611 images, while each of the other 13 annotators annotated between 200 and 300 unique lesions such that our dataset contains annotations by at least two dermatologists per unique lesion. We set the explanatory labels for an image as the union of the annotator’s explanatory labels, and we merged the ROIs according to the information loss of the merged ROI relative to the original ROIs (full details can be found in Supplementary Fig.
+5
+and Supplementary Information D).
+We split the base set into a training set, a validation set and a test set. The test set contained 200 unique lesions with 100 unique melanomas and nevi each. For this, we randomly chose 100 unique melanomas and nevi (with complete information on patient age and sex, as well as on the localisation of the lesion) from the base set. For the test set, we kept only one image per lesion; in cases where several images were present for a single lesion, we chose the last image as identified by the image ID. After assigning images to the test set, we proceeded by removing all images that contained the selected lesions as well as other lesions from the same patients from the base set. We then performed a random 82:18 split on the unique lesions in the remainder of the base set to form the training set and the validation set, respectively. In doing so, we ensured that all images of lesions that were photographed multiple times as well as lesions from the same patient were contained in only one of the sets to avoid leaking information from the training to the validation set. As a result, our training set contained 2646 images of 1460 lesions, and the validation set contained 599 images of 321 lesions. Around 22% of the lesions in each set were melanomas, while 78% were nevi.
+XAI Development
+Classifier design
+We developed an AI classifier that is able to explain itself to clinicians by making use of the well-established visual characteristics
+33
+,
+38
+,
+39
+of melanoma and nevi from our explanatory ontology. Our classifier learns to predict these characteristics from digitised dermoscopic images and infers the diagnosis of melanoma or nevus from its predictions.
+After acquiring the ground-truth annotations from the dermatologists, we trained the classifier on the annotations to predict the lesion characteristics. Utilising the annotations optimises our XAI to be aligned with dermatologists’ perspective on melanoma diagnosis. We follow the attention inference architecture introduced by Li et al.
+40
+and extended by Jalaboi et al.
+34
+Our classifier has two components: a classification component
+Comp
+C
+and a guided attention component
+Comp
+A
+to help localise the relevant features. In
+Comp
+C
+, instead of predicting the diagnosis directly, the classifier predicts the characteristics from our ontology. We infer the diagnosis as melanoma if at least two melanoma characteristics are detected; empirically, we found that this approach leads to the best trade-off between sensitivity and specificity, and clinically, this approach is similar to the use of the 7-point checklist
+38
+, which also requires at least two melanoma criteria for a diagnosis of melanoma if used with the commonly used threshold of three points.
+To guide the classifier to learn features used by dermatologists and create more meaningful explanations, we employ
+Comp
+A
+. For training, we define the loss
+L
+A
+in addition to the regular cross-entropy loss between the target and the prediction as Eq.
+1
+:
+$${L}_{A}=\frac{1}{N}\mathop{\sum }\limits_{i=1}^{N}\left(1-\frac{1}{C}\mathop{\sum }\limits_{c=1}^{C}\frac{2{A}_{i,c}{H}_{i,c}}{{A}_{i,c}+{H}_{i,c}}\right)$$
+(1)
+where
+N
+is the number of samples,
+C
+is the number of classes,
+A
+C
+is the Grad-CAM
+11
+attention map generated from the last convolutional layer of Comp
+A
+and
+H
+C
+is the ground-truth ROI annotated by the dermatologists. For images where the ground-truth label of a characteristic
+c
+was 0, i.e., the characteristic was not present in the lesion, we set
+H
+C
+to be a zero-valued matrix of the same size as
+A
+C
+. This additional loss term was added to the regular cross entropy loss to yield the following combined loss as defined in Eq.
+2
+:
+$$L={\lambda }_{C}{L}_{C}+{\lambda }_{A}{L}_{A}$$
+(2)
+where
+L
+C
+is the cross entropy loss for the characteristics and
+L
+A
+is the Dice loss between the Grad-CAM heatmaps of the model’s predictions and the ROIs annotated by the dermatologists.
+λ
+C
+and
+λ
+A
+are hyperparameters for assigning weights to the individual components. For all our experiments, we set
+λ
+C
+to 1 and
+λ
+A
+to 10. A graphical illustration of this design can be found in Supplementary Fig.
+6
+.
+We opted to use a ResNet50 pretrained on the ImageNet dataset
+58
+as a feature extractor since it has been shown to perform well in skin lesion classification tasks
+59
+. After the feature extraction backbone, we added a dropout layer and an output layer of one neuron. We used random sampling to balance the class distribution during training. We also used several image augmentations to improve generalizability, in line with the International Skin Imaging Challenge (ISIC) skin cancer classification challenge winners, who achieved state-of-the-art performance on a skin lesion classification task
+45
+. Complete details on the model hyperparameters can be found below.
+Additionally, we chose to display the confidence of the classifier for each prediction. Conventionally, the raw output of the softmax or sigmoid layer is used as a measure of confidence; however, this value is an unreliable measure of confidence and should be calibrated
+50
+. To obtain well-calibrated probabilities, we performed temperature scaling on each output class, which is a simple but effective method for calibrating neural network outputs to more accurately reflect model confidence
+50
+.
+Classifier performance testing
+We evaluated the performance of the classifier on the held-out test set in terms of balanced accuracy. The sensitivity and specificity of the classifier were determined on the validation set. For the calculation of the ratio of mean Grad-CAM attributions within the lesion to those surrounding the lesion, we used the formula as defined in Eq.
+3
+:
+$${Ratio}=\frac{\mu ({Grad}-{CAMattributionswithinlesion})}{\mu ({Grad}-{CAMattributionssurroundinglesion})}$$
+(3)
+We determined the regions inside and outside of the lesions using the HAM10000 segmentation maps
+2
+.
+For the calculation of overlap between the XAI-predicted explanations and the clinician-selected explanations, we used the Sørensen-Dice similarity coefficients (DSC), calculated with the numbers of true positives (
+TP
+), false positives (
+FP
+), and false negatives (
+FN
+) as in Eq.
+4
+:
+$${DSC}=\frac{2{TP}}{2{TP}+{FP}+{FN}}$$
+(4)
+We also used the DSC for Regions of Interest (ROI) comparisons, this time calculated as in Eq.
+5
+, where
+\(a\)
+and
+\(b\)
+are the soft image masks and
+\(\epsilon\)
+is a smoothing term:
+$${DSC}=\frac{2\sum (a\cdot b)+\epsilon }{\sum a+\sum b+\epsilon }$$
+(5)
+Design of the explanations
+According to the EU Parliament’s recommendations regarding AI in healthcare, future AI algorithm development should be based on co-creation, i.e., continual collaborations between AI developers and clinical end users
+8
+,
+9
+. Consequently, we designed our explanation scheme with the consultation of two board-certified dermatologists (SHo, CNG). The explanation scheme included both visual and text-based components as well as assessments of the classification confidence.
+The majority of AI explanation approaches are visual, using saliency maps to emphasise the areas in an image that are most important in making predictions. This is most commonly achieved by superimposing a rainbow-coloured heatmap onto the image, but other visualisations are also possible. Heatmap methods were initially created with AI developers’ debugging needs in mind, as they allow by means of their colour gradient for a fine-grained analysis of the importance of image regions. However, according to the consulting dermatologists, such heatmaps obscured their view of the lesion so that they needed to switch back and forth between the explanation image and the original image without the heatmap. This was deemed tedious and unsuitable for the diagnostic process. The dermatologists expressed the need for a clear view of the lesion in the explanation image, allowing them to quickly determine whether the predicted features are present in the salient regions. Therefore, we decided to indicate the most relevant region(s) for the prediction of each feature by displaying a polygon-shaped ROI over the top 20
+th
+percentile attribution values, as shown in Fig.
+2b
+, based on the guidance of the consulting dermatologists. Only showing a polygon has the drawback that fine-grained localisation information within the polygon is lost and that obtaining ROIs that are neither too precise nor too general becomes dependent on choosing a suitable threshold. Additionally, the person seeing the explanation has to interpret the region within the polygon as the more important region. We experimented with a slight darkening of the unimportant regions outside of the polygon to solve this issue. However, we rejected this option for our study design, as the consulting dermatologists pointed out that it limited their ability to assess the regions outside of the polygons and, in our test set, all salient regions were contained inside the polygons. This was also indicated in the survey for clarity. However, our polygon approach is, as is, unsuitable for application in the clinic, as different behaviour must be anticipated, especially in degenerate cases. Nevertheless, we believe that a medical device using heatmap-based explanations should offer several interactive modes anyway. We imagine such a tool to allow users to switch between heatmap and polygon explanations and to select different levels of opacity or importance thresholds, allowing them to intuitively determine which reasons are important while limiting interference with the visibility of the lesion. Using a similar scheme as presented in Lucieri et al.
+23
+, we also provide a textual explanation of the characteristics detected in a lesion.
+Additionally, in clinical applications, it is essential that the AI system be able to communicate when its predictions are uncertain
+60
+,
+61
+. This allows clinicians to judge when they should trust the AI predictions and when to disregard them. In our study, we presented the degree of confidence for the detection of each characteristic. Predictions of characteristics with high confidence were displayed with the text “strong evidence of characteristic(s)” while those with low confidence were displayed with the text “some evidence of characteristic(s)”. We say that the classifier is certain when it finds strong evidence of at least one characteristic (temperature-scaled output above 0.7) and is uncertain otherwise. An example of this is provided in Fig.
+2a
+. This communicates the prediction uncertainty to the dermatologist, as the absence of strong evidence of all characteristics indicates that the classifier is not confident. This explanation scheme was illustrated to the study participants in a tutorial video in phase 3 (
+https://youtu.be/eWAcaIzXChY
+). The threshold was set based on prior research showing an improvement in performance when rejecting uncalibrated output scores below 0.7
+62
+. We note that the prior work worked with uncalibrated output scores, whereas we use output scores that have been calibrated by temperature scaling.
+The localised explanations in phase 3 were created by showing the regions of interest for the characteristics the classifier was certain about (respective outputs above 0.7). If the classifier identified no characteristic above the certainty threshold, we showed the regions of interest for the most certain characteristic instead.
+Hyperparameters of the classifiers
+Except for the number of epochs, the hyperparameters for both our XAI and the baseline are identical. The XAI required a greater number of epochs than the baseline because it had a greater number of target classes. For the attention-based baseline and the ensemble baseline, we used the same hyperparameters as in the original works, which are listed below.
+Our XAI
+Hyperparameters: backbone=ResNet50, num_epochs=30, learning_rate=0.0001, optimizer=Adam(epsilon=1e-08), batch_size=32, image_size = (224, 224), dropout=0.4, seed=42.
+Image augmentations: Transpose (
+p
+= 0.2), VerticalFlip (
+p
+= 0.5), HorizontalFlip (
+p
+= 0.5), ColorJitter (
+p
+= 0.5), CLAHE (clip_limit = 4.0,
+p
+= 0.7), HueSaturationValue (hue_shift_limit = 10, sat_shift_limit = 20, val_shift_limit = 10,
+p
+= 0.5), ShiftScaleRotate (shift_limit = 0.1, scale_limit = 0.1, rotate_limit = 15, border_mode = 0,
+p
+= 0.85), Resize (image_size, image_size), Normalize().
+Baseline ResNet50 classifier
+Hyperparameters: backbone = ResNet50, num_epochs = 25, learning_rate = 0.0001, optimizer = Adam(epsilon = 1e-08), batch_size = 32, image_size = (224, 224), dropout=0.4, seed=42.
+Image augmentations: Transpose (
+p
+= 0.2), VerticalFlip (
+p
+= 0.5), HorizontalFlip (
+p
+= 0.5), ColorJitter (
+p
+= 0.5), CLAHE (clip_limit=4.0,
+p
+= 0.7), HueSaturationValue (hue_shift_limit = 10, sat_shift_limit = 20, val_shift_limit = 10,
+p
+= 0.5), ShiftScaleRotate (shift_limit = 0.1, scale_limit = 0.1, rotate_limit = 15, border_mode = 0,
+p
+= 0.85), Resize(image_size, image_size), Normalize().
+Baseline Attention-based classifier
+Hyperparameters: backbone = InceptionResNetV2, num_epochs=150, learning_rate=0.01, optimizer = Adam(epsilon = 0.1), batch_size = 50, image_size = (224, 224), dropout = 0.5, seed = 42.
+Image augmentations: rotation_range = 180, width_shift_range = 0.1, height_shift_range = 0.1, zoom_range = 0.1, horizontal_flip = True, vertical_flip = True, fill_mode=nearest.
+Baseline Ensemble classifier
+Hyperparameters: The hyperparameters are listed in Table
+2
+.
+Table 2 Hyperparameters of the baseline ensemble classifier
+Image augmentations: Transpose (
+p
+= 0.5), VerticalFlip (
+p
+= 0.5), HorizontalFlip (
+p
+= 0.5), ColorJitter (
+p
+= 0.5), OneOf([MotionBlur (blur_limit = 5), MedianBlur (blur_limit = 5), GaussianBlur (blur_limit = (3, 5)), GaussNoise(var_limit = (5.0, 30.0))],
+p
+= 0.7), OneOf([OpticalDistortion(distort_limit = 1.0), GridDistortion(num_steps = 5, distort_limit = 1.), ElasticTransform (alpha = 3)],
+p
+= 0.7), CLAHE (clip_limit = 4.0,
+p
+= 0.7), HueSaturationValue(hue_shift_limit=10, sat_shift_limit = 20, val_shift_limit = 10,
+p
+= 0.5), ShiftScaleRotate(shift_limit = 0.1, scale_limit = 0.1, rotate_limit = 15, border_mode = 0,
+p
+= 0.85), Resize (image_size, image_size), CoarseDropout (max_height=int(image_size * 0.375), max_width = int (image_size * 0.375), max_holes = 1,
+p
+= 0.3), Normalize().
+Study design
+Our reader study consisted of three parts and took place between July and December 2022.
+Participants
+We recruited a total of 120 international clinicians specialised in dermatology for phase 1, 116 of whom finished the complete study. The participants were contacted via Email through our collaboration network and by using public contact data from the International Society for Dermoscopy website and from university clinic webpages. We also contacted participants from private clinics.
+We excluded the data of participants who entered constant values for trust, confidence, and/or diagnosis, such as entering a trust score of 7 for all 15 images or a diagnosis of nevus for all 15 images. We excluded images where the participant took less than 7 seconds to complete. We did not use an upper limit for time taken for exclusion because some complicated cases could take a long time to annotate. Furthermore, the participants could pause and resume working later, so a longer time taken did not necessarily imply insincere work. Images marked as having insufficient image quality (
+n
+= 26) were removed for the particular participant who indicated the issue, but not for others since the image quality issues could have been related to monitor settings. As a result, a varying amount of images were evaluated for each participant. None of the participants met these criteria for exclusion. Participants who dropped out in phases 2 or 3 were excluded from the study.
+Phase 1
+Phase 1 of the study took place between July and October 2022. We tasked the clinicians to diagnose 15 lesions from our dataset, to explain their diagnoses by choosing the relevant characteristics from our explanatory ontology and to annotate the characteristics in the given images. Furthermore, we asked the clinicians to indicate their confidence in their diagnosis. The participants were informed that they would be presented with 15 lesions (14 unique and one repeated image) each and that this phase would take up to 30 minutes to complete based on the experience from our pilot study. The participants were not informed about the repeated image. The participants were asked to complete this task within two weeks.
+We randomly divided the participants into 14 groups. Each group contained roughly 4–6 participants. For each group, we randomly selected 14 images (7 melanomas and 7 nevi) from our test set (196 images in total, with 98 melanomas and 98 nevi) and repeated the third image in the group (either a melanoma or a nevus) after the 12th image. The image sets for each group were mutually exclusive and consisted of 196 unique images (see Supplementary Data
+2
+for the image IDs used in each group). The test set was drawn at random from our dataset and curated to contain only one image per lesion and one lesion per patient. All images from the patients contained in the test set were removed from the training and validation set. We used the repeated image to measure the variability of results for the same participant, but we did not exclude any participants from our analysis based on this variability.
+We asked the clinicians to diagnose each lesion as a nevus or melanoma. To reflect the clinical practice of excising lesions that are not considered to be unequivocally benign and the German dermatology guideline to excise specific types of nevi, we offered the diagnoses “nevus (leave in)”, “nevus (excise),” and “melanoma”. For the evaluation of clinician accuracy, we treated both options for nevus as a simple “nevus” diagnosis.
+In addition to the diagnosis, we asked the participants to choose one or more characteristics from the explanatory ontology and to annotate the corresponding image regions (ROIs). Finally, the clinicians were asked to indicate their confidence in their diagnosis on a Likert scale (1–10, with 1 being least and 10 most confident). The participants had the option to indicate issues during the processing of the survey (i.e., “insufficient image quality”, “no image visible”, “no AI diagnosis visible”, and “other”, the latter being accompanied by a free text field).
+To conduct this part of the study, we used the web-based annotation tool PlainSight (
+https://plainsight.ai/
+). The clinicians received textual information on the study as well as a video (
+https://youtu.be/BJRq4nXZ1Xw
+) explaining use of the tool, the explanatory ontology, and annotation of the ROIs with their login details.
+3 participants dropped out in this phase leaving 113 participants.
+Phase 2
+The second phase of our study was conducted in November 2022. In this phase, we included the 113 participants who completed phase 1 and 7 participants from our pilot study. We asked the participants who completed phase 1 to diagnose the same lesions they reviewed in phase 1 with the support of an AI system but did not explicitly inform them that they had diagnosed the same lesions in the previous phase. The 7 pilot study participants had not previously reviewed these lesions as we used a different set of images. We ensured that at least two weeks had passed between finishing phase 1 and starting phase 2. Again, the participants were asked to complete the task within two weeks.
+The participants were shown the images from phase 1 in the same order alongside the AI diagnosis of the lesion (“nevus” or “melanoma”) and asked them to provide their own diagnosis. As in phase 1, they could choose between “nevus (leave in)”, “nevus (excise)” and “melanoma”. The participants were informed of the AI’s sensitivity and specificity.
+As in phase 1, we asked the participants to indicate their confidence in their decisions on a Likert scale (1–10, with 1 being least and 10 being most confident). Additionally, we asked them to indicate their trust in the AI decision on a Likert scale (1–10, with 1 meaning no trust and 10 meaning complete trust in the AI) in this phase.
+They were informed that the assessment would take 10–12 minutes to complete. We used the web-based survey tool LimeSurvey (
+https://www.limesurvey.org/
+) to conduct this phase.
+3 participants did not complete this phase before the deadline, resulting in 117 participants.
+Phase 3
+The final phase of the study was conducted in December 2022. Again, we ensured that at least two weeks had passed between the completion of phase 2 and the start of phase 3. In line with previous phases, the time given for the task was two weeks.
+Of the clinicians who completed phase 2, those who participated in phase 3 (
+n
+= 117) were asked to diagnose the same lesions as in the previous study phases, this time with the support of an explainable AI. Again, they were not informed that they had diagnosed the same lesions in the previous phase or that an image had been repeated, but similar to phase 2, they were informed of the AI’s sensitivity and specificity.
+For each feature that was detected with certainty (temperature-scaled softmax output >0.7), we showed a separate explanation. If the AI did not detect any feature with certainty, we showed the explanation for the feature with the highest AI confidence. The participants were informed that they were receiving explanations for “strong evidence for feature(s)” or “weak evidence for feature(s)”. The explanations always followed the same schema: the clinicians were shown the relevant entry from the ontology as a textual explanation and the location of the feature based on the highest-influence region(s) of the AI’s Grad-CAM saliency map (0.7 or higher). An example is shown in Fig.
+2a, b
+.
+Similar to phase 2, the participants were asked to indicate their confidence in their decisions and their trust in the AI decisions. They had the same diagnosis options and the possibility of indicating issues that arose during the assessment. As in phase 2, we used LimeSurvey to conduct this phase and provided the clinicians with a video (
+https://youtu.be/eWAcaIzXChY
+) on how to interpret the AI explanations. With 1 participant dropping out, a total of 116 participants completed this phase (82 board-certified and 33 resident dermatologists as well as one nurse consultant specialised in dermoscopic skin cancer screening).
+Reporting summary
+Further information on research design is available in the
+Nature Portfolio Reporting Summary
+linked to this article.

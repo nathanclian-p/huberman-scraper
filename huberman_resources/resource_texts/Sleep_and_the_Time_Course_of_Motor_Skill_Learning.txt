@@ -1,0 +1,1182 @@
+Abstract
+Growing evidence suggests that sleep plays an important role in the process
+ of procedural learning. Most recently, sleep has been implicated in the
+ continued development of motor-skill learning following initial acquisition.
+ However, the temporal evolution of motor learning before and after sleep, the
+ effects of different training regimens, and the long-term development of motor
+ learning across multiple nights of sleep remain unknown. Here, we report data
+ for subjects trained and retested on a sequential finger-tapping task across
+ multiple days. The findings demonstrate firstly that following initial
+ training, small practice-dependent improvements are possible before, but not
+ following the large practice-independent gains that develop across a night of
+ sleep. Secondly, doubling the quantity of initial training does not alter the
+ amount of subsequent sleep-dependent learning that develops overnight.
+ Thirdly, the amount of sleep-dependent learning does not correlate with the
+ amount of practice-dependent learning achieved during training, suggesting the
+ existence of two discrete motor-learning processes. Finally, whereas the
+ majority of sleep-dependent motor-skill learning develops during the first
+ night of sleep following training, additional nights of sleep still offer
+ continued improvements.
+Evidence from animal and human studies continues to suggest that the
+ brain-state of sleep plays an important role in the process of memory
+ formation. In humans, sleep has been most consistently implicated in the
+ development of procedural learning (i.e., perceptual and motor skills),
+ specifically in the ongoing process of memory consolidation, following the
+ initial stage of memory acquisition (
+Karni
+ et al. 1994
+;
+Gais et al.
+ 2000
+; Stickgold et al.
+2000a
+,
+b
+;
+Walker et al. 2002
+).
+Several different factors are considered to be important in procedural
+ memory formation. One critical element is the amount of training or practice
+ during task acquisition, which strongly influences both behavioral learning
+ (
+Karni et al. 1995
+;
+Karni and Bertini 1997
+;
+Rattoni and Escobar 2000
+) and
+ functional brain changes (
+Karni et al.
+ 1995
+;
+Jancke et al.
+ 2001
+). It is widely accepted that, following effective
+ acquisition, a specific memory representation is formed, which can then
+ undergo further modification during the process of consolidation.
+The process of consolidation was initially believed to evolve in a
+ time-dependent manner (
+Brashers-Krug et al.
+ 1996
+;
+Karni et al.
+ 1998
+;
+McGaugh
+ 2000
+). However, this concept has been refined recently, with
+ several studies suggesting that, in addition to sufficient practice during
+ acquisition (which is usually accompanied by rapid learning within the
+ session), posttraining consolidation offers a second, delayed stage of
+ learning that develops in the absence of further training. But instead of
+ evolving simply as a function of time per se, this delayed improvement
+ develops exclusively across periods of sleep and not wake for certain forms of
+ learning (
+Karni et al. 1994
+;
+Gais et al. 2000
+; Stickgold et
+ al.
+2000a
+,
+b
+;
+Fischer et al. 2002
+;
+Walker et al. 2002
+).
+For example, in the visual domain, Karni et al.
+ (
+1994
+) have demonstrated that,
+ following training, delayed learning of a texture discrimination task occurs
+ during a night of sleep, and that selective disruption of rapid eye movement
+ (REM) sleep prevents this overnight performance gain. Using the same task,
+ Stickgold and colleagues have shown firstly that learning of this task does
+ not benefit from periods of 3–12 h of wake following the acquisition
+ stage of memory formation (
+Stickgold et
+ al. 2000b
+), whereas sleep triggers significant additional
+ performance improvements, with the overnight benefits correlating strongly
+ with the amount of slow-wave sleep (SWS; combined stage-III and stage-IV NREM
+ sleep) early in the night, as well as the amount of REM sleep late in the
+ night (
+Stickgold et al.
+ 2000b
+). Stickgold and colleagues have also demonstrated that
+ delayed performance benefits are absolutely dependent on the first night of
+ sleep after acquisition (
+Stickgold et al.
+ 2000a
+). Also following training on this same visual skill task,
+ Gais et al. (
+2000
+) selectively
+ deprived subjects of sleep early in the night (rich in SWS) or late in the
+ night (rich in REM sleep), and concluded that enhanced memory consolidation is
+ triggered by SWS-related processes, whereas REM sleep promotes additional
+ consolidation, but only after periods of SWS sleep
+ (
+Gais et al. 2000
+).
+Several lines of evidence have also identified delayed motor-skill learning
+ that is sleep, and not just time dependent. First, Walker et al.
+ (
+2002
+), have described
+ evidence of sleep-dependent learning in the motor system using a sequential
+ finger-tapping task. Subjects were trained either in the morning or evening
+ and retested at subsequent 12-h intervals following wake or sleep. Although
+ practice on the motor-skill task improved performance within the training
+ session for all groups equally, regardless of time of day, subjects trained in
+ the morning demonstrated no significant improvement in speed when retested
+ after 12 h of wake. In contrast, they showed an average 20% improvement by the
+ next morning, following a night of sleep. Subjects who were instead trained in
+ the evening, demonstrated large and significant improvements in performance
+ overnight, just 12-h posttraining, but showed no significant additional
+ learning after a further 12 h of wake. Thus, significant delayed improvement
+ was only seen across a night of sleep and not over a similar period of wake,
+ regardless of whether the time awake or time asleep came first. Second, when
+ the degree of overnight improvement in motor learning was correlated with
+ sleep recordings, a significant positive correlation was found with the
+ percentage of stage-II NREM sleep, particularly late in the night, further
+ implicating sleep in the observed learning effect. Third, similar data by
+ Fischer et al. (
+2002
+) have
+ recently confirmed the findings of Walker et al.
+ (
+2002
+), with the additional
+ evidence that, as with visual skill learning
+ (
+Stickgold et al. 2000a
+),
+ sleep on the first night following training is critical for the delayed
+ improvement to develop, and that sleep during the day triggers similar
+ improvements to those achieved following nocturnal sleep.
+Thus, practice clearly improves performance within a session on certain
+ tasks, whereas sleep triggers an additional consolidation phase in the absence
+ of further task engagement. Building on these previous findings, we now
+ describe the nature and time course of this procedural motor-skill learning,
+ and examine the relationship between practice-dependent and delayed
+ sleep-dependent motor learning.
+Four specific questions are addressed in this study: (1) After an initial
+ training session, are there differences in the profile of motor skill learning
+ across the first 12 h of wake prior to a night of sleep compared with the
+ profile of motor-skill learning across the 12 h of wake following a subsequent
+ night of sleep? (2) How does a second full training session affect subsequent
+ overnight sleep-dependent learning? (3) How does improvement after three
+ nights of sleep compare with one night of sleep? (4) Is the amount of delayed,
+ sleep-dependent learning correlated with the earlier, rapid,
+ practice-dependent learning?
+RESULTS
+Practice-Dependent Learning During Training
+The forty subjects in groups 1–4 were trained on the finger-skill
+ task at either 10 AM or 1 PM on day 1, with the learning curves for each group
+ displayed in
+Figure 1
+.
+Figure 1.
+Improvement in performance speed across training. Improvement during
+ training session 1 (trials 1–12) was similar for subjects trained at 10
+ AM (group 1, □) and 1 PM (groups 2 and 4, ⋄; and group 3, •).
+ Subjects in group 3 performed a second successive training session (trials
+ 13–24), demonstrating modest continued improvements, similar to the
+ predicted improvement rate based on the logarithmic regression across the
+ first 12 trials of training in Session 1 (broken line).
+Training Session 1
+Improvement in performance across the first 12-trial training session
+ (Session One) was similar for all groups, with no significant difference in
+ performance speed between the posttraining score (ave. trials 10–12) at
+ 10 AM or 1 PM (t[38] = 0.19,
+P
+= 0.84) or in the baseline starting
+ level (trial 1; t[38] = 0.13,
+P
+= 0.89). When averaged across these
+ groups, there was an improvement in performance speed of 7.8 sequences (52%)
+ during the 12 trials of training. The majority of this learning occurred
+ across the first 3 trials (4.88 sequences; 32.4% or 1.6 seq/trial), with the
+ remaining 3.0 sequences (19.7%) developing across the final 10 trials (or 0.33
+ seq/trial;
+Fig. 1
+). On the
+ basis of the learning curve across the 12 trials of Session One, a projected
+ logarithmic fit, extending an additional 12 trials (13–24) could be
+ extrapolated for additional tests to predict the expected performance-rate
+ improvements following continued rehearsal
+ (
+Fig. 1
+; broken line). There
+ was also a significant 47% decrease in error rate across the 12 training
+ trials of Session One (0.29 errors/seq during Trial 1 vs. 0.15/seq during
+ Trial 12; t[39] = 2.61,
+P
+= 0.01).
+Training Session 2
+Following a 10-min rest period after Session One, subjects in group 4
+ received a second training session (Session Two). Subjects showed small, but
+ significant continued incremental increases in performance speed, improving by
+ a total of just 2.0 sequences across the additional 12 trials, from 23.7 to
+ 25.7 sequences (8.44% or 0.17 seq/trial, r = 0.67, df = 11,
+P
+= 0.01;
+Fig. 1
+). As can be seen from
+Figure 1
+, the learning benefit
+ achieved across Session Two was similar to the extrapolated/predicted
+ improvement rate on the basis of the initial 12 trials across training Session
+ One (
+Fig. 1
+, broken line).
+ There was no significant difference between the predicted improvement based on
+ the continued rehearsal rate of 0.33 seq/trial during the final 10 trials of
+ training in Session One, and the actual improvement obtained by subjects
+ across Session Two (t[9] = 1.60, p = 0.14). There was also no significant
+ difference between performance on the final trial of Session One (Trial 12;
+ 23.8 seq/trial) and the first trial of Session Two (Trial 13; 23.7 seq/trial)
+ following the 10-min rest period (t[9] = 0.15,
+P
+= 0.88). In contrast
+ to the modest increase in speed, there was no significant reduction in error
+ rate across Session Two (0.16 for Trial 13 vs. 0.14 for Trial 24; t[9] = 0.53,
+P
+= 0.60).
+Group 1: Motor Skill Learning Across 36 h (
+n
+= 10)
+To investigate differences in the profile of continued motor-skill learning
+ across periods of wake prior to a night of sleep compared with periods of wake
+ following a night of sleep, subjects in group 1
+ (
+Fig. 5
+, below) were training
+ at 10 AM day 1, and retested at 2, 6, and 10 PM later that same day (elapsed
+ time = 4–12 h). Then, following a night of sleep, subjects were retested
+ again across the subsequent waking period of day 2 at 10 AM, 2, 6, and 10 PM
+ (time = 24–36 h).
+Figure 5.
+Training-dependent learning vs. sleep-dependent learning. Subjects were
+ trained once and retested once after a single intervening night of sleep
+ (
+n
+= 25; groups 2 and 5). (
+A
+) Speed: There was no
+ relationship between the amount of improvement during training (difference
+ between baseline and posttraining score) and the amount of subsequent
+ overnight improvements (difference between posttraining and retest score).
+ (
+B
+) Error rate: Similarly, there was no evidence of a correlation
+ between practice-dependent changes in error rate during training, and the
+ amount of continued performance improvements in error rate that developed
+ overnight.
+Speed
+There was a significant difference in performance speed across the 36-h
+ period (F[7,72] = 2.59,
+P
+= 0.01;
+Fig. 2A
+). Following training,
+ subjects demonstrated a significant linear increase in performance at each
+ retest across the first 12 h of wake on day 1
+ (
+Fig. 2A
+, solid black bars;
+ F[4,45] = 8.06,
+P
+< 0.001), improving by an average of 1.1
+ sequences per retest, or 0.37 seq/trial. These incremental gains in
+ performance speed across day 1 were not significantly different from the
+ expected rehearsal-based improvement extrapolated from the final 10 trials of
+ training (paired t-tests,
+t
+> 0.18,
+P
+> 0.4 for each
+ time,
+t
+= 1.3,
+P
+> 0.2 for all times combined). Thus,
+ with continued retesting across day 1 prior to sleep, there was a modest,
+ linear improvement in performance speed, similar to that predicted by
+ rehearsal alone.
+Figure 2.
+Differential motor skill learning across 36 h before and after sleep (Group
+ 1). (
+A
+) Speed. Following training at 10 AM, subjects demonstrated
+ modest, but significant continued gains in motor-skill speed with rehearsal on
+ day 1 (solid black bars). The initial retest on day 2 (RT4) showed a large and
+ significant overnight improvement. In contrast, continued retesting across day
+ 2 (hatched bars) yielded no further increase in performance speed. The marked
+ difference in learning profiles prior to sleep (day 1) and following sleep
+ (day 2) are seen in the improvement slopes for each group (broken lines; day 1
+ slope [presleep] = 1.08 vs. day 2 slope [postsleep] = 0.14). (
+B
+)
+ Error rate. In contrast, error rate did not significantly improve during
+ daytime rehearsal on either day 1 (solid bars) or day 2 (hatched bars), with
+ the only significant decrease in error rate occurring exclusively across the
+ night of intervening sleep. This similarity is evident in the comparable
+ learning profile slopes prior to sleep on day 1 and following sleep on day 2
+ (broken lines; day 1 slope [presleep] = 0.009 vs. day-2 slope [postsleep] =
+ 0.001). (PT) Posttraining value (average of final three trials of training);
+ (RT) retest value (average of three trials); Error bars, SEM; (Asterisks)
+ significance (P) compared with previous time point at *<0.05;
+ **<0.005
+Although these subjects displayed large significant improvements overnight
+ (see below), continued retesting across day 2 resulted in no additional
+ performance gains at 2, 6, or 10 PM (
+Fig.
+ 2A
+, hatched bars; F[3,36] = 0.01,
+P
+= 0.99). The
+ differences in learning profiles prior to sleep (day 1) and following sleep
+ (day 2) are demonstrated by the performance slopes for each day in
+Figure 2A
+. When the performance
+ slopes across the four time points on day 1 and day 2 were compared
+ (
+Fig. 2A
+; broken lines
+ representing the linear approximation fit), there was a significant difference
+ between the rate of improvement in performance on presleep day 1 compared with
+ the postsleep performance profile on day 2 (t[9] = 3.09,
+P
+= 0.01)
+ suggesting that, following the overnight gains in motor-skill speed, no
+ subsequent rehearsal-dependent learning occurred on day 2.
+In agreement with our previous findings (see below), a comparison of the
+ final retest performance prior to sleep on day 1 (RT3, 10 PM) with the first
+ retest the next morning (RT4, 10 AM) revealed a significant increase in
+ learning overnight (t[9] = 4.33,
+P
+= 0.001;
+Fig. 2A
+).
+Error Rate
+There was also a significant difference in error rate across the 36-h
+ period (F[7,72] = 2.10,
+P
+< 0.05;
+Fig. 2B
+). But contrary to the
+ findings for speed improvement, there was no significant change in error rate
+ across tests on day 1 (
+Fig. 2B
+,
+ solid black bars; F[4,45] = 1.19,
+P
+= 0.32) or following sleep,
+ across day 2 (
+Fig. 2B
+, hatched
+ bars; F[3,36] = 0.28,
+P
+= 0.82). This was further confirmed by a
+ comparison of the error rate slopes calculated across the four time points on
+ days 1 and 2 (
+Fig. 2B
+; broken
+ lines), which also did not differ significantly from each other (t[9] = 1.2,
+P
+= 0.25), or from zero for each day separately (t[9] < 1.1,
+P
+> 0.28). However, a comparison of performance at the final
+ retest prior to sleep on day 1 (RT3, 10 PM) with the first retest following
+ sleep on day 2 (RT4, 10 AM) revealed a large and significant 45.9% reduction
+ in the error rate expressly overnight [t(9) = 2.54,
+P
+= 0.03;
+Fig. 2B
+].
+In summary, sleep resulted in large overnight improvements in speed and
+ equally large improvements in error rate. But whereas gains in motor skill
+ speed were seen across daytime rehearsal on day 1 but not day 2, there were no
+ significant reductions in error rate across the waking interval on either day
+ 1 or day 2.
+Group 2: Motor Skill Learning Across 24 hr (
+n
+= 10)
+Previously, we have demonstrated that a night of sleep resulted in an
+ average 18% improvement in motor-skill speed following a single training
+ session, shown in groups 5 and 6 (
+Fig.
+ 3
+), whereas periods of daytime wake offered no significant
+ improvement beyond that expected from rehearsal alone
+ (
+Walker et al. 2002
+).
+ Furthermore, although error rates decreased by ∼35% overnight, they also
+ showed no improvement across periods of wake
+ (
+Fig. 3
+). For comparative
+ purposes, we trained subjects in group 2 at 1 PM, and then retested them once
+ 24 h later (rather than at 12-h intervals as in our previous study) to confirm
+ that a similar degree of overnight motor skill learning was evident at 1 PM
+ day 2 (+24 h). At the 24-h retest, following a single training session and one
+ night of sleep, subjects' performance speed improved by 17.0% (posttraining =
+ 22.1 seq/trial versus postsleep = 25.9 seq/trial, t[9] = 4.12,
+P
+=
+ 0.002;
+Fig. 4A
+, top) as their
+ error rate decreased by 34.5% (t[9] = 2.72,
+P
+= 0.02;
+Fig. 4A
+, bottom).
+Figure 3.
+Continued motor-skill learning across 24 h with wake or sleep first (Groups
+ 5 and 6, modified from
+Walker et al.
+ 2002
+). (
+A,B
+) Group 5: Following a single training session
+ in the morning, subjects demonstrated no significant change in speed or error
+ rate following 12 h of wake (RT1; solid bars) relative to the end of training
+ (posttraining; PT). However, following a night of sleep, a significant
+ increase in speed and decrease in error rate had developed (RT2; hatched bar).
+ (
+C,D
+) Group 6: Subjects were trained in the evening, and showed
+ significant improvements in speed and error rate after only 12 h, following a
+ night of sleep (RT1, solid bar), but displayed no further significant
+ improvements in speed or error rate with an additional 12 h of wake (RT2,
+ hatched bars). Error bars, SEM; (Asterisks) significance (P) compared with
+ previous time point at *<0.05; **<0.005
+Figure 4.
+Continued motor-skill learning across 24–72 h with variable training
+ and intervening nights of sleep (Groups 2–4). (
+A,B
+) Group 2:
+ Subjects received a single training session on day 1 (1 PM), and demonstrated
+ significant increases in speed (
+A
+) and decreases in error rate
+ (
+B
+) relative to the end of training (PT) when retested 24 h later on
+ day 2 (1 PM; RT1), similar to overnight values seen in our earlier findings
+ (see
+Fig. 3
+). (
+C,D
+)
+ Group 3: Subjects performed two consecutive training sessions on day 1 (1 PM).
+ Although subjects attained different posttraining (PT) performance levels
+ relative to subjects in group 2 due to this second training session, they
+ displayed almost identical overnight percentage improvements in speed
+ (
+C
+) and reductions in error rate (
+D
+) at retest on day 2
+ (RT1). (
+E,F
+) Group 4: Subjects received a single training session as
+ in group 2, but were instead retested 72 h later after three intervening
+ nights of sleep, and showed larger increases in performance speed (
+E
+)
+ and greater reductions in error rate (
+F
+). Error bars, SEM;
+ (Asterisks) significance (P) compared with previous time point at *<0.05;
+ **<0.005.
+Thus, the improvements in both speed and accuracy occurring across 24 h in
+ group 2 were similar to those reported previously
+ (
+Walker et al. 2002
+) across 12
+ h, including a night of sleep in group 6 (speed: t[21] = 1.10,
+P
+=
+ 0.28; error rate, t[21] = 1.17, P = 0.25).
+Group 3: Motor Skill Learning Across 24 h Following a Double Training
+ Session (
+n
+= 10)
+Subjects in group 3 were trained once at 1 PM day 1, but following a 10-min
+ rest period, underwent a second training session of an additional 12 trials,
+ and were then retested 24 h later, after one night of sleep. Relative to the
+ end of their second training session, subjects in group 3 displayed an average
+ 17.5% improvement in speed (posttraining = 25.3 seq/trial vs. postsleep = 29.7
+ seq/trial, t[9] = 7.2,
+P
+< 0.0001;
+Fig. 4B
+, top) and a 37.9%
+ decrease in relative error rate (t[9] = 2.89,
+P
+= 0.01;
+Fig. 4B
+, bottom). The overnight
+ learning effects in group 3 were almost identical to those observed in group 2
+ following just one training session for both motor skill speed (+17% vs.
+ +17.5%; t[18] = 0.28,
+P
+= 0.77) and error rate (–34.5% vs.
+ –37.9%; t[18] = 0.72,
+P
+= 0.48). Therefore, whereas doubling
+ the intensity of initial training did allow some additional
+ rehearsal-dependent improvements during Session 2, it did not appear to change
+ the subsequent quantity of overnight sleep-dependent learning that
+ developed.
+Group 4: Motor Skill Learning Across 72 h (
+n
+= 10)
+Subjects in group 4 were trained only once (12 trials) at 1 PM on day 1 as
+ in group 2. But instead of being retested 24 h later, following one night of
+ sleep, they were retested 72 h later, following three nights of sleep, on day
+ 4. At the 72-h retest, subjects showed marked improvements in both performance
+ speed (+26.2%; t[9] = 6.20,
+P
+< 0.0001;
+Fig. 4C
+, top) and error rate
+ (–48.3%; t[9] = 2.58,
+P
+= 0.002;
+Fig. 4C
+, bottom). Improvements
+ seen after three nights of sleep showed trends toward being greater than those
+ seen after one night of sleep in group 2 for both speed (+26.2% vs. +17.0%;
+ t[18] = 1.96,
+P
+= 0.07) and error rate (–48.3% vs.
+ –34.5%; t[18] = 1.68,
+P
+= 0.10). This trend toward greater
+ speed after three nights of sleep was seen even when compared with subjects
+ who received two training sessions rather than one and one night of sleep
+ (group 3; speed: t[18] = 2.0,
+P
+= 0.06).
+Training-Dependent Learning Versus Sleep-Dependent Learning
+Whereas two stages of motor-skill learning were apparent; one initial rapid
+ learning stage during training, and a second phase developing across a night
+ of sleep, an outstanding question remained—does the amount of
+ training-dependent learning during acquisition (i.e., learning during
+ practice) influence or show any relationship with the amount of
+ sleep-dependent learning that individuals subsequently achieve? To investigate
+ this possibility, the percentage of improvement in motor-skill learning across
+ training (difference between baseline score and posttraining score) and the
+ percentage of delayed sleep-dependent improvement (difference between the
+ posttraining score and the retest score following a night of sleep) was
+ correlated in the 25 subjects who were trained once on day 1 and retested once
+ after a night of sleep on day 2 (groups 2 and 6 combined). Surprisingly, there
+ was no evidence of a relationship between the efficiency of within session,
+ training-dependent learning, and the amount of subsequent overnight
+ sleep-dependent learning (practice-independent) with regards to performance
+ speed (r = 0.18,
+P
+= 0.38;
+Fig.
+ 5A
+). Similarly, there was also no sign of a correlation between
+ decreases in error rate within the training session compared with the
+ reduction in error rate overnight (r = 0.03,
+P
+= 0.89;
+Fig. 5B
+). Similarly, no
+ relationship between the two learning stages was evident within each of the
+ remaining four groups analyzed separately (speed: r < 0.35,
+P
+<
+ 0.18; error rate: < 0.37,
+P
+< 0.17 for each group) or for all
+ groups combined (speed: r = 0.07,
+P
+= 0.56; error rate: r = 0.13,
+P
+= 0.26).
+One possible explanation for this lack of relationship is that both
+ performance speed and error rate had simply reached asymptotic levels at the
+ end of training and there was no possibility for a correlative match with the
+ delayed overnight learning. However, two further analyses demonstrated this
+ not to be the case. Firstly, there was still no correlation between the actual
+ posttraining values (rather than percent improvement across training) and the
+ amount of subsequent delayed sleep-dependent learning (speed: r = 0.19,
+P
+= 0.19; error rate: r = 0.22,
+P
+= 0.14). Secondly, when
+ the 25 subjects were divided into 2 groups on the basis of posttraining mean
+ score for either speed (≤22> seq/trial) or error rate (≤0.12>
+ errors/seq), there was no significant difference between the upper and lower
+ achievement groups in the amount of subsequent overnight delayed improvement
+ that developed (speed: t[23] = 0.79,
+P
+= 0.43; error rate: t[23] =
+ 1.61,
+P
+= 0.12).
+Thus, the lack of correlation between practice-dependent learning and
+ sleep-dependent learning did not appear to be due to posttraining asymptotic
+ levels, and regardless of the performance ability achieved at the end of
+ training, high or low, both groups appeared to develop an equal distribution
+ of overnight sleep-dependent improvement, unrelated to the prior posttraining
+ ability. Taken together, the lack of correlation suggests that the two stages
+ of motor skill learning, one training dependent and the other sleep dependent,
+ are distinct and independent processes.
+DISCUSSION
+Differential Motor-Skill Learning Before and After Sleep
+Subjects in group 1 were tested repeatedly on the motor-skill task across
+ two consecutive days (36 h) separated by an intervening night of sleep.
+ Following a single training session in the morning, subjects showed the
+ ability for small but continued incremental improvements in speed at each of
+ the retest sessions across the first 12 h on day 1 prior to sleep, similar to
+ that expected by continued task rehearsal, and without evidence of circadian
+ fluctuations (
+Fig. 2A
+; solid
+ bars). When retested immediately after the night of sleep, subjects showed a
+ much larger improvement, far in excess of that predicted by additional
+ rehearsal and similar to the overnight sleep-dependent improvements seen in
+ our previous study (
+Fig. 3
+;
+Walker et al. 2002
+). However,
+ following these sleep-dependent performance gains, the capacity for additional
+ rehearsal-based learning appeared to temporarily stall, with continued
+ retesting (rehearsal) across day 2 yielding no further improvements in
+ motor-skill speed (
+Fig. 2A
+,
+ hatched bars).
+It would therefore appear that the large increase in performance produced
+ by a night of sleep comes at the expense of potential improvement with
+ rehearsal the next day. But, as discussed below, this diminished learning
+ potential does not represent the end of all further improvement. A previous
+ report has demonstrated that performance on this task continues to improve
+ with repeat testing across many weeks (termed the slow component of learning),
+ with subjects achieving greater than 35 seq/trial by week 5 before nearing
+ asymptotic levels (
+Karni et al.
+ 1998
+), far in excess of values achieved by subjects in this
+ study.
+Interestingly, error rate scores show a different profile across 36 h. In
+ contrast to motor skill speed, no significant change in error rate was seen
+ with repeated testing across either day 1 or day 2. The only reduction in
+ error rate seen after the initial training session occurred across the
+ intervening night of sleep. This is perhaps surprising considering that,
+ despite the continued task rehearsals during each brief retest, periods of
+ daytime wake still offered no consistent decreases in error rate, regardless
+ of whether the waking episode came before or after a night of sleep.
+Although not specifically designed to investigate circadian effects on
+ motor skill learning, we reiterate that circadian influences are not likely to
+ be the explanatory factor determining changes in motor learning observed
+ across the 36-h period, for several reasons. Firstly, the profile of
+ performance speed across day 1 is dramatically different from that of day 2,
+ despite being tested at identical time points on the circadian cycle.
+ Similarly, the profile of error rate change across day 1 is completely
+ reversed on day 2, even though test times were identical on both days.
+ Secondly, the initial learning curves across training were essentially
+ identical for subjects trained in the morning, afternoon, and evening.
+ Thirdly, the delayed, sleep-dependent learning effect appears to occur only
+ across periods of sleep, regardless of whether those sleep epochs occur during
+ the day or during the night (
+Fischer et al.
+ 2002
+;
+Walker et al.
+ 2002
+). Finally, there was no significant difference in subjective
+ ratings of alertness across all testing points. Thus, the changes in learning
+ profile do not appear to be easily explained by any known profile of circadian
+ rhythm, although some subtle influences may yet be identified.
+It is therefore clear that a delayed, sleep-dependent learning effect is
+ common for both motor-skill speed and error rate. Nevertheless, a subtle
+ difference exists. Small practice-dependent improvements in performance speed,
+ but not in error rate, are possible during brief retests before the occurrence
+ of sleep, although following a night of sleep, further rehearsal offers no
+ additional improvement in either speed or error rate.
+The small, continued rehearsal-based improvements in motor-skill learning
+ with repeat testing across the first day are different from a recent report of
+ actual diminishing performance on a visual skill task with repeat daytime
+ testing, the effects of which can be ameliorated with a brief period of
+ daytime sleep (
+Mednick et al.
+ 2002
+). Whereas the cause of this difference remains unclear, we
+ consider several potential explanations. Firstly, the duration of retesting on
+ these tasks is dramatically different. Retesting on the motor task in this
+ study lasted just 3 min, whereas the duration of each retest for the visual
+ skill task was >1 h. Such prolonged durations of testing on the visual
+ skill task may therefore trigger performance deteriorations across the day. It
+ remains to be seen if short retest periods on the visual task provoke a
+ similar profile of deterioration. Secondly, these task differences may also
+ reflect a distinction between the input (sensory/perceptual) and output
+ (motor) roles of each of the respective systems used. From a functional
+ perspective, it is conceivable that the motor system simply does not fatigue
+ as easily as the visual system.
+Sleep-Dependent Learning Following One or Two Training Sessions
+Another question regarding the sleep-dependent nature of motor-skill
+ learning concerned the amount of initial training during acquisition. Subjects
+ in group 2 received only one training session on day 1 and were retested 24 h
+ later after a single night of sleep. When subjects in group 3 received a
+ second training session on day 1 (10 min after completion of the first
+ session), relatively modest increases in motor-skill speed and small
+ reductions in error rate continued to develop. Interestingly, this further
+ improvement did not diminish the amount of subsequent overnight improvement
+ that developed, but neither did it increase the sleep-dependent learning
+ effect.
+The nearly identical percentages of overnight improvement in these two
+ groups (speed: +17.0% vs. +17.5%; error rate: –34.5% vs. –37.9%)
+ suggest that the strength or efficiency of memory representation formed after
+ one training session is sufficient to maximize subsequent sleep-dependent
+ modification, and although a second training session provides some additional
+ performance gains within that practice session, it does not alter the amount
+ of delayed overnight learning that will subsequently develop.
+Sleep-Dependent Learning Across Three Nights of Sleep Versus One
+ Night of Sleep
+Although the extent of overnight improvement did not differ after one or
+ two training sessions, additional nights of posttraining sleep do appear to
+ confer additional learning benefits. Subjects in group 4 received a single
+ training session on day 1, but instead of being retested after only one night
+ of sleep (as in group 2), were retested 72 h later, after three nights of
+ sleep, and demonstrated large significant improvements in speed (+26.2%) and
+ error rate (–48.3%).
+Thus, whereas sleep on the first night following training offered the most
+ dramatic learning benefit, subsequent nights of sleep provided more modest but
+ continued gains. It is important to note that neither rehearsal nor the simple
+ passage of wake time on day 2 led to any increase in speed. Thus, the
+ subsequent improvement over additional days and nights would appear to again
+ reflect sleep-dependent processes, and emphasize the robust and long-acting
+ role that sleep appears to offer, not only for the maintenance of performance
+ levels, but for the actual enhancement of learning.
+It is of note that the temporal evolution of large gains in motor-skill
+ learning immediately after the first night of sleep, followed by more modest
+ continued improvements across subsequent nights of sleep, are similar to those
+ reported for the time course of sleep-dependent visual skill learning
+ (
+Stickgold et al. 2000a
+). The
+ similarity of overnight gains resulting from multiple nights of sleep for
+ these different perceptual and motor tasks may indicate a common underlying
+ profile of sleep-dependent memory formation within the procedural memory
+ domain.
+Training-Dependent Learning Versus Sleep-Dependent Learning
+In our previous study, we found that the amount of stage-II NREM sleep,
+ particularly in the last quarter of the night, could explain more than half of
+ the variance in overnight improvement on the motor skill task
+ (
+Walker et al. 2002
+). Another
+ obvious factor that could determine the quantity of delayed learning is the
+ amount of improvement achieved within the training session. However, although
+ subjects all improved substantially across the training session, there was no
+ correlation between the amount of learning achieved during training and the
+ amount of subsequent sleep-dependent improvement, regardless of the
+ posttraining level that individual subjects achieved. These correlations would
+ suggest that the sleep-dependent process of improvement is unrelated to the
+ practice-dependent process of learning during waking, reflecting two discrete
+ stages of procedural memory formation, one developing rapidly during task
+ performance and one developing across a night of sleep without active task
+ engagement.
+Although remaining speculative, it is interesting to note that this
+ two-stage learning progression has intriguing parallels with cellular data
+ regarding motor-skill learning. Rapid changes in neuronal responsiveness
+ within the motor system involving the disinhibition or unmasking of latent
+ intracortical connections (
+Jacobs and
+ Donoghue 1991
+;
+Butefisch et al.
+ 2000
+) have been demonstrated across the time frame of minutes, and
+ may therefore be distinct from more slowly developing changes across hours or
+ days that involve alterations in neuronal structure (e.g., synaptic
+ connectivity) and function (e.g., synaptic sensitivity)
+ (
+Soderling and Derkach 2000
+;
+Abel and Lattal 2001
+). It is
+ tantalizing to suggest that a similar mechanistic difference underlies the
+ independence seen between the rapid, within-session performance changes on our
+ finger-tapping task and the more slowly developing, sleep-dependent changes
+ that develop overnight.
+In summary, it would appear firstly that the overnight motor-skill learning
+ that occurs during sleep alters the capacity for subsequent rehearsal-based
+ improvements during waking episodes, so that prior to a night of sleep, small
+ practice-dependent gains are possible, but following a night of sleep, this
+ capacity is diminished. Secondly, doubling the duration of training does not
+ appear to alter the amount of subsequent sleep-dependent learning.
+ Furthermore, the amount of sleep-dependent learning does not correlate with
+ the amount of practice-dependent learning during training, suggesting the
+ existence of two discrete motor-learning processes. Finally, whereas the
+ majority of sleep-dependent motor-skill learning appears to occur during the
+ first night of sleep following training, additional nights of sleep appear to
+ support continued improvements.
+MATERIALS AND METHODS
+Participants
+The study cohort consisted of 40 right-handed subjects between the ages of
+ 18 and 28 (mean age 24.3 ±2.1[SD]; 23 females). Subjects had no prior
+ history of drug or alcohol abuse, neurological, psychiatric, or sleep
+ disorders, and were instructed to be drug, alcohol, and caffeine free for 24 h
+ prior to and during the study period. All studies were approved by the local
+ human studies committee and all subjects provided written informed
+ consent.
+Procedural Motor-Skill Task
+The sequential finger-tapping task required subjects to press four numeric
+ keys on a standard computer keyboard with the fingers of their left
+ (nondominant) hand, repeating the five-element sequence, 4-1-3-2-4, as quickly
+ and as accurately as possible, for a period of 30 sec. The numeric sequence
+ (4-1-3-2-4) was displayed at the top of the screen at all times to exclude any
+ working memory component to the task. Each key press produced a white dot on
+ the screen, forming a row from left to right and back, rather than the numbers
+ typed, so as not to provide accuracy feedback. The computer recorded the key
+ press responses, and each 30-sec trial was scored for the number of complete
+ sequences achieved, designated as speed, and the number of errors made
+ relative to the number of sequences (errors/sequence), designated as error
+ rate. One single training session consisted of 12 30-sec trials with 30-sec
+ rest periods between trials, and lasted a total of 12 min. The scores (speed
+ and error rate) from the first trial of the training session were taken as the
+ baseline measure, whereas the averaged scores from the final three trials were
+ defined as the posttraining performance. At each subsequent retest, subjects
+ performed three 30-sec trials of the same sequence separated by 30-sec rest
+ periods, with the scores again being averaged.
+Experimental Groups
+The 40 subjects were divided into 4 experimental groups of 10 subjects
+ each, and were trained at either 10 AM or 1 PM Day 1. Each group subsequently
+ underwent a specific schedule of retests. All training and test sessions were
+ performed within 30 min of the times indicated, and morning retests were
+ performed at least 1 h after awakening. The testing schedules, shown in
+Figure 6
+, were as follows:
+Figure 6.
+Experimental protocols. Forty subjects (groups 1–4) were trained at
+ either 10 AM or 1 PM on day 1, and then retested across the following
+ 24–72-h period in different experimental protocols. Thirty additional
+ subjects (groups 5 and 6) were trained and retested in an earlier study
+ (
+Walker et al. 2002
+) and are
+ presented for comparison. (TR) Training; (RT) retest
+Group 1: Motor-Skill Learning Across 36 h (n
+= 10)
+Subjects received one training session (12 trials) at 10 AM day 1, and were
+ retested at 4-h intervals across the rest of day 1 (4–12 h
+ posttraining), and then retested, again at 4-h intervals on day 2 (24–36
+ h posttraining) following a night of sleep.
+Group 2: Motor-Skill Learning Across 24 h (n
+= 10)
+Subjects received one training session (12 trials) at 1 PM on day 1 and
+ were retested once, 24 h later (1 PM, day 2), following one night of
+ intervening sleep. This group served primarily as a control for groups 3 and
+ 4.
+Group 3: Motor-Skill Learning Across 24 h Following a Double
+ Training Session (n
+= 10)
+Subjects received two training sessions (2 × 12 trials), separated by
+ a 10-min rest, at 1 PM on day 1, and were retested 24 h later (1 PM, day 2)
+ following one night of intervening sleep.
+Group 4: Motor-Skill Learning Across 72 h (n
+= 10)
+Subjects received one training session (12 trials) at 1 PM on day 1, and
+ were retested 72 h later (1 PM, Day 4), following three nights of intervening
+ sleep.
+We also describe relevant data from our previous study (see
+Walker et al. 2002
+for
+ details). These data are for two groups of subjects.
+Group 5: Motor-Skill Learning Across 24 h, With Wake First
+ (n
+= 15)
+Subjects received one training session (12 trials) at 10 AM on day 1 and
+ were retested (2 trials) 12 h later that same day (10 PM) and again 24 h after
+ training (10 AM, day 2), after a night of sleep.
+Group 6: Motor-Skill Learning Across 24 h, With Sleep First
+ (n
+= 15)
+Subjects received one training session (12 trials) at 10 PM on day 1 and
+ retested (2 trials) 12 hrs later (10 AM, day 2) after a night of sleep, and
+ again 24 h after training (10 PM, day 2).
+With these additional 30 subjects, data are reported for a total of 70
+ subjects.
+Sleep Quality and Alertness
+At each training and retesting point, all subjects completed the Stanford
+ Sleepiness Scale, a standard measure of subjective alertness
+ (
+Hoddes et al. 1973
+). There
+ were no significant differences in the Stanford Sleepiness Scale ratings of
+ alertness within any of the groups across test points (
+P
+≥ 0.35
+ for each). On the 7-point scale (1 being most alert), mean values were as
+ follows: 10 AM–2.48, 1 PM–1.89, 2 PM–2.20, 6 PM–2.33,
+ 10 PM–2.32.
+The amount of overnight sleep obtained by subjects in each group was
+ documented with sleep logs, and averaged 7.82 ± 0.72 h (SD) of sleep
+ across experimental nights.
+Statistical Analysis
+Analyses were carried out with one-way and two-way repeated measures
+ ANOVA's and paired and unpaired two-tailed Students t-tests. All correlations
+ between experimental variables were performed using Pearson's correlation
+ analyses.
+Acknowledgments
+We thank Mercedes Antienza, Jose Cantero, Ed Pace-Schott, Bernat Kocsis,
+ and Roar Fosse for their helpful and constructive comments regarding the
+ study. This research was supported by National Science Foundation grant
+ BCS-0121953 (M.P.W.) and NIH grants MH-48,832 and DA-11,744 (J.A.H.).
+The publication costs of this article were defrayed in part by payment of
+ page charges. This article must therefore be hereby marked
+ “advertisement” in accordance with 18 USC section 1734 solely to
+ indicate this fact.
+Article and publication are at
+ http://www.learnmem.org/cgi/doi/10.1101/lm.58503.
+References
+Abel, T. and Lattal, K.M. 2001. Molecular mechanisms
+ of memory acquisition, consolidation and retrieval. Curr. Opin.
+ Neurobiol. 11
+:
+180–187.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+Brashers-Krug, T., Shadmehr, R., and Bizzi, E. 1996.
+ Consolidation in human motor memory. Nature
+ 382
+:
+252–255.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+Butefisch, C.M., Davis, B.C., Wise, S.P., Sawaki, L., Kopylev, L.,
+ Classen, J., and Cohen, L.G. 2000. Mechanisms of use-dependent
+ plasticity in the human motor cortex. Proc. Natl. Acad.
+ Sci. 97
+:
+3661–3665.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+Fischer, S., Hallschmid, M., Elsner, A.L., and Born, J.
+ 2002. Sleep forms memory for finger skills. Proc.
+ Natl. Acad. Sci. 99
+:
+11987–11991.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+Gais, S., Plihal, W., Wagner, U., and Born, J. 2000.
+ Early sleep triggers memory for early visual discrimination skills.
+ Nat. Neurosci. 3
+:
+1335–1339.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+Hoddes, E., Zarcone, V., Smythe, H., Philips, R., and Dement, W.C.
+ 1973. Quantification of sleepiness: A new approach.
+ Psychophysiology 10
+:
+431–436.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+Jacobs, K.M. and Donoghue, J.P. 1991. Reshaping the
+ cortical motor map by unmasking latent intracortical connections.
+ Science 251
+:
+944–947.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+Jancke, L., Gaab, N., Wustenberg, T., Scheich, H., and Heinze, H.J.
+ 2001. Short-term functional plasticity in the human auditory
+ cortex: An fMRI study. Brain Res. Cogn. Brain Res.
+ 12
+:
+479–485.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+Karni, A. and Bertini, G. 1997. Learning perceptual
+ skills: Behavioral probes into adult cortical plasticity. Curr.
+ Opin. Neurobiol. 7
+:
+530–535.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+Karni, A., Tanne, D., Rubenstein, B.S., Askenasy, J.J., and Sagi,
+ D. 1994. Dependence on REM sleep of overnight improvement of a
+ perceptual skill. Science
+ 265
+:
+679–682.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+Karni, A., Meyer, G., Jezzard, P., Adams, M.M., Turner, R., and
+ Ungerleider, L.G. 1995. Functional MRI evidence for adult motor
+ cortex plasticity during motor skill learning. Nature
+ 377
+:
+155–158.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+Karni, A., Meyer, G., Rey-Hipolito, C., Jezzard, P., Adams, M.M.,
+ Turner, R., and Ungerleider, L.G. 1998. The acquisition of
+ skilled motor performance: Fast and slow experience-driven changes in primary
+ motor cortex. Proc. Natl. Acad. Sci.
+ 95
+:
+861–868.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+McGaugh, J.L. 2000. Memory—A century of
+ consolidation. Science
+ 287
+:
+248–251.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+Mednick, S.C., Nakayama, K., Cantero, J.L., Atienza, M., Levin,
+ A.A., Pathak, N., and Stickgold, R. 2002. The restorative effect
+ of naps on perceptual deterioration. Nat. Neurosci.
+ 5
+:
+677–681.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+Rattoni, F.B. and Escobar, M. 2000. Neurobiology of
+ learning. In International handbook of psychology (ed.
+ K. Pawlik and M. Rosenzweig), Vol. xxxii. Sage
+ Publications Ltd., London, UK.
+Soderling, T.R. and Derkach, V.A. 2000. Postsynaptic
+ protein phosphorylation and LTP. Trends Neurosci.
+ 23
+:
+75–80.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+Stickgold, R., James, L., and Hobson, J.A. 2000a.
+ Visual discrimination learning requires sleep after training. Nat.
+ Neurosci. 3
+:
+1237–1238.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+Stickgold, R., Whidbee, D., Schirmer, B., Patel, V., and Hobson,
+ J.A. 2000b. Visual discrimination task improvement: A multi-step
+ process occurring during sleep. J. Cogn. Neurosci.
+ 12
+:
+246–254.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+Walker, M.P., Brakefield, T., Morgan, A., Hobson, J.A., and
+ Stickgold, R. 2002. Practice with sleep makes perfect: Sleep
+ dependent motor skill learning. Neuron
+ 35
+:
+205–211.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]

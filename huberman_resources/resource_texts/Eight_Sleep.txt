@@ -1,0 +1,2 @@
+Track your heart rate at rest
+Every night, the Pod tracks your resting heart rate, with data every 5 minutes. You can view your average, trends, and comparisons to previous nights.

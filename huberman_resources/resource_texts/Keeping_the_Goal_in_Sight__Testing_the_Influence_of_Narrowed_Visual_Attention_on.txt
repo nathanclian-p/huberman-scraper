@@ -1,0 +1,115 @@
+Predicting physical activity
+As a primary confirmatory analysis, we replicated the statistical model in Study 1a; we ran a regression predicting self-reported physical activity in general from weight goals and narrowed attention, using responses to the statement regarding the interesting things to look at the neighborhood. The overall model was significant,
+R
+2
+= .07,
+F
+(2, 398) = 11.67,
+p
+< .001. We found a main effect of narrowed attention,
+b
+= 0.22,
+t
+(398) = 4.34,
+p
+< .001, 95% CI = [0.12, 0.31], such that those with more interesting things to focus their attention on in their neighborhood reported more frequent physical activity than those without interesting things on which to focus their attention.
+3
+In this model, we found a main effect of having a weight loss goal,
+b
+= 0.15,
+t
+(398) = 3.98,
+p
+< .001, 95% CI = [0.07, 0.22]. Those who were trying to lose weight reported more frequent physically activity than people with other weight goals. The interaction between weight loss goals and narrowed attention was not significant,
+b
+= 0.08,
+t
+(398) = 1.70,
+p
+= .09, 95% CI = [–0.13, 0.18] (see
+Supplemental Figure 1S
+for more details on this interaction).
+We reran this regression replacing the categorical weight loss variable with the continuous measure of weight loss goals indexing the difference between the current and ideal weight. The results, which appear in the
+supplemental material
+, replicate. We consistently found a strong main effect of narrowed attention, and inconsistent evidence for the effect of narrowed attention was stronger among individuals with a goal to lose weight.
+Specifying the nature of attentional scope
+As secondary analyses, we investigated the relationship between participants’ descriptions of the interesting things in their neighborhood and the clarifying measures of attentional scope. First, there was a significant relationship between “many interesting things” and the single-item vivid description of attentional scope,
+r
+(401) = .29,
+p
+< .001. As participants found more interesting things in their neighborhood, the more they agreed that they fix their eyes on something ahead until they move beyond it and then reengaged attention narrowly again.
+Next, we conducted a factor analysis with varimax rotation on Narrow
+1
+, Narrow
+2
+, Broad
+1
+, and Broad
+2
+. We observed two factors: Both statements describing narrowed attention loaded (weights: .69, .88) onto the first factor (Eigen = 1.2), and both statements describing broad attention loaded (weights: .81, .87) onto the second factor (Eigen = 1.7). However, the α of the narrow attention items was low (.44), as was the α for the broad attention items (.66). As specified in the preregistration, we did not average the narrow and broad attentional scope items as a result, but treated them instead as individual predictors. We ran a regression predicting participants’ agreement with the description that their neighborhood contains many interesting things from Narrow
+1
+, Narrow
+2
+, Broad
+1
+, and Broad
+2
+. The overall model was significant,
+R
+2
+= .04,
+F
+(4, 397) = 3.62,
+p
+= .007. Narrow
+1
+predicted agreement with descriptions of the interesting things in the neighborhood,
+b
+= 0.15,
+t
+(397) = 2.38,
+p
+= .02, 95% CI = [0.026, 0.283], variance inflation factor (VIF) = 1.22. The more participants reported looking at one or two interesting things up ahead until they reach them, the stronger their agreement that there were many interesting things to look at while walking in their neighborhood. Narrow
+2
+did not account for a significant proportion of unique variance in the many interesting things statement,
+b
+= −0.03,
+t
+(397) = 0.49,
+p
+= .62, 95% CI = [–0.126, 0.075], VIF = 1.15, nor did Broad
+1
+,
+b
+= 0.07,
+t
+(397) = 0.98,
+p
+= .33, 95% CI = [–0.071, 0.212], VIF = 1.37, or Broad
+2
+,
+b
+= 0.08,
+t
+(397) = 1.15,
+p
+= .25, 95% CI = [–0.059, 0.226], VIF = 1.41.
+We reran our primary model predicting physical activity from weight loss goals, Narrow
+1
+and the vivid description of narrowed attention in a regression each separately, and the interaction between weight loss goal and each definition of narrowed attention. Narrow
+1
+predicted physical activity,
+b
+= 0.12,
+t
+(401) = 3.92,
+p
+< .001, 95% CI = [0.059, 0.178]. In a separate model, the single-item vivid description of narrowed attentional scope predicted physical activity,
+b
+= 0.09,
+t
+(401) = 3.14,
+p
+= .002, 95% CI = [0.03, 0.22] (see the
+supplemental material
+for additional information on these models).

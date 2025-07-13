@@ -1,0 +1,1835 @@
+The PFC contains a large number of DA receptors (
+8–10
+8.
+Goldman-Rakic
+Cellular and circuit basis of working memory in prefrontal cortex of nonhuman primates
+Uylings, H.B.M. ∙ Eden, C.G.V. ∙ DeBruin, J.P.C. ... (Editors)
+Progress in Brain Research
+Elsevier Science Publishers, Amsterdam, 1990; 325-336
+9.
+Goldman-Rakic, P.
+Dopamine-mediated mechanisms of the prefrontal cortex
+Semin Neurosci.
+1992;
+4
+:109-118
+10.
+Goldman-Rakic, P.
+Cellular basis of working memory
+Neuron.
+1995;
+14
+:477-485
+) and is highly sensitive to its dopaminergic environment, which is not surprising, given diffuse ascending inputs from midbrain dopaminergic neurons (
+11
+11.
+Robbins, T.W.
+Chemical neuromodulation of frontal-executive functions in humans and other animals
+Exp Brain Res.
+2000;
+133
+:130-138
+). The anatomical distribution of brainstem DA projections provides a logical basis for proposing a role for DA in working memory and cognitive control (for reviews, see [
+12–15
+12.
+Arnsten, A.F.T.
+Catecholamine modulation of prefrontal cortical cognitive function
+Trends Cogn Sci.
+1998;
+2
+:436-446
+13.
+Cools, R. ∙ Robbins, T.W.
+Chemistry of the adaptive mind
+Philos Transact A Math Phys Eng Sci.
+2004;
+362
+:2871-2888
+14.
+Cools, R. ∙ D'Esposito, M.
+Dopaminergic modulation of flexible control in humans
+Bjorklund, A. ∙ Dunnett, S.B. ∙ Iversen, L.L. ... (Editors)
+Dopamine Handbook
+Oxford University Press, Oxford, 2009
+15.
+Floresco, S.B. ∙ Magyar, O.
+Mesocortical dopamine modulation of executive functions: Beyond working memory
+Psychopharmacology (Berl).
+2006;
+188
+:567-585
+]). The mesocortical and mesolimbic dopaminergic systems originate in the ventral tegmental area (VTA) of the midbrain and project to the PFC; anterior cingulate cortex; anterior temporal structures such as the amygdala, hippocampus, and entorhinal cortex; and the basal forebrain (
+16
+16.
+Bannon, M.J. ∙ Roth, R.H.
+Pharmacology of mesocortical dopamine neurons
+Pharmacol Rev.
+1983;
+35
+:53-68
+). Although DA in medial temporal structures also plays a role in modulating human cognition, in particular long-term memory (
+17
+17.
+Shohamy, D. ∙ Adcock, R.A.
+Dopamine and adaptive memory
+Trends Cogn Sci.
+2010;
+14
+:464-472
+), we here focus on the role of DA in frontostriatal processing, including working memory and cognitive control, not least because there is a clear anterior/posterior gradient in the brain for the concentration of DA, which is highest in the PFC (
+18
+18.
+Brown, R.M. ∙ Crane, A.M. ∙ Goldman, P.S.
+Regional distribution of monoamines in the cerebral cortex and subcortical structures of the rhesus monkey: Concentrations and in vitro synthesis rates
+Brain Res.
+1979;
+168
+:133-150
+). Thus, the anatomical distribution of the dopaminergic system suggests that it should have a greater influence on anterior than on posterior brain structures.
+Consistent with this anatomy, a landmark study in 1979 by Brozoski
+et al.
+(
+19
+19.
+Brozoski, T.J. ∙ Brown, R. ∙ Rosvold, H.E. ...
+Cognitive deficit caused by regional depletion of dopamine in the prefrontal cortex of rhesus monkeys
+Science.
+1979;
+205
+:929-931
+) revealed that DA depletion in the PFC of monkeys caused severe impairment on a now classic test of working memory, the delayed response task. This working memory impairment was as severe as that in monkeys with complete ablations of the PFC and was not observed in monkeys in which other neurotransmitters, such as serotonin, were depleted. Furthermore, DA receptor agonists administered to these same monkeys reversed their working memory impairment (
+19,20
+19.
+Brozoski, T.J. ∙ Brown, R. ∙ Rosvold, H.E. ...
+Cognitive deficit caused by regional depletion of dopamine in the prefrontal cortex of rhesus monkeys
+Science.
+1979;
+205
+:929-931
+20.
+Arnsten, A.F. ∙ Cai, J.X. ∙ Murphy, B.L. ...
+Dopamine D1 receptor mechanisms in the cognitive performance of young adult and aged monkeys
+Psychopharmacology (Berl).
+1994;
+116
+:143-151
+). Subsequent work with both animals and humans substantiated the necessity of DA for working memory (
+21–25
+21.
+Collins, P. ∙ Roberts, A.C. ∙ Dias, R. ...
+Perseveration and strategy in a novel spatial self-ordered sequencing task for nonhuman primates: Effects of excitotoxic lesions and dopamine depletions of the prefrontal cortex
+J Cogn Neurosci.
+1998;
+10
+:332-354
+22.
+Sawaguchi, T. ∙ Goldman-Rakic, P.S.
+D1 dopamine receptors in prefrontal cortex: Involvement in working memory
+Science.
+1991;
+251
+:947-950
+23.
+Sawaguchi, T. ∙ Matsumura, M. ∙ Kubota, K.
+Effects of dopamine antagonists on neuronal activity related to a delayed response task in monkey prefrontal cortex
+J Neurophysiol.
+1990;
+63
+:1401-1412
+24.
+Luciana, M. ∙ Depue, R.A. ∙ Arbisi, P. ...
+Facilitation of working memory in humans by a D2 dopamine receptor agonist
+J Cogn Neurosci.
+1992;
+4
+:58-68
+25.
+Simon, H.
+Dopaminergic A10 neurons and the frontal system
+J Physiol.
+1981;
+77
+:81-95
+) as well as other cognitive functions such as future planning and cognitive flexibility (
+26–28
+26.
+Elliott, R. ∙ Sahakian, B.J. ∙ Matthews, K. ...
+Effects of methylphenidate on spatial working memory and planning in healthy young adults
+Psychopharmacology.
+1997;
+131
+:196-206
+27.
+Rogers, R.D. ∙ Blackshaw, A.J. ∙ Middleton, H.C. ...
+Tryptophan depletion impairs stimulus-reward learning while methylphenidate disrupts attentional control in healthy young adults: Implications for the monoaminergic basis of impulsive behaviour
+Psychopharmacology.
+1999;
+146
+:482-491
+28.
+Chudasama, Y. ∙ Robbins, T.W.
+Functions of frontostriatal systems in cognition: Comparative neuropsychopharmacological studies in rats, monkeys and humans
+Biol Psychol.
+2006;
+73
+:19-38
+). For example, administration of DA receptor agonists like bromocriptine and pergolide to healthy young volunteers improved performance on working memory tasks (
+24,29–33
+24.
+Luciana, M. ∙ Depue, R.A. ∙ Arbisi, P. ...
+Facilitation of working memory in humans by a D2 dopamine receptor agonist
+J Cogn Neurosci.
+1992;
+4
+:58-68
+29.
+Kimberg, D.Y. ∙ D'Esposito, M. ∙ Farah, M.J.
+Effects of bromocriptine on human subjects depend on working memory capacity
+Neuroreport.
+1997;
+8
+:3581-3585
+30.
+Luciana, M. ∙ Collins, P.
+Dopaminergic modulation of working memory for spatial but not object cues in normal volunteers
+J Cogn Neurosci.
+1997;
+9
+:330-347
+31.
+Mehta, M.A. ∙ Swainson, R. ∙ Ogilvie, A.D. ...
+Improved short-term spatial memory but impaired reversal learning following the dopamine D2 agonist bromocriptine in human volunteers
+Psychopharmacology.
+2001;
+159
+:10-20
+32.
+Kimberg, D.Y. ∙ D'Esposito, M.
+Cognitive effects of the dopamine receptor agonist pergolide
+Neuropsychologia.
+2003;
+41
+:1020-1027
+33.
+Muller, U. ∙ von Cramon, D.Y. ∙ Pollman, S.
+D1- versus D2-receptor modulation of visuospatial working memory in humans
+J Neurosci.
+1998;
+18
+:2720-2728
+). In these studies, drug effects were functionally selective, because they did not alter other abilities such as sensorimotor function. In keeping with these findings, administration of the D2 receptor antagonist sulpiride, which blocks DA receptor stimulation, impaired performance on several tasks sensitive to PFC function (
+34
+34.
+Mehta, M.A. ∙ Sahakian, B.J. ∙ McKenna, P.J. ...
+Systemic sulpiride in young adult volunteers simulates the profile of cognitive deficits in Parkinson's disease
+Psychopharmacology (Berl).
+1999;
+146
+:162-174
+). Again, these effects could not be accounted for by nonspecific changes, such as generalized sedative or motoric influences of the drug.
+The importance of answering this question stems from two facts. First, DA is of fundamental importance to the etiology of a wide variety of neurobehavioral disorders, such as Parkinson's disease (PD), attention deficit hyperactivity disorder, schizophrenia, and drug addiction. Deficits in working memory and cognitive control are core to these disorders, which are associated with cognitive inflexibility, impulsivity, and/or compulsivity. Moreover, DA drugs are used widely in the treatment of a variety of brain disorders and to a lesser extent in the treatment of psychostimulant addiction. Although it should be important to understand the cognitive effects of any drug that is commonly prescribed, it is especially important in the case of drugs used to treat disorders with cognitive deficits. In addition, even acute and/or mild stress and fatigue can lead the mind to be inflexible or unfocused. Accumulating evidence from research with monkeys has revealed that the catecholamines (DA and noradrenaline [NA]) play an important role in these normal states (
+12
+12.
+Arnsten, A.F.T.
+Catecholamine modulation of prefrontal cortical cognitive function
+Trends Cogn Sci.
+1998;
+2
+:436-446
+). Thus, a better understanding of DA function will advance not only the treatment development for and understanding of the abnormal mind but also that of the usually adaptive but at times inflexible unfocused healthy mind. The high concentration of DA receptors in the PFC and strongly connected structures gives us a leverage point for studying normal and disordered brain function. Different dopaminergic agents provide different selectivity profiles, on the basis of their actions on different DA receptors, and it will be valuable to understand both the behavioral and neural effects of these drugs.
+Second, the questions we raise are motivated at a theoretical level by basic questions about the neurobiological basis of higher cognitive function. How does DA contribute to higher cognitive functions like working memory and cognitive control? Which brain areas mediate these contributions? Which cognitive functions are served by dopaminergic pathways and the cortical regions they innervate?
+Here we review two methodological approaches to studying the effects of DA on human cognition—administration of DA receptor agents to healthy subjects and controlled withdrawal of dopaminergic medication in patients with PD.
+Variability in Basal DA Levels in the PFC of Nonhuman Animals
+What might be the origin of these performance-dependent effects of dopaminergic drug administration? Accumulating evidence from research with mice, rats, and monkeys indicates that it likely reflects variability in baseline levels of DA, specifically in the PFC (
+51–55
+51.
+Lidow, M.S. ∙ Koh, P.O. ∙ Arnsten, A.F.
+D1 dopamine receptors in the mouse prefrontal cortex: Immunocytochemical and cognitive neuropharmacological analyses
+Synapse.
+2003;
+47
+:101-108
+52.
+Arnsten, A.F. ∙ Goldman-Rakic, P.S.
+Noise stress impairs prefrontal cortical cognitive function in monkeys
+Arch Gen Psychiatry.
+1998;
+55
+:362-368
+53.
+Zahrt, J. ∙ Taylor, J.R. ∙ Mathew, R.G. ...
+Supranormal stimulation of D1 dopamine receptors in the rodent prefrontal cortex impairs spatial working memory performance
+J Neurosci.
+1997;
+17
+:8528-8535
+54.
+Cai, J.X. ∙ Arnsten, A.F.
+Dose-dependent effects of the dopamine D1 receptor agonists A77636 or SKF81297 on spatial working memory in aged monkeys
+J Pharmacol Exp Ther.
+1997;
+282
+:1-7
+55.
+Sawaguchi, T. ∙ Matsumura, M. ∙ Kubota, K.
+Dopamine enhances the neuronal activity of spatial short-term memory task in the primate prefrontal cortex
+Neurosci Res.
+1988;
+5
+:465-473
+). For instance, Phillips
+et al.
+(
+56
+56.
+Phillips, A. ∙ Ahn, S. ∙ Floresco, S.
+Magnitude of dopamine release in medial prefrontal cortex predicts accuracy of memory on a delayed response task
+J Neurosci.
+2004;
+14
+:547-553
+) have shown in rats that poor performance on a difficult (working) memory task (with a long delay) was accompanied by low DA levels in the PFC, whereas good performance on an easy task (with a shorter delay) was accompanied by high DA levels in the PFC. Interestingly, performance on the difficult task was improved by administration of a DA D1 receptor agonist, whereas good performance on the easy task was impaired (
+50
+50.
+Floresco, S. ∙ Phillips, A.
+Delay-dependent modulation of memory retrieval by infusion of a dopamine D1 agonist into the rat medial prefrontal cortex
+Behav Neurosci.
+2001;
+115
+:934-939
+) (see also Chudasama and Robbins [
+57
+57.
+Chudasama, Y. ∙ Robbins, T.W.
+Dopaminergic modulation of visual attention and working memory in the rodent prefrontal cortex
+Neuropsychopharmacology.
+2004;
+29
+:1628-1636
+]). Similar results have been found in monkeys. In fact, baseline-dependent effects of DA were first observed by Arnsten and Goldman-Rakic (
+52
+52.
+Arnsten, A.F. ∙ Goldman-Rakic, P.S.
+Noise stress impairs prefrontal cortical cognitive function in monkeys
+Arch Gen Psychiatry.
+1998;
+55
+:362-368
+) in monkeys performing working memory tasks. For example, in 1994, Arnsten
+et al.
+(
+20
+20.
+Arnsten, A.F. ∙ Cai, J.X. ∙ Murphy, B.L. ...
+Dopamine D1 receptor mechanisms in the cognitive performance of young adult and aged monkeys
+Psychopharmacology (Berl).
+1994;
+116
+:143-151
+) demonstrated that administration of a D1 receptor antagonist impaired performance of young monkeys but not aged monkeys with presumed DA depletion. In contrast, a D1 receptor agonist improved performance in aged monkeys but not in young monkeys. Furthermore, stress-induced working memory deficits were ameliorated by pretreatment with DA receptor antagonists. This finding suggests that excessive DA release in the PFC during stress led to the observed working memory deficits (
+52
+52.
+Arnsten, A.F. ∙ Goldman-Rakic, P.S.
+Noise stress impairs prefrontal cortical cognitive function in monkeys
+Arch Gen Psychiatry.
+1998;
+55
+:362-368
+). Indeed, a number of animal studies have now shown that either too little (
+23,58
+23.
+Sawaguchi, T. ∙ Matsumura, M. ∙ Kubota, K.
+Effects of dopamine antagonists on neuronal activity related to a delayed response task in monkey prefrontal cortex
+J Neurophysiol.
+1990;
+63
+:1401-1412
+58.
+Seamans, J.K. ∙ Floresco, S.B. ∙ Phillips, A.G.
+D1 receptor modulation of hippocampal-prefrontal cortical circuits integrating spatial memory with executive functions in the rat
+J Neurosci.
+1998;
+18
+:1613-1621
+) or too much (
+53,59
+53.
+Zahrt, J. ∙ Taylor, J.R. ∙ Mathew, R.G. ...
+Supranormal stimulation of D1 dopamine receptors in the rodent prefrontal cortex impairs spatial working memory performance
+J Neurosci.
+1997;
+17
+:8528-8535
+59.
+Murphy, B.L. ∙ Arnsten, A.F.T. ∙ Goldman-Rakic, P.S. ...
+Increasing dopamine turnover in the prefrontal cortex impairs spatial working memory performance in rats and monkeys
+Proc Natl Acad Sci U S A.
+1996;
+93
+:1325-1329
+) D1 receptor activity in the PFC impairs performance on working memory tasks. There are some subtle differences in the nature of these deficits, with random responding resulting from too little but perseverative or overly persistent responding resulting from too much D1 receptor stimulation (
+50,53,60
+50.
+Floresco, S. ∙ Phillips, A.
+Delay-dependent modulation of memory retrieval by infusion of a dopamine D1 agonist into the rat medial prefrontal cortex
+Behav Neurosci.
+2001;
+115
+:934-939
+53.
+Zahrt, J. ∙ Taylor, J.R. ∙ Mathew, R.G. ...
+Supranormal stimulation of D1 dopamine receptors in the rodent prefrontal cortex impairs spatial working memory performance
+J Neurosci.
+1997;
+17
+:8528-8535
+60.
+Seamans, J.K. ∙ Yang, C.R.
+The principal features and mechanisms of dopamine modulation in the prefrontal cortex
+Prog Neurobiol.
+2004;
+74
+:1-58
+).
+The central role of the PFC in DA function is also supported by data collected at the cellular level. With a technique of iontophoretic application of drugs onto single neurons in awake, behaving monkeys, Williams and Goldman-Rakic (
+61
+61.
+Williams, G.V. ∙ Goldman-Rakic, P.S.
+Modulation of memory fields by dopamine D1 receptors in prefrontal cortex
+Nature.
+1995;
+376
+:572-575
+) demonstrated that the effect of a D1 receptor antagonist on delay period activity was dose-dependent and highly selective for PFC neurons with memory fields for particular locations. Cellular mechanisms underlying these effects of DA receptor stimulation have been proposed, on the basis of in vitro recordings, to include: 1) increased impact of the
+N
+-methyl-D-aspartate (NMDA) component of excitatory synaptic input onto PFC neurons, thought to be essential for the maintenance of current PFC activity (
+62
+62.
+Seamans, J. ∙ Durstewitz, D. ∙ Christie, B. ...
+Dopamine D1/D5 receptor modulation of excitatory synaptic input to layer V prefrontal cortex neurons
+Proc Natl Acad Sci U S A.
+2001;
+98
+:301-306
+); 2) reduced calcium currents, which convey information from dendrites to cell bodies of pyramidal PFC neurons (
+63
+63.
+Yang, C.R. ∙ Seamans, J.K.
+Dopamine D1 receptor actions in layers V–VI rat prefrontal cortex neurons in vitro: Modulation of dendritic-somatic signal integration
+J Neurosci.
+1996;
+16
+:1922-1935
+); and 3) increased excitability of inhibitory γ-aminobutyric acid (GABA)-ergic interneurons, thereby hypothetically attenuating the strength of further excitatory input (
+64
+64.
+Seamans, J. ∙ Gorelova, N. ∙ Durstewitz, D. ...
+Bidirectional dopamine modulation of GABAergic inhibition in prefrontal cortical pyramidal neurons
+J Neurosci.
+2001;
+21
+:3628-3638
+). These cellular mechanisms might lead to an increased signal-to-noise ratio, and a “quelling” of activity in all but the most strongly active cell assemblies. This would result in a single strengthened working memory representation resistant to subsequent inputs. With supra-optimal receptor stimulation, this “quelling” of activity would take on excessive forms, thus leading to a blocking of all new input to the PFC, corresponding with perseverative responding and severe working memory impairment. These ideas are quite similar to a more abstract proposal from approximately 20 years ago, according to which DA induced changes in the gain of neuronal input/output functions (
+65
+65.
+Servan-Schreiber, D. ∙ Printz, H. ∙ Cohen, J.
+A network model of catecholamine effects: Gain, signal-to-noise ratio, and behavior
+Science.
+1990;
+249
+:892-895
+).
+Recent in vitro recordings have suggested a mechanism by which DA might induce changes in the gain of neuronal input/output in an “Inverted-U” shaped manner (
+66
+66.
+Kroener, S. ∙ Chandler, L.J. ∙ Phillips, P.E. ...
+Dopamine modulates persistent synaptic activity and enhances the signal-to-noise ratio in the prefrontal cortex
+PLoS One.
+2009;
+4
+:e6507
+). This study revealed DA effects with patch-clamp recordings in cocultures of the PFC and the VTA (
+66
+66.
+Kroener, S. ∙ Chandler, L.J. ∙ Phillips, P.E. ...
+Dopamine modulates persistent synaptic activity and enhances the signal-to-noise ratio in the prefrontal cortex
+PLoS One.
+2009;
+4
+:e6507
+). Administration of exogenous DA to these cultures altered PFC activity in a DA concentration-dependent fashion. Thus, in VTA-containing cultures (which possessed a tonic DA level and where stimulation of the VTA evoked DA transients within the PFC), high DA concentrations reduced spontaneous network activity (i.e., up-states) and diminished excitatory synaptic inputs evoked during the down-state. Conversely, low DA concentrations had no effect on spontaneous network activity in these VTA-containing cultures, but selectively increased the efficiency of a train of excitatory synaptic inputs to evoke spikes during the up-state. Critically, when background DA was eliminated, spontaneous network activity (i.e., up-states) could be enhanced by low concentrations of DA. These findings highlight the importance of considering how DA can modulate the input and output of individual neurons but also the effects of these neurons embedded in an active network.
+The biophysical mechanisms underlying the supra-optimal effect of DA receptor stimulation are not known. According to one hypothesis, excitatory NMDA effects might dominate at lower stimulation levels, whereas inhibitory GABA
+A
+effects might dominate at higher DA activation levels (
+67
+67.
+Durstewitz, D. ∙ Seamans, J.
+The dual-state theory of prefrontal cortex dopamine function with relevance to catechol-o-methyltransferase genotypes and schizophrenia
+Biol Psychiatry.
+2008;
+64
+:739-749
+). An abolition of calcium currents with supra-optimal levels of DA receptor stimulation (
+63
+63.
+Yang, C.R. ∙ Seamans, J.K.
+Dopamine D1 receptor actions in layers V–VI rat prefrontal cortex neurons in vitro: Modulation of dendritic-somatic signal integration
+J Neurosci.
+1996;
+16
+:1922-1935
+) might lead to perseveration, for example due to a lack of new input to the PFC necessary to update currently active representations.
+The hypothesis that excessive D1 receptor stimulation in the PFC blocks new input concurs with neurophysiological data from monkeys (
+68
+68.
+Vijayraghavan, S. ∙ Wang, M. ∙ Birnbaum, S. ...
+Inverted-U dopamine D1 receptor actions on prefrontal neurons engaged in working memory
+Nat Neurosci.
+2007;
+10
+:176-184
+). In this study monkeys engaged in an oculomotor delayed response task, while spatially tuned delay-related activity was measured in terms of the difference between firing to preferred and nonpreferred directions. An inverted-U–shaped response to D1 receptor stimulation was observed in terms of spatial tuning, but this was a consequence of suppression of delay-related activity in both low and high doses. It was only after the high dose that firing was suppressed in both preferred as well as nonpreferred directions. Thus, whereas low levels of D1 receptor stimulation improved working memory tuning by suppressing only task-irrelevant representations, high levels of D1 receptor stimulation impaired working memory tuning by suppressing delay-related firing for both relevant as well as irrelevant representations. Like the human studies, this study revealed that these effects depended on the baseline state of the unit, in this case the neuron: iontophoresis of a low-dose D1 receptor agonist on weakly tuned cells unmasked spatial activity by suppressing only noisy task-irrelevant activity, whereas spatial tuning was less improved or even worsened in strongly tuned cells. Iontophoretic pharmacology revealed that these suppressive effects of D1 receptor stimulation depended on the second-messenger cyclic adenosine monophosphate (cAMP) signaling pathway. It might be noted that this in vivo study did not find any evidence for the excitatory actions of D1 receptor stimulation on PFC activity, reported by in vitro studies (see preceding text). One possibility is that these excitatory actions of the D1 receptor, detected in vitro, are already fully engaged by endogenous DA in vivo. Thus, the apparent discrepancy between the in vitro slice studies and the in vivo recordings from cognitively engaged monkeys is that the pyramidal cell recurrent excitation is absent in the former but predominating in the latter. In any case, the finding that DA-induced improvements of spatial tuning are accompanied by suppressive effects on PFC activity concurs with the general observation from human functional imaging studies that working memory improvement after DA-enhancing drug administration is accompanied by reductions in PFC activity (
+40,69–71
+40.
+Mehta, M. ∙ Calloway, P. ∙ Sahakian, B.
+Amelioration of specific working memory deficits by methylphenidate in a case of adult attention deficit/hyperactivity disorder
+J Psychopharm.
+2000;
+14
+:299-302
+69.
+Cools, R. ∙ Stefanova, E. ∙ Barker, R.A. ...
+Dopaminergic modulation of high-level cognition in Parkinson's disease: The role of the prefrontal cortex revealed by PET
+Brain.
+2002;
+125
+:584-594
+70.
+Mattay, V.S. ∙ Tessitore, A. ∙ Callicott, J.H. ...
+Dopaminergic modulation of cortical function in patients with Parkinson's disease
+Ann Neurol.
+2002;
+58
+:630-635
+71.
+Mattay, V. ∙ Goldberg, T. ∙ Fera, F. ...
+Catechol
+O
+-methyltransferase val158-met genotype and individual variation in the brain response to amphetamine
+Proc Natl Acad Sci U S A.
+2003;
+100
+:6186-6191
+).
+Baseline-Dependent Mechanisms of DA Action in Humans
+So far we have seen that dopaminergic drug effects in nonhuman animals vary as a function of baseline levels of DA in the PFC. Is there evidence for similar baseline dependency of dopaminergic drug effects in humans? One source of such evidence comes from studies of drug effects that take into account genetic differences between individuals (see for review [
+72
+72.
+Frank, M.J. ∙ Fossella, J.A.
+Neurogenetics and pharmacology of learning, motivation, and cognition
+Neuropsychopharmacology.
+2011;
+36
+:133-152
+]).
+One of the best-studied polymorphisms is the Val
+158
+Met polymorphism in the catechol-
+O
+-methyltransferase (COMT) gene. Catechol-
+O
+-methyltransferase is an enzyme that breaks down DA released into the synaptic gap between two neurons and is thought to have a much greater influence on DA levels in the PFC than in the striatum (
+73–75
+73.
+Slifstein, M. ∙ Kolachana, B. ∙ Simpson, E.H. ...
+COMT genotype predicts cortical-limbic D1 receptor availability measured with [11C]NNC112 and PET
+Mol Psychiatry.
+2008;
+13
+:821-827
+74.
+Gogos, J.A. ∙ Morgan, M. ∙ Luine, V. ...
+Catechol-
+O
+-methyltransferase-deficient mice exhibit sexually dimorphic changes in catecholamine levels and behavior
+Proc Natl Acad Sci U S A.
+1998;
+95
+:9991-9996
+75.
+Tunbridge, E. ∙ Bannerman, D. ∙ Sharp, T. ...
+Catechol-
+O
+-methyltransferase inhibition improves set-shifting performance and elevates stimulated dopamine release in the rat prefrontal cortex
+J Neurosci.
+2004;
+24
+:5331-5335
+). This regional specificity derives from the observation that DA transporters are less abundant in the PFC than in the striatum, so that DA metabolism in the PFC would depend more readily on enzymatic degradation by COMT than on transport and reuptake by the DA transporter. Relatively little COMT activity would imply more DA in the synapse (and more action at DA receptors on the receiving neuron), whereas relatively greater COMT activity would imply less DA in the synapse. In the general population there are two common variants of the gene determining COMT levels. Individuals with the Val-allele have relatively high COMT activity and presumably low baseline DA; conversely, individuals with the Met-allele have relatively low COMT activity and presumably high baseline DA. Consistent with these assumptions are findings that individuals with the Met-allele (high DA) perform significantly better on tasks requiring cognitive control and working memory than those with the Val variant (
+77–78
+77.
+Diamond, A. ∙ Briand, L. ∙ Fossella, J. ...
+Genetic and neurochemical modulation of prefrontal cognitive functions in children
+Arch Gen Psychiatry.
+2004;
+161
+:125-132
+78.
+Meyer-Lindenberg, A. ∙ Kohn, P.D. ∙ Kolachana, B. ...
+Midbrain dopamine and prefrontal function in humans: Interaction and modulation by COMT genotype
+Nat Neurosci.
+2005;
+8
+:594-596
+). For example, Egan
+et al.
+(
+76
+76.
+Egan, M.F. ∙ Goldberg, T.E. ∙ Kolachana, B.S. ...
+Effect of COMT Val108/158 Met genotype on frontal lobe function and risk for schizophrenia
+Proc Natl Acad Sci U S A.
+2001;
+98
+:6917-6922
+) have shown that the high-DA Met subjects make fewer errors on the Wisconsin Card Sorting Test (WCST), a task traditionally associated with the PFC, (
+79
+79.
+Milner, B.
+Effects of different brain lesions on card sorting: The role of the frontal lobes
+Arch Neurol.
+1963;
+9
+:90-100
+) than low-DA Val subjects. However, more recent studies have shown that, as is the case with dopaminergic drugs, there is no overall effect of the COMT polymorphism on cognition (
+80
+80.
+Barnett, J. ∙ Jones, P. ∙ Robbins, T. ...
+Effects of the catechol-
+O
+-methyltransferase Val158Met polymorphism on executive function: A meta-analysis of the Wisconsin Card Sort Test in schizophrenia and healthy controls
+Mol Psychiatry.
+2007;
+12
+:502-509
+). Rather effects depend on the particular task demands under study (
+72,81
+72.
+Frank, M.J. ∙ Fossella, J.A.
+Neurogenetics and pharmacology of learning, motivation, and cognition
+Neuropsychopharmacology.
+2011;
+36
+:133-152
+81.
+Ullsperger, M.
+Genetic association studies of performance monitoring and learning from feedback: The role of dopamine and serotonin
+Neurosci Biobehav Rev.
+2010;
+34
+:649-659
+) and associated neural system, with computations associated specifically with the PFC, such as the ability to stabilize task-relevant representations and to protect them from intervening information, being particularly sensitive (
+82,83
+82.
+Frank, M.J. ∙ Moustafa, A.A. ∙ Haughey, H.M. ...
+Genetic triple dissociation reveals multiple roles for dopamine in reinforcement learning
+Proc Natl Acad Sci U S A.
+2007;
+104
+:16311-16316
+83.
+Frank, M.J. ∙ Doll, B.B. ∙ Oas-Terpstra, J. ...
+Prefrontal and striatal dopaminergic genes predict individual differences in exploration and exploitation
+Nat Neurosci.
+2009;
+12
+:1062-1068
+). Given such functional and regional specificity, it is not surprising that inconsistent results are revealed by studies of complex neuropsychological task (e.g., WCST) performance, which depends on a multitude of processes and brain regions (
+80
+80.
+Barnett, J. ∙ Jones, P. ∙ Robbins, T. ...
+Effects of the catechol-
+O
+-methyltransferase Val158Met polymorphism on executive function: A meta-analysis of the Wisconsin Card Sort Test in schizophrenia and healthy controls
+Mol Psychiatry.
+2007;
+12
+:502-509
+). In contrast to this inconsistency, differences in PFC activity during cognitive control and working memory tasks between Val and Met participants seem relatively robust. Specifically, the high-DA Met individuals often show lower levels of PFC activity, suggestive of more efficient processing, than the low-DA Val individuals (
+71,84
+71.
+Mattay, V. ∙ Goldberg, T. ∙ Fera, F. ...
+Catechol
+O
+-methyltransferase val158-met genotype and individual variation in the brain response to amphetamine
+Proc Natl Acad Sci U S A.
+2003;
+100
+:6186-6191
+84.
+Mier, D. ∙ Kirsch, P. ∙ Meyer-Lindenberg, A.
+Neural substrates of pleiotropic action of genetic variation in COMT: A meta-analysis
+Mol Psychiatry.
+2010;
+15
+:918-927
+).
+Critically, it is this PFC activity of Val individuals during cognitive control and working memory tasks that is attenuated with dextroamphetamine—a stimulant that increases DA levels (
+71
+71.
+Mattay, V. ∙ Goldberg, T. ∙ Fera, F. ...
+Catechol
+O
+-methyltransferase val158-met genotype and individual variation in the brain response to amphetamine
+Proc Natl Acad Sci U S A.
+2003;
+100
+:6186-6191
+)—or tolcapone—a COMT inhibitor—to more closely resemble that of their Met peers (
+85,86
+85.
+Apud, J.A. ∙ Mattay, V. ∙ Chen, J. ...
+Tolcapone improves cognition and cortical information processing in normal human subjects
+Neuropsychopharmacology.
+2007;
+32
+:1011-1020
+86.
+Roussos, P. ∙ Giakoumaki, S.G. ∙ Bitsios, P.
+Tolcapone effects on gating, working memory, and mood interact with the synonymous catechol-
+O
+-methyltransferase rs4818c/g polymorphism
+Biol Psychiatry.
+2009;
+66
+:997-1004
+). Conversely, in line with the “Inverted-U“–shaped function hypothesis, exactly the same drugs increased PFC activity in Met participants. Similar contrasting effects of dopaminergic drug administration have been observed as a function of the Taq1A polymorphism (
+87
+87.
+Cohen, M.X. ∙ Krohn-Grimberghe, A. ∙ Elger, C.E. ...
+Dopamine gene predicts the brain's response to dopaminergic drug
+Eur J Neurosci.
+2007;
+26
+:3652-3660
+), which has been reported to be associated with altered DA receptor density (
+88
+88.
+Pohjalainen, T. ∙ Rinne, J.O. ∙ Nagren, K. ...
+The A1 allele of the human D2 dopamine receptor gene predicts low D2 receptor availability in healthy volunteers
+Mol Psychiatry.
+1998;
+3
+:256-260
+), presumably via indirect linkage with DRD2 polymorphisms (
+89
+89.
+Zhang, Y. ∙ Bertolino, A. ∙ Fazio, L. ...
+Polymorphisms in human dopamine D2 receptor gene affect gene expression, splicing, and neuronal activity during working memory
+Proc Natl Acad Sci U S A.
+2007;
+104
+:20552-20557
+). Accordingly, these genetic studies suggest that, as in the case of nonhuman animals, dopaminergic drug effects in humans also depend on baseline levels of DA.
+These genetic studies, however, do not provide direct evidence for the hypothesis that performance-dependent effects of dopaminergic drugs reflect baseline levels of DA. Thus, there is no definitive evidence that Val-carriers have lower baseline levels of DA in the PFC, and the functionality of the Taq1A polymorphism is controversial. Direct measurements of DA transmission in humans can be made only with neurochemical positron emission tomography (PET), although most applications of this method are limited to visualizing striatal DA, not being optimized for detecting DA levels in the PFC. We have recently employed this technique with the radiotracer 6-[
+18
+F] fluoro-L-m-tyrosine (FMT) to quantify individual differences in the degree to which DA is synthesized in the terminals of midbrain DA neurons. In this study, subjects with high and low working memory capacity underwent an FMT PET scan (
+Figure 2
+). Intriguingly, subjects with low working memory capacity had significantly lower DA synthesis capacity in the striatum than subjects with high working memory capacity (
+90
+90.
+Cools, R. ∙ Gibbs, S. ∙ Miyakawa, A. ...
+Working memory capacity predicts dopamine synthesis capacity in the human striatum
+J Neurosci.
+2008;
+28
+:1208-1212
+). This finding was seen also in older individuals (
+91
+91.
+Landau, S.M. ∙ Lal, R. ∙ O'Neil, J.P. ...
+Striatal dopamine and working memory
+Cereb Cortex.
+2009;
+19
+:445-454
+), in whom striatal DA synthesis capacity predicted not only working memory capacity but also PFC activity during working memory performance. Therefore, these data provided the first direct evidence in support of the hypothesis that the dependency of dopaminergic drug effects on baseline working memory capacity reflects differential baseline levels of DA function. Even more direct evidence for this hypothesis came from the finding that the effects of the DA receptor agonist bromocriptine could also be predicted from baseline levels of DA synthesis capacity in the striatum (
+92
+92.
+Cools, R. ∙ Frank, M. ∙ Gibbs, S. ...
+Striatal dopamine predicts outcome-specific reversal learning and its sensitivity to dopaminergic drug administration
+J Neurosci.
+2009;
+29
+:1538-1543
+). Specifically, we found that healthy young individuals with low DA synthesis (and working memory) capacity benefited from bromocriptine, whereas subjects with high DA synthesis (and working memory) capacity were impaired by the same drug. Thus, individual variability in dopaminergic drug effects on human cognition reflected individual variability in basal levels of DA.
+Figure viewer
+Figure 2
+(A)
+The mean raw axial (magnetic resonance [MR] image coregistered) whole-brain 6-[
+18
+F] fluoro-L-m-tyrosine positron emission tomography
+K
+i
+images from the low-span group (left panel) and from the high-span group (right panel) overlaid on a normalized MR image. Data represent
+K
+i
+-values. Right is right according to neurological conventions;
+(B)
+correlation between working memory capacity (on the x axis: listening span) and dopamine synthesis capacity in the striatum (on the y axis:
+K
+i
+values from the left caudate nucleus).
+Adapted, with permission, from
+Figures 1 and 2
+from Cools
+et al.
+(
+90
+90.
+Cools, R. ∙ Gibbs, S. ∙ Miyakawa, A. ...
+Working memory capacity predicts dopamine synthesis capacity in the human striatum
+J Neurosci.
+2008;
+28
+:1208-1212
+).
+These observations from human studies are remarkably consistent with those reported in experimental animals, reviewed in the preceding text. Indeed, the literature converges across species, except for one noteworthy aspect: although animal work has highlighted the role of basal DA levels specifically in the PFC, human PET work has revealed an important role for basal DA in a different brain region (i.e., the striatum). A critical role for the striatum in DA function is not surprising, given that dopaminergic projections are strongest and receptors most abundant in the striatum as well as given the existence of strong anatomical connections between the PFC and the striatum in so-called frontostriatal circuits (
+93
+93.
+Alexander, G. ∙ DeLong, M. ∙ Strick, P.
+Parallel organization of functionally segregated circuits linking basal ganglia and cortex
+Annu Rev Neurosci.
+1986;
+9
+:357-381
+).
+Although it remains possible that PET measurements of striatal DA transmission are an index of DA levels in PFC (which cannot be easily detected with PET imaging), the human PET work does raise an alternative hypothesis. Specifically the baseline-dependent effects of DA on PFC function might reflect modulation of frontostriatal connectivity, which varies as a function of basal DA levels in the striatum rather than in the PFC. To test this hypothesis, we recently investigated the effect of bromocriptine administration to healthy individuals on functional interactions between the PFC and striatum (
+94
+94.
+Wallace, D.L. ∙ Vytlacil, J.J. ∙ Nomura, E.M. ...
+The dopamine agonist bromocriptine differentially affects fronto-striatal functional connectivity during working memory
+Front Hum Neurosci.
+2011;
+5
+:32
+). Re-analyzing an original dataset from Gibbs and D'Esposito (
+38
+38.
+Gibbs, S.E. ∙ D'Esposito, M.
+Individual capacity differences predict working memory performance and prefrontal activity following dopamine receptor stimulation
+Cogn Affect Behav Neurosci.
+2005;
+5
+:212-221
+), we found that, during the engagement of working memory retrieval processes, bromocriptine increased frontostriatal connectivity in individuals with low working memory capacity, corresponding with performance improvement. In contrast, individuals with high working memory capacity exhibited a decrease in frontostriatal connectivity after bromocriptine administration, corresponding with worsened performance. Such effects of bromocriptine might reflect direct action at the level of the striatum or, alternatively, stimulation of D2 receptors on layer V cells in the PFC, which project to the striatum.
+The difference between animal and human studies in terms of emphasis on basal levels of DA in the PFC versus the striatum might reflect one or more of multiple factors. First, the only method available and used so far for studying human DA transmission directly is PET, which is optimized for detecting signals in the striatum. Signals in the PFC are generally weak for most applications. Second, human studies have primarily investigated effects of DA drugs that have the greatest affinity for the D2 receptor family, partly due to the lack of D1-selective drugs available for human research. The D2 receptors are more abundant in the striatum than in the PFC (
+95–98
+95.
+Lidow, M.S. ∙ Goldman-Rakic, P.S. ∙ Gallager, D.W. ...
+Distribution of dopaminergic receptors in the primate cerebral cortex: Quantitative autoradiographic analysis using [3H]raclopride, [3H]spiperone and [3H]SCH23390
+Neuroscience.
+1991;
+40
+:657-671
+96.
+Camps, M. ∙ Cortes, R. ∙ Gueye, B. ...
+Dopamine receptors in human brain: Autoradiographic distribution of D2 sites
+Neuroscience.
+1989;
+28
+:275
+97.
+Goldman-Rakic, P. ∙ Lidow, M. ∙ Smiley, J. ...
+The anatomy of dopamine in monkey and human prefrontal cortex
+J Neural Transm Suppl.
+1992;
+36
+:163-177
+98.
+Sedvall, G. ∙ Farde, L. ∙ Wiesel, F.A.
+Quantitative determination of D2 dopamine receptor characteristics in healthy human subjects and psychiatric patients
+Life Sci.
+1987;
+41
+:813-816
+). Finally, human studies have employed cognitive paradigms that require different cognitive operations from those required for paradigms employed in animal studies. For example, demands for the flexible updating of current goal representations (which might be more dependent on striatal function; see following) have generally been higher in human cognitive paradigms than in animal paradigms, the latter often focusing on the delay period of working memory tests (but see [
+99,100
+99.
+Roberts, A.C. ∙ De Salvia, M.A. ∙ Wilkinson, L.S. ...
+6-hydroxydopamine lesions of the prefrontal cortex in monkeys enhance performance on an analog of the Wisconsin Card Sort Test: Possible interactions with subcortical dopamine
+J Neurosci.
+1994;
+14
+:2531-2544
+100.
+Crofts, H.S. ∙ Dalley, J.W. ∙ Van Denderen, J.C.M. ...
+Differential effects of 6-OHDA lesions of the frontal cortex and caudate nucleus on the ability to acquire an attentional set
+Cereb Cortex.
+2001;
+11
+:1015-1026
+]). The nature of the required cognitive operation might determine the degree to which DA levels in the striatum or in the PFC are predictive of drug effects.
+Distinct Roles for Striatal and PFC DA
+Traditionally, cognitive effects of DA are ascribed to modulation of the PFC. However, recent theories as well as empiric data have highlighted a complementary role for DA in the striatum in working memory and cognitive control (
+101–106
+101.
+Braver, T.S. ∙ Cohen, J.D.
+On the control of control: The role of dopamine in regulating prefrontal function and working memory
+Monsell, S. ∙ Driver, J. (Editors)
+MIT Press, Cambridge, Massachusetts, in: Control of Cognitive Processes Attention and Performance. vol XVIII. 2000; 713-737
+102.
+Frank, M.J. ∙ Loughry, B. ∙ O'Reilly, R.C.
+Interactions between frontal cortex and basal ganglia in working memory: A computational model
+Cogn Affect Behav Neurosci.
+2001;
+1
+:137-160
+103.
+Lewis, S. ∙ Dove, A. ∙ Robbins, T. ...
+Striatal contributions to working memory: A functional magnetic resonance imaging study in humans
+Eur J Neurosci.
+2004;
+19
+:755-760
+104.
+Leber, A. ∙ Turk-Browne, N. ∙ Chun, M.
+Neural predictors of moment-to-moment fluctuations in cognitive flexibility
+Proc Natl Acad Sci U S A.
+2008;
+105
+:13592-13597
+105.
+McNab, F. ∙ Klingberg, T.
+Prefrontal cortex and basal ganglia control access to working memory
+Nat Neurosci.
+2008;
+11
+:103-107
+106.
+Cools, R. ∙ Clark, L. ∙ Robbins, T.W.
+Differential responses in human striatum and prefrontal cortex to changes in object and rule relevance
+J Neurosci.
+2004;
+24
+:1129-1135
+). Critically, studies in animals investigating the role of D1 receptors in the PFC have most commonly focused on the delay period of delayed response tasks, which requires the stabilization of an earlier presented stimulus across a short delay (
+19,22,58,107
+19.
+Brozoski, T.J. ∙ Brown, R. ∙ Rosvold, H.E. ...
+Cognitive deficit caused by regional depletion of dopamine in the prefrontal cortex of rhesus monkeys
+Science.
+1979;
+205
+:929-931
+22.
+Sawaguchi, T. ∙ Goldman-Rakic, P.S.
+D1 dopamine receptors in prefrontal cortex: Involvement in working memory
+Science.
+1991;
+251
+:947-950
+58.
+Seamans, J.K. ∙ Floresco, S.B. ∙ Phillips, A.G.
+D1 receptor modulation of hippocampal-prefrontal cortical circuits integrating spatial memory with executive functions in the rat
+J Neurosci.
+1998;
+18
+:1613-1621
+107.
+Wang, M. ∙ Vijayraghavan, S. ∙ Goldman-Rakic, P.S.
+Selective D2 receptor actions on the functional circuitry of working memory
+Science.
+2004;
+303
+:853-856
+). According to recent ideas, the functional role of DA in the striatum might be qualitatively different from that of DA in the PFC, extending beyond the persistent stabilization of information. Specifically, striatal DA might rather be more important for the ability to flexibly update those goal representations when new information becomes available, for example, as measured during the encoding and probe period of the delayed response task. Empirical and computational work has indeed suggested that such updating during the encoding and probe periods of the delayed response task is not modulated by D1 receptor stimulation in the PFC but rather by D2 receptor stimulation (
+67,107,108
+67.
+Durstewitz, D. ∙ Seamans, J.
+The dual-state theory of prefrontal cortex dopamine function with relevance to catechol-o-methyltransferase genotypes and schizophrenia
+Biol Psychiatry.
+2008;
+64
+:739-749
+107.
+Wang, M. ∙ Vijayraghavan, S. ∙ Goldman-Rakic, P.S.
+Selective D2 receptor actions on the functional circuitry of working memory
+Science.
+2004;
+303
+:853-856
+108.
+Durstewitz, D. ∙ Seamans, J. ∙ Sejnowski, T.
+Dopamine-mediated stabilization of delay-period activity in a network model of prefrontal cortex
+J Neurophysiol.
+2000;
+83
+:1733-1750
+). Consistent with the observation that there are relatively few D2 receptors in the PFC, recent computational work has emphasized the role of DA in the striatum in such updating of current goal representations (
+101,109
+101.
+Braver, T.S. ∙ Cohen, J.D.
+On the control of control: The role of dopamine in regulating prefrontal function and working memory
+Monsell, S. ∙ Driver, J. (Editors)
+MIT Press, Cambridge, Massachusetts, in: Control of Cognitive Processes Attention and Performance. vol XVIII. 2000; 713-737
+109.
+Hazy, T.E. ∙ Frank, M.J. ∙ O'Reilly, R.C.
+Banishing the homunculus: Making working memory work
+Neuroscience.
+2006;
+139
+:105-118
+). The suggestion that the (DA in the) striatum is well-suited to serve the gating mechanism that updates goal representations in the PFC concords with a rapidly growing body of data from functional neuroimaging and animal studies on working memory (
+105,110–113
+105.
+McNab, F. ∙ Klingberg, T.
+Prefrontal cortex and basal ganglia control access to working memory
+Nat Neurosci.
+2008;
+11
+:103-107
+110.
+Dodds, C.M. ∙ Clark, L. ∙ Dove, A. ...
+The dopamine D2 receptor antagonist sulpiride modulates striatal BOLD signal during the manipulation of information in working memory
+Psychopharmacology (Berl).
+2009;
+207
+:35-45
+111.
+Dahlin, E. ∙ Neely, A.S. ∙ Larsson, A. ...
+Transfer of learning after updating training mediated by the striatum
+Science.
+2008;
+320
+:1510-1512
+112.
+Marklund, P. ∙ Larsson, A. ∙ Elgh, E. ...
+Temporal dynamics of basal ganglia under-recruitment in Parkinson's disease: Transient caudate abnormalities during updating of working memory
+Brain.
+2009;
+132
+:336-346
+113.
+Collins, P. ∙ Wilkinson, L.S. ∙ Everitt, B.J. ...
+The effect of dopamine depletion from the caudate nucleus of the common marmoset (Callithrix jacchus) on tests of prefrontal cognitive function
+Behav Neurosci.
+2000;
+114
+:3-17
+). Furthermore, it also concurs with empiric data from human imaging and animal studies showing (effects of DA D2 receptor manipulation on) striatal involvement during set shifting (
+15,104,114–119
+15.
+Floresco, S.B. ∙ Magyar, O.
+Mesocortical dopamine modulation of executive functions: Beyond working memory
+Psychopharmacology (Berl).
+2006;
+188
+:567-585
+104.
+Leber, A. ∙ Turk-Browne, N. ∙ Chun, M.
+Neural predictors of moment-to-moment fluctuations in cognitive flexibility
+Proc Natl Acad Sci U S A.
+2008;
+105
+:13592-13597
+114.
+van Schouwenburg, M.R. ∙ den Ouden, H.E. ∙ Cools, R.
+The human basal ganglia modulate frontal-posterior connectivity during attention shifting
+J Neurosci.
+2010;
+30
+:9910-9918
+115.
+Kellendonk, C. ∙ Simpson, E. ∙ Polan, H. ...
+Transient and selective overexpression of dopamine D2 receptors in the striatum causes persistent abnormalities in prefrontal cortex functioning
+Neuron.
+2006;
+49
+:603-615
+116.
+Haluk, D.M. ∙ Floresco, S.B.
+Ventral striatal dopamine modulation of different forms of behavioral flexibility
+Neuropsychopharmacology.
+2009;
+34
+:2041-2052
+117.
+Dodds, C.M. ∙ Muller, U. ∙ Clark, L. ...
+Methylphenidate has differential effects on blood oxygenation level-dependent signal related to cognitive subprocesses of reversal learning
+J Neurosci.
+2008;
+28
+:5976-5982
+118.
+Clatworthy, P.L. ∙ Lewis, S.J. ∙ Brichard, L. ...
+Dopamine release in dissociable striatal subregions predicts the different effects of oral methylphenidate on reversal learning and spatial working memory
+J Neurosci.
+2009;
+29
+:4690-4696
+119.
+Cools, R. ∙ Lewis, S. ∙ Clark, L. ...
+L-DOPA disrupts activity in the nucleus accumbens during reversal learning in Parkinson's disease
+Neuropsychopharmacology.
+2007;
+32
+:180-189
+). For example, we have recently shown with dynamic causal modeling of functional magnetic resonance imaging (fMRI) data that activity in the striatum regulates attentional set shifting by modulating (or “gating”) connectivity between the PFC and task-relevant representations in posterior cortex (
+114
+114.
+van Schouwenburg, M.R. ∙ den Ouden, H.E. ∙ Cools, R.
+The human basal ganglia modulate frontal-posterior connectivity during attention shifting
+J Neurosci.
+2010;
+30
+:9910-9918
+). Furthermore, genetic overexpression of striatal D2 receptors (
+115
+115.
+Kellendonk, C. ∙ Simpson, E. ∙ Polan, H. ...
+Transient and selective overexpression of dopamine D2 receptors in the striatum causes persistent abnormalities in prefrontal cortex functioning
+Neuron.
+2006;
+49
+:603-615
+) and abnormal increases in D2 receptor activity in the rodent striatum causes a set shifting impairment (
+116
+116.
+Haluk, D.M. ∙ Floresco, S.B.
+Ventral striatal dopamine modulation of different forms of behavioral flexibility
+Neuropsychopharmacology.
+2009;
+34
+:2041-2052
+). Such abnormally increased D2 receptor activity might well underlie the attenuation of striatal blood oxygen level dependent responses seen during set shifting in humans who are treated with DA-enhancing drugs (
+117,119
+117.
+Dodds, C.M. ∙ Muller, U. ∙ Clark, L. ...
+Methylphenidate has differential effects on blood oxygenation level-dependent signal related to cognitive subprocesses of reversal learning
+J Neurosci.
+2008;
+28
+:5976-5982
+119.
+Cools, R. ∙ Lewis, S. ∙ Clark, L. ...
+L-DOPA disrupts activity in the nucleus accumbens during reversal learning in Parkinson's disease
+Neuropsychopharmacology.
+2007;
+32
+:180-189
+).
+An interesting observation is that updating and stabilization can be conceptualized as representing functionally opposing processes. If we update too readily, then we are likely to get distracted, rendering our behavior unstable. Conversely, if our representations are overly persistent or stable, then there is a danger of inflexibility and unresponsiveness to new information. A pure form of reciprocity would imply that we need only a single mechanism that can be adjusted dynamically, depending on task demands. However, we often need to be both flexible and persistent at the same time, at least at the global level. Thus, although we should be flexible in response to task-relevant changes, we should be simultaneously stable as long as the changes are irrelevant. To resolve this apparent paradox, it is more plausible to postulate two separate mechanisms that nevertheless work together. The need for two separate mechanisms is also illustrated by the observation that various disorders, such as attention-deficit/hyperactivity disorder, are accompanied by a combination of inflexible as well as unstable behavior and distractibility. Empirical data support the hypothesis that these two separate mechanisms might be subserved by DA in the striatum and by DA in the PFC, respectively. For example, Roberts
+et al.
+(
+21,99,100,113
+21.
+Collins, P. ∙ Roberts, A.C. ∙ Dias, R. ...
+Perseveration and strategy in a novel spatial self-ordered sequencing task for nonhuman primates: Effects of excitotoxic lesions and dopamine depletions of the prefrontal cortex
+J Cogn Neurosci.
+1998;
+10
+:332-354
+99.
+Roberts, A.C. ∙ De Salvia, M.A. ∙ Wilkinson, L.S. ...
+6-hydroxydopamine lesions of the prefrontal cortex in monkeys enhance performance on an analog of the Wisconsin Card Sort Test: Possible interactions with subcortical dopamine
+J Neurosci.
+1994;
+14
+:2531-2544
+100.
+Crofts, H.S. ∙ Dalley, J.W. ∙ Van Denderen, J.C.M. ...
+Differential effects of 6-OHDA lesions of the frontal cortex and caudate nucleus on the ability to acquire an attentional set
+Cereb Cortex.
+2001;
+11
+:1015-1026
+113.
+Collins, P. ∙ Wilkinson, L.S. ∙ Everitt, B.J. ...
+The effect of dopamine depletion from the caudate nucleus of the common marmoset (Callithrix jacchus) on tests of prefrontal cognitive function
+Behav Neurosci.
+2000;
+114
+:3-17
+) injected the neurotoxin 6-OHDA into the striatum or PFC of nonhuman primates and revealed that, although DA lesions in the PFC led to improved flexibility (attentional set shifting) (
+99
+99.
+Roberts, A.C. ∙ De Salvia, M.A. ∙ Wilkinson, L.S. ...
+6-hydroxydopamine lesions of the prefrontal cortex in monkeys enhance performance on an analog of the Wisconsin Card Sort Test: Possible interactions with subcortical dopamine
+J Neurosci.
+1994;
+14
+:2531-2544
+), DA lesions in the striatum actually impaired flexibility (attentional set shifting) (
+113
+113.
+Collins, P. ∙ Wilkinson, L.S. ∙ Everitt, B.J. ...
+The effect of dopamine depletion from the caudate nucleus of the common marmoset (Callithrix jacchus) on tests of prefrontal cognitive function
+Behav Neurosci.
+2000;
+114
+:3-17
+). Subsequent work showed that this modulation of flexibility during attentional set shifting might have resulted from effects on performance during the preceding set-maintenance stages of the task (
+100
+100.
+Crofts, H.S. ∙ Dalley, J.W. ∙ Van Denderen, J.C.M. ...
+Differential effects of 6-OHDA lesions of the frontal cortex and caudate nucleus on the ability to acquire an attentional set
+Cereb Cortex.
+2001;
+11
+:1015-1026
+). Specifically, that study revealed that DA lesions in the PFC led to enhanced distractibility (poor attentional set maintenance), although DA lesions in the striatum actually reduced distractibility (enhanced attentional set maintenance). Thus, the contrasting effects on set maintenance might well underlie the contrasting changes measured in the subsequent attentional set shifting stages of the task. These opposing effects of striatal and frontal DA lesions underline the possible competition between the PFC and the striatum (
+120
+120.
+Pycock, C.J. ∙ Kerwin, R.W. ∙ Carter, C.J.
+Effect of lesion of cortical dopamine terminals on sub-cortical dopamine-receptors in rats
+Nature.
+1980;
+286
+:74-77
+) and suggest that a dynamic balance between stabilization and flexible updating might depend on precisely balanced DA transmission within the PFC and the striatum respectively. These ideas concur with observations that DA (D1) receptor stimulation in the PFC promotes the stabilization of representations by increasing distractor-resistance (
+108
+108.
+Durstewitz, D. ∙ Seamans, J. ∙ Sejnowski, T.
+Dopamine-mediated stabilization of delay-period activity in a network model of prefrontal cortex
+J Neurophysiol.
+2000;
+83
+:1733-1750
+) and by sculpting or sharpening PFC networks (
+68,121
+68.
+Vijayraghavan, S. ∙ Wang, M. ∙ Birnbaum, S. ...
+Inverted-U dopamine D1 receptor actions on prefrontal neurons engaged in working memory
+Nat Neurosci.
+2007;
+10
+:176-184
+121.
+Arnsten, A.F.
+Stress signalling pathways that impair prefrontal cortex structure and function
+Nat Rev Neurosci.
+2009;
+10
+:410-422
+). Conversely, DA in the striatum might promote cognitive flexibility, by allowing the updating of newly relevant representations (
+2,102,122
+2.
+Bilder, R. ∙ Volavka, K. ∙ Lachman, H. ...
+The catechol-
+O
+-methyltransferase polymorphism: Relations to the tonic-phasic dopamine hypothesis and neuropsychiatric phenotypes
+Neuropsychopharmacology.
+2004;
+29
+:1943-1961
+102.
+Frank, M.J. ∙ Loughry, B. ∙ O'Reilly, R.C.
+Interactions between frontal cortex and basal ganglia in working memory: A computational model
+Cogn Affect Behav Neurosci.
+2001;
+1
+:137-160
+122.
+Frank, M.J.
+Dynamic dopamine modulation in the basal ganglia: A neurocomputational account of cognitive deficits in medicated and nonmedicated Parkinsonism
+J Cogn Neurosci.
+2005;
+17
+:51-72
+). The functional opponency between stability and flexibility maps well onto the neurochemical reciprocity between DA in the PFC and the striatum: increases and decreases in PFC DA lead to decreases and increases in striatal DA, respectively (
+78,120,123
+78.
+Meyer-Lindenberg, A. ∙ Kohn, P.D. ∙ Kolachana, B. ...
+Midbrain dopamine and prefrontal function in humans: Interaction and modulation by COMT genotype
+Nat Neurosci.
+2005;
+8
+:594-596
+120.
+Pycock, C.J. ∙ Kerwin, R.W. ∙ Carter, C.J.
+Effect of lesion of cortical dopamine terminals on sub-cortical dopamine-receptors in rats
+Nature.
+1980;
+286
+:74-77
+123.
+Akil, M. ∙ Kolachana, B.S. ∙ Rothmond, D.A. ...
+Catechol-
+O
+-methyltransferase genotype and dopamine regulation in the human brain
+J Neurosci.
+2003;
+23
+:2008-2013
+). One implication of this model is that stability and flexibility trade off in the healthy brain, where DA levels interact dynamically. Thus, optimal DA levels in the PFC might be good for stability but bad for flexibility, whereas optimal DA levels in the striatum might be good for flexibility but bad for stability. Note that, according to this model, supra-optimal levels of DA in the PFC would potentiate stabilization to its extreme, thus inducing perseveration, whereas supra-optimal levels of DA in the striatum would potentiate flexible updating to its extreme, thus inducing distractibility.
+This working hypothesis is reminiscent of the dual-state theory put forward recently by Durstewitz and Seamans (
+60,67
+60.
+Seamans, J.K. ∙ Yang, C.R.
+The principal features and mechanisms of dopamine modulation in the prefrontal cortex
+Prog Neurobiol.
+2004;
+74
+:1-58
+67.
+Durstewitz, D. ∙ Seamans, J.
+The dual-state theory of prefrontal cortex dopamine function with relevance to catechol-o-methyltransferase genotypes and schizophrenia
+Biol Psychiatry.
+2008;
+64
+:739-749
+), which is grounded in in vitro neurophysiology and biophysically realistic computational modeling work. Prefrontal cortex networks can be, according to this theory, either in a D1-dominated state—which is characterized by a high-energy barrier favoring robust stabilization of representations—or in a D2-dominated state—which is characterized by a low-energy barrier favoring fast flexible switching between representations. Consistent with this proposal are findings that D2 receptor agonists act in opposite ways to D1 receptor agonists, at least in vitro, on NMDA and GABA currents, neuronal excitability, as well as on cAMP production (
+67
+67.
+Durstewitz, D. ∙ Seamans, J.
+The dual-state theory of prefrontal cortex dopamine function with relevance to catechol-o-methyltransferase genotypes and schizophrenia
+Biol Psychiatry.
+2008;
+64
+:739-749
+) with D2 receptor stimulation inducing reduction in NMDA currents and GABAergic inhibition. To cite Durstewitz and Seamans (
+67
+67.
+Durstewitz, D. ∙ Seamans, J.
+The dual-state theory of prefrontal cortex dopamine function with relevance to catechol-o-methyltransferase genotypes and schizophrenia
+Biol Psychiatry.
+2008;
+64
+:739-749
+): in the D2-dominated state, “the valleys of the energy landscape become so flat and nearby that noise might easily push the system from one state into the other.” According to the theory, this D2-state corresponds with a state that facilitates flexible updating of goal representations in response to new inputs and contrasts or even competes with a D1-state that facilitates stabilization, eventually eliciting perseveration due to excessive blockade of new input. Although it is clear that D1 and D2 receptor action can be synergistic as well as antagonistic, this hypothesis is corroborated by findings in humans that the DA D2-receptor antagonist sulpiride (shown to modulate brain activity in the striatum [
+124
+124.
+Mehta, M. ∙ McGowan, S. ∙ Lawrence, A. ...
+Systemic sulpiride modulates striatal blood flow: Relationships to spatial working memory and planning
+Neuroimage.
+2003;
+20
+:1982-1994
+]) impaired performance on task switching but, by contrast, improved performance on a delayed response task that required the stabilization of representations in the face of task-irrelevant distraction (
+35
+35.
+Mehta, M.A. ∙ Manes, F.F. ∙ Magnolfi, G. ...
+Impaired set-shifting and dissociable effects on tests of spatial working memory following the dopamine D2 receptor antagonist sulpiride in human volunteers
+Psychopharmacology (Berl).
+2004;
+176
+:331-342
+). In rodents, blockade of D2 receptors in the PFC impaired set shifting, while leaving unaltered performance on working memory tasks (
+125
+125.
+Floresco, S. ∙ Magyar, O. ∙ Ghods-Sharifi, S. ...
+Multiple dopamine receptor subtypes in the medial prefrontal cortex of the rat regulate set-shifting
+Neuropsychopharmacology.
+2006;
+31
+:297-309
+). In monkeys D2 receptor stimulation in the PFC had no effect on delay-related firing but increased response-related firing during the probe period of the delayed response task (
+107
+107.
+Wang, M. ∙ Vijayraghavan, S. ∙ Goldman-Rakic, P.S.
+Selective D2 receptor actions on the functional circuitry of working memory
+Science.
+2004;
+303
+:853-856
+). Together these data strengthen the hypothesis that D2 receptor stimulation in the PFC might subserve a different and perhaps opponent subcomponent process than D1 receptor stimulation (see also [
+125
+125.
+Floresco, S. ∙ Magyar, O. ∙ Ghods-Sharifi, S. ...
+Multiple dopamine receptor subtypes in the medial prefrontal cortex of the rat regulate set-shifting
+Neuropsychopharmacology.
+2006;
+31
+:297-309
+]). This alternative receptor-based theory is not necessarily inconsistent with our working hypothesis, according to which DA in the striatum and the PFC subserve the distinct roles of updating and stabilization, respectively. Indeed, D2 receptors are more abundant in the striatum than in the PFC, which contains fewer D2 than D1 receptors (
+95,96,126,127
+95.
+Lidow, M.S. ∙ Goldman-Rakic, P.S. ∙ Gallager, D.W. ...
+Distribution of dopaminergic receptors in the primate cerebral cortex: Quantitative autoradiographic analysis using [3H]raclopride, [3H]spiperone and [3H]SCH23390
+Neuroscience.
+1991;
+40
+:657-671
+96.
+Camps, M. ∙ Cortes, R. ∙ Gueye, B. ...
+Dopamine receptors in human brain: Autoradiographic distribution of D2 sites
+Neuroscience.
+1989;
+28
+:275
+126.
+Camps, M. ∙ Cortés, R. ∙ Gueye, B. ...
+Dopamine receptors in human brain: Autoradiographic distribution of D1 sites
+Neuroscience.
+1989;
+28
+:275-290
+127.
+Camps, M. ∙ Kelly, P. ∙ Palacios, J.
+Autoradiographic localization of dopamine D1 and D2 receptors in the brain of several mammalian species
+J Neural Transm Gen Sect.
+1990;
+80
+:105-127
+). Furthermore, D2 receptors are synthesized by Layer V PFC neurons that project to striatum.
+As stated in the preceding text, one implication of this model is that different functions require distinct levels of DA in different brain regions: high DA levels in the PFC might be good for stabilization but bad for flexible updating. Conversely, high DA levels in the striatum might be good for flexible updating but bad for stabilization. On the basis of this hypothesis, we might expect that natural genetic variations affecting DA primarily in the PFC but not in the striatum (e.g., between those of us with the Val and Met versions of the COMT gene) confer both behavioral costs as well as behavioral benefits (see also [
+72
+72.
+Frank, M.J. ∙ Fossella, J.A.
+Neurogenetics and pharmacology of learning, motivation, and cognition
+Neuropsychopharmacology.
+2011;
+36
+:133-152
+]). Indeed, Nolan
+et al.
+(
+128
+128.
+Nolan, K. ∙ Bilder, R. ∙ Lachman, H. ...
+Catechol
+O
+-methyltransferase Val158Met polymorphism in schizophrenia: Differential effects of Val and Met alleles on cognitive stability and flexibility
+Am J Psychiatry.
+2004;
+161
+:359-361
+) observed that individuals who were homozygous for the Met polymorphism were better than Val individuals at sticking to task but worse when flexible updating was needed. Two recent studies of flexible updating (task-switching and reversal learning) (
+129,130
+129.
+Krugel, L.K. ∙ Biele, G. ∙ Mohr, P.N. ...
+Genetic variation in dopaminergic neuromodulation influences the ability to rapidly and flexibly adapt decisions
+Proc Natl Acad Sci U S A.
+2009;
+106
+:17951-17956
+130.
+Colzato, L.S. ∙ Waszak, F. ∙ Nieuwenhuis, S. ...
+The flexible mind is associated with the catechol-
+O
+-methyltransferase (COMT) Val158Met polymorphism: Evidence for a role of dopamine in the control of task-switching
+Neuropsychologia.
+2010;
+48
+:2764-2768
+) have confirmed that individuals with the Met allele, who have repeatedly been shown to perform better on working memory tasks that require cognitive stabilization, also exhibit impaired performance on tasks of flexible updating, compared with Val individuals. These data further strengthen the working hypothesis that increases in DA might have paradoxical consequences for distinct cognitive functions, reflecting functional specificity of the effects of DA in the PFC.
+Consistent with this notion that distinct brain regions might mediate different effects of DA are findings from a recent study that demonstrated that DA receptor stimulation modulated the PFC or the striatum depending on task demands (
+45
+45.
+Cools, R. ∙ Sheridan, M. ∙ Jacobs, E. ...
+Impulsive personality predicts dopamine-dependent changes in frontostriatal activity during component processes of working memory
+J Neurosci.
+2007;
+27
+:5506-5514
+). In this pharmacological fMRI study, young healthy individuals were scanned on two occasions, once after administration of bromocriptine and once after placebo while performing a working memory task. In this task, subjects had to encode, maintain, and retrieve visual stimuli. Four such stimuli (two faces and two scenes) were presented during the encoding period, which was followed by a delay period during which subjects had to maintain the relevant stimuli in memory. After this initial delay period, another stimulus was presented, which subjects were instructed to ignore. This distractor was either a scrambled image (the nondistractor) or a novel face or scene (the congruent distractor). It was followed by a second delay, after which subjects were probed to respond with the right or left finger, depending on whether the probe stimulus matched one of the two task-relevant encoding stimuli (
+Figure 3
+A). Critically, subjects were instructed on each trial to attend to either the faces or the scenes. If the fixation cross was blue, they had to memorize the faces; if it was green, they had to memorize the scenes. The blue face trials and the green scene trials were randomized within blocks, enabling the measurement of the flexible switching of attention between faces and scenes. The critical measure of flexible updating—which was predicted to depend on striatal function—was the switch-cost, which was calculated by subtracting performance (error rates and reaction times measured at probe) on nonswitch trials from that on switch trials. The critical measure of stabilization—which was predicted to depend on PFC function—was the distractor-cost, calculated by subtracting performance (measured at probe) after scrambled nondistractors from that after congruent distractors. We had two predictions. First, bromocriptine would modulate PFC activity during cognitive stabilization (as a function of distractor-type) but striatal activity during flexible updating (as a function of attention switching). Second, we predicted that effects of bromocriptine would depend on baseline levels of DA. Bromocriptine would remedy function of brain regions with low baseline levels of DA, while detrimentally overdosing function of brain regions with already optimized baseline levels of DA.
+Figure viewer
+Figure 3
+The effects of dopamine receptor stimulation depend on task demands and neural site of modulation.
+(A)
+A delayed match-to-sample task was used that provides a measure of flexible updating (cognitive switching during encoding) as well as a measure of stabilization (distractor-resistance during the delay). Subjects memorized faces or scenes, depending on the color of the fixation cross. Subjects occasionally switched between encoding faces and scenes. A distractor was presented during a delay. Subjects were instructed to ignore this distractor.
+(B)
+Top panel: effects of bromocriptine on striatal activity during updating as a function of group (the group × drug interaction effect, whole-brain contrast values [> 25] are overlaid on four coronal slices [slice numbers displayed on top] from the Montreal Neurological Institute high-resolution single subject magnetic resonance image) (note that the effect in the dorsomedial frontal cortex did not reach significance after correction for multiple comparisons); bottom panel: effects of bromocriptine on updating-related activity in the striatum and left prefrontal cortex (PFC) in low-span subjects only. *Statistically significant at
+P
+< .05.
+(C)
+Top panel: effects of bromocriptine on frontal activity during stabilization as a function of group (the group × drug interaction effect, all contrast values > 25 shown); bottom panel: effects of bromocriptine on distractor-related activity in the striatum and left PFC in low-span subjects only. *Statistically significant at
+P
+< .05.
+Reproduced and adapted with permission, from Cools
+et al.
+(
+45
+45.
+Cools, R. ∙ Sheridan, M. ∙ Jacobs, E. ...
+Impulsive personality predicts dopamine-dependent changes in frontostriatal activity during component processes of working memory
+J Neurosci.
+2007;
+27
+:5506-5514
+). BG, basal ganglia.
+To investigate individual differences in baseline levels of DA, we assessed drug effects separately in two groups of subjects that differed in their baseline working memory capacity, as measured with the listening span test. The results were consistent with our hypotheses: bromocriptine modulated distinct brain regions, the striatum and the lateral PFC, during flexible updating (switching) and stabilization (distractor-resistance), respectively (
+Figure 3
+B). Critically, these effects depended on individual differences in working memory capacity. Specifically, bromocriptine improved flexible updating in the low-span subjects but impaired flexible updating in the high-span subjects. Bromocriptine significantly potentiated striatal activity during updating in the low-span subjects, yet nonsignificantly attenuated striatal activity during updating in the high-span subjects. Thus, a drug-induced improvement in updating was accompanied by a drug-induced potentiation of striatal activity in the low-span subjects. Conversely, a drug-induced (nonsignificant) impairment in updating was accompanied by a drug-induced (nonsignificant) attenuation of striatal activity in the high-span subjects. We also assessed updating-related activity in the lateral PFC. As predicted, the lateral PFC was not modulated by bromocriptine during updating. Importantly, lateral PFC activity was modulated by bromocriptine during the delay period of the task when distracting stimuli were present (i.e., during stabilization). Specifically, PFC activity was potentiated by bromocriptine in the low-span subjects, while remaining unaltered in the high-span subjects. Similar effects were not observed in the striatum. Together, these data concur with the hypothesis that flexible updating and stabilization are mediated by dopaminergic modulation of the striatum and the PFC, respectively. Furthermore, the effects of bromocriptine were not only regionally specific as a function of task demands but also baseline-dependent, as illustrated by the opposite effects in high- and low-span subjects.
+It might be noted that this functional and regional specificity of dopaminergic drug effects might also account for some apparent discrepancy between effects of the relatively specific D2 receptor agonist bromocriptine and the mixed DA D1/D2 receptor agonist pergolide. For example, we have previously revealed that the relationship between baseline working memory capacity and pergolide in young healthy volunteers (
+32,131
+32.
+Kimberg, D.Y. ∙ D'Esposito, M.
+Cognitive effects of the dopamine receptor agonist pergolide
+Neuropsychologia.
+2003;
+41
+:1020-1027
+131.
+Gibbs, S.E. ∙ D'Esposito, M.
+A functional magnetic resonance imaging study of the effects of pergolide, a dopamine receptor agonist, on component processes of working memory
+Neuroscience.
+2006;
+139
+:359-371
+) is opposite to the one described in the preceding text for bromocriptine. Thus, although low-span subjects benefited more from bromocriptine than high-span subjects, we have also reported and replicated that the effect of a single dose of pergolide in young healthy subjects was more beneficial for subjects with greater working memory capacity (
+32,131
+32.
+Kimberg, D.Y. ∙ D'Esposito, M.
+Cognitive effects of the dopamine receptor agonist pergolide
+Neuropsychologia.
+2003;
+41
+:1020-1027
+131.
+Gibbs, S.E. ∙ D'Esposito, M.
+A functional magnetic resonance imaging study of the effects of pergolide, a dopamine receptor agonist, on component processes of working memory
+Neuroscience.
+2006;
+139
+:359-371
+). This apparent discrepancy between the effects of pergolide and bromocriptine might well be due to differential selectivity of the drugs for D1 and D2 receptors, respectively, the resulting differential (frontal vs. striatal) site of modulation and the differential performance measure. Thus, the effects of bromocriptine and their dependency on span in the 1997 and 2007 studies were observed on tasks requiring some form of flexible updating, implicating the striatum, and not for the delayed response tasks. Conversely, the effects of pergolide and their effects on span in the 2003 and 2006 studies were restricted to the delayed response tasks, presumably implicating primarily the PFC, and not extending to the task-switching paradigm (
+32,131
+32.
+Kimberg, D.Y. ∙ D'Esposito, M.
+Cognitive effects of the dopamine receptor agonist pergolide
+Neuropsychologia.
+2003;
+41
+:1020-1027
+131.
+Gibbs, S.E. ∙ D'Esposito, M.
+A functional magnetic resonance imaging study of the effects of pergolide, a dopamine receptor agonist, on component processes of working memory
+Neuroscience.
+2006;
+139
+:359-371
+). On the basis of known neurochemical reciprocity and our observation that the listening span correlates positively with DA synthesis capacity in the striatum, we might hypothesize that the relationship between listening span and drug effects is positive for PFC function (i.e., stabilization) but negative for striatal function (i.e., flexible updating).
+PD Studies Strengthen the Link Between DA and Cognition
+A different approach toward assessing the influence of DA on cognitive function in humans is by testing patients with PD. Parkinson's disease is a progressive, neurodegenerative movement disorder and characterized by a spatiotemporal progression of nigrostriatal and mesocortical DA depletion. In addition to deficits in motor control, PD is also accompanied by significant cognitive impairments even in the early stages of the disease. Central nervous system levels of DA can be manipulated over short periods by withdrawing the normal regimen of DA replacement drugs (i.e., levodopa), because the half-life of these drugs is relatively short. Effects can be easily monitored by observing deterioration in the motor status of the patient.
+Many studies have obtained findings with this method by testing PD patients on tasks thought to be sensitive to PFC dysfunction (
+132
+132.
+Cools, R.
+Dopaminergic modulation of cognitive function-implications for L-DOPA treatment in Parkinson's disease
+Neurosci Biobehav Rev.
+2006;
+30
+:1-23
+). Superficially, the deficits seen in PD patients resemble those observed in patients with PFC lesions, particularly when they are not taking their normal dopaminergic medication. For example, impairments are seen on the Tower of London planning task, spatial working memory tests, and a test of attentional set-shifting (
+37,69,133–140
+37.
+Cools, R. ∙ Barker, R.A. ∙ Sahakian, B.J. ...
+Enhanced or impaired cognitive function in Parkinson's disease as a function of dopaminergic medication and task demands
+Cereb Cortex.
+2001;
+11
+:1136-1143
+69.
+Cools, R. ∙ Stefanova, E. ∙ Barker, R.A. ...
+Dopaminergic modulation of high-level cognition in Parkinson's disease: The role of the prefrontal cortex revealed by PET
+Brain.
+2002;
+125
+:584-594
+133.
+Lange, K.W. ∙ Robbins, T.W. ∙ Marsden, C.D. ...
+L-Dopa withdrawal in Parkinson's disease selectively impairs cognitive performance in tests sensitive to frontal lobe dysfunction
+Psychopharmacology.
+1992;
+107
+:394-404
+134.
+Owen, A.M. ∙ James, M. ∙ Leigh, J.M. ...
+Fronto-striatal cognitive deficits at different stages of Parkinson's disease
+Brain.
+1992;
+115
+:1727-1751
+135.
+Owen, A.M. ∙ Sahakian, B.J. ∙ Hodges, J.R. ...
+Dopamine-dependent frontostriatal planning deficits in early Parkinson's disease
+Neuropsychology.
+1995;
+9
+:126-140
+136.
+Cools, R. ∙ Barker, R.A. ∙ Sahakian, B.J. ...
+Mechanisms of cognitive set flexibility in Parkinson's disease
+Brain.
+2001;
+124
+:2503-2512
+137.
+Cools, R. ∙ Barker, R.A. ∙ Sahakian, B.J. ...
+L-Dopa medication remediates cognitive inflexibility, but increases impulsivity in patients with Parkinson's disease
+Neuropsychologia.
+2003;
+41
+:1431-1441
+138.
+Gotham, A.M. ∙ Brown, R.G. ∙ Marsden, C.D.
+‘Frontal’ cognitive function in patients with Parkinson's disease ‘on’ and ‘off’ levodopa
+Brain.
+1988;
+111
+:299-321
+139.
+Cooper, J.A. ∙ Sagar, H.J. ∙ Doherty, M. ...
+Different effects of dopaminergic and anticholingergic therapies on cognitive and motor function in Parkinson's disease
+Brain.
+1992;
+115
+:1701-1725
+140.
+Fournet, N. ∙ Moreaud, O. ∙ Roulin, J.L. ...
+Working memory in medicated patients with Parkinson's disease: The central executive seems to work
+J Neurol Neurosurg Psychiatry.
+1996;
+60
+:313-317
+). The deficits on these tests of working memory and cognitive control contrasted with their intact performance on tests thought to implicate the medial temporal lobe, such as those of long-term memory (
+134,141
+134.
+Owen, A.M. ∙ James, M. ∙ Leigh, J.M. ...
+Fronto-striatal cognitive deficits at different stages of Parkinson's disease
+Brain.
+1992;
+115
+:1727-1751
+141.
+Sahakian, B.J. ∙ Morris, R.G. ∙ Evenden, J.L. ...
+A comparative study of visuospatial memory and learning in Alzheimer-type dementia and Parkinson's disease
+Brain.
+1988;
+111
+:695-718
+). This characteristic pattern of performance suggested that the cognitive deficits seen in mild PD patients resemble that seen with patients with frontal lobe lesions (
+135,142,143
+135.
+Owen, A.M. ∙ Sahakian, B.J. ∙ Hodges, J.R. ...
+Dopamine-dependent frontostriatal planning deficits in early Parkinson's disease
+Neuropsychology.
+1995;
+9
+:126-140
+142.
+Brown, R. ∙ Marsden, C.
+‘Subcortical dementia’: The neuropsychological evidence
+Neurosci.
+1988;
+25
+:363-387
+143.
+Dubois, B. ∙ Pillon, B. ∙ Malapani, C. ...
+Subcortical dementia and Parkinson's disease: What are the cognitive functions of the basal ganglia?
+Boller, F. ∙ Grafman, J. (Editors)
+Handbook of Neuropsychology
+Elsevier, New York, 1995; 195-240
+).
+However, further work with more sophisticated cognitive paradigms has demonstrated that, in fact, there are important differences between the cognitive sequelae of frontal lesions and those of PD (
+144,145
+144.
+Owen, A.M. ∙ Roberts, A.C. ∙ Hodges, J.R. ...
+Contrasting mechanisms of impaired attentional set-shifting in patients with frontal lobe damage or Parkinson's disease
+Brain.
+1993;
+116
+:1159-1179
+145.
+Cools, R. ∙ Miyakawa, A. ∙ Sheridan, M. ...
+Enhanced frontal function in Parkinson's disease
+Brain.
+2010;
+133
+:225-233
+). Moreover, functional imaging studies with PD patients have revealed abnormal task-related signals not only in the PFC but also in the striatum (
+119,146–148
+119.
+Cools, R. ∙ Lewis, S. ∙ Clark, L. ...
+L-DOPA disrupts activity in the nucleus accumbens during reversal learning in Parkinson's disease
+Neuropsychopharmacology.
+2007;
+32
+:180-189
+146.
+Owen, A.M. ∙ Doyon, J. ∙ Dagher, A. ...
+Abnormal basal ganglia outflow in Parkinson's disease identified with PET
+Implications for higher cortical functions
+Brain.
+1998;
+121
+:949-965
+147.
+Lewis, S. ∙ Dove, A. ∙ Robbins, T. ...
+Cognitive impairments in early Parkinson's disease are accompanied by reductions in activity in frontostriatal neural circuitry
+J Neurosci.
+2003;
+23
+:6351-6356
+148.
+Monchi, I. ∙ Petrides, M. ∙ Doyon, J. ...
+Neural bases of set-shifting deficits in Parkinson's disease
+J Neurosci.
+2004;
+24
+:702-710
+). This is not surprising, because in the early stages of the disease, DA depletion is relatively restricted to the dorsal striatum (i.e., the putamen and the dorsal caudate nucleus). It progresses to limbic and cortical structures such as the nucleus accumbens and the PFC only in later stages of the disease (
+149–151
+149.
+Kish, S.J. ∙ Shannak, K. ∙ Hornykiewicz, O.
+Uneven pattern of dopamine loss in the striatum of patients with idiopathic Parkinson's disease
+N Engl J Med.
+1988;
+318
+:876-880
+150.
+Agid, Y. ∙ Ruberg, M. ∙ Javoy-Agid, F. ...
+Are dopaminergic neurons selectively vulnerable to Parkinson's disease?
+Adv Neurol.
+1993;
+60
+:148-164
+151.
+Sawamoto, N. ∙ Piccini, P. ∙ Hotton, G. ...
+Cognitive deficits and striato-frontal dopamine release in Parkinson's disease
+Brain.
+2008;
+131
+:1294-1302
+). In fact, in clinically very mildly affected patients, DA function might even be upregulated in the PFC, as measured in vivo by [(18)F] dopa PET studies (
+152,153
+152.
+Rakshi, J. ∙ Uema, T. ∙ Ito, K. ...
+Frontal, midbrain and striatal dopamergic function in early and advanced Parkinson's disease
+A 3D [(18)F]dopa-PET study
+Brain.
+1999;
+122
+:1637-1650
+153.
+Kaasinen, V. ∙ Nurmi, E. ∙ Bruck, A. ...
+Increased frontal [(18)F]fluorodopa uptake in early Parkinson's disease: Sex differences in the prefrontal cortex
+Brain.
+2001;
+124
+:1125-1130
+). This upregulation might reflect compensatory processes and is consistent with a reciprocal relationship between frontal and striatal DA as shown in rats and monkeys (
+99,120
+99.
+Roberts, A.C. ∙ De Salvia, M.A. ∙ Wilkinson, L.S. ...
+6-hydroxydopamine lesions of the prefrontal cortex in monkeys enhance performance on an analog of the Wisconsin Card Sort Test: Possible interactions with subcortical dopamine
+J Neurosci.
+1994;
+14
+:2531-2544
+120.
+Pycock, C.J. ∙ Kerwin, R.W. ∙ Carter, C.J.
+Effect of lesion of cortical dopamine terminals on sub-cortical dopamine-receptors in rats
+Nature.
+1980;
+286
+:74-77
+). Because of this spatiotemporal progression of DA depletion, mild PD provides a good model for understanding the regionally selective and baseline-dependent role of DA in distinct brain regions (e.g., the striatum versus the PFC).
+In particular, PD might be predicted to be accompanied by an inflexible state—due to low striatal DA levels—that is, however, also abnormally stable—due to high frontal DA levels. Evidence for the first part of this hypothesis, namely impairments in flexible updating, is overwhelming. Set-shifting difficulties have been shown on a variety of task ranging from WCST-like discrimination learning tasks to more rapid task-switching paradigms (
+154–157
+154.
+Bowen, F.P. ∙ Kamienny, R.S. ∙ Burns, M.M. ...
+Parkinsonism: Effects of levodopa treatment on concept formation
+Neurology.
+1975;
+25
+:701-704
+155.
+Lees, A.J. ∙ Smith, E.
+Cognitive deficits in the early stages of Parkinson's disease
+Brain.
+1983;
+106
+:257-270
+156.
+Taylor, A.E. ∙ Saint-Cyr, J.A. ∙ Lang, A.E.
+Frontal lobe dysfunction in Parkinson's disease
+The cortical focus of neostriatal outflow
+Brain.
+1986;
+109
+:845-883
+157.
+Cools, A.R. ∙ van den Bercken, J.H. ∙ Horstink, M.W. ...
+Cognitive and motor shifting aptitude disorder in Parkinson's disease
+J Neurol Neurosurg Psychiatry.
+1984;
+47
+:443-453
+). For example, with the latter paradigm, we have shown that mild PD patients exhibited significantly enhanced switch costs, compared with matched control subjects (
+136,158
+136.
+Cools, R. ∙ Barker, R.A. ∙ Sahakian, B.J. ...
+Mechanisms of cognitive set flexibility in Parkinson's disease
+Brain.
+2001;
+124
+:2503-2512
+158.
+Hayes, A.E. ∙ Davidson, M.C. ∙ Keele, S.W. ...
+Towards a functional analysis of the basal ganglia
+J Cogn Neurosci.
+1998;
+10
+:178-198
+). Moreover, the deficit in switching between task-sets was alleviated by administration of dopaminergic medication (
+37,137
+37.
+Cools, R. ∙ Barker, R.A. ∙ Sahakian, B.J. ...
+Enhanced or impaired cognitive function in Parkinson's disease as a function of dopaminergic medication and task demands
+Cereb Cortex.
+2001;
+11
+:1136-1143
+137.
+Cools, R. ∙ Barker, R.A. ∙ Sahakian, B.J. ...
+L-Dopa medication remediates cognitive inflexibility, but increases impulsivity in patients with Parkinson's disease
+Neuropsychologia.
+2003;
+41
+:1431-1441
+). Notably, several studies have revealed that these beneficial effects occur in the context of detrimental effects of the same medication in the same patients on other cognitive tasks (
+37,137
+37.
+Cools, R. ∙ Barker, R.A. ∙ Sahakian, B.J. ...
+Enhanced or impaired cognitive function in Parkinson's disease as a function of dopaminergic medication and task demands
+Cereb Cortex.
+2001;
+11
+:1136-1143
+137.
+Cools, R. ∙ Barker, R.A. ∙ Sahakian, B.J. ...
+L-Dopa medication remediates cognitive inflexibility, but increases impulsivity in patients with Parkinson's disease
+Neuropsychologia.
+2003;
+41
+:1431-1441
+) and therefore cannot be accounted for by global effects on motor symptoms, arousal, and/or motivation.
+To test the second part of our hypothesis (i.e., that mild PD patients exhibit paradoxically enhanced cognitive stabilization), we investigated PD patients, once on and once off their normal dopaminergic medication on the delayed response task described in the preceding text (
+Figure 3
+A) (
+145
+145.
+Cools, R. ∙ Miyakawa, A. ∙ Sheridan, M. ...
+Enhanced frontal function in Parkinson's disease
+Brain.
+2010;
+133
+:225-233
+). As expected, medication withdrawal significantly worsened their movement symptoms. Intriguingly, there was also a significant difference between patients not taking their medication and control subjects in terms of the distractor-cost. Specifically, patients not taking medication exhibited paradoxically reduced distractor-costs (i.e., enhanced stabilization), compared with control subjects, who responded more slowly after a congruent distractor than after a scrambled nondistractor. Thus, when they were not taking their medication, patients were less distracted by the congruent distractor during the delay than control subjects. This pattern of performance of the patients in their nonmedicated state was particularly striking, given their significantly increased motor symptoms. Furthermore, the reduced distractor-cost was normalized when the same patients were tested while taking their normal dopaminergic medication, so that the distractor-cost of the patients no longer differed from that of control subjects when they were receiving medication.
+These data confirm that the DA-depleted state of PD is accompanied by changes in cognitive control. However, PD seems to confer either deficits or benefits, depending on the precise task demands under study. Although they suffer enhanced switch-costs (i.e., impaired flexible updating), they also show reduced distractibility (i.e., enhanced stabilization). We hypothesize—on the basis of their anatomical pattern of DA depletion, the fMRI data reviewed in the preceding text (
+Figure 3
+), and the resemblance of the performance pattern to that seen in monkeys with striatal DA lesions (
+100
+100.
+Crofts, H.S. ∙ Dalley, J.W. ∙ Van Denderen, J.C.M. ...
+Differential effects of 6-OHDA lesions of the frontal cortex and caudate nucleus on the ability to acquire an attentional set
+Cereb Cortex.
+2001;
+11
+:1015-1026
+)—that the combination of poor flexibility and good stability in PD patients not taking medication reflects depletion of striatal DA and upregulation of DA in the PFC, respectively. An intriguing possibility is that the restoration of switch- and distractor-costs by dopaminergic medication reflects a normalization of the balance between frontal and striatal DA.

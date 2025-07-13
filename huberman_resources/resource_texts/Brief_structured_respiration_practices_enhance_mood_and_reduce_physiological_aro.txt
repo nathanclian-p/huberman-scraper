@@ -1,0 +1,87 @@
+A WHOOP strap (WHOOP Inc., Boston, MA) was mailed to eligible study participants after e-signing of the study consent form. This device uses a wrist-worn LED photoplethysmograph to monitor HR, and from which HRV can be calculated, and a tri-axial accelerometer to monitor movement, data from which can be used to impute sleep vs. wake. Participants had sufficient time between receiving the device and the start of data collection to learn how to operate the strap. In addition to the continuous acquisition of WHOOP data, we also assessed participants’ anxiety and mood daily prior to and immediately after the exercises via Redcap surveys. Participants had access to their own WHOOP data through the commercial app; the study team had access to daily data and raw data for all participants, downloaded directly from WHOOP. Participants logged in to the WHOOP mobile application using de-identified e-mail addresses provided by the study team. The identities of the participants were thus masked from WHOOP unless participants voluntarily used their personal emails.
+From the 108 subjects enrolled, 24 were randomized into the Mindfulness Meditation control condition and 84 were randomized to the treatment conditions (30 Cyclic Sighing, 21 Box Breathing, 33 Cyclic Hyperventilation with Retention). The initial randomization consisted of a permuted block randomization design with a block size of eight. Therefore, group sizes should have been balanced for every eight participants. During the course of mailing the WHOOP straps to the participants, it became evident that there were some participants who were from the same household. To assure fidelity to treatment type, eight households were randomized to the same condition, seven households with two participants and one household with three. This accounts for the imbalanced group sizes.
+Description of breathing protocols
+Participants were informed they should sit down in a chair or, if they preferred, to lie down, and then to set a timer for 5 min. Then they were told to close their eyes and to start breathing while focusing their mental attention on their forehead region between their two eyes. They were told that if their focus drifted from that location to re-recenter their attention by focusing back first on their breath and then on the forehead region between their eyes. They were told that as thoughts arise, to recognize that as normal, refocus their attention back to their forehead region and to continue the practice until time has elapsed.
+Participants were informed they should sit down in a chair or, if they prefer, to lie down, and to set a timer for 5 min. Then they were told to inhale slowly, and that once their lungs were expanded, to inhale again once more to maximally fill their lungs -- even if the second inhale was shorter in duration and smaller in volume than the first, and then to slowly and fully exhale all their breath. They were told to repeat this pattern of breathing for 5 min. They were also informed that ideally, both inhales would be performed via their nose and the exhale would be performed via their mouth, but that if they preferred, they were welcome to do the breathing entirely through their nose. They were also informed that it is normal for the second inhale to be briefer than the first.
+Then they were told to return to breathing normally.
+Participants were informed they should sit down in a chair or, if they prefer, to lie down, and to get a timer with a seconds counter that they could watch.
+Then they were told to take the “CO2 tolerance test” as follows.
+1)
+Take 4 breaths. An inhale followed an exhale = 1 breath. Ideally these are all done via the nose.
+2)
+Then take a maximally deep breath and once your lungs are full, exhale as slowly as possible through your nose or mouth.
+3)
+Time how long it takes (in sec) to empty your lungs; this will be your C0
+2
+discard duration.
+4)
+Do not hold your breath with lungs empty. Once your lungs are empty simply record your ‘discard duration.
+5)
+Use your discard duration to determine how long your inhales, exhales, and breath holds should be for the box breathing protocol using this table:
+· 0–20 s C0
+2
+discard time = your inhales, exhales, and breath holds should be 3 - 4s.
+· 25–45 s C0
+2
+discard time = your inhales, exhales, and breath holds should be 5 - 6s.
+50 - 75 + sec C0
+2
+discard time = your inhales, exhales, and breath holds should be 8–10 s.
+Participants were informed they should sit down in a chair or, if they prefer, to lie down, and to set a timer for 5 min. They were told to then inhale (for the duration determined by the C0
+2
+discard rate lookup table), then to hold their breath for the equivalent duration, then to exhale for the same duration and then to hold their breath for again, the same duration (e.g. inhale 4 s, hold 4 s, exhale 4 s, hold 4 s) and to repeat this pattern for the entire 5 min. They were told that if at any point they had to strain to reach these times, they should simply reduce the duration of inhales, exhales, and breath holds. We asked participants to perform all breathing through their nose, if possible, but that if they felt the need to switch to breathing through their mouth, to do so.
+Then they were told to return to breathing normally.
+D)
+Cyclic Hyperventilation with Retention
+Participants were informed they should sit down in a chair or, if they prefer, to lie down, and to set a timer for 5 min. Then they were told to inhale deeply (ideally through their nose but if that is not possible, to inhale through their mouth) and then exhale by passively letting the air "fall out from the mouth". We informed them that for sake of this protocol, that pattern of a deep inhale through the nose and passively letting the air "fall out from the mouth” = 1 breath.
+Then they were instructed to perform 30 breaths (in and out) in this manner, and after those 30 breaths, to exhale all their air via their mouth and to calmly wait with lungs empty for 15 s.
+We called this cycle of 30 breaths in and out, followed by a lung-emptying exhale and 15 s breath retention (hold) with lungs empty, “Round 1”.
+Then they were instructed to perform this for a “Round 2” as well:
+30 breaths in-and-out = 1 breath (deep inhale through nose, then “passively exhale” - let air fall out from the mouth".
+Then after 30 breaths, to exhale all their air and hold to calmly wait with lungs empty for 15 s before repeating.
+Then they were instructed to perform this for a “Round 3”:
+30 breaths in and out = 1 breath (deep inhale through nose, let air "fall out from the mouth").
+Then after 30 breaths, to exhale all their air and hold to calmly wait with lungs empty for 15 s.
+Then they were told to return to breathing normally.
+Psychological measures
+PROMIS Short Form v1.0 – Sleep-Related Impairment 8a form: This measure contains eight items asking about the raters' self-reported perceptions on sleep-related daytime impairments during the past seven days, with a Likert-type scale (1–5 = Not at all to Very much,
+59
+59.
+Yu, L. ∙ Buysse, D.J. ∙ Germain, A. ...
+Development of short forms from the PROMIS sleep disturbance and Sleep-Related Impairment item banks
+Behav. Sleep Med.
+2011;
+10
+:6-24
+). Data were scored using a T-score transformation according to standard instructions (
+https://www.healthmeasures.net/promis-scoring-manuals
+).
+Positive and Negative Affect Schedule (PANAS): This is an adjective list of emotions with a Likert-type scale (1–5 = slightly to extremely) and instructions to rate feelings in the moment.
+61
+61.
+Watson, D. ∙ Clark, L.A. ∙ Tellegen, A.
+Development and validation of brief measures of positive and negative affect: the PANAS scales
+J. Pers. Soc. Psychol.
+1988;
+54
+:1063-1070
+The positive and negative affect measures have been shown to be highly internally consistent, largely uncorrelated, and stable at appropriate levels over a two-month time period.
+62
+62.
+Crawford, J.R. ∙ Henry, J.D.
+The positive and negative affect schedule (PANAS): construct validity, measurement properties and normative data in a large non-clinical sample
+Br. J. Clin. Psychol.
+2004;
+43
+:245-265
+Normative data and factorial and external evidence of convergent and discriminant validity for the scales are robust. Sums of the positive and negative items were used as scores for current ‘positive’ and ‘negative’ affect.
+State Trait Anxiety Inventory (STAI): The STAI is composed of two parts, each with 20 items, that measure state and trait anxiety. The state anxiety form contains questions about how the rater feels at the moment, such as “I feel calm”, “I feel upset”, with a Likert-type scale (1–5 = Not at all to Very much so). The trait anxiety form contains questions about how the rater generally feels, such as “I feel secure”, “I feel inadequate”, with a Likert-type scale (1–5 = Almost never to Almost always).
+60
+60.
+Spielberger, C.D. ∙ Gorsuch, R.L. ∙ Lushene, R.E.
+STAI Manual for the State-Trait Anxiety Inventory.
+Consulting Psychologists Press, Palo Alto, 1970
+The sums of these two parts were used as scores for ‘state’ and ‘trait’ anxiety.
+Debrief Survey: The
+de novo
+survey is composed of 11 items regarding participants' perspectives on the quality of the interventions and their experience with the interventions. For four of the items, participants rate their response on a Likert scale and seven of the items are open-ended measures.

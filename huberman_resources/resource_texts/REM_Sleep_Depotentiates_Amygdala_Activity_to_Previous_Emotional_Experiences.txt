@@ -1,0 +1,4 @@
+(A and B) Change in emotion reactivity: group × test session interaction in bilateral amygdala (blue), demonstrating a significant decrease in activity from test 1 to test 2 in the sleep group yet increase in the wake group (peak Montreal Neurological Institute [MNI] coordinates [x, y, z]; left: –27, 0, −27; Z score = 3.07; right: 27, 0, –27; Z score = 3.14).
+(C and D) Change in functional connectivity: group × test session interaction in amygdala-ventromedial prefrontal cortex (vmPFC) connectivity (yellow), demonstrating increased connectivity from test 1 to test 2 in the sleep group yet decreased coupling in the wake group (peak MNI coordinates [x, y, z]; –6, 30, −7; Z score = 3.22). Differences in activation and connectivity thresholded at p < 0.05 familywise error corrected for multiple comparisons.
+∗
+p < 0.05; error bars represent SEM.

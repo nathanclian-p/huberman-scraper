@@ -1,0 +1,542 @@
+Duffy, J. F. & Wright, K. P. Jr. Entrainment of the human circadian system by light.
+Journal of biological rhythms
+20
+, 326–338,
+https://doi.org/10.1177/0748730405277983
+(2005).
+Article
+PubMed
+Google Scholar
+Khalsa, S. B., Jewett, M. E., Cajochen, C. & Czeisler, C. A. A phase response curve to single bright light pulses in human subjects.
+The Journal of physiology
+549
+, 945–952,
+https://doi.org/10.1113/jphysiol.2003.040477
+(2003).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Minors, D. S., Waterhouse, J. M. & Wirz-Justice, A. A human phase-response curve to light.
+Neuroscience letters
+133
+, 36–40 (1991).
+Article
+CAS
+Google Scholar
+Benloucif, S.
+et al
+. Stability of melatonin and temperature as circadian phase markers and their relation to sleep times in humans.
+Journal of biological rhythms
+20
+, 178–188,
+https://doi.org/10.1177/0748730404273983
+(2005).
+Article
+CAS
+PubMed
+Google Scholar
+Baron, K. G. & Reid, K. J. Circadian misalignment and health.
+International review of psychiatry
+26
+, 139–154,
+https://doi.org/10.3109/09540261.2014.911149
+(2014).
+Article
+PubMed
+Google Scholar
+Scheer, F. A. J. L., Hilton, M. F., Mantzoros, C. S. & Shea, S. A. Adverse metabolic and cardiovascular consequences of circadian misalignment.
+PNAS
+106
+, 4453–4458 (2009).
+Article
+CAS
+ADS
+Google Scholar
+van Moorsel, D.
+et al
+. Demonstration of a day-night rhythm in human skeletal muscle oxidative capacity.
+Mol Metab
+5
+, 635–645,
+https://doi.org/10.1016/j.molmet.2016.06.012
+(2016).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Arble, D. M., Bass, J., Laposky, A. D., Vitaterna, M. H. & Turek, F. W. Circadian timing of food intake contributes to weight gain.
+Obesity
+17
+, 2100–2102,
+https://doi.org/10.1038/oby.2009.264
+(2009).
+Article
+PubMed
+Google Scholar
+Panda, S., Hogenesch, J. B. & Kay, S. A. Circadian rhythms from flies to human.
+Nature
+417
+(2002).
+Klepeis, N. E.
+et al
+. The National Human Activity Pattern Survey (NHAPS): a resource for assessing exposure to environmental pollutants.
+Journal of Exposure Analysis and Environmental Epidemiology
+11
+, 231–252 (2001).
+Article
+CAS
+Google Scholar
+Cajochen, C.
+et al
+. Evening exposure to a light-emitting diodes (LED)-backlit computer screen affects circadian physiology and cognitive performance.
+J Appl Physiol (1985)
+110
+, 1432–1438,
+https://doi.org/10.1152/japplphysiol.00165.2011
+(2011).
+Article
+Google Scholar
+Badia, P., Myers, B., Boecker, M., Culpepper, J. & Harsh, J. R. Bright light effects on body temperature, alertness, EEG and behavior.
+Physiology & behavior
+50
+, 583–588 (1991).
+Article
+CAS
+Google Scholar
+Cajochen, C.
+et al
+. High sensitivity of human melatonin, alertness, thermoregulation, and heart rate to short wavelength light.
+The Journal of clinical endocrinology and metabolism
+90
+, 1311–1316,
+https://doi.org/10.1210/jc.2004-0957
+(2005).
+Article
+CAS
+PubMed
+Google Scholar
+Munch, M.
+et al
+. Blue-Enriched Morning Light as a Countermeasure to Light at the Wrong Time: Effects on Cognition, Sleepiness, Sleep, and Circadian Phase.
+Neuropsychobiology
+74
+, 207–218,
+https://doi.org/10.1159/000477093
+(2016).
+Article
+ADS
+PubMed
+Google Scholar
+Hébert, M., Martin, S. K., Lee, C. & Eastman, C. I. The effects of prior light history on the suppression of melatonin by light in humans.
+Journal of pineal research
+33
+, 198–203 (2002).
+Article
+Google Scholar
+Smith, K. A., Schoen, M. W. & Czeisler, C. A. Adaptation of human pineal melatonin suppression by recent photic history.
+The Journal of clinical endocrinology and metabolism
+89
+, 3610–3614,
+https://doi.org/10.1210/jc.2003-032100
+(2004).
+Article
+CAS
+PubMed
+Google Scholar
+Chang, A. M., Scheer, F. A. & Czeisler, C. A. The human circadian system adapts to prior photic history.
+The Journal of physiology
+589
+, 1095–1102,
+https://doi.org/10.1113/jphysiol.2010.201194
+(2011).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Jasser, S. A., Hanifin, J. P., Rollag, M. D. & Brainard, G. C. Dim light adaptation attenuates acute melatonin suppression in humans.
+Journal of biological rhythms
+21
+, 394–404,
+https://doi.org/10.1177/0748730406292391
+(2006).
+Article
+CAS
+PubMed
+Google Scholar
+Rufiange, M., Beaulieu, C., Lachapelle, P. & Dumont, M. Circadian light sensitivity and rate of retinal dark adaptation in indoor and outdoor workers.
+Journal of biological rhythms
+22
+, 454–457,
+https://doi.org/10.1177/0748730407305375
+(2007).
+Article
+PubMed
+Google Scholar
+Chang, A. M., Scheer, F. A., Czeisler, C. A. & Aeschbach, D. Direct effects of light on alertness, vigilance, and the waking electroencephalogram in humans depend on prior light history.
+Sleep
+36
+, 1239–1246,
+https://doi.org/10.5665/sleep.2894
+(2013).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Viola, A. U., James, L. M., Schlangen, L. J. M. & Dijk, D. J. Blue-enriched white light in the workplace improves self-reported alertness, performance and sleep quality.
+Scan J Work Environ Health
+34
+, 297–306,
+https://doi.org/10.5271/sjweh.1268
+(2008).
+Article
+Google Scholar
+Gimenez, M. C.
+et al
+. Patient room lighting influences on sleep, appraisal and mood in hospitalized people.
+Journal of sleep research
+26
+, 236–246,
+https://doi.org/10.1111/jsr.12470
+(2017).
+Article
+PubMed
+Google Scholar
+White, M. D., Ancoli-Israel, S. & Wilson, R. R. Senior Living Environments: Evidence-Based Lighting Design Strategies.
+Health Environments Research & Design Journal
+7
+, 60–78 (2013).
+Article
+Google Scholar
+Mishima, K., Okowa, M., Shimizu, T. & Hishikawa, Y. Diminished Melatonin Secretion in the Elderly Caused by Insufficient Environmental Illumination.
+The Journal of clinical endocrinology and metabolism
+86
+, 129–134 (2001).
+CAS
+PubMed
+Google Scholar
+Partonen, T. & Lonnqvist, J. Bright light improves vitality and alleviates distress in healthy people.
+Journal of affective disorders
+57
+, 55–61 (2000).
+Article
+CAS
+Google Scholar
+te Kulve, M., Schellen, L., Schlangen, L. J. M. & van Marken Lichtenbelt, W. D. The influence of light on thermal responses.
+Acta Physiol
+216
+, 163–185,
+https://doi.org/10.1111/apha.12552
+(2016).
+Article
+CAS
+Google Scholar
+Brainard, G. C.
+et al
+. Action spectrum for melatonin regulation in humans: evidence for a novel circadian photoreceptor.
+The Journal of neuroscience: the official journal of the Society for Neuroscience
+21
+, 6405–6412 (2001).
+Article
+CAS
+Google Scholar
+Kondo, M., Kaniowska, D. & Tokura, H. Influence of Different Wavelengths of Evening Indoor Lighting on Salivary Secretion and Cutaneous Temperature of the Feet.
+Coll. Antropol.
+31
+, 969–972 (2007).
+PubMed
+Google Scholar
+Kellogg, D. L. Jr.
+In vivo
+mechanisms of cutaneous vasodilation and vasoconstriction in humans during thermoregulatory challenges.
+J Appl Physiol
+100
+, 1709–1718,
+https://doi.org/10.1152/japplphysiol.01071.2005
+(2006).
+Article
+CAS
+PubMed
+Google Scholar
+Smolander, J., Harma, M., Lindgvist, A., Kolari, P. & Laitinen, L. A. Circadian variation in peripheral blood flow in relation to core temperature at rest at rest.
+European journal of applied physiology and occupational physiology
+67
+, 192–196 (1993).
+Article
+CAS
+Google Scholar
+Reinberg, A.
+et al
+. Oral Contraceptives alter circadian rhythm parameters of cortisol, melatonin, blood pressure, heart rate, skin blood flow, transepidermal water loss, and skin amino acid of healthy young women.
+Chronobiology international
+13
+, 199–211 (1996).
+Article
+CAS
+Google Scholar
+Wams, E. J.
+et al
+. Linking Light Exposure and Subsequent Sleep: A Field Polysomnography Study in Humans.
+Sleep
+40
+,
+https://doi.org/10.1093/sleep/zsx165
+(2017).
+Wright, H. R. & Lack, L. C. Effect of Light Wavelength on Suppression and Phase Delay of the Melatonin Rhythm.
+Chronobiology international
+18
+, 801–808,
+https://doi.org/10.1081/cbi-100107515
+(2001).
+Article
+CAS
+PubMed
+Google Scholar
+Aoki, H., Yamada, N., Ozeki, Y., Yamane, H. & Kato, N. Minimum light intensity required to suppress nocturnal melatonin concentration in human saliva.
+Neuroscience letters
+252
+, 91–94,
+https://doi.org/10.1016/S0304-3940(98)00548-5
+(1998).
+Article
+CAS
+PubMed
+Google Scholar
+Myers, B. L. & Badia, P. Immediate effects of different light intensities on body temperature and alertness.
+Physiology & behavior
+54
+, 199–202 (1993).
+Article
+CAS
+Google Scholar
+Foret, J., Daurat, A. & Tirilly, G. Effect of bright light at night on core temperature, subjective alertness and performance as a function of exposure time.
+Scan J Work Environ Health
+24
+, 115–120 (1998).
+Google Scholar
+Dijk, D. J., Cajochen, C. & Borbely, A. A. Effect of a single 3-hour exposure to bright light on core body temperature and sleep in humans.
+Neuroscience letters
+121
+, 59–62 (1991).
+Article
+CAS
+Google Scholar
+Cajochen, C. Alerting effects of light.
+Sleep medicine reviews
+11
+, 453–464,
+https://doi.org/10.1016/j.smrv.2007.07.009
+(2007).
+Article
+PubMed
+Google Scholar
+Krauchi, K., Cajochen, C., Werth, E. & Wirz-Justice, A. Functional link between distal vasodilation and sleep onset latency?
+American journal of physiology. Regulatory, integrative and comparative physiology
+278
+, R741–R748 (2000).
+Article
+CAS
+Google Scholar
+van der Helm-van Mil, A. H.
+et al
+. No influence of melatonin on cerebral blood flow in humans.
+The Journal of clinical endocrinology and metabolism
+88
+, 5989–5994,
+https://doi.org/10.1210/jc.2003-031107
+(2003).
+Article
+CAS
+PubMed
+Google Scholar
+Krauchi, K., Cajochen, C. & Wirz-Justice, A. A relationship between heat loss and sleepiness: effects of postural change and melatonin administration.
+J App Physiol
+83
+, 134–139 (1997).
+Article
+CAS
+Google Scholar
+Rea, M. S., Figueiro, M. G., Bierman, A. & Bullough, J. D. Circadian light.
+Journal of circadian rhythms
+8
+,
+https://doi.org/10.1186/1740-3391-8-2
+(2010).
+van Bommel, W. J. M. & van den Beld, G. J. Lighting for work: a review of visual and biological effects.
+Lighting Research and Technology
+36
+, 255–269,
+https://doi.org/10.1191/1365782804li122oa
+(2004).
+Article
+Google Scholar
+Wong, K. Y., Dunn, F. A. & Berson, D. M. Photoreceptor adaptation in intrinsically photosensitive retinal ganglion cells.
+Neuron
+48
+, 1001–1010,
+https://doi.org/10.1016/j.neuron.2005.11.016
+(2005).
+Article
+CAS
+PubMed
+Google Scholar
+Phillips, A. J. K.
+et al
+. High sensitivity and interindividual variability in the response of the human circadian system to evening light.
+Proceedings of the National Academy of Sciences of the United States of America
+,
+https://doi.org/10.1073/pnas.1901824116
+(2019).
+van Someren, E. J. W. More Than a Marker: Interaction between the Circadian Regulation of Temperature and Sleep, Age-Related Changes, and Treatment Possibilities.
+Chronobiology international
+17
+, 313–354,
+https://doi.org/10.1081/cbi-100101050
+(2009).
+Article
+Google Scholar
+Walmsley, L.
+et al
+. Colour as a signal for entraining the mammalian circadian clock.
+PLoS biology
+13
+, e1002127,
+https://doi.org/10.1371/journal.pbio.1002127
+(2015).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Chellappa, S. L., Steiner, R., Oelhafen, P. & Cajochen, C. Sex differences in light sensitivity impact on brightness perception, vigilant attention and sleep in humans.
+Scientific reports
+7
+, 14215,
+https://doi.org/10.1038/s41598-017-13973-1
+(2017).
+Article
+CAS
+ADS
+PubMed
+PubMed Central
+Google Scholar
+Santhi, N.
+et al
+. Sex differences in the circadian regulation of sleep and waking cognition in humans.
+Proceedings of the National Academy of Sciences of the United States of America
+113
+, E2730–2739,
+https://doi.org/10.1073/pnas.1521637113
+(2016).
+Article
+CAS
+ADS
+PubMed
+PubMed Central
+Google Scholar
+Duffy, J. F., Zeitzer, J. M. & Czeisler, C. A. Decreased sensitivity to phase-delaying effects of moderate intensity light in older subjects.
+Neurobiology of aging
+28
+, 799–807,
+https://doi.org/10.1016/j.neurobiolaging.2006.03.005
+(2007).
+Article
+PubMed
+Google Scholar
+Dewan, K., Benloucif, S., Reid, K., Wolfe, L. F. & Zee, P. C. Light-Induced Changes of the Circadian Clock of Humans: Increasing Duration is More Effective than Increasing Light Intensity.
+Sleep
+34
+, 593–599 (2011).
+Article
+Google Scholar
+Lockley, S. W., Brainard, G. C. & Czeisler, C. A. High sensitivity of the human circadian melatonin rhythm to resetting by short wavelength light.
+The Journal of clinical endocrinology and metabolism
+88
+, 4502–4505 (2003).
+Article
+CAS
+Google Scholar
+Zerbini, G., Kantermann, T. & Merrow, M. Strategies to decrease social jetlag: Reducing evening blue light advances sleep and melatonin.
+The European journal of neuroscience
+, 1–12,
+https://doi.org/10.1111/ejn.14293
+(2018).
+Zeitzer, J. M., Friedman, L. & Yesavage, J. A. Effectiveness of evening phototherapy for insomnia is reduced by bright daytime light exposure.
+Sleep medicine
+12
+, 805–807,
+https://doi.org/10.1016/j.sleep.2011.02.005
+(2011).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Roenneberg, T.
+et al
+.
+Munich ChronoType Questionnaire
+,
+English
+,
+Version 2015-01
+,
+https://www.thewep.org/documentations/mctq/item/english-mctq-full
+(2015).
+Roza, A. M. & Shizgal, H. The Harris Benedict equation reevaluated: resting energy requirements and the body cell mass.
+The American journal of clinical nutrition
+40
+, 168–182 (1984).
+Article
+CAS
+Google Scholar
+Kingma, B. & van Marken Lichtenbelt, W. Energy consumption in buildings and female thermal demand.
+Nature Climate Change
+5
+, 1054–1056,
+https://doi.org/10.1038/nclimate2741
+(2015).
+Article
+ADS
+Google Scholar
+te Kulve, M., Schlangen, L. J. M., Schellen, L., Frijns, A. J. & van Marken Lichtenbelt, W. D. The impact of morning light intensity and environmental temperature on body temperatures and alertness.
+Physiology & behavior
+175
+, 72–81,
+https://doi.org/10.1016/j.physbeh.2017.03.043
+(2017).
+Article
+CAS
+Google Scholar
+Weir, J. B. New methods for calculating metabolic rate with special reference to protein metabolism.
+The Journal of physiology
+109
+, 1–9 (1949).
+Article
+Google Scholar
+Åkerstedt, T. & Gillberg, M. Subjective and Objective Sleepiness in the Active Individual.
+The International journal of neuroscience
+52
+, 29–37,
+https://doi.org/10.3109/00207459008994241
+(1990).
+Article
+PubMed
+Google Scholar
+Lucas, R. J.
+et al
+. Measuring and using light in the melanopsin age.
+Trends in neurosciences
+37
+, 1–9,
+https://doi.org/10.1016/j.tins.2013.10.004
+(2014).
+Article
+CAS
+PubMed
+Google Scholar
+CIE.
+CIE S 026/E:2018 CIE System for Metrology of Optical Radiation for ipRGC-Influenced Responses to Light
+, http://www.cie.co.at/publications/system-metrology-optical-radiation-iprgc-influenced-responses-light (2018).

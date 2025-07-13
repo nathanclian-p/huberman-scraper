@@ -1,0 +1,174 @@
+With the power to fit our workday into our pocket and the unrelenting rise of “always on” work culture, its no wonder so many people struggle with work life balance.
+According to
+a
+Harvard Business School
+survey
+, 94% of service professionals put in 50+ hours a week. And while some people claim long hours are necessary,
+study after study shows
+that
+when we lose work life balance, everyone suffers the consequences.
+Once we pass a certain threshold of working hours, our
+sleep starts to become impaired
+; we’re
+more likely to feel depressed and stressed
+; and can even
+have a harder time communicating, collaborating, and getting things done
+.
+Our mission at
+RescueTime
+is to help you find balance and spend more time on the things that truly matter to you. To help you get there,
+we analyzed 185 million working hours of anonymized and aggregated data on how RescueTime users spent their time last year.
+Work life balance in 2019 key takeaways
+Workers average just 2 hours and 48 minutes of productive device time a day
+21% of working hours are spent on entertainment, news, and social media
+28% of workers start their day before 8:30 AM (and 5% start before 7 AM)
+40% of people use their computers after 10 PM
+26% of work is done outside of normal working hours
+Workers average
+at least
+1 hour of work outside of working hours on 89 days/year (and on ~50% of all weekend days)
+We check email and IM, on average, every 6 minutes
+40.1% of our day is spent multitasking with communication tools
+The most distracted days of 2018 were Nov. 26 and July 7 (the Mondays after Thanksgiving and the 4th of July)
+RescueTime helps you find work life balance by blocking distracting sites and giving you in-depth reports on exactly how you spend your time on digital devices.
+Try it for free
+.
+The high-level of work life balance: How much are people working each week?
+According to a 2014 study,
+Americans now work 47 hours a week
+on average—one of the highest numbers in the world. But how is that time spent?
+When we looked at our own data, we found
+the average knowledge worker spends just over 5 hours a day on their computers alone.
+This doesn’t include time spent in meetings, on calls, or checking email and Slack on your mobile device (which, according to
+different
+studies
+, can add anywhere from 50-100% more time to your workday).
+By itself, 5 hours of time on your device might seem like a non-issue. Unfortunately, those 5 hours aren’t entirely productive. In fact, they’re far from it.
+Workers, on average, spend just 2.8 hours a day on productive tasks
+Looking at
+how
+people spent their time in 2018, we found that
+knowledge workers, on average, have just 2 hours and 48 minutes a day for productive tasks (or 14 hours and 8 minutes a week).
+The rest of the day is spent on neutral activities (1 hour and 6 minutes) and distracting activities (1 hour and 12 minutes). In fact,
+on average, 21% of the workday was spent on entertainment, news, and social media.
+If you’re curious, the average breakdown of how time was spent in 2018 worked out to:
+1 hour on communication and scheduling
+36 minutes on business tasks
+36 minutes on design and composition
+42 minutes on software development
+24 minutes on References and learning
+30 minutes on utilities
+12 minutes on news sites
+18 minutes on social media
+30 minutes on entertainment
+How is that time being spent: What does an ‘average’ day look like?
+Going deeper into
+how
+people spend their time at work, there are a few stats that stand out.
+First, let’s look at
+when
+people are most likely to start their day
+.
+According to our data, on average, people start using their digital devices at 9:30 AM, with 28% of people starting working before 8:30 AM and 5% starting their day before 7 AM.
+When we break this down by job role, however, a few changes show up. First,
+people who work in support are more likely to start the day earlier
+(closer to 8:30 AM), while designers and students have the latest average start time (around 9:40 AM).
+40% of people use their computers after 10pm
+And what about end time? Looking at the average time people stop using their digital devices painted a picture of our inability to disconnect.
+While a large number of people ended their day between 5–6PM,
+nearly 40% continued to use their devices after 10 PM.
+(
+Note:
+this is time spent on desktop computers and laptops only. Not smartphones.
+)
+While we can’t say for sure that this is time spent on work, it does show just how much our digital devices are taking over our lives—in some cases, being present and used during 12+ hours of our day.
+Want to know exactly how you’re spending your time on your digital device? RescueTime gives you in-depth reports so you can build better digital habits.
+Try it for free
+.
+Burnout and overwork: We take 26% of our work home with us
+Longer time spent on our devices and minimal time for productive work mean we end up working earlier, later, and even on weekends. According to one survey,
+33% of salaried workers said they do work on the weekend
+.
+In our own data, we found that, on average,
+only 74% of work is done during normal working hours
+. In other words,
+we take more than a quarter of our work home with us.
+For the 26% of our work we do outside of working hours, 71% happens before or after work (mostly after), while 29% happens on weekends.
+And when does this work outside of working hours happen?
+Looking at a full year of data, we found that, on average,
+workers did
+at least
+1 hour of work outside normal working hours on 89 days of the year, at least 2 hours extra work on 41 days, and at least 3 hours extra work on 20 days.
+Even worse, 28 of these were on weekends, meaning
+on average, we spend an hour or more on work during 1/2 our weekends.
+The biggest threats to work life balance: What gets in the way of getting things done?
+Workplace distractions, wasting time, and simply being inefficient with the time we
+do
+have all increase the likelihood that we’ll lose work life balance and end up working outside of work hours.
+Here were some of the worst offenders, according to our data:
+Communication overload: We check email and IM every 6 minutes
+Ask most people where they spend the majority of the day and you’ll hear email, Slack, or some other communication tool.
+When we looked at
+communication time across job titles
+we found that
+software developers spend, on average, 21% of their day on communication. While executives and product managers spend upwards of 37%!
+Yet, it’s not just the pure amount of time spent on communication that kills our ability to focus. It’s the frequency we use these tools.
+In our analysis
+, we found that
+knowledge workers, on average, check email and Slack every 6 minutes
+(with 35.5% checking in every 3 minutes or less.)
+Take control over your time spent on email, IM, and social media with RescueTime.
+Try it for free
+.
+Multitasking: 40% of knowledge workers never get more than 30 minutes straight of focused time
+Most of us spend our days bouncing from task to task or trying to make up for lost time by
+multitasking
+. (On average,
+we use 56 different apps and websites a day and switch between them nearly 300 times
+.)
+It’s well established that
+multitasking is impossible
+for all but 1-2% of the population. And that to do our best work, we need long stretches of focused time. Yet,
+according to our research
+,
+40% of knowledge workers never get more than 30 straight minutes of focused time in a workday.
+Looking at multitasking with communication tools
+alone,
+most people on average spend 40.1% of their time during the workday multitasking
+.
+In other words, nearly half the time you spend each day on productive tasks (whether that’s writing or software development or design) is also spent multitasking with email and instant messengers.
+Distractions: 21% of our device time during working hours is spent on distracting sites
+The workplace is filled with distractions. But some of the worst ones aren’t coworkers, meetings, or emails. But our own pull to distracting and unproductive activities.
+As we wrote earlier,
+21% of our device time during working hours is spent on entertainment, news, and social media.
+With the most time spent on distracting activities taking place on November 26th and July 7th (the Mondays after Thanksgiving and the 4th of July).
+RescueTime’s FocusTime
+feature allows you to
+block distracting websites
+when you want to stay focused (while still allowing you to unblock them if you choose to).
+Looking at our data across 2018,
+the top 5 most blocked websites were:
+Youtube:
+163k blocks (unblocked 15.2% of the time)
+Facebook:
+125k blocks (unblocked 12% of the time)
+Reddit:
+47k blocks (Unblocked 2.7% of the time)
+Twitter:
+44k blocks (unblocked 16% of the time)
+Amazon:
+17k blocks (unblocked 31% of the time)
+(Some distractions are more irresistible than others. While
+Netflix wasn’t in our top 5 most-blocked sites,
+our data showed that users unblocked it 50.6% of the time.)
+Your work life balance is under attack. But there are ways you can protect it.
+What is work life balance means something different to everyone. But after looking at the data from 185 million hours of working time, I think it’s safe to agree that the line between work and “everything else” has become increasingly blurred.
+We have less time than we think each day and as a result end up working later, in the evenings, and on weekends just to keep up. But it doesn’t have to be this way.
+Awareness of how you’re working and an understanding of
+the values that support work-life balance
+are key.
+The more we’re able to set and stick to proper boundaries to our workday and counteract the distractions, multitasking, and communication overload that takes away our productive time, the more we’ll be able to find balance, stay healthier and happy, and get more done.
+For more on how to find and maintain your work life balance, check out:
+Looking for a little extra help? RescueTime gives you the tools and insights you need to stay focused, be productive, and find true work life balance.
+Try it for free
+.

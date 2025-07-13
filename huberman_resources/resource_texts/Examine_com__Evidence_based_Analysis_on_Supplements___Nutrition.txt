@@ -1,0 +1,3 @@
+ExamineAI
+Meet ExamineAI! Our chatbot exclusively uses material already published on Examine to answer your questions.
+Everything we publish is still human-made from start to finish, but now it’s more accessible than ever.

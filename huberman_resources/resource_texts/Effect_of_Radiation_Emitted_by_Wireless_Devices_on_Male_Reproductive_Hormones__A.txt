@@ -1,0 +1,721 @@
+Introduction
+The use of mobile phones has become an essential part of our daily lives in the modern era. Mobile phone technology has rapidly evolved from a simple communication tool to a wireless device with multiple functions, such as internet browsing, gaming, video on demand, video conferencing, mobile TV, GPS navigation, and many more (
+Ezhilarasan and Dinakaran, 2017
+). Wi-Fi technology allows mobile phone users to access the internet via a Wi-Fi access point. Its versatility and widespread use expose people, including those in public places, to radiofrequency electromagnetic radiation (RF-EMR) (
+Miller et al., 2019
+).
+The radiation emitted by Wi-Fi and all generations of mobile phones is classified as non-ionizing radiation, which falls within the microwave range (3–300 GHz) (
+Vishnu et al., 2011
+). First-generation (1G) and second-generation (2G) mobile phones operate at a frequency range of 850–1900 MHz (
+Vishnu et al., 2011
+), whereas third-generation (3G) mobile phones can reach up to 2,500 MHz (
+Ezhilarasan and Dinakaran, 2017
+). The most recent fourth-generation (4G) and fifth-generation (5G) mobile technologies operate at a wider and higher frequency range of 2–8 GHz and 3–300 GHz, respectively (
+Ezhilarasan and Dinakaran, 2017
+). However, unlicensed spectrum bands of 2.4 (802.11b/g/n/ax) and 5 GHz (802.11a/h/j/n/ac/ax) are used by Wi-Fi devices (
+Zhang et al., 2014
+).
+The impact of RF-EMR on the human body is measured using a standardized unit known as specific absorption rate (SAR). SAR measures how much energy from radiofrequency (RF) waves is absorbed by human tissues and is calculated as watts per kilogram (W/kg) (
+Hochwald et al., 2014
+). According to the United States Federal Communications Commission (
+Federal Communications Commission, 1996
+), SAR limit should not exceed 1.6 W/kg as averaged over one gram of tissue. Additionally, the International Commission on Non-Ionizing Radiation Protection (
+ICNIRP, 2020
+) recommends a limit of 2 W/kg for head and trunk exposure over 10 grams of tissue. Based on the recommendation, each country and wireless device manufacturer produce devices which adhere to the SAR limits. In other words, it varies between country of origin but within range to avoid damaging effects to the human tissues.
+The effect of these devices on human health, specifically on male reproduction, is frequently overlooked. Mobile phones and Wi-Fi devices have a detrimental impact on the male reproductive system, which is reflected in the sperm quality (
+Houston et al., 2016
+;
+Jaffar et al., 2019
+). The biological effects of RF-EMR emitted from wireless devices can be categorized as thermal and non-thermal (
+Behari, 2010
+). Thermal effects are associated with the heat created by holding mobile phones close to the body and conversing for extended periods of time (
+Behari, 2010
+). The non-thermal mechanism of RF-EMR is associated with the formation of reactive oxygen species (ROS) and the induction of oxidative stress (
+Saliev et al., 2018
+). Both heat and oxidative stress were linked to disruption of the germ cell cycle and lead to the increased of sperm cells apoptosis in the testis (
+Kesari et al., 2011
+). The loss of the germ cells will ultimately affect the hormonal balance as it is one of the important components in the hypothalamus-pituitary-gonadal (HPG) axis.
+RF-EMR caused histological aberrations in the testes, testicular tissue atrophy, decreased testosterone levels, and a subsequent deterioration in sperm quality (
+Adah et al., 2018
+). Among the reproductive parameters studied, less attention has been paid to the effects of wireless devices on male reproductive hormones. The intricate interaction of hormones involved in the hypothalamic–pituitary–testes axis, particularly gonadotropin-releasing hormone (GnRH), follicle-stimulating hormone (FSH), luteinizing hormone (LH), testosterone, and estrogen, are essential for male reproductive functions. These hormones may be affected by RF-EMR exposure, which may result in male reproductive dysfunction and infertility. However, no conclusive evidence has proven that wireless devices are harmful to male reproductive hormones other than testosterone. As a result, this review focuses on the most recent scientific evidence of the effects of mobile phone and Wi-Fi exposure on the hypothalamus–pituitary axis and male reproductive hormones. This review also discusses the factors that influence the total energy absorption of RF-EMR emitted by wireless devices and their importance.
+Method
+Search Strategy
+Academic journals were retrieved from MEDLINE and PUBMED databases from 1995 to 2020. Literature search was done using the following keywords: “WiFi OR Wi-Fi OR wireless fidelity OR WiFi router OR Wi-Fi router OR mobile phone OR cell phone OR electromagnetic radiation OR radiofrequency radiation” AND “estrogen OR estradiol OR testosterone OR androgen OR LH OR luteinizing hormone OR FSH OR follicle-stimulating hormone OR gonadotropin.” Additional journals were also identified through Google scholar using a similar set of keywords.
+Study Inclusion and Exclusion Criteria
+The eligible articles included in this review were original articles that were full-length and written in English. The study must include a report on the effect of Wi-Fi or mobile phones on male reproductive hormones, namely, LH, FSH, testosterone, or estrogen, in animals or humans. Studies that used mobile phones with frequencies between 850 and 1,850 MHz and Wi-Fi devices that operate at 2.45 GHz were included in this review. Studies on RF radiation generated from a specialized chamber with these frequencies were also included. Studies that used radiation below the range of mobile phone frequency (850 MHz) and Wi-Fi operated at 5 GHz were excluded.
+Data Extraction and Management
+The study selection involved two steps. First, the title and abstract of the articles were screened. Studies that did not meet the inclusion criteria were excluded. Subsequently, the full text of the selected articles was retrieved and filtered based on the same inclusion and exclusion criteria. Data extraction was done on the sample size, animal species, age of humans and animals involved, radiation frequency, exposure setting, SAR, and/or power density values. These data were then associated with the findings on male reproductive hormones, namely, LH and FSH, testosterone, or estrogen.
+Results
+Studies Selected
+The initial database search identified 451 articles, of which 56 were from PubMed and 395 were from MEDLINE. Another three articles from Google Scholar were also included. Eighty-three articles were removed after finding duplicates, and 349 articles were further excluded after title and abstract review. Finally, another two articles were excluded after full-text review because both articles were retracted due to inadequate evidence to justify the accuracy of the data presented and the overlapping data and figures between these two articles. Nineteen eligible full-text articles were included in the systematic review. The PRISMA flow diagram of the literature search is presented in
+Supplementary Figure 1
+.
+Study Characteristics
+Animal Study
+Fourteen of the 19 eligible articles documented the effect of mobile phone application on male reproductive hormones. Most of the studies used rodents as their subjects, including Wistar albino rats (
+n
+= 7), Sprague Dawley rats (
+n
+= 4), Swiss albino mice (
+n
+= 1), and C57BL/6 mice (
+n
+= 1). One study had used pure bred New Zealand white rabbits (
+n
+= 1,
+Supplementary Table 1
+).
+The study design, including the age of the animals, the frequency of radiation, the type of radiation generator used, the distance between cages and generator, and the duration of exposure, differs in several ways. The age of the animals used in the studies vary greatly. The animals were in different life stages, namely, prenatal age (
+Sehitoglu et al., 2015
+), weaning age (3-week-old mice) (
+Shahin et al., 2018
+), adolescence (4-week-old rats) (
+Ribeiro et al., 2007
+), early adulthood (8–10-week-old rats) (
+Meo et al., 2010
+;
+Kesari and Behari, 2012
+;
+Çetkin et al., 2017
+), and adulthood (12–20-week-old mice and rats) (
+Ozguner et al., 2004
+;
+Sepehrimanesh et al., 2013
+;
+Zang et al., 2016
+;
+Yahyazadeh et al., 2020
+).
+Variations in RF-EMR frequency and the type of generator used also exist. In the studies that used mobile phones, the frequency applied includes 850–950 (
+Kesari and Behari, 2012
+;
+Zang et al., 2016
+;
+Çetkin et al., 2017
+) and 1,800–1,850 MHz (
+Ribeiro et al., 2007
+;
+Shahin et al., 2018
+). A study used a dual-band 900/1,800 mobile phone as RF-EMR source (
+Oyewopo et al., 2017
+). Other studies used a 900 MHz continuous wave electromagnetic generator (
+Ozguner et al., 2004
+;
+Sepehrimanesh et al., 2013
+;
+Sehitoglu et al., 2015
+;
+Yahyazadeh et al., 2020
+), a 900 MHz RF wave (
+Azimzadeh and Jelodar, 2019
+), and a 950 MHz simulated mobile phone (
+Oskouyi et al., 2014
+).
+Another factor found to be inconsistent between studies is the distance between the study subject (animals) and generator. Most of the studies mentioned that the mobile phone or antenna was placed near the animals. In these studies, the mobile phone or antenna was placed centrally under (
+Sehitoglu et al., 2015
+;
+Zang et al., 2016
+;
+Çetkin et al., 2017
+), inside (
+Meo et al., 2010
+;
+Oskouyi et al., 2014
+), and above the cages (
+Ozguner et al., 2004
+;
+Kesari and Behari, 2012
+). Another study positioned the mobile phone 50 cm from the cages (
+Gevrek et al., 2017
+). The furthest distance applied was 1 m from the generator (
+Azimzadeh and Jelodar, 2019
+).
+The duration of RF-EMR exposure also varied. The shortest exposure was 30 min/day for 20 days (
+Ozguner et al., 2004
+). The longest exposure duration was 24 h/day for 30 days (
+Zang et al., 2016
+). Nonetheless, most studies reported SAR values lower than the FCC and ICNIRP recommendations, with the exception of the studies by
+Yahyazadeh et al. (2020)
+and
+Saygin et al. (2016)
+, which reported SAR values of 2 and 3.21 W/kg, respectively.
+In animal studies, 85% (12 out of 14 studies) reported that RF-EMR from mobile phone causes a significant decrease in testosterone levels (
+Ozguner et al., 2004
+;
+Meo et al., 2010
+;
+Kesari and Behari, 2012
+;
+Sepehrimanesh et al., 2013
+;
+Oskouyi et al., 2014
+;
+Sehitoglu et al., 2015
+;
+Zang et al., 2016
+;
+Gevrek et al., 2017
+;
+Oyewopo et al., 2017
+;
+Shahin et al., 2018
+;
+Azimzadeh and Jelodar, 2019
+;
+Yahyazadeh et al., 2020
+). Furthermore,
+Meo et al. (2010)
+demonstrated a decreasing pattern in the serum testosterone level with increasing exposure duration. The subjects exposed to mobile phone for 60 min/day showed lower testosterone level compared with those with an exposure of 30 min/day (
+Meo et al., 2010
+). However, another two studies (15%) reported no significant changes in testosterone level (
+Ribeiro et al., 2007
+;
+Çetkin et al., 2017
+).
+Ribeiro et al. (2007)
+reported this finding after exposing adult Wistar rats to low-intensity pulsed RF radiation from a mobile phone for a short period. However, no study on the effect of mobile phone exposure on male estrogen levels was found.
+Findings on the serum levels of gonadotropin hormones (LH and FSH) following mobile phone exposure are inconclusive. Two animal studies out of six (33%) reported a significant decrease in gonadotrophin levels.
+Oyewopo et al. (2017)
+reported a significant decrease in FSH and LH levels after exposure to mobile phones for 2–3 h/day. These findings are consistent with the study by
+Gevrek et al. (2017)
+, which also reported a significant decrease in LH serum levels in the RF-EMR-exposed group. Other studies (two out of six studies, 33%) reported a significant increase in serum FSH and LH after mobile phone exposure (
+Sepehrimanesh et al., 2013
+;
+Zang et al., 2016
+). In comparison, two studies (33%) found no significant differences in FSH and LH levels in the exposed group (
+Ozguner et al., 2004
+;
+Çetkin et al., 2017
+). These variations in hormonal effects caused by RF-EMR exposure could be attributed to differences in study design, which influence energy absorption and biological effect.
+The number of studies on the possible effects of 2.45 GHz Wi-Fi RF-EMR exposure on male reproductive hormones is very few, and the findings are inconsistent (
+Supplementary Table 2
+).
+Kumar et al. (2011)
+discovered a significant reduction in the testosterone level of adult male Wistar albino rats after long-term exposure (2 h/day for 60 days) to 2.45 GHz Wi-Fi with a SAR of 0.014 W/kg. By contrast,
+Saygin et al. (2016)
+reported no considerable decrease in testosterone levels in the RF-EMR-exposed group using a higher SAR value of 3.21 W/kg for 3 h/day for 30 days. Differences in SAR values, exposure duration, and exposure systems used in the studies could explain the contradictory findings.
+Kumar et al. (2011)
+had lined the exposure cage with radar-absorbing material and then positioned the cage vertically to irradiate all of the animals uniformly at a single power level. In comparison,
+Saygin et al. (2016)
+used a rotating carousel with 12 rats in a cylindrical restraint at the same time. This specialized laboratory equipment was developed to ensure the consistency of RF-EMR exposure.
+Human Study
+The effect of RF-EMR emitted from mobile phones on male reproductive hormones in human subjects was reported in three articles (
+Supplementary Table 3
+). Two articles were prospective cohort studies (
+Djeridane et al., 2008
+;
+Eskander et al., 2012
+), and one was a retrospective cohort study (
+Gutschi et al., 2011
+). The duration of the prospective cohort studies varied greatly from 4 weeks (
+Djeridane et al., 2008
+) to 6 years (
+Eskander et al., 2012
+). Except for one study which include older age up to 60 years old (
+Eskander et al., 2012
+), all the studies included men in their reproductive age.
+Djeridane et al. (2008)
+and
+Eskander et al. (2012)
+excluded subjects with a history of smoking and alcohol consumption, systemic diseases, orchitis, and varicocele.
+Djeridane et al. (2008)
+specified stressful conditions (work, unusual sleep pattern), high-intensity electromagnetic field (EMF) exposure, mobile phone use before the study, neuropsychiatric disease, and recent transcontinental flight as their exclusion criteria.
+The serum testosterone level after RF-EMR exposure from a mobile phone was reported differently in all three studies. In a long-term 6-year survey that involved volunteers, testosterone levels showed a gradual decrease with increasing exposure time; the most substantial decrease occurred after 6 years of exposure (
+Eskander et al., 2012
+). Another study with a short duration of mobile phone exposure (2 h/day for 5 days in 4 weeks) found no substantial changes in testosterone levels (
+Djeridane et al., 2008
+). A retrospective study of men attending infertility clinics found that mobile phone users have remarkably high testosterone levels (
+Gutschi et al., 2011
+). In the same study, the exposed group had a considerable decrease in LH levels but no remarkable differences in FSH levels. However, the duration of mobile phone exposure was not mentioned in this study. Nevertheless, no studies on the effect of Wi-Fi exposure on the male reproductive hormones of humans were found.
+Discussion
+In modern society, exposure to the RF-EMR emitted by various wireless devices is unavoidable. The amount of RF-EMR exposure also remarkably increases as we live close to a large number of actively transmitting Wi-Fi devices. Thus, its potentially harmful effects on humans are raising public concern. This review will discuss the impact of RF-EMR emitted from wireless devices on male reproductive hormones.
+Effect of Mobile Phone and Wi-Fi on the Male Reproductive Hormones of Animals
+The Impact of RF-EMR on Gonadotrophin
+The effect of mobile phone exposure on gonadotrophic hormones varied depending on the intensity of the exposure across studies. An exposure to 900 MHz RF-EMR increased serum FSH, LH, and prolactin levels in male Sprague-Dawley rats (
+Sepehrimanesh et al., 2013
+). Prolonged exposure to 900 MHz mobile phone for 24 h/day also elicits the same elevation in LH level in mice (
+Zang et al., 2016
+).
+Sepehrimanesh et al. (2013)
+also discovered an increase in activin b and a decrease in inhibin b, which indicate that the pituitary gland's feedback mechanism was unaffected and thus results in an increase in FSH level. Furthermore, an increase in prolactin causes an increase in LH levels. However, RF-EMR damage to Leydig cells causes an insufficient response to LH, which results in a lower testosterone level. The author hypothesized that RF-EMR exposure from a mobile phone could impair testicular function without affecting pituitary function. This claimed was based on the LH elevation and reduced testosterone level (
+Zang et al., 2016
+).
+By contrast, higher-intensity RF-EMR exposure results in a decrease in serum LH and FSH (
+Gevrek et al., 2017
+;
+Oyewopo et al., 2017
+). This finding implied that mobile phones may harm the hypothalamus or pituitary. In a study conducted by
+Oyewopo et al. (2017)
+, young adult Wistar rats were exposed to dual-band EGSM 900/1,800 MHz mobile phones for 1–3 h/day for 28 consecutive days.
+Gevrek et al. (2017)
+used two mobile phones (Nokia 3310 and NHM-5NX) in talking mode on Wistar albino rats for 4 h/day for 6 weeks and found a decrease in LH, FSH, and testosterone; thus, the author postulated that mobile phones might directly affect the hypothalamus or pituitary gland. Differences in the animal species and size, as well as radiation intensity, can affect total energy absorption by the animal body and, as the biological effect of RF-EMR. A brief exposure (30 min/day for 20 days) has no remarkable effect on LH and FSH levels (
+Ozguner et al., 2004
+). Thus, the effect of mobile phone exposure on gonadotrophic hormones remains elusive and varied depending on the level of exposure.
+Minimal evidence supports the effects of RF-EMR on the pituitary gland and gonadotrophic hormones. The anterior pituitary gland secretes LH and FSH in response to GnRH from the hypothalamus. FSH causes Sertoli cells to produce androgen-binding protein, inhibin, and activin (
+Cooke et al., 2017
+), whereas LH stimulates the secretion of testosterone by testicular Leydig cells (
+Cooke et al., 2017
+). These hormonal regulations by the hypothalamus and anterior pituitary are essential for male reproductive functions. RF-EMR emitted from mobile phones can cause thermal effects as manifested by the elevation of temperature and EMF strength value on the hypothalamus and pituitary gland after mobile phone exposure (
+Uluaydin et al., 2020
+). The penetration of RF-EMR on the hypothalamus and pituitary gland is deeper in lower frequency bands (700 and 900 MHz) (
+Uluaydin et al., 2020
+). This theory is further supported by the HPA axis's deregulation after chronic mobile phone exposure (
+Singh et al., 2020
+). Nonetheless, the RF-EMR's effect and mechanism on the hypothalamus–pituitary–testes axis is still questionable and necessitates additional research.
+Supplementary Figure 2
+depicts potential mechanisms for RF-EMR exposure's effect on gonadotrophin and testosterone secretion.
+The Impact of RF-EMR on Testosterone
+The reduction in testosterone in most animal studies demonstrated that Leydig cells are vulnerable to the RF-EMR emitted by mobile phones and Wi-Fi devices. The reduction in Leydig cells through injury in cell structure and function together with a reduction in testosterone were found after mobile phone exposure on rodents (
+Wang et al., 2003
+;
+Yahyazadeh et al., 2020
+). Moreover, the RF-EMR emitted by mobile phones and Wi-Fi cause increased oxidative stress (
+Kumar et al., 2011
+;
+Oyewopo et al., 2017
+) and apoptosis in Leydig cells (
+Sehitoglu et al., 2015
+). These RF-EMR-induced changes in Leydig cell histology and impairment could be explained by oxidative stress and direct RF-EMR effects, which cause changes in protein kinase C in Leydig cells (
+Wang et al., 2003
+).
+In any of the studies that have been conducted, there is no evidence that the loss of germ cells affects male reproductive hormones. Only one study included germ cells as a study parameter.
+Yahyazadeh et al. (2020)
+discovered that the total number of primary spermatocytes and spermatids was significantly lower in the exposed group. They did not, however, correlate this data with hormonal levels.
+Factors Influencing RF-EMR's Biological Effect
+The total energy absorption of RF-EMR by the tissue is affected by various factors, such as biological complexity (species, strain, age, and sex) and engineering complexity (RF dosimetry, modulation, exposure parameters, and time-intensity factor) (
+Chou et al., 1996
+;
+Panagopoulos et al., 2013
+). The intensity of the RF field and exposure duration are crucial parameters that can cause a biological effect (36). Changes in reproductive hormones were observed in long-term exposure groups (
+Meo et al., 2010
+;
+Sepehrimanesh et al., 2013
+;
+Zang et al., 2016
+;
+Oyewopo et al., 2017
+). Thus, the severity of the effect of RF-EMR is duration dependent. A low (8 h/day) and middle (16 h/day) exposure to 900 MHz mobile phone for 30 days in mice did not affect the testosterone synthesis function of the testis, but high (24 h/day) exposure showed a reduction in testosterone level (
+Zang et al., 2016
+). Besides, we also discovered that three out of four studies (75%), which found no significant changes in reproductive hormones, were due to low intensity and short duration of exposure to mobile phone or Wi-Fi devices. In a study conducted by
+Ribeiro et al. (2007)
+, a short duration of mobile phone exposure (1 h/day) showed no remarkable testosterone level changes. The author concluded that short-term exposure to the RF-EMR emitted by mobile phones does not cause impairment in testicular function in rats (
+Ribeiro et al., 2007
+).
+Another factor that contributes to the biological effect of RF-EMR is RF dosimetry. RF dosimetry is defined as the quantification of the magnitude and distribution of RF-EMR energy absorption in an object (
+Chou et al., 1996
+). According to the National Toxicology Program of the United States, the exposure system used in the studies must deliver a uniform dose of RF field (
+Capstick et al., 2017
+). This requirement can be accomplished by uniformly distributing field directions to test subjects. A specialized exposure chamber, such as a carousel, anechoic, or reverberation chamber, improves RF dosimetry uniformity and eliminates potential localized heating caused by mobile phone-induced RF-EMR (
+Gong et al., 2017
+). A study conducted by
+Kesari and Behari (2012)
+shows an example of this phenomenon. The RF-exposed group of rats were placed in a Plexiglas cage with anechoic material, and their mobility was restricted during the exposure period. The variation in power density within each animal cage was discovered to be minimal (
+Kesari and Behari, 2012
+). However, in some animal studies, a mobile phone was placed in the cage as an RF-EMR source. As a result, the individual animal is subjected to an ill-defined exposure. This setup also fails to meet current RF dosimetry requirements for proper experimental data analysis (
+Kuster et al., 2006
+).
+SAR, one of the most used dosimetry quantities, is defined as the rate of energy absorption per unit mass (
+Chou et al., 1996
+). The size, geometry, position, dielectric permittivity, and electric conductivity of the exposed object (animal), as well as the zone of exposure (near- or far-field), can have an impact on SAR value (
+Stuchly et al., 1985
+;
+Wu et al., 2010
+).
+Wu et al. (2010)
+studied the whole-body SAR in newborn and young rats exposed to 2.45 GHz RF-EMR. During the experiment, pregnant rats and newborn rats were free to move around in a reverberation chamber. They discovered using finite difference time domain that the whole-body SAR decreases after the fourth postnatal day because of the rats' body size and weight growth (
+Wu et al., 2010
+). Similarly,
+Peyman (2011)
+discovered that dielectric properties and SAR decrease with age. Changes in the water content and organic composition of tissues cause these changes in dielectric properties with age. The findings shed some light on potential differences in the assessment of exposure for children and adults.
+Furthermore, a variation in whole-body SAR of up to 35% is caused by animal behavior or relative position for multiple rats (
+Wu et al., 2010
+). A mouse exposed to 2.45 GHz showed the highest whole-body average SAR in parallel orientation compared with facing orientation and standing up straight position (
+Wang et al., 2002
+). The electric field was parallel to the mouse in parallel orientation but perpendicular to the mouse in the other two positions. Besides, near- and far-field radiation can have an impact on the SAR. Generally, a near-field is one wavelength (λ) or less away from the source of radiation, whereas a far-field is about two wavelengths (2λ) away from the antenna (
+Occupational Safety Health Administration, 1990
+).
+Toivonen et al. (2019)
+demonstrated that the ICNIRP limit for localized exposure (2 W/kg) could be reached if the distance between the antenna and the body is <24 cm. As a consequence, when people hold their phones next to their heads or wear them on their bodies, they may be exposed to very intense near-field radiation from the device at close or touching distances.
+In summary, a detailed study design, including animal selection, dosimetry analysis, and exposure assessment, are required for
+in vivo
+studies on the RF-EMR exposure of rodents to enable the correct interpretation of biological outcomes.
+Effect of Mobile Phone and Wi-Fi on the Male Reproductive Hormones of Humans
+SAR is distributed in a non-uniform way in the human body and is typically highest in the body part closest to the device (
+Faruque et al., 2011
+). For example, when men carry their phones in their side pockets, which are very close to their testicles, they expose their testicles to harmful RF-EMR (
+Okechukwu, 2018
+). Mobile phones placed less than 15 cm from the testes have a harmful SAR value on the testes (
+Bhat, 2017
+). As a result, the testicular function, including its endocrine function, may be affected.
+In human studies, the biological effect can be seen in higher-intensity RF-EMR emitted from a mobile phone over a longer period of exposure. The long-term use of 950 MHz mobile phones (6 years) can reduce testosterone levels (
+Eskander et al., 2012
+). The testosterone reduction seen in the studies was time dependent with a gradual decrease over a longer period of exposure. RF-EMR also has a negative effect on the anterior pituitary gland as evidenced by a decrease in adrenocorticotrophic hormone (ACTH), cortisol levels, and thyroid hormones (
+Eskander et al., 2012
+). Thus, RF-EMR appears to have a negative relationship with the anterior pituitary gland and its hormones.
+This theory is supported by a retrospective study, which reported a decrease in LH level in mobile phone users (
+Gutschi et al., 2011
+). The study, on the other hand, discovered an increase in testosterone levels in the same group. They postulated that RF-EMR from mobile phone could cause Leydig cell hyperplasia, which results in increased testosterone levels but impaired reproductive functions (
+Gutschi et al., 2011
+). Decreased sperm quality validates the impairment of men's reproductive functions caused by mobile phones (
+Gutschi et al., 2011
+). In addition, a short duration of mobile phone exposure (2 h/day, 5 days/week for 4 weeks) revealed no effect on reproductive hormones (
+Djeridane et al., 2008
+). Nonetheless, because there are only three articles available, it is impossible to conclude the effect of RF-EMR on human male reproductive hormones. Besides, these studies also overlooked the general decline in testosterone with age. Thus, more research is needed to confirm the effect of RF-EMR on male reproductive hormones, including the hypothesis of Leydig cell hyperplasia.
+Conclusion
+Existing animal and human data on the effect of RF-EMR emitted from wireless devices on male reproductive hormones are inconsistent and difficult to evaluate due to the heterogeneity of study design. However, most studies are consistent with the assertion that long-term exposure to RF-EMR from mobile phones and Wi-Fi devices can disrupt male reproductive hormones, particularly testosterone. Thus, avoiding long-term and excessive use of mobile phone is advisable to reduce the detrimental effect of RF-EMR.
+Data Availability Statement
+The original contributions presented in the study are included in the article/
+Supplementary Material
+, further inquiries can be directed to the corresponding author.
+Author Contributions
+All authors have read and agreed to the published version of the manuscript. SM: writing original draft preparation. SM, SI, KO, and FJ: writing—review and editing. SI, KO, and FJ: supervision. KO: funding acquisition. All authors contributed to the article and approved the submitted version.
+Funding
+This work was supported by Universiti Kebangsaan Malaysia (Research grant: FRGS/1/2019/SKK06/UKM/02/3 and FF-2021-200).
+Conflict of Interest
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+Publisher's Note
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
+Acknowledgments
+We acknowledge the financial support of Universiti Kebangsaan Malaysia.
+Supplementary Material
+The Supplementary Material for this article can be found online at:
+https://www.frontiersin.org/articles/10.3389/fphys.2021.732420/full#supplementary-material
+References
+Adah, A. S., Adah, D. I., Biobaku, K. T., and Adeyemi, A. B. (2018). Effects of electromagnetic radiations on the male reproductive system.
+Anat. J. Afr
+. 7, 1152–1161. doi: 10.4314/aja.v7i1.169488
+CrossRef Full Text
+|
+Google Scholar
+Azimzadeh, M., and nd Jelodar, G. (2019). Alteration of testicular regulatory and functional molecules following long-time exposure to 900 MHz RFW emitted from BTS.
+Andrologia
+51:e13372. doi: 10.1111/and.13372
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Bhat, M. A. (2017). Effects on testis of human being with specific absorption rate (SAR) of mobile phone.
+Sch. J. Eng. Tech
+. 5, 599–601. doi: 10.21276/sjet.2017.5.10.11
+CrossRef Full Text
+|
+Google Scholar
+Capstick, M. H., Kuehn, S, Torres, B. V, Gong, Y., Wilson, P. F, Ladbury, J. M., et al. (2017). A radio frequency radiation exposure system for rodents based on reverberation chambers.
+IEEE Trans. Electromagn. Compat
+. 59, 1041–1052. doi: 10.1109/TEMC.2017.2649885
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Çetkin, M., Kizilkan, N., Demirel, C., Bozdag, Z., Erkiliç, S., and Erbagci, H. (2017). Quantitative changes in testicular structure and function in rat exposed to mobile phone radiation.
+Andrologia
+49:12761. doi: 10.1111/and.12761
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Chou, C. K., Bassen, H., Osepchuk, J., Balzano, Q., Petersen, R., Meltz, M., et al. (1996). Radio frequency electromagnetic exposure: tutorial review on experimental dosimetry.
+Bioelectromagnetics
+17, 195–208. doi: 10.1002/(SICI)1521-186X(1996)17:3<195::AID-BEM5>3.0.CO
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Cooke, P. S., Nanjappa, M. K., Ko, C., Prins, G. S., and Hess, R. A. (2017). Estrogens in male physiology.
+Physiol. Rev.
+97, 995–1043. doi: 10.1152/physrev.00018.2016
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Djeridane, Y., Touitou, Y., and De Seze, R. (2008). Influence of electromagnetic fields emitted by GSM-900 cellular telephones on the circadian patterns of gonadal, adrenal and pituitary hormones in men.
+Radiat. Res.
+169, 337–343. doi: 10.1667/RR0922.1
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Eskander, E. F., Estefan, S. F., and Abd-Rabou, A. A. (2012). How does long term exposure to base stations and mobile phones affect human hormone profiles?
+Clin. Biochem
+. 45, 157–161. doi: 10.1016/j.clinbiochem.2011.11.006
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Ezhilarasan, E., and Dinakaran, M. (2017). “A review on mobile technologies: 3G, 4G and 5G. [Conference presentation],” in
+2017 Second International Conference on Recent Trends and Challenges in Computational Models (ICRTCCM)
+, Tindivanam, India. doi: 10.1109/ICRTCCM.2017.90
+CrossRef Full Text
+|
+Google Scholar
+Faruque, M. R. I., Islam, M. T., and Misran, N. (2011). Analysis of electromagnetic absorption in mobile phones using metamaterials.
+Electromagnetics
+31, 215–232. doi: 10.1080/02726343.2011.558457
+CrossRef Full Text
+|
+Google Scholar
+Gevrek, F., Aydin, D., Ozsoy, S., Aygun, H., and Bicer, C. (2017). Inhibition by Egb761 of the effect of cellphone radiation on the male reproductive system.
+Bratisl. Lek. Listy.
+118, 676–683. doi: 10.4149/BLL_2017_128
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Gong, Y., Capstick, M., Kuehn, S., Wilson, P., Ladbury, J., Koepke, G., et al. (2017). Life-time dosimetric assessment for mice and rats exposed in reverberation chambers of the 2-year NTP cancer bioassay study on cell phone radiation.
+IEEE Trans. Electromagn. Compat
+. 59, 1798–1808. doi: 10.1109/TEMC.2017.2665039
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Gutschi, T., Mohamad Al-Ali, B., Shamloul, R., Pummer, K., and Trummer, H. (2011). Impact of cell phone use on men's semen parameters.
+Andrologia
+43, 312–316. doi: 10.1111/j.1439-0272.2011.01075.x
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Hochwald, B. M., Love, D. J., Yan, S., Fay, P., and Jin, J. M. (2014). Incorporating specific absorption rate constraints into wireless signal design.
+IEEE. Commun. Mag
+. 52, 126–133. doi: 10.1109/MCOM.2014.6894463
+CrossRef Full Text
+|
+Google Scholar
+Houston, B. J., Nixon, B., King, B. V., De Iuliis, G. N., and Aitken, R. J. (2016). The effects of radiofrequency electromagnetic radiation on sperm function.
+Reproduction
+152, 263–276. doi: 10.1530/REP-16-0126
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Jaffar, F. H. F., Osman, K., Ismail, N. H., Chin, K., and Ibrahim, S. F. (2019). Adverse effects of Wi-Fi Radiation on male reproductive system: a systematic review.
+Tohoku J. Exp. Med
+. 248, 169–179. doi: 10.1620/tjem.248.169
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Kesari, K. K., and Behari, J. (2012). Evidence for mobile phone radiation exposure effects on reproductive pattern of male rats: role of ROS.
+Electromagn. Biol. Med
+. 31, 213–222. doi: 10.3109/15368378.2012.700292
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Kesari, K. K., Kumar, S., and Behari, J. (2011). Effects of radiofrequency electromagnetic wave exposure from cellular phones on the reproductive pattern in male wistar rats.
+Appl. Biochem. Biotechnol
+. 164, 546–559. doi: 10.1007/s12010-010-9156-0
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Kumar, S., Kesari, K. K., and Behari, J. (2011). The therapeutic effect of a pulsed electromagnetic field on the reproductive patterns of male wistar rats exposed to a 2.45-Ghz microwave field.
+Clinics (Sáo Paulo)
+66, 1237–1245. doi: 10.1590/S1807-59322011000700020
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Kuster, N., Torres, V. B., Nikoloski, N., Frauscher, M., and Kainz, W. (2006). Methodology of detailed dosimetry and treatment of uncertainty and variations for in vivo studies.
+Bioelectromagnetics
+27, 378–391. doi: 10.1002/bem.20219
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Meo, S. A., Al Drees, A. M., Husain, S., Khan, M. M., and Imran, M. B. (2010). Effects of mobile phone radiation on serum testosterone in wistar albino rats.
+Saudi Med. J.
+31, 869–873.
+PubMed Abstract
+|
+Google Scholar
+Miller, A. B., Sears, M. E., Morgan, L. L., Davis, D. L., Hardell, L., Oremus, M., et al. (2019). Risks to health and well-being from radio-frequency radiation emitted by cell phones and other wireless devices.
+Front. Public Health.
+7:223. doi: 10.3389/fpubh.2019.00223
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Okechukwu, C. E. (2018). Effects of mobile phone radiation and exercise on testicular function in male wistar rats.
+Niger J. Exp. Clin. Biosci
+. 6, 51–58. doi: 10.4103/njecp.njecp_18_18
+CrossRef Full Text
+|
+Google Scholar
+Oskouyi, E. A., Rajaei, F., Variani, A. S., Sarokhani, M. R., and Javadi, A. (2014). Effects of microwaves (950 MHZ mobile phone) on morphometric and apoptotic changes of rabbit epididymis.
+Andrologia
+47, 700–705. doi: 10.1111/and.12321
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Oyewopo, A. O., Olaniyi, S. K., Oyewopo, C. I., and Jimoh, A. T. (2017). Radiofrequency electromagnetic radiation from cell phone causes defective testicular function in male wistar rats.
+Andrologia
+49:12772. doi: 10.1111/and.12772
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Ozguner, M., Koyu, A., Cesur, G., Ural, M., Ozguner, F., Gokcimen, A., et al. (2004). Biological and morphological effects on the reproductive organ of rats after exposure to electromagnetic field.
+Saudi Med. J
+. 26, 405–410.
+PubMed Abstract
+|
+Google Scholar
+Panagopoulos, D. J., Johansson, O., and Carlo, G. L. (2013). Evaluation of specific absorption rate as a dosimetric quantity for electromagnetic fields bioeffects.
+PLoS ONE
+8:e62663. doi: 10.1371/journal.pone.0062663
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Peyman, A. (2011). Dielectric properties of tissues; variation with age and their relevance in exposure of children to electromagnetic fields; state of knowledge.
+Prog. Biophys. Mol. Biol
+. 107, 434–438. doi: 10.1016/j.pbiomolbio.2011.08.007
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Ribeiro, E. P., Rhoden, E. L., Horn, M. M., Rhoden, C., Lima, L. P., and Toniolo, L. (2007). Effects of subchronic exposure to radio frequency from a conventional cellular telephone on testicular function in adult rats.
+J. Urol.
+177, 395–399. doi: 10.1016/j.juro.2006.08.083
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Saliev, T., Begimbetova, D., Masoud, A. R., and Matkarimov, B. (2018). Biological effects of non-ionizing electromagnetic fields: two sides of a coin.
+Prog. Biophys. Mol. Biol
+. 141, 25–36. doi: 10.1016/j.pbiomolbio.2018.07.009
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Saygin, M., Asci, H., Ozmen, O., Cankara, F. N., Dincoglu, D., and Ilhan, I. (2016). Impact of 2.45 GHz microwave radiation on the testicular inflammatory pathway biomarkers in young rats: the role of gallic acid.
+Environ. Toxicol
+. 31, 1771–1784. doi: 10.1002/tox.22179
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Sehitoglu, I., Tumkaya, L., Kalkan, Y., Bedir, R., Cure, M. C., Zorba, O. U., et al. (2015). Biochemical and histopathological effects on the rat testis after exposure to electromagnetic field during fetal period.
+Arch. Esp. Urol
+. 68, 562–568.
+PubMed Abstract
+|
+Google Scholar
+Sepehrimanesh, M., Saeb, M., Nazifi, S., Kazemipour, N., Jelodar, G., and Saeb, S. (2013). Impact of 900 MHz electromagnetic field exposure on main male reproductive hormone levels: a rattus norvegicus model.
+Int. J. Biometeorol
+. 58, 1657–1663. doi: 10.1007/s00484-013-0771-7
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Shahin, S., Singh, S. P., and Chaturvedi, C. M. (2018). 1800 MHz mobile phone irradiation induced oxidative and nitrosative stress leads to P53 dependent bax mediated testicular apoptosis in mice,
+Mus Musculus
+.
+J. Cell Physiol
+. 233, 7253–7267. doi: 10.1002/jcp.26558
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Singh, K. V., Gautam, R., Meena, R., Nirala, J. P., Jha, S. K., and Rajamani, P. (2020). Effect of mobile phone radiation on oxidative stress, inflammatory response, and contextual fear memory in wistar rat.
+Environ. Sci. Pollut. Res. Int
+. 27, 19340–19351. doi: 10.1007/s11356-020-07916-z
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Stuchly, M. A., Kraszewski, A., and Stuchly, S. S. (1985). Exposure of human models in the near and far field—a comparison.
+IEEE Trans. Biomed. Eng
+. 32, 609–615. doi: 10.1109/TBME.1985.325600
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Toivonen, T., Toivo, T., Puranen, L., and Jokela, K. (2019). Specific absorption rate and electric field measurements in the near field of six mobile phone base station antennas.
+Bioelectromagnetics
+30, 307–312. doi: 10.1002/bem.20478
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Uluaydin, N. K., Cerezci, O., and Seker, S. S. (2020). “Can mobile phone usage affect hypothalamus-pituitary-adrenal axis response? [Conference presentation],” in
+10th Annual Computing and Communication Workshop and Conference (CCWC)
+, Las Vegas, NV, USA. doi: 10.1109/CCWC47524.2020.9031168
+CrossRef Full Text
+|
+Google Scholar
+Vishnu, K., Nithyaja, B., Pradeep, C., Sujith, R., Mohanan, P., and Nampoori, V. (2011). Studies on the effect of mobile phone radiation on DNA using laser induced fluorescence technique.
+Laser Phys.
+21, 1945–1949. doi: 10.1134/S1054660X11190297
+CrossRef Full Text
+|
+Google Scholar
+Wang, J., Fujiwara, O., and Ono, T. (2002). Dosimetry evaluation of a whole-body exposure setup for small animal at 2.45 GHz.
+IEICE Trans. Commun. e
+85, 2963–2965.
+Google Scholar
+Wang, S. M., Wang, D. W., Peng, R. Y., Gao, Y. B., Yang, Y., Hu, W. H., et al. (2003). Effect of electromagnetic pulse irradiation on structure and function of leydig cells in mice.
+Natl. J. Androl.
+9, 327–330.
+PubMed Abstract
+|
+Google Scholar
+Wu, T., Hadjem, A. H., Wong, M., Gati, A., Picon, O., and Wiart, J. (2010). Whole-body newborn and young rats' exposure assessment in a reverberating chamber operating at 2.4 GHz.
+Phys. Med. Biol
+. 55, 1619–1630. doi: 10.1088/0031-9155/55/6/006
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Yahyazadeh, A., Altunkaynak, B. Z., and Kaplan, S. (2020). Biochemical, immunohistochemical and morphometrical investigation of the effect of thymoquinone on the rat testis following exposure to a 900-Mhz electromagnetic field.
+Acta Histochem
+. 122:151467. doi: 10.1016/j.acthis.2019.151467
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Zang, Z. J., Ji, S. Y., Huang, S. Z., Jiang, M. H., and Fang, Y. Q. (2016). Impact of cellphone radiation on sexual behavior and serum concentration of testosterone and LH in male mice.
+Occup. Dis. Environ. Med
+. 4, 56–62. doi: 10.4236/odem.2016.43007
+CrossRef Full Text
+|
+Google Scholar
+Zhang, H., Chu, X., Guo, W., and Wang, S. (2014). Coexistence of Wi-Fi and heterogeneous small cell networks sharing unlicensed spectrum.
+IEEE Commun. Mag
+. 53, 158–164. doi: 10.1109/MCOM.2015.7060498
+CrossRef Full Text
+|
+Google Scholar

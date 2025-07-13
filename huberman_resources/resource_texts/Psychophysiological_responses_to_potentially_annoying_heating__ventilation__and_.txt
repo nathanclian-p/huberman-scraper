@@ -1,0 +1,17 @@
+Three participants were excluded from this analysis for exhibiting scores more than three SDs outside the group mean (S133, S135, S156). Mean heart period was 0.810 s (SD = 0.132, range 0.400–1.259), or about 74 beats per minute, with a range from 48 to 150 BPM (see supplementary material
+1
+for summary data of log ratio scores). Results of multilevel modeling of the log ratio scores show a significant effect of both noise type,
+F
+(2, 782) = 10.97,
+p
+< 0.0001, and of N-back Level,
+F
+(1, 782) = 16.90,
+p
+< 0.0001. Examination of estimated marginal means suggests that RR intervals, the interval between two consecutive R peaks in the ECG signal, were lower in the experimental conditions than during the baseline (resulting in mostly negative log ratios), corresponding to a higher heart rate during the task than at rest, as expected. The significant effect of noise type is due to both noise conditions exhibiting a significantly more negative log ratio than the silence condition (Tukey adjusted
+p
+< 0.001 for both), suggesting that in the noise conditions listeners showed a stronger decrease in heart period (i.e., greater acceleration of heart rate) relative to baseline than they did in the silent condition (Fig.
+4
+). Similarly, the effect of N-back Level is manifest primarily in terms of overall more negative values (greater increase in heart rate over baseline) in the 2-back and 3-back conditions as compared to the 1-back condition (Tukey adjusted
+p
+< 0.0001 for both) and silence. Thus, participants showed the expected task-related decrease in heart period, and this effect was stronger in the more cognitively demanding task conditions as well as in noise compared to the silence conditions.

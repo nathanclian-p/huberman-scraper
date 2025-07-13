@@ -1,0 +1,137 @@
+Two thirds of the population is overweight and obesity affects a third of the UK and US populations.
+1
+–
+3
+The aetiology of obesity is complex, but it is generally agreed that low levels of physical activity are important in the pathogenesis of obesity.
+4
+In particular, obese individuals have a tendency to sit for >2½ h/day more than lean individuals, and therefore their non-exercise activity thermogenesis (NEAT) is low.
+5
+Over the past 20 years, the predominant mode of working has become computer based in developed/high-income countries.
+6
+This has resulted in many people spending their workday sitting.
+7
+8
+We are interested in exploring measures to reverse the sedentariness of seated screen time while preserving the preexisting function of the activity.
+Widely examined strategies to promote workplace activity include walking and other activity programmes such as stair climbing. The problem with these approaches is that they necessitate employees leaving their desks or the activity is only conducted for a short period of time (eg, stair climbing). We therefore examined whether an approach exists to promote walking equivalent energy expenditure, yet allow employees to remain at their desks while working at a computer. We invented a vertical workstation that incorporates a treadmill. This enables a previously seated computer-based employee to work while walking (
+fig 1
+). We measured the energy expenditure of using the vertical workstation in obese individuals and compared these values with sitting in a standard office chair. Our hypothesis was that the vertical workstation would be associated with significant and substantial increases in energy expenditure over sitting.
+Figure 1
+Picture of the vertical workstation (treadmill not shown).
+SUBJECTS AND METHODS
+Subjects
+Fifteen healthy, sedentary, obese (body mass index (BMI) 30–35 kg/m
+2
+) volunteers who worked at computer stations were recruited. Subjects did not participate in regular exercise. Subjects were excluded if they smoked, were pregnant, had any acute or chronic illness, had unsteady body weight (>2 kg fluctuation over the 6 months before study), had a medical history of thyroid dysfunction or were taking drugs capable of altering metabolic rate. Subjects provided informed written consent, and the Mayo Institutional Review Board approved the study.
+Description of the vertical workstation
+The vertical workstation that we designed was made from steel (Unistrut, Wayne, Michigan, USA) and Plexiglas (Darmstadt, Germany;
+fig 1
+). The frame of the device is shaped as the letter “H” and made of steel. The frame is supported by four non-skid, locking, rubber wheels, which allows the desk to be wheeled wherever the user wishes. The frame supports a ¾-inch-thick, four-foot square vertical Plexiglas panel into which two adjustable arms are bolted, one for the computer screen and the other for keyboard and mouse. The steel frame also incorporates a slat system for storing personal items such as a flower vase, cup holder, pen holder or paper tray as well as a mount for a standard personal computer. The desk is designed to slide over a standard treadmill so that the user can either walk-and-work, stand-and-work or, if the treadmill is replaced with a chair, sit and work. The desk costs approximately £1000 ($1600) per unit.
+Experimental design
+The study was conducted at the Experimental Office Facility of the Mayo Clinical Research Center, which contains prefabricated office equipment, evaluation equipment and is temperature controlled and silent.
+The subject was orientated to the procedures and weighed on a calibrated standing scale (model 644, Seca Corporation, Hanover, Maryland, USA), and height was measured using a stadiometer (model 242, Seca Corporation). Subjects fasted for >6 h and had not undertaken exertional activity for >6 h, had not consumed caffeine for >6 h nor alcohol for >12 h before the start of the study. Throughout the study, subjects were in thermal comfort (68–74°F). They were allowed to drink water at room temperature and were encouraged to empty their bowel and bladder before the experiment.
+Energy expenditure was then measured for 20 min under each of the following conditions:
+Lying motionless: One-hour rested, relaxed subjects were in a supine position with head at a 10° tilt at the Experimental Office Facility. They were supervised and asked (and prompted where necessary) to remain awake and still during the measurement.
+Office-chair sitting: Subjects were seated in a backed, armed office chair with their back, arms and legs supported. They were asked to emulate their normal computer work and start typing a document about their previous day or their life history.
+Standing motionless: Subjects were instructed to stand motionless with arms hanging by their sides and feet spaced 6 inches apart. They were asked to remain relaxed and still during the measurement.
+Walking energy expenditure was then measured for 15 min each at 1, 2 and 3 mph. Subjects then rested for 15 min.
+Subjects used the vertical workstation at a self-selected speed. They were initially orientated to the workstation, and the height of the monitor, keyboard and mouse were adjusted if necessary. While standing still, subjects were instructed to start typing a document about their previous day or their life history. After 5–10 min of acclimation, subjects were allowed to adjust the treadmill speed to their desired level so that they could continue working normally. Subjects then walked and worked for 1 h and the energy expenditure was measured during 15–35 min of this hour. Subjects were then questioned about their experience and provided with a snack.
+The order of these activities was fixed and the instructions were standardised. This was because the excursions in energy expenditure associated with rest and sitting cannot be conducted reliably even after minimal exertion has occurred and because the energy cost of using the vertical workstation would affect the measurements of low-speed walking if it was performed in between walking speeds.
+Indirect calorimetry
+Measurements of energy expenditure were performed using a high-precision indirect calorimeter (Columbus Instruments, Columbus, Ohio, USA).
+5
+The calorimeter was calibrated before each measurement with primary standard span gases (5% CO
+2
+, 25% O
+2
+, balance N
+2
+). Gas flow through the system was modulated to maintain O
+2
+and CO
+2
+concentrations within “physiological comfort”. Data were integrated every 30 s and stored in a computer. The system was tested by burning a measured mass of high-purity ethanol (AAPER Alcohol and Chemical Company, Shelbyville, Kentucky, USA) using a specialised apparatus (SensorMedics, Yorba Linda, California, USA).
+Expired air was collected using a full-face transparent dilution mask (Scott Aviation, Lancaster, New York, USA). The facemask was connected to the calorimeter by 2.74 m of 35 mm diameter leak-proof tubing (Vacumed, Ventura, California, USA). The advantage of this system was that it allows almost complete mobility with minimal agitation. We have found
+9
+that, while wearing this equipment, volunteers can complete tasks inside and outside the laboratory such as walking on level ground, climbing stairs in stairwells or working in an office environment. Even in these circumstances highly precise measures of energy expenditure can be made.
+Body composition
+Body composition was assessed using dual
+x
+ray absorptiometry (DXA; Lunar, Madison, Wisconsin, USA). To ensure that our measures of body composition were reproducible and precise, we: (a) used the same DXA scanner throughout the study, (b) calibrated the DXA scanner before each measurement with tissue phantoms and (c) calibrated the DXA scanner against tissue blocks of known composition weekly.
+Statistical analysis
+The mean energy expenditure for each period was calculated. All values are provided as mean (SD). ANOVA and post-hoc paired t-tests were used to compare paired changes in energy expenditure. Statistical significance was defined as p<0.05.
+RESULTS
+Fifteen obese subjects who were recruited, 14 were women (43 (7.5) years, 86 (9.6) kg, BMI 32 (2.6) kg/m
+2
+; 52 (6%) body fat). For the indirect calorimeter, repeated alcohol burn experiments yielded CO
+2
+and O
+2
+recoveries of >98%. The SD of the respiratory quotient for the last 15 min of these measurements was <1% of the mean. Test–retest differences for duplicate measures of basal metabolic rate were <3%.
+The vertical workstation and treadmill walking were well tolerated by all subjects; there were no injuries, falls or unsteadiness. It was of interest that the subjects did not experience any problems using the computer station while walking; it took about 2–3 min for acclimation to the system.
+A significant positive correlation was found between weight and resting energy expenditure (r = 0.79, p<0.001) and between fat-free mass and resting energy expenditure (r = 0.70, p<0.001) even for this homogeneous group.
+Energy expenditure increased significantly with walking, with each increment in velocity regardless of whether energy expenditure was expressed in absolute terms or relative to body weight (p<0.001 in all cases). There were significant linear relationships between walking speed and energy expenditure for all subjects (r
+2
+was about 0.99;
+table 1
+). Energy expenditure increased over standing, at 1 mph by 116 (23) kcal/h (p<0.001), at 2 mph by 172 (37) kcal/h (p<0.001) and at 3 mph by 225 (55) kcal/h (p<0.001;
+table 1
+).
+Table 1
+Energy expenditures (kcal/h) for study participants
+Figure 2
+Energy expenditure (in kcal/h) above resting values for working at a computer sitting in an office chair and using the vertical workstation at a self-selected speed. Fourteen of the subjects were women and subject 14 was a man.
+Our primary hypothesis was that the vertical workstation would be associated with a significant and substantial increase in energy expenditure above sitting. The mean (SD) sitting energy expenditure was 72 (10) kcal/h whereas the energy expenditure while walking and working at a self-selected velocity of 1.1 (0.4) mph was 191 (29) kcal/h. The mean increase in energy expenditure for walking and working over sitting in an office chair was 119 (25) kcal/h (p<0.001;
+fig 2
+).
+DISCUSSION
+The obesity epidemic affects all high-income countries as well as middle-income and even low-income countries.
+10
+This has occurred because of a persistent positive energy balance that may be as little as 100 kcal/day.
+8
+This energy imbalance reflects nutritional excess plus low levels of physical activity.
+7
+Low levels of physical activity result from both low participation in formal exercise, such as going to the gym,
+11
+and low levels of non-exercise, habitual activity.
+12
+13
+The energy expended in association with non-exercise activity, called non-exercise activity thermogenesis (NEAT), is low in obesity specifically because walking activity is substantially less (>2 h/day less) in obese than in lean individuals.
+5
+Because the majority of the waking week day is spent at work, it is not surprising that work is the predominant predictor of NEAT.
+14
+Along with obesity, the sedentary nature of work is increasing
+15
+16
+because of the common use of desktop computers; by 2010 it is estimated that more than half of the workforce from developed countries will be working at computers.
+6
+We are therefore interested in devising and validating approaches that promote physical activity in an obese person in the workplace without sacrificing work time. To this end, we devised a vertical workstation that can house the functionality and preserve the function of a standard office computer. We found that the use of the office vertical workstation was associated with substantial increases in energy expenditure in the obese volunteers we studied. Moreover, our volunteers enjoyed using the workstations. Were the vertical workstation to be used by an obese office worker to replace 2–3 h/day of sitting and if other components of energy balance were constant, a weight loss of >20 kg/year could occur.
+The vertical workstation we describe is immediately available and therefore it is tenable that many desk-based office workers could have access to such a device. Obesity is associated with decreased workforce participation
+17
+and healthcare costs estimated in the US alone to be $100–200 billion/year.
+18
+Hence, interventions such as the “walk-while-you-work” desk might prove to be cost effective. Previous workplace strategies to promote physical activity have proven limited because either the activity component is too short in duration (eg, “climb the stairs” or “walk from the car park”) or the interventions require high levels of workforce commitment (eg, gym programmes).
+19
+–
+21
+The “walk-while-you-work” desk examines another approach that could overcome these limitations—namely, whether it is possible to change the mode of the office desk per se. We recognise that such approaches must embrace behavioural strategies to affect a sustained intervention
+22
+and that this and other approaches can only succeed in increasing daily activity levels with the support of employers.
+We acknowledge several limitations to this study. The studies were short in duration and did not extend throughout the workday. For example, it is conceivable that the self-selected work-and-walk would only comprise 25% of the workday. Even so, this would represent an increase of 2 hours of walking per day, thereby closing the NEAT deficit in obesity.
+5
+Second, there were relatively few subjects in this study and most were women; this is important especially if we are suggesting that the walk-and-work approach is widely applicable. Although we acknowledge this, we point out that our goal here was not only to test the feasibility of using the walk desk but also to define the energy expended in its use. A study with greater numbers would be unlikely to change our principal findings, although we recognise that further field-testing and time-and-motion studies will be needed before broad-based office application. Also, we did not assess work productivity; the ordering effect that was specific in our design prohibited us from doing so in this study. However, office-wide trials will necessitate measures of productivity. Finally, although we showed surprisingly great excursions in energy expenditure, we did not show long-term weight loss with the use of walk-and-work desks. Using the walk-and-work desk in weight loss studies is an immediate next step.
+In conclusion, in this paper we describe the energy expenditure associated with using a walk-and-work desk that could allow seated, office-based workers to be more active throughout their workday. The walk-and-work desk was associated with significant and substantial excursions in energy expenditure above sitting in obese subjects who previously took no exercise. Walking work was well tolerated by these obese individuals who used the computer in their normal fashion, and it is noteworthy that all our volunteers expressed enthusiasm to have access to “walk-and-work” stations after the study was complete. With population body weight, workplace sedentariness and healthcare costs projected to increase, interventions that allow people to work and yet be active could help reverse obesity.
+What is already known on this topic
+Low levels of physical activity and NEAT are associated with obesity.
+When carefully assessed, people with obesity tend to be standing and walking for 2½ h/day less than their lean counterparts, which represents a potential deficit in NEAT of 350 kcal/day.
+NEAT is the energy expenditure associated with the routines of daily living and can be divided into work-NEAT and leisure time-NEAT.
+To examine approaches that could facilitate substantial increases in standing and walking time, we targeted work-NEAT because many jobs in Europe and the US are conducted while seated.
+What this study adds
+We invented a vertical workstation that incorporates a treadmill. This enables a previously seated computer-based employee to work while walking.
+Individuals with obesity (n = 15, BMI 30–35 kg/m
+2
+; 45 (SD) 19% body fat) were asked to test the vertical workstation for ease of use and energy efficiency.
+All subjects tolerated the workstation well and were able to use all the standard computer functions while walking and working. The mean (SD) sitting energy expenditure was 72 (10) kcal/h whereas the energy expenditure while walking and working at a self-selected velocity of 1.1 (0.4) mph was 191 (29) kcal/h.
+The mean increase in energy expenditure for walking and working over sitting was 119 (25) kcal/h.
+If the vertical workstation was used for half the workday, increases in energy expenditure of 500 kcal/day could result.
+Acknowledgments
+This study was supported by grants DK56650, DK63226, DK66270, DK50456 (Minnesota Obesity Center) and RR-0585 from the US Public Health Service and by the Mayo Foundation and by a grant to the Mayo Foundation from Mr R Stuart. We thank Shelly Mc Crady for technical support.

@@ -1,0 +1,444 @@
+Most sudden cardiac deaths (SCDs) occur in the general population, and most SCDs occur outside the hospital with few or no early warning signs.
+1
+Therefore, ascertainment of lifestyle characteristics that could be protective against SCD is important. Although some studies
+2
+-
+4
+have found sauna bathing to be associated with a better cardiovascular and circulatory function, the association between regular sauna bathing and the risk of SCD and fatal cardiovascular diseases (CVDs) is not known. Long-term sauna bathing has been associated with lower blood pressure and enhanced left ventricular function
+3
+,
+4
+and thus potentially with reduced CVD risk. Sauna bathing leads to skin sweating–induced fluid loss and increase in heart rate, which are physiologic responses to warm temperature.
+5
+,
+6
+Previous studies
+2
+,
+3
+have found some positive effects of thermal exposure on CVD risk factors; however, the long-term effects of sauna bathing on risk of cardiovascular events, including the association between the frequency and duration of sauna bathing and the risk of SCD, are not well defined. The aim of this prospective study was to investigate the association between exposure to sauna bathing and the risk of SCD, fatal coronary heart disease (CHD), fatal CVD, and all-cause mortality events in the general male population.
+The study was approved by the Research Ethics Committee of the University of Eastern Finland, Kuopio. Each participant gave written informed consent. This study (Finnish Kuopio Ischemic Heart Disease Risk Factor Study) was designed to investigate risk predictors for atherosclerotic cardiovascular outcomes in a population-based sample of men from Eastern Finland. Participants were a randomly selected sample of 3433 men aged 42 to 60 years who resided in Kuopio, Finland, or its surrounding rural communities.
+7
+Of those invited, 2682 (78.1%) participated in the study, and those with complete information on sauna bathing were included (N = 2327). Twelve men who did not use a sauna were excluded, leaving 2315 participants for the analyses. Baseline examinations were conducted from March 1, 1984, through December 31, 1989.
+Assessment of Sauna Bathing
+A traditional Finnish sauna has dry air (humidity 10%-20%) with a relatively high temperature. The recommended temperature for a sauna is usually 80°C to 100°C at the level of the bather’s face. Humidity is temporarily increased by throwing water on the hot rocks of the sauna heater. Sauna bathing was assessed by a self-administrated questionnaire based on weekly sauna bathing sessions, duration, and temperature.
+8
+The assessment represents typical sauna use during the week. The temperature in the sauna room was measured using a thermometer in the sauna and self-reported. The questionnaires were checked by an experienced nurse at the time of baseline examination.
+Assessment of Risk Factors
+Risk factors were assessed at baseline. The lifelong effect of smoking (cigarette pack-years) was estimated as the product of the number of years smoking and the number of tobacco products smoked daily at the time of examination.
+9
+Resting blood pressure was measured between 8 and 10
+am
+with a random-zero sphygmomanometer. The cholesterol contents of serum lipoprotein fractions and triglycerides were measured enzymatically (Boehringer Mannheim). Serum high-density lipoprotein cholesterol and its subfractions were separated from fresh serum samples using ultracentrifugation and precipitation. Serum C-reactive protein was measured with an immunometric assay (Immulite High Sensitivity C-reactive Protein Assay; Diagnostic Products Corporation). The use of medications, baseline diseases, the level of physical activity, and socioeconomic status were assessed by self-administered questionnaires.
+9
+Chronic disease diagnoses and medication use were checked during a medical examination by the internist. Alcohol consumption was assessed using the Nordic Alcohol Consumption Inventory.
+9
+Body mass index (BMI) was  calculated as the weight in kilograms divided by height in meters squared. Heart rate and electrocardiographic findings, including the definition of left ventricular hypertrophy (Sokolow-Lyon index), were recorded at rest.
+10
+The standardized cycle testing protocol was composed of an increase in the workload of 20 W/min with the direct analyses of respiratory gases (Medical Graphics Corporation). Cardiorespiratory fitness was defined as the highest value or the plateau of oxygen uptake.
+10
+,
+11
+Classification of Outcomes
+All deaths that occurred by the end of 2011 were checked against the hospital documents, health center wards, and death certificates. There were no losses to follow-up. The sources of information were interviews, hospital documents, death certificates, autopsy reports, and medicolegal reports.
+10
+A death was determined to be an SCD when it occurred within 1 hour of the onset of an abrupt change in symptoms or within 24 hours after the onset of symptoms when clinical findings did not reveal a noncardiac cause of sudden death. The deaths due to aortic aneurysm rupture, cardiac rupture or tamponade, and pulmonary embolism, cancer, or other noncardiac comorbidities were not included as SCDs. All hospital documents, including medical records, laboratory and electrocardiographic findings from hospital and paramedical staff, and the use of medications and defibrillators, were available to use.
+10
+The CHD and CVD deaths were coded using
+International Classification of Diseases, Ninth Revision (ICD-9),
+and
+International Statistical Classification of Diseases, 10th Revision (ICD-10),
+codes. The documents related to the death were cross-checked in detail by 2 physicians. The Independent Events Committee, masked to clinical data, performed classification of deaths.
+Differences in baseline characteristics were examined using analysis of variance and the χ
+2
+test. Descriptive data are presented as means (SDs) and numbers (percentages). Risk factors for main outcomes were analyzed using the multivariable Cox model. Men were divided into groups on the basis of the frequency of sauna bathing (1, 2-3, and 4-7 times per week) and the duration of a sauna bathing session (<11, 11-19, and >19 minutes). Cox multivariable models were adjusted for age, BMI, systolic blood pressure, serum low-density lipoprotein cholesterol level, smoking, alcohol consumption, previous myocardial infarction, type 2 diabetes mellitus, cardiorespiratory fitness, resting heart rate, physical activity, and socioeconomic status. Covariates were selected on the basis of their previously established role as a well-defined predictive factor on the basis of overall evidence and available data. The cumulative survival from SCD according to the frequency of sauna bathing was calculated using the Kaplan-Meier method. Sensitivity analyses were performed, first excluding participants who died in the first 5 years of follow-up and then restricting follow-up time to 10 years.
+Hazard ratios were estimated as antilogarithms of coefficients from multivariable models. The fit of the proportional hazards models was examined by plotting the hazard functions in different categories of risk factors over time. The proportional hazards assumption was verified for all variables by inspection of the plots of Schoenfeld residual for covariates. The linearity assumption was satisfied for all continuous variables and assessed with Martingale residuals for each continuous variable against survival time. Subgroup analyses were conducted using interaction tests to assess statistical evidence of any differences in hazard ratios across levels of prespecified individual-level characteristics, such as age at survey, history of diabetes, hypertension, smoking, prevalent CVD, BMI, cardiorespiratory fitness, and left ventricular hypertrophy.
+P
+< .05 was considered statistically significant. Statistical analyses were performed using STATA software, version 12 (Stata Corp).
+The mean (SD) age and BMI of the study participants were 53 (5) years and 26.9 (3.5), respectively. The mean (SD) frequency, duration, and temperature of sauna bathing were 2.1 (1.1) times per week (range, 1-7 times per week), 14.2 (7.5) minutes (range, 2-90 minutes), and 78.9°C (9.6°C) (range, 40°C-100°C), respectively; all other baseline characteristics are given in
+Table 1
+.
+Table 1.  Baseline Characteristics of the 2315 Study Participants
+a
+Characteristic
+Finding
+Age, y
+53.1 (5.1)
+BMI
+26.9 (3.5)
+Waist to hip ratio
+0.95 (0.06)
+Cigarette smoking, pack-years
+8.4 (16.5)
+Alcohol consumption, g/wk
+74.2 (121.3)
+Serum cholesterol, mg/dL
+Total
+228 (41)
+LDL-C
+156 (39)
+HDL-C
+50 (12)
+Triglycerides
+113 (73)
+Blood pressure, mm Hg
+Systolic
+134 (16)
+Diastolic
+88 (10)
+Fasting plasma glucose, mg/dL
+95 (22)
+Serum insulin, μIU/L
+11.6 (7.0)
+Cardiorespiratory fitness, mL/kg/min
+30.2 (8.0)
+Physical activity, kcal/d
+b
+372 (357)
+Socioeconomic status
+c
+8.4 (4.2)
+No. (%) of participants
+Smokers
+699 (30.1)
+Type 2 diabetes mellitus
+118 (5.1)
+Coronary heart disease
+554 (23.9)
+Family history of coronary heart disease
+1302 (56.2)
+History of hypertension
+795 (34.3)
+Family history of hypertension
+1111 (47.9)
+Heart failure
+d
+174 (7.5)
+Cardiomyopathy
+d
+47 (2.1)
+Cerebrovascular disease
+64 (2.7)
+Claudication
+86 (3.7)
+Arrhythmias
+e
+417 (18.0)
+Pulmonary disease
+f
+320 (13.8)
+Cancer
+44 (1.9)
+Regular use of medications
+Antihypertensive medication
+494 (21.3)
+β-Blocker
+400 (17.2)
+Acetylsalicylic acid
+164 (7.1)
+The mean temperature of the sauna room was slightly lower (77°C) among men who had sauna bathing sessions 4 or more times per week compared with those with only 1 sauna bathing session per week (80°C) (
+P
+< .001), whereas the mean duration of a single sauna bathing session did not differ significantly according to the frequency of sauna bathing (
+P
+= .38); eTable 1 in the
+Supplement
+gives the main characteristics of the study population according to the frequency of sauna bathing.
+Sauna Bathing and Outcome Events
+The mean follow-up time to death or the end of follow-up was 18.8 years (median, 20.7 years; interquartile range, 18.1-22.6 years). A total of 190 SCDs occurred during the follow-up; the number of CHDs, CVDs, and all-cause mortality events were 281, 407, and 929, respectively. The numbers (percentages) of SCDs were 61 (10.1%), 119 (7.8%), and 10 (5.0%) according to the 3 groups of the frequency of sauna bathing (1, 2-3, and 4-7 times per week, respectively) (eTable 1 in the
+Supplement
+). The corresponding numbers were 89 (14.9%), 175 (11.5%), and 17 (8.5%) for fatal CHDs; 134 (22.3%), 249 (16.4%), and 24 (12.0%) for fatal CVDs; and 295 (49.1%), 572 (37.8%), and 62 (30.8%) for all-cause mortality events.
+Cumulative hazard curves revealed a greater risk of SCD among participants with lower frequency and duration of sauna bathing (
+Figure
+). After adjustment for CVD risk factors, the hazard ratio of SCD was 0.78 (95% CI, 0.57-1.07) for 2 to 3 sauna bathing sessions per week and 0.37 (95% CI, 0.18-0.75) for 4 to 7 sauna bathing sessions per week compared with men reporting 1 sauna bathing session per week (
+P
+for trend = .005;
+Table 2
+). Similarly, an inverse association was found between sauna bathing session duration and risk of SCD, with the risk 52% lower comparing participants in the top (>19 minutes per session) vs bottom (<11 minutes) groups of sauna bathing session duration (
+Table 3
+).
+Figure.  Cumulative Kaplan-Meier Curves for Sudden Cardiac Death During Follow-up
+A, Frequency of sauna bathing per week (
+P
+= .045); B,  duration of sauna bathing session (
+P
+= .009).
+Table 2.  Hazard Ratios of Sudden Cardiac Death, Fatal Coronary Heart Disease, Fatal Cardiovascular Disease, and All-Cause Mortality According to the Frequency of Sauna Bathing
+Frequency of Sauna
+Sudden Cardiac Death (n = 190)
+a
+Fatal Coronary Heart Disease (n = 281)
+Fatal Cardiovascular Disease (n = 407)
+All-Cause Mortality
+(n = 929)
+Hazard Ratio
+(95% Cl)
+P
+Value
+Hazard Ratio
+(95% Cl)
+P
+Value
+Hazard Ratio
+(95% Cl)
+P
+Value
+Hazard Ratio
+(95% Cl)
+P
+Value
+Age-Adjusted Hazard Ratios
+1 Time per week
+(n = 601)
+1 [Reference]
+1 [Reference]
+1 [Reference]
+1 [Reference]
+2-3 Times per week (n = 1513)
+0.71 (0.52-0.96)
+.03
+0.71 (0.56-0.93)
+.01
+0.68 (0.55-0.84)
+<.001
+0.69 (0.60-0.79)
+<.001
+4-7 Times per week (n = 201)
+0.49 (0.25-0.96)
+.04
+0.60 (0.35-0.99)
+.04
+0.55 (0.36-0.85)
+.007
+0.61 (0.46-0.80)
+<.001
+P
+value for trend
+.008
+.006
+<.001
+.001
+Multivariable-Adjusted Hazard Ratios
+b
+1 Time per week
+(n = 601)
+1 [Reference]
+1 [Reference]
+1 [Reference]
+1 [Reference]
+2-3 Times per week (n = 1513)
+0.78 (0.57-1.07)
+.12
+0.77 (0.60-0.99)
+.04
+0.73 (0.59-0.89)
+.002
+0.76 (0.66-0.88)
+<.001
+4-7 Times per week (n = 201)
+0.37 (0.18-0.75)
+.006
+0.52 (0.31-0.88)
+.01
+0.50 (0.33-0.77)
+.001
+0.60 (0.46-0.80)
+<.001
+P
+value for trend
+.005
+.005
+<.001
+<.001
+Table 3.  Hazard Ratios of Sudden Cardiac Death, Fatal Coronary Heart Disease, Fatal Cardiovascular Disease, and All-Cause Mortality According to the Duration of Sauna Bathing
+Duration of Sauna Bathing
+Sudden Cardiac Death
+(n = 190)
+a
+Fatal Coronary Heart Disease
+(n = 281)
+Fatal Cardiovascular Disease
+(n = 407)
+All-Cause Mortality
+(n = 929)
+Hazard Ratio
+(95% Cl)
+P
+Value
+Hazard Ratio
+(95% Cl)
+P
+Value
+Hazard Ratio
+(95% Cl)
+P
+Value
+Hazard Ratio
+(95% Cl)
+P
+Value
+Age-Adjusted Hazard Ratios
+<11 Minutes
+(n = 1065)
+1 [Reference]
+1 [Reference]
+1 [Reference]
+1 [Reference]
+11-19 Minutes (n = 722)
+0.80 (0.58-1.11)
+.12
+0.74 (0.56-0.97)
+.03
+0.81 (0.66-1.01)
+.06
+0.84 (0.72-0.98)
+.02
+>19 Minutes
+(n = 528)
+0.51 (0.33-0.78)
+.002
+0.63 (0.46-0.87)
+.005
+0.77 (0.60-0.98)
+.04
+1.00 (0.86-1.18)
+.93
+P
+value for trend
+.001
+.002
+.02
+.71
+Multivariable-Adjusted Hazard Ratios
+b
+<11 Minutes
+(n = 1065)
+1 [Reference]
+1 [Reference]
+1 [Reference]
+1 [Reference]
+11-19 Minutes (n = 722)
+0.93 (0.67-1.28)
+.66
+0.90 (0.73-1.17)
+.42
+0.92 (0.74-1.14)
+.43
+0.91 (0.78-1.06)
+.20
+>19 Minutes
+(n = 528)
+0.48 (0.31-0.75)
+.001
+0.64 (0.46-0.88)
+.006
+0.76 (0.59-0.97)
+.03
+0.83 (0.87-1.20)
+.82
+P
+value for trend
+.002
+.007
+.03
+.93
+Participants with a higher frequency of sauna bathing per week also had a lower risk of CHD and CVD mortality (
+Table 2
+): the risk of fatal CHD events was 23% lower for 2 to 3 sauna bathing sessions per week and 48% lower for 4 to 7 sauna bathing sessions per week (
+P
+for trend = .005), respectively. Correspondent estimates for CVD mortality were 27% and 50% (
+P
+for trend < .001). Likewise, significant inverse associations were found between duration of sauna bathing and CHD (
+P
+for trend = .007) and CVD (
+P
+for trend = .03) mortality (
+Table 3
+). Frequency of sauna bathing, but not duration, was also inversely associated with all-cause mortality, with a 40% reduction comparing 4 to 7 sessions vs 1 session of sauna bathing per week (
+Table 2
+and
+Table 3
+).
+eFigure 1, eFigure 2, and eFigure 3 in the
+Supplement
+show the associations, according to individual-level characteristics, between the frequency and duration of sauna bathing and the risk of SCD, fatal CHD, and fatal CVD. The results were consistent among subgroups, although associations seem to be somewhat stronger in nonsmokers and in men with type 2 diabetes and poor cardiorespiratory fitness at baseline.
+In sensitivity analyses, the associations between frequency and duration of sauna bathing with SCDs, fatal CHDs, fatal CVDs, and all-cause mortality events remained consistent, excluding those who died in the first 5 years of follow-up (eTable 2 in the
+Supplement
+) and when limiting the follow-up to the first 10 years (eTable 3 in the
+Supplement
+).
+Although previous population studies
+2-4
+have suggested possible positive effects of sauna bathing on cardiovascular health, this study extends these observations by finding that sauna bathing is inversely associated with the risk of SCD, CHD, CVD, and all-cause mortality. The higher frequency of sauna bathing was related to a considerable decreased risk of SCDs, fatal CHDs, fatal CVDs, and all-cause mortality events independently from conventional risk factors.
+Heart rate may increase up to 100/min during moderate sauna bathing sessions
+4
+,
+5
+,
+12
+,
+13
+and up to 150/min during more intense warm sauna bathing,
+14
+,
+15
+corresponding to low- and moderate-intensity physical exercise training. These proposed functional improvements associated with sauna bathing correspond to similar benefits seen with regular physical exercise, such as improvement in blood pressure and left ventricular function.
+3
+,
+4
+It has been documented that cardiac output is increased mainly because of the increase in heart rate during sauna bathing.
+4
+,
+12
+,
+16
+In the typical warm and relatively dry Finnish sauna, skin blood flow usually increases, leading to the higher cardiac output, whereas blood flow to internal organs decreases with an increased body temperature.
+5
+,
+16
+Sweat is secreted at a rate of 0.6 to 1.0 kg/h at temperatures of 80°C to 90°C, with a mean total secretion of 0.5 kg during a typical sauna bathing session.
+12
+,
+16
+,
+17
+Repeated sauna treatment improves endothelial function in patients with CHD risk factors and heart failure, suggesting a preventive role of thermal therapy for endothelium.
+18
+-
+20
+Previous studies
+20
+,
+21
+have found improved exercise capacity and ejection fraction, lowered incidence of arrhythmias with positive alteration of the autonomic nervous system, and reduced levels of natriuretic peptides and norepinephrine due to regular sauna treatment in patients with heart failure. Other evidence indicates that blood pressure may be lower among those who are living in warm conditions.
+22
+Regular long-term sauna bathing 2 times per week increases left ventricular ejection fraction and lowers blood pressure, especially in patients with hypertension.
+23
+Frequent sauna bathing has been proposed to improve heat tolerance during a long period.
+24
+In addition, sauna bathing has also been found to increase vital capacity, minute ventilation, and forced expiratory volume of the lungs.
+25
+,
+26
+Previous studies
+4
+,
+8
+have suggested that sauna bathing might have some harmful effects, whereas our results indicated a protective effect of sauna bathing on cardiovascular events. The possible differences in results obtained in Finnish studies compared with studies from other countries
+2
+,
+12
+may be at least partly due to the different conditions and temperature of the sauna. Dry sauna bathing seems to be safe, and even patients who have recovered from myocardial infarction and patients with stable angina pectoris or heart failure can enjoy sauna bathing without any significant adverse cardiovascular effects.
+5
+,
+26
+However, individuals who are prone to orthostatic hypotension should be cautious when sauna bathing because of a possible decrease in blood pressure, which typically occurs immediately after sauna bathing.
+2
+,
+5
+Only 1% to 2% of sudden deaths occurred within 24 hours of sauna bathing, with most of them being unintentional, and alcohol intake together with sauna bathing has been a major contributing factor for these adverse events.
+4
+,
+27
+Our representative sample of men makes it possible to generalize the observed results in male populations, although similar studies should be performed in female populations and among those who are not accustomed to regular sauna bathing. Our results of hot Finnish sauna bathing with a mean temperature of 79°C cannot be directly applied to steam rooms, hot tubs, and some other types of saunas, which may operate at lower temperatures than a typical Finnish sauna and do not allow pouring water on the rocks. Although many potential confounders were measured and adjusted for to ensure the validity of our key results, potential for residual confounding remains as with all observational studies. It is possible that underlying diagnosed or undiagnosed diseases may affect sauna bathing habits, but our subgroup analyses according to various clinical characteristics were consistent. The main findings were parallel, although we excluded participants who died during the first 5 years of follow-up. We could not correct for regression dilution bias, which may have underestimated the associations found, because we had only a one-time questionnaire-based assessment of the frequency and duration of sauna bathing during a typical week. It is possible that sauna bathing habits have changed during follow-up because of probable changes in health habits or other diseases and medications of participants occurring during a long period. Practically, Finnish people are accustomed to have a sauna bath regularly at least once per week.
+5
+This study provides prospective evidence that sauna bathing is a protective factor against the risk of SCD, fatal CHD, fatal CVD, and all-cause mortality events in the general male population. Our results suggest that sauna bathing is a recommendable health habit, although further studies are needed to confirm our results in different population settings.

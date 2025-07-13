@@ -1,0 +1,183 @@
+1. Introduction
+The age-related decrease in lean tissue mass and strength are two main factors that contribute to the development of sarcopenia [
+1
+]. Approximately 10% of the adult population ≥60 years of age has sarcopenia [
+2
+], which has a profound negative effect on functional independence and overall quality of life [
+3
+]. Furthermore, sarcopenia is associated with other age-related diseases and health conditions such as osteoporosis and physical frailty [
+3
+,
+4
+]. Several lines of research suggest that sarcopenia is caused by age-related changes in muscle protein kinetics, neuromuscular function and physiology, skeletal muscle morphology, inflammation, and mitochondrial dysregulation [
+1
+,
+5
+,
+6
+]. In addition to these cellular and mechanistic changes, insufficient physical activity and nutritional intake also contribute to sarcopenia [
+3
+,
+7
+]. Interestingly, dietary intake of creatine, a key component for muscular bioenergetics, decreases with age [
+8
+].
+The combination of creatine supplementation and resistance training has the potential to serve as an effective countermeasure to the age-related loss in lean tissue mass and strength, possibly by influencing anaerobic energy metabolism, calcium and glycogen regulation, muscle protein kinetics, inflammation and oxidative stress [
+3
+,
+9
+,
+10
+]. However, results from individual studies (
+n
+= 20) are mixed, with 10 studies showing beneficial effects on measures of lean tissue mass and/or strength (leg press, chest press) while 10 studies found no greater benefit from creatine vs. placebo (). While numerous methodological variables may explain these inconsistent findings, differences in creatine dosage and frequency of ingestion during the resistance training program is likely involved [
+10
+]. For example, of the 20 studies performed, 6 studies used a lower-dose creatine strategy (≤5 g/day for 12–26 weeks), 6 studies used a creatine-loading phase (≥20 g/day for 5–7 days) followed by a lower-dose creatine strategy (≤5 g/day) while 2 studies used a creatine-loading phase (≥20 g/day for 5–7 days), followed by a higher-dose creatine strategy (>5 g/day for 11 weeks). Furthermore, 6 studies used a higher-dose creatine strategy (>5 g/day) for 8–52 weeks. Finally, 4 of the 20 studies had participants ingest creatine only on resistance training days. The average sample size across studies was only 34 participants. Therefore, these studies were likely unpowered to detect small differences in lean tissue mass and strength (leg press, chest press). To overcome low statistical power across studies, meta-analyses are often performed.
+Table 1.
+Study characteristics, dosing strategy, and outcomes of research examining the influence of creatine in older adults with a resistance training program.
+To date, three meta-analyses have been performed involving creatine supplementation and resistance training in older adults [
+9
+,
+32
+,
+33
+]. Collectively, results showed that creatine and resistance training increased measures of lean tissue mass by ~1.2 kg and strength (leg press, chest press) more than placebo and resistance training. However, no sub-analyses were performed to determine whether the dosage of creatine used or the frequency of ingestion (i.e., only on resistance training days) influenced measures of lean tissue mass and/or strength. Since the publication of these meta-analyses, two additional studies involving creatine supplementation and resistance training in older adults have been published. Therefore, the purpose of this review was to (1) perform updated meta-analyses comparing creatine vs. placebo (independent of dosage and frequency of ingestion) during a resistance training program on measures of lean tissue mass and strength, (2) perform meta-analyses examining the effects of different creatine dosing strategies (lower: ≤5 g/day vs. higher: >5 g/day), with and without a creatine-loading phase (20 g/day for 5–7 days, and (3) perform meta-analyses determining whether creatine supplementation only on resistance training days influences measures of lean tissue mass and strength. Results from these meta-analyses may provide important information for the design of optimal creatine supplementation strategies for older adults.
+2. Materials and Methods
+We have previously published two meta-analyses in 2014 [
+9
+] and 2017 [
+32
+]. Based on our expertise in the literature, we updated these meta-analyses with recently published studies since the date of the 2017 publication [
+32
+]. PubMed and SPORTDiscus databases were searched. Similar to our previous meta-analysis [
+32
+] key terms and similar phrases were used (creatine OR creatine monohydrate OR creatine supplementation OR creatine-loading) AND (weight lifting OR weight training OR resistance training, OR resistance exercise OR strength training) AND (age OR middle-age OR older adults OR elderly). Studies with the following criteria were included: (1) healthy and chronic disease participants with a mean age >50 years of age; (2) must be a randomized control trial (RCT) where participants were randomized to an intervention group consisting of creatine monohydrate with resistance training or placebo with resistance training; (3) included outcome measures of whole-body lean tissue mass (determined with dual-energy X-ray absorptiometry [DEXA], hydrostatic weighing, air displacement plethysmography, bioelectrical impedance, or multi-site ultrasound), or upper-(chest press) or lower-body (leg press) muscular strength. Studies were excluded if they were <5 weeks in duration.
+Two researchers (S.C.F. and D.G.C.) determined whether the relevant articles were to be included, and any disagreements were resolved by consensus. Databases were searched up until February 2021. Means and standard deviations for baseline and post-training measurements were extracted from each study for estimation of mean changes and the standard deviation of mean changes across the interventions. Change scores were calculated as the pre-training mean subtracted from the post-training mean. Standard deviations (SD) for the change scores were estimated from pre and post-training standard deviations (SD-pre and SD-post) using the following equation derived from the
+Cochrane Handbook for Systematic Reviews of Interventions
+:
+SD change score = [(SD pre)
+2
++ (SD post)
+2
+− 2 * (correlation between pre and post scores) * SD pre * SD post]
+1/2
+We used 0.8 as the assumed correlation between pre- and post-scores. Heterogeneity was evaluated using χ
+2
+and I
+2
+tests where heterogeneity was indicated by either χ
+2
+p
+-value ≤ 0.1 or I
+2
+test value > 75%. We used a fixed-effects model for our meta-analysis. Weighted mean differences were calculated for lean tissue mass, along with the 95% CI. As units of measurement differed across studies for measurements of strength, calculated standardized mean differences (SMDs) and 95% CIs for leg press and chest press strength were used. Forest plots were generated using Review Manager 5.3 Software (Cochrane Community, London, UK). Significance was established at
+p
+≤ 0.05. Funnel plots were generated and inspected for publication bias. Adverse events were also extracted.
+Sub-Analyses
+To examine the influence of creatine dosage, dosing strategy was extracted and classified as either higher (>5 g/day) or lower (≤5 g/day), as well as whether the study included a “loading phase” (≥20 g/day for 5–7 days) and whether creatine was only consumed on resistance training days. Only two studies [
+15
+,
+17
+] used a creatine dosage <5 g/day. Both absolute and relative (based on body mass) dosing strategy studies were included. We estimated an absolute dose of creatine ingested per day from the product of the average body mass and the relative dose. Several sub-analyses were performed to examine the effects of creatine within each classification. Furthermore, sensitivity analysis was conducted to explore whether the overall effects depended on a single specific study.
+4. Discussion
+The most important results from these meta-analyses were: (1) creatine supplementation (independent of creatine-loading, maintenance dosage and frequency of ingestion) during a resistance training program increased measures of lean tissue mass and strength compared to the placebo and resistance training in older adults, (2) the combination of creatine-loading followed by lower-dose creatine (≤5 g/day) was effective for increasing chest press strength, (3) the combination of creatine-loading and higher-dose creatine (>5 g/day) was effective for increasing leg press strength, (4) creatine supplementation only on resistance training days significantly increased measures of lean tissue mass and strength compared to the placebo. These results have application for the design of effective creatine supplementation strategies for older adults. For example, older adults wanting to improve whole-body lean tissue mass and strength may expect these benefits from creatine supplementation (i.e., ≥5 g) either daily or only on training days during a resistance training program.
+Increasing whole-body lean tissue mass and strength is fundamental for mitigating sarcopenia and associated conditions of osteoporosis and physical frailty
+(3)
+. Older adults specifically looking to improve upper-body strength (perhaps to improve functionality, posture and/or the ability to perform upper-body activities of daily living such as carrying groceries) may need to load with creatine before proceeding to a lower daily dosage (≤5 g) during their resistance training program. To specifically increase lower-body strength (perhaps to improve balance, reduce the risk of falls and/or the ability to perform lower-body activities of daily living such as climbing stairs), older adults may need to load with creatine before proceeding to a higher daily dosage (>5 g) during their resistance training program. While some have hypothesized creatine may have harmful effects [
+34
+], a plethora of evidence shows no adverse events (compared to the placebo) with long-term supplementation [
+35
+,
+36
+,
+37
+].
+Previous meta-analyses have shown greater gains in measures of lean tissue mass (~1.2–1.3 kg) and strength from creatine supplementation and resistance training in older adults compared to the placebo [
+9
+,
+32
+,
+33
+]. Since the date of these publications, two additional studies [
+24
+,
+27
+] have been performed. When these studies were included in the current meta-analyses, creatine supplementation and resistance training still increased measures of lean tissue mass (~1.32 kg) and strength compared to the placebo. Collectively, results across meta-analyses suggest that the combination of creatine supplementation and resistance training has the potential to mitigate sarcopenia. Although none of the studies included in any of the meta-analyses were powdered to directly examine the effects of creatine vs. placebo in older adults diagnosed with sarcopenia, sub-analyses from three studies showed that the combination of creatine and resistance training eliminated the classification of sarcopenia in 11 older adults [
+20
+,
+23
+,
+26
+]. Creatine supplementation may augment lean tissue mass and strength through various mechanisms [
+3
+,
+4
+,
+10
+,
+32
+,
+37
+]. First, supplementation increases intramuscular PCr resulting in greater resynthesis of ATP during and following muscle contractions. Supplementation also increases muscle GLUT-4 content and translocation to the sarcolemma which may increase glucose uptake and subsequent glycogen resynthesis [
+38
+,
+39
+]. Creatine supplementation facilitates calcium re-uptake via creatine kinase into the sarcoplasmic reticulum, and this may increase myofibrillar cross-bride cycling, cell swelling, the expression of myogenic transcription factors (i.e., Mrf4, myogenin), satellite cell proliferation, and the expression of growth factors (i.e., insulin-like growth factor-1) [
+40
+,
+41
+]. Creatine supplementation enhances the activation of protein kinases downstream in the mammalian target of rapamycin (mTOR) pathway, and this may subsequently reduce measures of muscle protein catabolism (i.e., leucine oxidation, urinary 3-methylhistidine) [
+25
+,
+31
+]. Finally, creatine supplementation could reduce inflammation (i.e., cytokines) [
+42
+,
+43
+] and oxidative stress [
+44
+,
+45
+,
+46
+], and again, this may help reduce the loss of lean tissue mass with aging [
+4
+].
+Incorporating a creatine-loading phase during the initial stages of a resistance training program was determined to be important for improving upper- and lower-body strength. It is well established that creatine-loading results in significant elevations in intramuscular creatine levels [
+47
+]. However, the magnitude of the effect on strength outcome measures may also depend on the maintenance dosage of creatine used for the remainder of the training program.
+Regarding upper-body strength, older adults who loaded with creatine and then proceeded to ingest lower-dose creatine daily experienced greater upper body strength gains compared to those on placebo. However, independent of a creatine-loading phase, lower-dose creatine supplementation was no more effective than placebo. When all studies were included in the analysis, higher-dose creatine supplementation daily, with and without a creatine-loading phase, had no greater effect on upper-body strength compared to the placebo. However, sensitivity analysis showed that when the Candow et al. [
+27
+] study was removed, results became significant in favor of creatine. In this study, older males supplemented with higher-dose creatine daily during supervised, whole-body resistance training for 52 weeks. Results showed that changes in upper-body strength were similar between creatine and placebo over time. Both creatine and placebo groups experienced large increases in strength over time (creatine: ~69 kg; placebo: ~76 kg) which likely masked any effect from creatine supplementation.
+Regarding lower-body strength, creatine-loading followed by higher-dose creatine daily had a favorable effect on strength whereas creatine-loading followed by lower-dose creatine daily had no greater effect compared to the placebo. The magnitude of responsiveness to creatine supplementation in older adults may depend on initial intramuscular creatine levels [
+10
+,
+48
+]. There is some evidence to suggest that phosphocreatine stores decrease with aging [
+10
+], especially in muscles of the lower limbs, possibly due to type-II muscle fiber atrophy, reduced participation in high-intensity activities and reduced meat consumption [
+32
+]. Furthermore, lower-body muscle groups are more negatively affected (i.e., greater strength deficit) by the aging process than upper-body muscle groups [
+49
+]. Therefore, to overcome possible age-related changes in muscle creatine content and lower-body muscle morphology, higher creatine dosages (as opposed to lower-creatine dosages) may be needed on a daily basis after a creatine-loading phase to improve lower-body strength in older adults.
+Most importantly, all the studies identified as using a high dose (i.e., >5 g/day) were based on a relative dosing strategy (based on body mass; g/kg/day), while all the low dose studies used an absolute dosing strategy (g/day). As such, future research is required to directly compare an absolute and relative strategy to determine which method is superior.
+Older adults who ingested creatine only on resistance training days experienced greater gains in measures of lean tissue mass and strength compared to the placebo. One study implemented a creatine-loading phase prior to lower-dose creatine daily [
+30
+] whereas the other studies implemented a higher-dose daily strategy [
+25
+,
+26
+]. A common theme across all studies was that creatine was consumed within 60 min’ post-exercise. While the mechanistic actions of creatine were not determined in these studies, previous research has shown that prior muscle contractions (i.e., resistance training sessions) stimulate greater creatine uptake into muscle [
+50
+] possibly through increased activation of creatine transport kinetics [
+51
+,
+52
+]. These results may be important, as compliance to a creatine supplementation program may be higher when creatine is only consumed on training days. However, it is unknown whether older adults experience the same muscle benefits when consuming creatine supplementation daily vs. only on training days during a resistance training program. In addition, a provision of creatine from a regular diet should be accounted for a total exposure to creatine in this population since creatine consumption varies in the elderly [
+53
+].
+Although the focus of this review was on combining creatine with resistance exercise, there appears to be some benefits of creatine without concomitant exercise in older adults [
+54
+,
+55
+]. Future research may be warranted to examine the dose of creatine to enhance muscle performance without exercise.

@@ -1,0 +1,394 @@
+The daily timing and amount of sleep has changed throughout human history, particularly as our species transitioned from nomadic hunter-gatherer groups to agricultural societies and, more recently, to industrialized ones (
+Ekirch, 2006
+). Whereas historical records depict that the onset of sleep at night coincided with the inexorable arrival of dusk, modern society has crafted a sleep schedule that is heavily influenced by protected, artificially lit environments. Whether natural or artificial, light is among the most important environmental factors regulating sleep. In humans, light induces alertness and entrains a master circadian clock that regulates the timing of sleep (
+de la Iglesia and Lee, 2014
+). Thus, the ability to control our own exposure to light through artificial means likely altered when we sleep and for how long. Although this is clearly supported by human studies in sleep laboratories, testing this hypothesis in the field has been complicated by the lack of appropriate human populations. Although it is not difficult to find communities without access to electric light, it is difficult to find communities of the same ethnic and sociocultural background with free access to electricity that can be studied simultaneously.
+The Toba/Qom are one of the 3 main indigenous groups in the Argentinean Gran Chaco region (provinces of Formosa and Chaco) of northeastern Argentina (
+Braunstein and Miller, 1999
+;
+Valeggia et al., 2010
+). The Western Toba represent a subgroup living in the western region of the province of Formosa (23°47′ S, 61°48′ W). Traditionally hunter-gatherers, they now exhibit a spectrum of subsistence and lifestyle patterns. Some live in neighborhoods on the outskirts of small towns, whereas others live in relatively isolated villages of 20 to 600 people and still rely on hunting and gathering for at least part of their subsistence (
+Lanza et al., 2009
+;
+Valeggia et al., 2010
+). We studied 2 Western Toba communities within this region. The first one has 24-h access to electricity (Electricity); the second one lives ∼50 km away and has no access to electricity (NO-electricity). This latter community relies on daylight for their daily activities. To examine the hypothesis that access to electric light affects the timing and amount of sleep, we fitted participants in each community with wrist data loggers that measure motor activity and light exposure with high-frequency sampling, allowing quantification of sleep duration and timing.
+Materials and Methods
+Study Communities
+We studied participants in 2 Toba/Qom communities in the province of Formosa. The first community is located in the outskirts of the small town of Ingeniero Juárez (23°47′ S, 61°48′ W), and all the participants from this community have access to electric light throughout the 24-h day. The second one lives in a rural area 50 km north of the first community and has no access to electric light; although some children of school age could be exposed to electric light at the school, this never happened outside of the natural daylight hours. People in both communities share the same ethnohistorical past. In fact, people in the Electricity community originated from a few families who migrated from the NO-electricity community and its surroundings in the early 1990s; people are related by blood both within and between communities. In a spectrum of market integration, people in the Electricity community are more settled and participate less in foraging activities than people in the NO-electricity community, who rely more on hunting, gathering, and fishing for part of their subsistence, particularly during the summer when foraged items are more abundant. Importantly, the type of housing, daily chores participants are involved in, and social behavior are similar for both communities. Most adults in both communities are unemployed and subsist on governmental subsidies and/or very short-term temporary jobs; only one of the participants in the Electricity community had a job as a nurse requiring a regular schedule, which did not involve waking up before sunrise.
+These communities experience a seasonal change in daylight of almost 3 h per day between the winter and summer solstices (
+Erkert et al., 2012
+). The first study took place close to the summer solstice, between November 24 and December 2, 2012. The second one was close to the winter solstice, between August 7 and August 21, 2013. Participants included adults and adolescents (ages 14-49 years) of both sexes. The mean ages (± SEM) for the summer and winter studies were, respectively, 17.3 ± 2.4 and 27.4 ± 3.1 for the NO-electricity groups and 28.8 ± 5.8 and 29.1 ± 2.7 for the Electricity groups. A 2-way analysis of variance on the ages revealed no statistically significant effects of season, electricity, or the interaction, although there was a trend for the NO-electricity group to be younger (
+F
+1,27
+= 3.44,
+p
+= 0.07 for electricity;
+F
+1,27
+= 2.1,
+p
+= 0.16 for season;
+F
+1,27
+= 1.9,
+p
+= 0.18 for the interaction). All groups had 50% of female participants, except for the winter Electricity group, which included 73% of female participants. Due to the small sample size for each category, we did not analyze the statistical effects of age or sex. Sleep was sampled in both seasons for only 2 participants in the NO-electricity community and 1 in the Electricity community, preventing us from carrying out repeated-measures statistical tests. The experimental protocol was approved by the University of Washington Institutional Review Board. Oral consent was obtained after verbally explaining, in Spanish, the procedures to the participants. Parental oral consent was obtained for participants younger than 18 years. A printed copy of the detailed protocols and the rationale for the research study, in layperson language, was left with each family group, as most adolescents and adults in each family group could read Spanish.
+Actigraphy and Sleep Data
+For the summer study, we fitted 6 participants in each of the 2 communities with wrist data loggers (Actiwatch-L; Mini Mitter, Bend, OR) during 6 to 8 days. For the winter study, we fitted 11 and 8 participants in the Electricity and NO-electricity communities, respectively, during 4 to 13 days. Data loggers were programmed to record activity and light exposure at 1-min intervals. Locomotor activity (total counts per minute) or light exposure (light intensity at the end of the 1-min bin) data were then averaged for intervals of 20 min. These 20-min averages of activity and light exposure throughout the days were used to construct an individual waveform—namely, the 24-h profile of activity or light exposure for each individual that is based on all the sampled days (
+Suppl. Fig. S1
+). A mean waveform was then constructed by averaging the corresponding 20-min bins of all the individuals within each community.
+Sleep Parameters
+Participants kept an individual sleep diary in which they recorded bedtime, rise time, whether they took any naps, and whether they traveled outside their home community. All participants were literate enough to fill out the diaries in Spanish. Researchers lived on a site between the 2 study communities and visited each one daily to confirm that participants were properly recording diary entries. Bedtimes recorded in the sleep diaries were manually input into the Sleep Analysis package of the Mini Mitter Software (version 3.4). We then used the software to estimate the following parameters for each night: sleep onset, sleep latency (time between bedtime and sleep onset), sleep offset, sleep duration, rise time (reported wakeup time in the sleep diary), and fragmentation index (an index of restlessness during sleep based on interrupted immobility bouts within the nocturnal sleep episode).
+Statistics
+Twenty-minute mean waveforms for activity and light exposure were analyzed by 2-way analysis of variance (ANOVA) with factors electricity (NO-electricity vs. Electricity) and time. Homogeneity of variance was tested with the Bartlett test. When variances were not homogeneous, data were converted to log (
+x
+) or log (
+x
++ 1), where
+x
+is the value of activity or light intensity, respectively. Sleep parameters were analyzed with a 2-way ANOVA with factors electricity and season (
+Table 1
+); when the respective effect was statistically significant, comparisons were done with Bonferroni correction for multiple comparisons.
+Table 1. Sleep Parameters and Statistical Analysis.
+Sleep Parameters (Mean ± SEM)
+Two-Way ANOVA Effects
+NO-Electricity, Summer (Winter)
+Electricity, Summer (Winter)
+Electricity (
+F
+1,27
+;
+p
+Value)
+Season (
+F
+1,27
+;
+p
+Value)
+Interaction (
+F
+1,27
+;
+p
+Value)
+Bedtime
+21:51 ± 0:14 (21:46 ± 0:12)
+22:59 ± 0:19 (22:45 ± 0:15)
+(16; 0.0005)
+(0.34; 0.56)
+(0.08; 0.78)
+Sleep onset
+22:14 ± 0:12 (22:12 ± 0:09)
+23:17 ± 0:14 (23:06 ± 0:18)
+(13; 0.0011)
+(0.16; 0.69)
+(0.08; 0.78)
+Sleep latency
+0.92 ± 0.23 (1.09 ± 0.25)
+0.60 ± 0.40 (1.10 ± 0.32)
+(0.22; 0.64)
+(1.0; 0.32)
+(0.25; 0.62)
+Sleep duration
+6.98 ± 0.18 (8.47± 0.23)
+6.27 ± 0.28 (7.53 ± 0.18)
+(14; 0.0010)
+(38; < 0.0001)
+(0.26; 0.61)
+Sleep offset
+06:23 ± 0:11 (07:29 ± 0:10)
+06:40 ± 0:22 (07:31 ± 0:14)
+(0.43; 0.52)
+(15; 0.0006)
+(0.25; 0.62)
+Rise time
+06:51 ± 0:12 (07:44 ± 0:13)
+06:53 ± 0:22 (07:55 ± 0:15)
+(0.16; 0.69)
+(12; 0.0017)
+(0.085; 0.77)
+Fragmentation index
+31.95 ± 2.48 (21.24 ± 3.69)
+28.25 ± 4.79 (25.63 ± 1.68)
+(0.012; 0.91)
+(4.5; 0.0438)
+(1.6; 0.21)
+Results
+Access to Electricity Is Associated with Changes in Daily Activity
+For the study close to the summer solstice, the temporal distribution of daily activity differed in the 2 communities (
+Fig. 1A
+). The mean activity waveforms showed less variability in locomotor activity levels in the NO-electricity than in the Electricity community (SD = 138 vs. 209; Bartlett test,
+F
+= 50,
+p
+< 0.0001). Inspection of the individual activity profiles (
+Suppl. Fig. S1A
+) suggests that the higher variance in the Electricity group results from higher intra- and inter-individual variability. Reduced interindividual variability in the NO-electricity group is consistent with the synchronous and more abrupt decrease and increase of activity at the times of sunset and sunrise, respectively (
+Fig. 1A
+). A 2-way ANOVA on the average waveforms of activity data from each group presented in
+Figure 1A
+yielded statistically significant effects of time (
+F
+71,710
+= 32,
+p
+< 0.0001) and of the interaction between time and group (
+F
+71,710
+= 1.9,
+p
+< 0.0001) but not of group (
+F
+1,10
+= 0.6,
+p
+= 0.45). The pattern of activity between the two communities was similar to the patterns of light exposure between the 2 groups (
+Fig. 2
+). The variance in light exposure was also higher in the Electricity than in the NO-electricity group (SD = 1788 vs. 1225; Bartlett test,
+F
+= 60.10,
+p
+< 0.0001), and the 2-way ANOVA showed statistically significant effects of time (
+F
+71,710
+= 163,
+p
+< 0.0001) and interaction between time and group (
+F
+71,710
+= 3.1,
+p
+< 0.0001) but not of group (
+F
+1,10
+= 2.0,
+p
+= 0.18). When we focused our comparison of light exposure between the 2 groups on the evening hours, we found that the NO-electricity group was exposed to light of higher intensity (
+Fig. 2
+).
+Figure 1.
+Rest-activity profiles and sleep parameters differ between Toba communities living without access to electricity (NO-electricity) and with free access to electricity (Electricity). (A, B) Mean waveforms for the 2 communities during the summer (A) and winter (B). (C, D) Sleep parameters derived from sleep diaries combined with wrist actimeters for each community during the summer (C) and winter (D). *, †, and ¥: significantly different from NO-electricity (
+p
+= 0.05) for bedtime, sleep onset, and sleep duration, respectively; post hoc comparisons, Fisher's least significant difference test. Summer,
+n
+= 6 for both communities; winter,
+n
+= 8 and 11 for NO-electricity and Electricity, respectively. Dashed lines mark sunset and sunrise times. Data represent mean ± SEM.
+Figure 2.
+Light-exposure profiles in Toba communities living without access to electricity (NO-electricity) and with free access to electricity (Electricity). Mean waveforms for the 2 communities during the summer and winter are shown. *Significant difference between groups (
+p
+< 0.05), post hoc comparisons, Fisher's least significant difference test. Data represent mean ± SEM.
+To assess whether there were seasonal effects on the sleep patterns in the 2 communities, we conducted a second study during the winter solstice. The temporal distribution of daily activity also differed between the 2 communities during the winter (
+Fig. 1B
+). The variance for the Electricity group was lower than in the NO-electricity group (SD = 118 vs. 186; Bartlett test,
+F
+= 114,
+p
+< 0.0001). A 2-way ANOVA revealed statistically significant effects of time (
+F
+71,1207
+= 98,
+p
+< 0.0001) and the interaction (
+F
+71,1207
+= 2.3,
+p
+< 0.0001) but not of group (
+F
+1,17
+= 0.5,
+p
+= 0.46). Inspection of the average waveforms also suggests a more synchronous wake offset and onset in the NO-electricity community, which was more closely associated with sunset and sunrise, respectively. The NO-electricity group showed higher activity levels as reflected by a larger mean area under the curve than did the Electricity group (2-tailed Student
+t
+test,
+t
+17
+= 3.1,
+p
+= 0.007). The analysis of light exposure data (
+Fig. 2
+) showed that the variance was lower in the Electricity group than in the NO-electricity group (SD = 1176 vs. 1363; Bartlett test,
+F
+= 12,
+p
+= 0.0004), and a 2-way ANOVA showed statistically significant effects of time (
+F
+71,1207
+= 331,
+p
+< 0.0001) and group (
+F
+1,17
+= 4.7,
+p
+= 0.04, with higher intensity light exposure for the Electricity group) and no effect of the interaction (
+F
+71,1207
+= 0.5,
+p
+= 0.9). In contrast to the summer results, comparisons of light exposure during the winter evening hours revealed that individuals in the Electricity group were exposed to higher light intensities (
+Fig. 2
+).
+Access to Electricity Is Associated with Shorter Sleep Duration
+The activity profiles for each community (
+Fig. 1A,B
+) suggest that access to electric light is associated with shorter sleep duration regardless of season (
+Table 1
+). During the summer, sleep duration in the NO-electricity community was 43 ± 21 min longer than in the Electricity community (
+Fig. 1C
+). Although this difference did not reach statistical significance in the Bonferroni post hoc comparison, it was statistically significant when evaluated with a 1-tailed Student
+t
+test (
+t
+10
+= 2.1,
+p
+= 0.03). During the winter, the NO-electricity group slept on average 56 ± 17 min more than did the Electricity community (
+Fig. 1D
+); the difference was statistically significant. In both seasons, the longer duration of sleep in the NO-electricity community was due to a significantly earlier bedtime (summer: 68 ± 24 min; winter: 59 ± 20 min) and sleep onset (summer: 63 ± 25 min; winter: 54 ± 20 min) than in the Electricity community; however, both groups experienced a similar sleep offset and rise time within each season (
+Table 1
+;
+Fig. 1C,D
+; see figure legends for post hoc comparisons). Interestingly, the variance for sleep onset was greater for the Electricity group than the NO-electricity group in the winter (
+F
+10,7
+= 5.5,
+p
+= 0.03) but not in the summer (
+F
+5,5
+= 1.3,
+p
+= 0.8). The sleep onset variance within subjects (from day to day) did not differ for any of the seasons (2-tailed Student
+t
+test with Welch's correction for mean individual variances:
+t
+12.9
+= 0.83,
+p
+= 0.4 for winter;
+t
+5.75
+= 1.35,
+p
+= 0.2 for summer).
+Sleep duration, sleep offset, rise time, and fragmentation index were also related to the season (
+Table 1
+). Individuals in both communities had shorter sleep durations during the summer than during the winter (
+Fig. 3
+). These differences were associated with a delay of 62 ± 22 min in the winter rise time (compared to summer rise time) for the Electricity community and a delay of 66 ± 22 min in the winter sleep offset (compared to summer sleep offset) for the NO-electricity community (
+Fig. 3
+). Rise time in the NO-electricity community showed a trend to occur earlier during the summer (not statistically significant in the Bonferroni comparison but significant with a 1-tailed Student
+t
+test,
+t
+12
+= 2.8,
+p
+= 0.007). Sleep offset in the Electricity community showed a trend to occur earlier during the summer (not statistically significant in the Bonferroni comparison but significant with a 1-tailed Student
+t
+test,
+t
+15
+= 2.06,
+p
+= 0.029). Thus, in both communities, longer sleep duration during the winter was associated with later sleep offsets and rise times, rather than with earlier bedtimes and sleep onsets. Finally, there was a trend for sleep to be more fragmented in the summer than in the winter for the NO-electricity community (not significant in the Bonferroni comparison but significant with a 1-tailed Student
+t
+test,
+t
+12
+= 2.23,
+p
+= 0.023).
+Figure 3.
+Sleep parameters differ between winter and summer in Toba/Qom communities with and without access to electricity. Symbols as in
+Fig. 1C, D
+but significant differences are compared to the same community during the winter. Data represent mean ± SEM.
+Discussion
+We found that access to electricity in traditionally hunter-gatherer Toba/Qom communities is associated with later bedtimes and sleep onsets but not with later sleep-offset or rise times, leading to a shorter daily sleep duration than in individuals without access to electricity. This difference in sleep timing between the 2 communities also differed with season, with the community who had access to electricity sleeping approximately 40 min less in summer and an hour less in winter than the community without electricity. Examination of light levels in the 2 groups revealed that individuals in the community with access to electricity were exposed to brighter light intensities during the winter evenings, suggesting that their later sleep onset and shorter sleep duration are the result of their access to electric light. Similarly, a recent report of modern humans living in Stone Age conditions for 2 months found that the participants extended their time in bed and duration of sleep by approximately 90 min, with the majority of the extension achieved by earlier bedtimes (
+Piosczyk et al., 2014
+).
+Our findings are consistent with the hypothesis that access to electricity has allowed humans to extend the evening light hours, thereby delaying the time of sleep onset and reducing daily sleep duration (
+Czeisler, 2013
+). Most previous studies assessing the direct effects of artificial light on human sleep have been limited to laboratory experiments, in which the light can be controlled and manipulated as an independent variable. Light can directly affect human sleep through 2 mechanisms. First, light has direct effects on our ability to stay awake and active. This is, in part, by enabling us to stay alert and engage in activities that are not possible in the dark (
+Rahman et al., 2014
+) but also by directly inhibiting physiological systems that facilitate sleep, such as the nocturnal onset in the release of the hormone melatonin (
+Gooley et al., 2011
+;
+Wehr, 1999
+). Second, light can directly reset the phase of the circadian pacemaker responsible for the timing of sleep, which is remarkably sensitive to environmental light (
+Boivin et al., 1996
+;
+Czeisler et al., 1989
+;
+Zeitzer et al., 2000
+).
+Field studies, in which the presence or absence of electric light is simultaneously studied in similar populations, are scarce. Indeed, there has been to date only one such report in which actimetry was used.
+Peixoto and collaborators (2009)
+studied adolescents with or without electricity in their home but attending the same school. Access to electricity at home was associated with a later sleep onset but not necessarily with shorter sleep duration. This result could be in part confounded by the fact that some of the students in the households without electricity went to artificially lit classes in the evening. Indeed, access to electricity was associated with shorter sleep times in adolescents who went to school in the morning but not in those who went to school in the afternoon. Importantly, adolescents in our study attended school in the morning, and school times were always during daylight hours; thus, students in neither community were exposed to electric light at school outside of natural daylight times. A recent study using actimetry in adults in a Haitian community without access to electricity suggested that, whereas the time in bed was longer than in more industrialized U.S. communities, sleep duration was not (
+Knutson, 2014
+).
+Wright and colleagues (2013)
+studied the sleep-wake cycle using actimetry and the phase of the circadian clock—assessed through melatonin release—in participants under typical conditions with access to artificial light and again in the same participants during a week-long camping trip under natural light conditions. This intervention study found that access to artificial lighting (and its corresponding enclosed environment) delayed both sleep timing and the phase of the circadian clock compared to the same variables measured under natural light-dark conditions. In contrast to our results, the authors did not find an effect on sleep duration in that short-term intervention.
+The length of the natural night (from sunset to sunrise) during summer and winter in our study was 10.5 vs. 12.9 h, respectively. The delay in sleep onset and shorter sleep duration in the community with electricity were present during both seasons; however, sleep duration in the 2 communities differed less during the summer than during the winter (43 vs. 56 min, respectively). This result and the fact that individuals living under natural light had less exposure to light during the winter evening hours suggest that during the winter, artificial light may interfere more with the natural sleep pattern than during the summer (
+Bekinschtein et al., 2004
+).
+Laboratory studies assessing the effect of long vs. short nights on sleep timing, duration, and quality determined that long nights are associated with more fragmented sleep and with a nocturnal sleep episode split into 2 by an interval of quiet wakefulness (reviewed in
+Wehr, 1999
+). In fact, these laboratory studies, as well as field studies using sleep diaries (
+Worthman and Brown, 2007
+;
+Worthman, 2009
+), have suggested that the consolidated sleep episode, which characterizes humans in modern societies, may be a consequence of a protected, artificially lit environment, where shielding from sleep disruptors and naturally long nights makes a consolidated bout of sleep possible. This is supported by historical records that portray a typical night as one that contains bouts of waking (
+Ekirch, 2006
+). Our results do not show evidence of fragmented sleep or a bout of quiet wakefulness in either community during the winter. In fact, in the NO-electricity community, the fragmentation index showed a trend to be higher in the summer than in the winter, which could be due to the high temperatures during the summer nights, when the temperature minimum can reach 30°C. Alternatively, this increased fragmentation may reflect the fact that the summer sample was taken around full moon nights, when individuals in the NO-electricity community reported being more active. Moon phases have been shown to be associated with specific changes in sleep changes (
+Cajochen et al., 2013
+); this association could potentially be stronger in the NO-electricity community. During the winter, at the subtropical latitude of our study site, the night (in the absence of civil twilight) is never longer than 12.3 h; the absence of sleep fragmentation or quiet wakefulness in this season could be due to the fact that 12.3 h of darkness may not be long enough to facilitate them. This is consistent with the findings of
+Piosczyk et al. (2014)
+, who also did not observe sleep fragmentation under Stone Age living conditions in the summer, when the photoperiod was about 15 h. Future studies in indigenous populations during winter at higher latitudes will need to be carried out to explore whether this occurs under natural conditions (
+Bekinschtein et al., 2004
+). Wehr and collaborators reported that, compared to simulated short 8-h nights, simulated long 14-h nights led to longer episodes of nocturnal sleepiness and a longer and more fragmented nocturnal sleep bout (
+Wehr, 1999
+;
+Wehr et al., 1993
+). Interestingly, both Toba/Qom communities showed longer sleep times during the winter than during the summer, suggesting that a natural tendency to longer sleep as nights get longer is not fully overridden by access to electric light. This finding is consistent with seasonal variation in sleep parameters in European northern latitudes (
+Friborg et al., 2012
+;
+Hjorth et al., 2013
+) and with the hypothesis that the human circadian clock is influenced by solar time, particularly among people who live in small communities (
+Roenneberg et al., 2007
+).
+During both seasons, the start of the rest phase was less synchronous in the Electricity community than in the NO-electricity community. The more synchronous sleep onset under natural light conditions likely reflects the fact that under these conditions, daily activities are tightly synchronized to the availability of sunlight and never take place in a self-selected artificially lit environment. This is clearly reflected by the fact that during the winter, the onset of sleep is more variable in the Electricity community, which is likely the result of each participant's choice of time to turn the lights off and go to sleep. This variability is likely also influenced by access to electronic devices such as radios, televisions, computers, and so on that may delay bedtime. Notably, the Argentinean government provides every high school student, including those in the communities we studied, with a laptop, which is obviously of limited use in the communities without electricity. Finally, analysis of the area under the activity curve showed that activity in the NO-electricity group was higher than in the Electricity group during the winter. This result suggests that the availability of electricity may have complex impacts on activity levels beyond the effect of extending wakefulness into the evening hours.
+We recognize that a field study such as ours, in an ethnic group living in such a remote area, has inherent limitations. Specifically, we cannot manipulate light exposure as an independent variable, and therefore we can only establish relationships between the access to electric light and sleep patterns. Electricity was not only associated with a readily available source of artificial light but was also associated with a more comfortable and protected living environment. Furthermore, households in the electricity community typically have a television, which may not only change the exposure to light but also act as a stimulus to remain inside and awake during the evening. We are aware that the number of participants, particularly for the summer study, is relatively small. Nevertheless, a reduction of up to 1 h in the duration of sleep for the community with electricity points at a biologically relevant change in sleeping patterns. This statistically significant difference supports the prespecified hypothesis that electricity delays sleep onset and shortens sleep. Finally, although differences in daily habits between the 2 communities studied could contribute to our results, both communities live in very similar types of housing and have a similar social life, with large family groups that share a common piece of land with several houses.
+Although daily sleep duration in industrialized groups is generally believed to have decreased relative to nonindustrialized groups, whether we have shortened our sleep and how much is still controversial (
+Bin et al., 2012
+;
+Matricciani et al., 2011
+). Nevertheless, several recent studies have found strong evidence for reduced sleep in modern societies (
+Carskadon, 2011
+;
+Klerman and Dijk, 2005
+;
+Matricciani et al., 2012
+). Daily sleep duration has lately received particular attention because of its clear link to both mental and physical health, safety, and performance (
+Czeisler, 2015
+); both excessively short or long sleep duration have been linked to disease and increased mortality (
+Cappuccio et al., 2008
+;
+Cappuccio et al., 2010
+;
+Knutsson, 2003
+). We found that sleep duration averaged 7 h in summer and nearly 8.5 h in winter in the community without access to electric light. While the winter sleep duration is longer than that typically reported from individuals in industrialized societies, the summer time duration is not (
+Ohayon et al., 2004
+;
+Reyner et al., 1995
+;
+Roffwarg et al., 1966
+).
+Our field study in communities with and without electricity, but that are otherwise ethnically and socioculturally homogeneous, shows that access to electric light is associated with later bedtime and sleep onset timing, as well as reduced sleep duration. During the past century, the use of electric light has dramatically increased and its cost decreased (
+Ayres and Warr, 2004
+), which likely reduced our daily sleep time. Our study shows that the presence of electricity reduces sleep—a salient trait in human biology—in a traditionally hunter-gatherer group, a condition that represents a proxy for the human ancestral sleep-wake cycle. Importantly, the Toba/Qom community with access to electricity that we studied has remarkably less access to brightly artificially lit environments, appliances, eReaders, and sources of mass media than typical communities in industrialized societies (
+Chang et al., 2015
+); thus, the reduction of sleep we report likely underestimates the effect of electricity on human sleep.

@@ -1,0 +1,129 @@
+(
+A
+to
+Q
+) Effects of bilateral muscimol nanoinjections into the DP/DTT [(A) to (F) and (M) to (Q)] or the IL [(G) to (L)] on SDS-evoked BAT thermogenesis and hyperthermia [(A) to (L)] or cardiovascular responses [(M) to (Q)]. After saline or muscimol injections [1 mM; (A) to (L): 200 nl per site, (M) to (Q): 100 nl per site; marked by green microspheres in (A) and (G); scale bars, 500 μm] into the DP/DTT [(A), (B), and (M)] or the IL [(G) and (H)] (the right side of the symmetric bilateral injections is shown), animals were exposed to SDS [gray zones in (C), (E), (I), (K), (N), and (P)]. All rats (
+n
+= 5 per group) underwent two stress trials, >1 week apart, with saline (first trial) and muscimol (second trial) injections at the same sites. Time-course changes in
+T
+BAT
+,
+T
+core
+, HR, and MAP were analyzed by repeated measures two-way analysis of variance (ANOVA) [(C): injectant:
+F
+1,4
+= 19.85,
+P
+= 0.011, time:
+F
+180,720
+= 8.976,
+P
+< 0.001, interaction:
+F
+180,720
+= 8.68,
+P
+< 0.001; (E): injectant:
+F
+1,4
+= 36.89,
+P
+= 0.004, time:
+F
+180,720
+= 10.93,
+P
+< 0.001, interaction:
+F
+180,720
+= 10.38,
+P
+< 0.001; (I): injectant:
+F
+1,4
+= 22.5,
+P
+= 0.009, time:
+F
+180,720
+= 25.47,
+P
+< 0.001, interaction:
+F
+180,720
+= 4.63,
+P
+< 0.001; (K): injectant:
+F
+1,4
+= 0.35,
+P
+= 0.585, time:
+F
+180,720
+= 12.64,
+P
+< 0.001, interaction:
+F
+180,720
+= 2.07,
+P
+< 0.001; (N): injectant:
+F
+1,4
+= 27.99,
+P
+= 0.006, time:
+F
+180,720
+= 15.54,
+P
+< 0.001, interaction:
+F
+180,720
+= 2.48,
+P
+< 0.001; (P): injectant:
+F
+1,4
+= 55.59,
+P
+= 0.002, time:
+F
+180,720
+= 11.16,
+P
+< 0.001, interaction:
+F
+180,720
+= 2.47,
+P
+< 0.001] followed by Bonferroni’s post hoc test (red bars with asterisks indicate time points with significant differences). Area under the curve (AUC) during the stress period was analyzed by paired
+t
+test [(D):
+t
+4
+= 7.57; (F):
+t
+4
+= 5.93; (J):
+t
+4
+= 3.46; (L):
+t
+4
+= 1.39; (O):
+t
+4
+= 4.39; (Q):
+t
+4
+= 6.92]. *
+P
+< 0.05; **
+P
+< 0.01; ***
+P
+< 0.001. Error bars indicate SEM. bpm, beats per minute.

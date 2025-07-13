@@ -1,0 +1,78 @@
+Attention task
+Attention was measured by means of an adapted version of the Eriksen Flanker Task (Eriksen and Eriksen
+1974
+). The task was programmed (programming languages Objective-C and Swift) by the IT department of the Vrije Universiteit. Arrows, instead of letters as in the original task, were used as target stimuli. The test was presented on an iPad and included three series with increasing difficulty levels. Prior to the start of each series, written instructions were presented on the screen, followed by a practice trial. There are two trial types, with either congruent or incongruent stimuli. The congruent trial is a horizontally arranged array of arrows presented in the same direction (e.g., <  <  <  <  < or >  >  >  > >). The incongruent trial has a similar array of arrows, but the middle arrow, the target, is displayed in the opposite direction (e.g., <  <  >  <  < or >  >  <  > >). The first series consisted of trials presenting five green arrows. Participants had to touch, as fast as possible, one of the two arrow-shaped buttons on the bottom of the screen, that pointed in the same direction as the middle arrow. In the next series trials of five red arrows were presented. This time participants were instructed to touch the button that pointed in the opposite direction of the middle arrow. The third series consisted of trials of green or red arrows. If the arrows were green, participants had to touch the button that pointed in the same direction as the middle arrow, and if the arrows were red, they had to touch the button that pointed in the opposite direction of the middle arrow.
+All trials started with a fixation cross on the center of the screen for 1000, 1500 or 2000 ms (random), followed by the presentation of five arrows during 2500 ms. The interstimulus interval (ISI) was 100 ms, and maximum response time 2500. In each series 60 trials were presented, with a randomized order of congruent and incongruent trials. The total task duration was approximately 3.5 min. The reaction time (RT) and the number of false responses on incongruent trials of the third series were taken as output variables.
+EEG recording
+EEG was recorded using 19-channel electrode caps with international 10–20 electrodes placement (Jaspers
+1958
+) on a 32-channel Deymed system (sampling rate 1024 Hz downsampled to 128 Hz, Notch filter 50/60 Hz, anti-aliasing filter 50 Hz, Butterworth filter 0.1–100 Hz). Electrode skin impedance was kept below 8 kΩ. An electrode at Fpz served as ground electrode. In addition, electrodes were placed on the left and on the right earlobes which were used for offline linked-ear (LE) reference. The EEG system was connected to a portable computer. For each electrode, the absolute power was recorded in μV2.
+Auditory stimuli
+Pink noise (PN), monaural beats and binaural beats were presented with a comfortable speech volume through headphones (Sennheiser) connected to an iPod. The headphones were wired through the tubes of a stethoscope to prevent any influence on the EEG recording.
+MB as well as BB were presented with frequencies of 440 Hz and 480 Hz, resulting in a perceived frequency of 40 Hz. With respect to MB, both frequencies were transmitted through both channels, whereas the BB 440 Hz was transmitted through one channel and 480 Hz through the other channel. The auditory stimuli were programmed by means of the audio editor Audacity (V2.3) by the IT department of the Vrije Universiteit.
+Procedure
+The study took place in a sound-attenuated room at the Vrije Universiteit. Before the start of the experiment the participants received information and signed an informed consent. They were seated in a comfortable chair and were instructed to sit quiet and relaxed and to look forward at the clean wall. Besides eye blinking, no movements were allowed. After the electrode cap was placed, participant number, age and gender were entered in the tablet and the participant started with the practice trials of the Flanker task. Thereafter, participants put on the headphones and auditory volume was set to a level that the participant indicated as comfortable. Subsequently, one of the three conditions started. The order of presentation of PN, BB and MB was randomized, using a within-subject crossover design, meaning that all participants performed the Flanker task during PN, BB and MB. The exposure to PN, MB and BB was 5 min. Conditions were separated by a 1 min break. The parameters of the Flanker task were randomly predefined, which can be assumed to minimize learning effects. During the whole test procedure, the EEG was recorded. The start and end of each auditory condition were indicated by marks on the sampled EEG signals. The total test procedure took about 1.5 h. After the last condition was finished, the EEG cap was taken off and the participants received a debriefing.
+This study was positively assessed by the Scientific and Ethical Review Committee of the Faculty of Behavioural and Movement Sciences of the Vrije Universiteit.
+EEG processing
+Selection of artifact-free EEG data for further analysis was done by an EEG expert after screening for seizure activity and/or abnormal EEG patterns. Data files were screened for eye blinks, eye-movement in vertical and lateral ways, technical flaws and distortion by frontal and temporally located muscle contractions. For this aspect, the EEG expert visually inspected the EEG data and additionally used the program Persyst 14 (Persyst Development Corporation, San Diego) with the automated—built in tool—for spike analysis. The Persyst spike algorithm allows the detector to be extremely sensitive while maintaining a low false-positive rate and was found to perform similar to human EEG readers. The algorithm uses a set of advanced neural networks, applied across several different montages, to monitor EEG background, the presence or absence of artifacts, the waveform morphology and voltage field spread of possible abnormalities. A more detailed description of the algorithm and comparison with the performance of human EEG readers can be found in Scheuer et al. (
+2017
+). For artifact rejection, the automated selection tool of another program (i.e., NeuroGuide (V3.0.0.1)) was used. For ocular artifact rejection electrodes Fp1 and Fp2 were used. Default for eye movement and drowsiness selection is 'high' which is the most sensitive setting and 1.5 standard deviations threshold for the Amplitude Multiplier. The Z Score of 1.5 standard-deviations means that if at least one second of successive instantaneous Z Scores are equal to or less than 1.5 standard deviations then a selection is made (Applied Neuroscience
+2018
+). Data of individual EEG recordings were included only when there was a minimum of 20 s artifact-free data.
+Statistical analysis
+The mean reaction time (RT) and number of false responses on incongruent trials of the third series of the Flanker task were used to measure the effect of the different conditions on speed and quality of attention performance. The data were explored to check for normality. All variables deviated from a normal distribution. After square root transformation the data of the false responses appeared to be normally distributed. Therefore, the number of false responses were analyzed by means of mixed Anova, with gender as between subjects factor and condition (e.g., PN, MB and BB) as repeated measures factor. As different gender appeared to influence RT of the Flanker task, we included gender as between subjects factor. To correct for possible baseline differences between males and females, data of false responses in the PN condition served as covariate. As planned comparisons, we used simple contrasts to compare the false responses of the MB condition and the BB condition with those of the PN condition. In spite of square root, log or log 10 transformation Kolmogorov–Smirnov test indicated that RT data in the MB and BB condition remained deviant from normal (SQRT transformation:
+p
+= 0.039 and
+p
+= 0.008; log/log 10 transformation,
+p
+= 0.052 and
+p
+= 0.026). Therefore, the non-parametric Friedman test for repeated measures was used to test for a difference in RT over the three conditions. As post hoc test the Wilcoxon Signed-Rank test was used. Effect sizes were calculated as
+r
+=
+Z
+/√
+N
+(Rosenthal
+1994
+), with values 0.10—< 0.030 defined as being small, 0.30–0.50 as being medium and ≥ 0.50 as being large (Cohen
+1977
+).
+NeuroGuide (Version 3.0.0.1) with LE reference was used for generating tables of absolute power spectra of each individual for further analyses in SPSS (IBM SPSS Statistics for Macintosh, version 24.0). The power spectral value for any frequency intensity is: F(x) = (a
+2
+(x) + b
+2
+(x)). That is, the power spectrum is the sum of the squares of the sine and cosine coefficients at a specific frequency. A full description of the computation of the power spectrum can be found in Thatcher et al. (
+2007
+).
+All variables were continuous and paired over the subjects, as all the subjects were exposed to all three conditions. To measure the effect of the auditory stimulation on the EEG, the absolute power in μV
+2
+for each electrode for the frequencies 1–50 Hz was recorded and Linked Ears (LE) was chosen as reference for EEG analysis. Out of all recordings, the frequencies of 40 and 45 Hz of frontal electrodes F3, F4, F7, F8, Fp1, Fp2 and Fz as well as temporal electrodes T3, T4, T5 and T6 were chosen to focus on in this study. We choose to include the frequency of 45 Hz because auditory stimulation of 30–60 Hz induced maximal potentials around 45 Hz (Artieda et al.
+2004
+) and visually evoked oscillations in the gamma band (40–48 Hz) have been found to reach values up to 46 Hz (Başar et al.
+2015
+).
+As electrodes T5 and T6 are also called parietal-temporal electrodes and have been renamed in the higher-resolution nomenclature (Modified Combinatorial Nomenclature; MCN) P7 and P8 (Oostenveld and Praamstra
+2001
+), we selected these electrode locations to cover parietal measurements.
+In addition, all data of the frontal electrodes were averaged and the same applies to the temporal electrodes.
+As EEG data appeared to deviate from a normal distribution, the non-parametric Friedman test for repeated measures was used to test for a difference in μV
+2
+over the three conditions. This test is the non-parametric alternative to the one-way ANOVA with repeated measures and provides the test statistic
+χ
+2
+, degrees of freedom and the significance level. Samples do not need to be normally distributed and dependent variables should be measured at the ordinal or continuous level. As this test does not allow for multivariate testing we repeated the Friedman test for each electrode, i.e., 11 tests were performed for 40 Hz and 11 tests for 45 Hz. In case of a significant effect, the Wilcoxon Signed-Rank test was used for post hoc testing. This test is the non-parametric equivalent to the dependent
+t
+test and provides a
+Z
+statistic and significance level.
+We controlled for multiple comparisons of the frontal and temporal electrodes by applying Benjamini–Hochberg with a false discovery rate (FDR) of 0.20. This particular FDR was applied because hypothesis testing on power spectra changes in particular electrodes is quite exploratory and a higher FDR may avoid missing important results (McDonald
+2014
+). The FDR can be applied in smaller studies and has the advantage to increase power when analysing multiple tests. The practical implications and benefits of applying an FDR level of 0.2 has been illustrated in real examples (Glickman et al.
+2014
+).
+To test whether results would be different by reducing multiple testing, we additionally performed Friedman tests for the averaged frontal and averaged temporal electrodes for 40 Hz and applied the same procedure for 45 Hz.
+Bivariate Spearman correlations were calculated of RT and false responses on the Flanker task with the magnitude of the absolute power of the specific frequencies. Statistical significance was defined as
+p
+< 0.05. Tests concerning the results of the Flanker task were one-tailed.

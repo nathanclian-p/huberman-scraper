@@ -1,0 +1,294 @@
+Ethics approval
+Approvals for these studies were obtained from the Institutional Review Boards at the University of Rochester or the University of Texas at Austin. Participants in all studies provided informed consent or assent.
+Study registration and efforts to curb researcher degrees of freedom
+All studies are registered on the Open Science Framework (study 1:
+https://osf.io/tgysd
+; study 2:
+https://osf.io/hb6vs
+, study 3:
+https://osf.io/x4a63
+; study 4:
+https://osf.io/fkgru
+; study 5:
+https://osf.io/9pfha
+; study 6:
+https://osf.io/mkqgf
+). Detailed descriptions of open science disclosures, links to study materials, analysis plans and deviations from analysis plans appear in the
+Supplementary Information
+. Studies 1, 2 and 4 were registered before analysing the data. Studies 3, 5 and 6 were registered after analysing the data. As explained in greater detail in the
+Supplementary Information
+, researcher degrees of freedom for Studies 3, 5 and 6 were constrained by following published and previously pre-registered standard operating procedures for TSST and daily diary studies
+29
+(the focus on TPR, stroke volume and PEP in study 3 and the focus on the stressor intensity × treatment interaction in study 5), and by following the same analysis steps as the pre-registered studies (for example, the same core covariates and moderators whenever measured and the same conservative BCF modelling approach).
+Intervention overview
+The intervention consisted of a single self-administered online session lasting approximately 30 min. Random assignment to the intervention or control condition occurred in real time via the web-based software Qualtrics, as participants were completing the online intervention materials. Simple random assignment was used, with equal probabilities of selection, but the actual observed proportions in treatment or control groups varied randomly across the six studies. Participants were blinded to the presence of different conditions, and teachers or others interacting with participants were blind to the intervention content and to condition assignment. Thus, the intervention experiments used a double-blind design throughout.
+Synergistic mindsets intervention
+The intervention used methods for mindset interventions that are well-established in the literature and have been used successfully in national scale-up studies
+4
+. The intervention first aimed to convey the message that stressful events are controllable and potentially helpful. It did so by targeting negative fixed mindset beliefs, or the belief that intellectual ability is fixed and cannot change, which can lead to the appraisal that negative events are uncontrollable and harmful. In particular, the fixed mindset leads to a pattern of appraisals about effort (that having to try hard or ask for help means you lack ability), about causes of failures (the attribution that failure stems from low ability) and about the desired goal in a setting (the goal of not looking stupid in front of others)
+20
+,
+48
+. The intervention overcame these negative patterns of appraisals by conveying the growth mindset. The growth mindset promotes the appraisal that difficulties can be controlled and helpful. It argues that most people who became good at something important had to face and overcome struggles, and therefore, your own struggles should not be viewed as signs of deficient abilities but instead should be viewed as part of your path toward important skill development. To justify the controllable and helpful stressor appraisal, the intervention drew on neuroscientific information about the brain’s potential to develop more efficient ('stronger') connections when it faces and overcomes challenges, using the analogy of muscles growing stronger when they are subjected to rigorous exercise
+49
+.
+Second, the intervention targeted the stress-is-debilitating mindset
+50
+, which is the belief that stress is inherently negative and compromises performance, health and well-being; this mindset leads to the appraisal that a given stressor is uncontrollable and harmful. Counter to the stress-is-debilitating mindset, the intervention developed here introduced the stress-can-be-enhancing mindset
+50
+, which is the belief that stress can have beneficial effects on performance, health and well-being; this more adaptive belief system leads to the appraisal that stressors can be potentially helpful and controlled. The intervention explained that when people undergo challenges, they inevitably begin to experience stress, which can manifest in a racing heart, sweaty palms or possibly feelings of anxiety or worry. The intervention leads people to perceive those signals as information that the body is preparing to overcome the challenge; for instance, by providing more oxygenated blood to the brain and the muscles
+17
+. Thus, the stress response is framed as helpful for goal pursuit, not necessarily harmful. The intervention also argued that feelings of anxiety can be a sign that you have chosen a meaningful and ambitious set of goals to work on, and therefore can indicate a positive trajectory, not a negative one.
+Notably, these two mindsets were conveyed synergistically, not independently, so that they built on one another. Participants were encouraged to view struggles as potentially positive and worth engaging with, and then they were invited to view inevitable stress coming from this engagement as a part of the body’s natural way to help them overcome the stressor.
+These mindset messages were couched within a summary of scientific research on human performance and stress. Participants were not simply informed of these facts, but they were instead invited to engage with them, make them their own and plan how they could use them in the present and future. Participants heard stories from prior participants (older students in this case) who used these ideas to have success in important performance situations, and they also completed open-ended and expressive writing exercises. For instance, participants wrote about a time when they were worried about an upcoming stressor, and then later on they wrote advice for how someone else who might be undergoing a similar experience could use the two mindsets they learned about, which has been called a 'saying-is-believing' writing exercise
+51
+.
+We defined adherence as completion of the last page of the intervention. In the studies in which participants were closely supervised by researchers (studies 3, 4 and 5), adherence was high (97% to 99%). In the studies in which the intervention was self-administered with no supervision, adherence was lower but still acceptable: 85%, 88% and 82% for studies 1, 2 and 6, respectively. Because we conducted intent-to-treat analyses, participants were retained in the analytic sample regardless of intervention completion status.
+Control group content
+The control group intervention was also an online, self-administered activity lasting around 30 min. It was designed to be relatively indistinguishable from the intervention group by using similar visual layout, fonts, colours and images. The content was predominately from the control condition from a prior national growth mindset experiment
+4
+, which included basic information about the brain and human memory. It also involved open-ended writing activities and stories from older students. However, the control condition did not make any claims about the malleability of intelligence. To this standard content, we added basic information about the body’s stress response system (for example, the sympathetic and parasympathetic nervous system and the HPA axis) to control for the possibility that simply reflecting on stress and stress responses could account for the results. The latter content did not include any evaluations of whether stress responses are good or bad, or controllable or uncontrollable.
+Negative prior mindsets
+At baseline, participants in all experiments except study 2 completed standard measures of negative event-focused mindsets (fixed mindset of intelligence; that is, “Your intelligence is something about you that you can't change very much”)
+4
+and response-focused mindsets (the stress-is-debilitating mindset
+21
+; that is, “The overall effect of stress on my life is negative”) (for both, 1 = strongly disagree, 6 = strongly agree). The items for each construct were combined into indices by taking their unweighted averages. Measures of internal consistency were all in the acceptable range (between 0.70 and 0.85). Means and standard deviations for each of the six studies are presented in Supplementary Table
+6
+. In the primary Bayesian analyses for studies 3, 5, and 6, the two measures and their product were entered into the covariate and moderator function, and the machine-learning algorithm decided how best to use the mindset measures to optimize prediction or moderation. In the preliminary correlational analyses (Extended Data Table
+1
+), we analysed the multiplicative term of the two, for simplicity.
+Analysis strategy
+For all experimental analyses, we used intention-to-treat analyses, which means that data were analysed for all individuals who were randomized to condition and who provided outcome data, regardless of their fidelity to the intervention protocol. If participants were missing data on covariates, those data were imputed. This analysis is more conservative than analyses that drop participants with low fidelity, but it also better reflects real-world effect sizes.
+Our research advanced a fully Bayesian regression approach called Bayesian causal forests and its extension targeted smooth Bayesian causal forests (BCF and tsBCF)﻿
+6
+,
+52
+,
+53
+to calculate treatment effects and understand moderators of the treatment effects. A previous version of the BCF algorithm has won several open competitions for yielding honest and informative answers to questions about the complex, but systematic, ways in which a treatment’s effects are—or are not—heterogeneous, and it is designed to be quite conservative
+6
+. We used the existing single-level BCF method for studies 1, 2, and 6. The model is specified in equation (
+1
+):
+$$\begin{array}{c}{y}_{ij}={\alpha }_{i}+\beta ({x}_{ij})+\tau ({w}_{ij}){z}_{i}+{\epsilon }_{ij}\end{array}$$
+(1)
+In studies 3 and 4, we updated the BCF method to apply to time-series data. See equation (
+2
+):
+$${y}_{ij}={\alpha }_{j}+\,\beta ({x}_{j},{t}_{ij})+\tau ({w}_{ij},{t}_{ij}){z}_{j}+{\epsilon }_{ij}$$
+(2)
+In equations (
+1
+) and (
+2
+),
+y﻿
+ij﻿
+is the outcome for adolescent
+i
+at time
+j
+,
+α
+j
+is the random intercept for each individual,
+x
+j
+is the vector of covariates that predict the outcome and could control for chance imbalances in random assignment,
+w
+ij
+is the vector of potential treatment effect moderators,
+﻿t
+is time (the
+t
+ij
+term is omitted in all studies except studies 3 and 4),
+z
+j
+is the dichotomous treatment effect indicator for each individual, and
+ϵ
+ij
+is the error term. (Study 4 involved additional updates to allow for multi-arm comparisons that accommodate the four-cell design; see the
+Supplementary Information
+).
+What makes BCF unique, and well-suited for this application, is that both
+β
+(.) and
+τ
+(.) are non-linear functions that take a 'sum-of-trees' representation, and which are estimated using standard BART machine-learning tools
+6
+,
+54
+,
+55
+. This frees researchers from making arbitrary decisions about which covariates to include, what their functional form should be and how or whether covariates should interact. Notably, BCF uses conservative prior distributions, especially for the moderator function, to shrink towards homogeneity and to simpler functions, avoiding over-fitting. The data are used once—to move from the prior to the posterior distribution—and all analyses then summarize draws from the posterior.
+The BCF approach contrasts with the classical method, which involves re-fitting the model many times to estimate simple effects or to conduct robustness analyses with different specifications. The BCF approach, therefore, reduces researcher degrees of freedom, mitigating the risk of false discoveries and other spurious findings. In this research we focused on estimation of treatment effects (that is, how large the effect is) and not null hypothesis testing (that is, whether it is 'significant' or not) because of well-known problems with the all-or-nothing thinking inherent in the null hypothesis significance test
+56
+. Following convention
+57
+, we reported the ATEs and the CATEs with the associated 10th and 90th percentiles from the posterior distributions (see the Figures for the 2.5th and 97.5th percentiles). When the pre-analysis plan called for it (in study 4), we report the exact posterior probabilities of a difference in effects.
+The covariates included in each study are listed in Supplementary Table
+5
+. The core covariates and moderators were: the prior mindset measures (fixed mindset and stress-is-debilitating mindsets), sex and perceived social stress, as pre-registered (
+https://osf.io/tgysd
+). When available, other covariates were added as well: age, race or ethnicity, self-esteem, test anxiety, social class and personality. Justifications for each covariate appear in Supplementary Table
+5
+.
+Effect size calculations
+Unless otherwise noted, effects are standardized by the pooled s.d.
+Manipulation checks (all studies)
+The intervention reduced negative mindset beliefs relative to controls (four items, including “Stress stops me from learning and growing” and “The effects of stress are bad and I should avoid them”; 1 = strongly disagree, 6 = strongly agree). BCF analyses revealed lower levels of negative mindsets in the synergistic mindsets intervention condition at post-test compared to the neutral control condition, signifying a successful manipulation check: study 1: ATE = −0.28 s.d. [10th percentile: −0.43, 90th percentile: −0.16]; study 2: −0.49 s.d. [−0.73, −0.24]; study 3: −0.50 s.d. [−0.89, −0.14]; study 4: −0.54 s.d. [−0.75, −0.33]; study 5: −0.26 s.d. [−0.61, 0.03]; study 6: −0.56 s.d. [−0.71, −0.40]. The two field experiments with high schoolers (studies 1 and 5) had smaller manipulation check effects that were more imprecise than the others (studies 2, 3, 4 and 6). This was expected because the former studies were conducted in naturalistic school settings that tend to produce noisier data.
+Study 1
+Sample size determination
+Sample size was planned to have sufficient power to detect a treatment effect in a field experiment of 0.10 s.d. or greater, with 0.10 s.d. being the minimum effect size that we would interpret as meaningful for a study focused on immediate post-test self-reports. We worked with our data collection partner, the Character Lab Research Network (CLRN) (
+https://characterlab.org/research-network/
+), to recruit as close to 3,000 participants as possible in a single semester. The final sample size was determined by the logistical constraints of data collection during the COVID-19 pandemic and by CLRN’s data availability.
+Participants
+Participants were from a large, heterogeneous sample of adolescents who were evenly distributed across grades 8 to 12 in 35 public schools in the ﻿United States (13 years old: 16%; 14 years old: 20%; 15 years old: 20%; 16 years old: 21%; 17 years old: 18%; 18 years old: 5%). The schools were sampled from a stratum of large, diverse, suburban and urban public schools in the southeast ﻿United States. Forty-nine per cent of adolescents identified as male, 49% as female and 2% as gender non-binary. Participants were racially and ethnically diverse (participants could indicate multiple racial or ethnic identities so numbers exceed 100%): Black: 20%; Latinx: 39%; white: 68%; Asian: 7%. Participants were also socioeconomically diverse: 40% received free or reduced-price lunch, an indicator of low family income. Therefore, study 1 provided a test of the hypothesis that the intervention could be widely disseminated and effectively change beliefs and appraisals in a large and diverse sample of adolescents. Even so, the sample was not strictly representative because random sampling was not used to recruit the CLRN sample.
+Procedure
+Participants were recruited by CLRN (
+https://characterlab.org/research-network/
+), which administers roughly 45-min online survey experiments three times per year to a large panel of adolescents in the 6th to the 12th grade. Researchers program their studies using the Qualtrics platform and students self-administer the materials at an appointed time. Data collection continued during the modified instructional settings of autumn 2020. We note that all measures had to be short so as to keep the respondent burden low and fit within the required time limit for CLRN studies. Thus, the trade-off in study 1, when achieving scale and reaching a large adolescent population during the COVID-19 pandemic, was estimating potentially weaker effect sizes owing to greater statistical noise.
+Measures
+At the beginning of the survey, participants indicated their most stressful class (for example, mathematics, science, English or language arts). Then, after the intervention (or control) experience they were asked to imagine that “later today or tomorrow your teacher [in your most stressful class] asked you to do a very hard and stressful assignment. Imagine this is the kind of assignment that will take a lot of time to finish but you only have two days to turn it in. Also pretend that you will soon have to present your work in front of the other students in your class.” Participants then reported their event-focused appraisals on three items (for example, “How likely would you be to think that the very hard assignment is a negative threat to you?”; 5 = not at all likely to think this, 1 = extremely likely to think this). Next, participants reported their response-focused appraisals (“Do you think your body's stress responses (your heart, your sweat, your brain) would help you do well on the assignment, hurt your performance on the assignment, or not have any effect on your performance either way?”; 5 = definitely hurt my performance, 1 = definitely help my performance). The items were aggregated by taking their unweighted averages.
+The end of the study also included an additional behavioural intention measure: a choice between an 'easy review' extra credit assignment and a 'hard challenge' assignment
+58
+,
+59
+. The intervention increased the rate of choosing the challenging assignment by 0.11 s.d. [0.028, 0.200]. We expected the treatment to increase engagement with stressors because it leads to the appraisal that they are opportunities for learning and growth.
+Study 2
+Sample size determination
+All students in an introductory social science course in autumn 2019 were invited to complete the intervention or control materials in return for a small amount of course credit. Sample size was set by the response rate.
+Participants
+Participants were predominately first-year college students attending a selective public university in the ﻿United States that drew from a wide range of socioeconomic status groups: 17 years old: 3%; 18 years old: 49%; 19 years old: 29%; 20 years old: 11%: 21 or older: 8%. Sixty-four per cent identified as female and the rest as male; 39% had mothers who did not have a four-year college degree or higher (an indicator of lower socioeconomic status), and 59% identified as lower class, lower middle class or middle class (versus upper middle or upper class).
+Procedure
+This experiment was conducted in a social science course in which students completed timed, challenging quizzes at the beginning of each class meeting, twice per week. In the second week of the semester, soon before the first graded quiz, students were invited to complete the intervention (or control) materials on their own time using their own computer in return for course credit, and 83% of invited students did so. The effects of the intervention were assessed through students’ appraisals of the first graded quiz of the semester one to three days later. The appraisal items were necessarily short because they were embedded at the end of the assignment and students completed them during class before the lecture. The appraisal items were then administered a second time after another quiz, which occurred three to four weeks after intervention.
+Measures
+Participants rated their agreement or disagreement with the statements “I felt like my body’s stress responses hurt my performance on today’s benchmark” (1 = strongly disagree, 5 = strongly agree) and “I felt like my body’s stress responses helped my performance on today’s benchmark” (5 = strongly disagree, 1 = =strongly agree). The two ratings were averaged to provide an appraisal index, with higher values corresponding to more negative appraisals
+60
+.
+Study 3
+Sample size determination
+An a priori power analysis was used to determine sample size. Previous stress research that assessed cardiovascular responses in laboratory-based stress induction paradigms produced medium to large effect sizes (for example, range:
+d
+= 0.59 to
+d
+= 1.44. Based on a standard medium effect size, at the low end of this range (
+d
+= 0.50), with a two-tailed hypothesis, G*Power indicated that 64 participants per condition (that is, 128 total participants) would be necessary to achieve a target power level of 0.80 to test for basic effects of the treatment using frequentist methods. In anticipation of potential data loss, we determined a priori that we would oversample by 20%. Data collection was terminated the week after more than 150 participants had been enrolled in the study and provided valid data.
+Participants
+Participants were prescreened and excluded for physician-diagnosed hypertension, a cardiac pacemaker, body mass index (BMI) > 30 and medications with cardiac side effects. A total of 166 students were recruited from a university social science subject pool (120 females, 46 males; 76 white/Caucasian, 12 Black/African-American, 17 Latinx, 65 Asian/Asian-American, 2 Pacific Islander, 4 mixed ethnicity, 7 other; mean age = 19.81, s.d. = 1.16, range = 18–26; 32% reported that their mothers did not have a college degree). After data collection, two participants were excluded owing to experimenter errors. In addition, impedance cardiography data for four participants could not be analysed owing to technical issues (prevalence of noise and artefacts in the signals). Decisions about the inclusion of participants were made blind to condition assignment and to levels of the outcome. Participants were compensated US$20 or 2 h of course credit for their participation.
+Procedure
+After intake questions, application of sensors and acclimation to the laboratory environment, participants rested for a 5-min baseline cardiovascular recording that occurred approximately 25 min after arrival at the laboratory. They were then randomly assigned to an intervention condition by the computer software in real time and completed either intervention or control materials, which took approximately 20 min in this sample. Participants then completed the TSST
+28
+. The TSST asks participants to give an impromptu speech about their personal strengths and weaknesses in front of two evaluators. Evaluators are presented as members of the research team who are experts in nonverbal communication and will be monitoring and assessing the participant’s speech quality, ability to clearly communicate ideas and nonverbal signalling. Throughout the speech (and mathematics) epochs of the TSST, evaluators provide negative nonverbal feedback (for example, furrowing brow, sighing, crossing arms and so on) and no positive feedback, either nonverbal or verbal
+28
+. At the conclusion of speeches, and without prior warning, participants are asked to do mental mathematics (counting backwards from 996 in increments of 7) as quickly as possible in front of the same unsupportive evaluators. Incorrect answers were identified by evaluators, and participants were instructed to begin back at the start. This stress induction procedure is widely used to induce the experience of negative, threat-type stress responses
+29
+,
+31
+. After completion of the TSST task, participants rested quietly for a three-minute recovery recording. Before leaving the laboratory, all participants were debriefed and comforted.
+Physiological measures
+The following measures were collected during baseline and throughout the TSST: ECG, ICG and blood pressure. ECG and ICG signals were sampled at 1,000 Hz, and integrated with a Biopac MP150 system. ECG sensors were affixed in a Lead II configuration. Biopac NICOO100C cardiac impedance hardware with band sensors (mylar tapes wrapped around participants’ necks and torsos) were used to measure impedance magnitude (
+Z
+0
+) and its derivative (d
+Z
+/d
+t
+). Blood pressure readings were obtained using Colin7000 systems. Cuffs were placed on participants' non-dominant arm to measure pressure from the brachial artery. Blood pressure recordings were taken at two-minute intervals during baseline, throughout the stress task and during recovery. Blood pressure recordings were initiated from a separate control room. ECG and ICG signals were scored offline by trained personnel. First, one-minute ensemble averages were analysed using MindWare software IMP v.3.0.21. Stroke volume was calculated using the Kubicek method
+61
+. B- and X-points in the d
+Z
+/d
+t
+wave, as well as Q- and R-points in the ECG wave, were automatically detected using the maximum slope change method. Then, trained coders blind to condition examined all placements and corrected erroneous placements when necessary.
+Analyses targeted three physiological measures: PEP, stroke volume and TPR. This suite is commonly used to analyse threat- versus challenge-type stress responses (for a review, see ref.
+62
+). TPR is the clearest indicator of threat-type responses and was therefore the focal outcome measure in this research. TPR assesses vascular resistance, and when threatened, resistance increases from baseline
+26
+. TPR was calculated using the following validated formula: (MAP/CO) × 80 (in which MAP is mean arterial pressure and  CO refers to cardiac output; ref.
+63
+). PEP is a measure of sympathetic arousal and indexes the contractile force of the heart. Shorter PEP intervals indicate greater contractile force and sympathetic activation. Both challenge- and threat-type stress responses are accompanied by decreases in PEP from rest; in some studies, a stronger challenge response has corresponded to an greater decrease in PEP relative to a threat response, signifying greater engagement with the task. Threat versus challenge states differ in PEP values, however, in recovery to baseline, with challenge states corresponding to quicker recovery. Stroke volume is the amount of blood ejected from the heart on each beat (on average per minute). Increases in stroke volume index greater beat-to-beat cardiac efficiency and more blood being pumped through the cardiovascular system, and are often observed in challenge states, as the body spreads more oxygenated blood to the periphery
+29
+. Decreases in stroke volume, on the other hand, are more frequently observed in threat states (even though threat can also elicit little or no change in stroke volume
+64
+). Cardiac output, which is stroke volume multiplied by heart rate, is frequently used to assess threat- and challenge-type stress responses as well. As in a past paper
+29
+we focused on stroke volume rather than cardiac output because the effects of the treatment on PEP (and thus heart rate, a part of the cardiac output formula) could distort effects on cardiac output. For all three measures (TPR, stroke volume and PEP) we computed and analysed reactivity scores by subtracting each person’s average levels from the five minutes of the baseline epoch, which occurred before random assignment. Thus, all TPR, PEP and stroke volume results in the paper account for any potential baseline differences that existed before random assignment.
+Study 4
+Sample size determination
+Study 3 showed an ATE for the synergistic mindsets intervention of approximately 0.70 s.d. for TPR reactivity during the first minute of the speech epoch. Assuming an approximately 25% reduction in effect size for a replication study, then to have an 80% likelihood of reliably detecting an ATE of 0.50 s.d. with a one-tailed hypothesis test (because this is a replication study), we calculated that we would need approximately 50 participants per condition. Our stopping rule was to collect data from 200 participants who completed one of the conditions and provided valid TPR data for analysis.
+Participants
+Participants were from the same university pool as study 3 and were recruited using the same protocols and exclusion criteria. A total of 200 students provided valid TPR data (163 females, 37 males; 79 white/Caucasian, 22 Black/African-American, 14 Latinx, 79 Asian/Asian-American, 6 other; Mage = 20.11, s.d. = 1.77, range = 18–32; 32% reported their mothers did not have a college degree).
+Procedure
+Study 4 followed the same procedure as study 3 except for three changes. First, we removed the mathematics epoch to streamline the study for the focal epochs only, so that we could collect data as quickly as possible before a COVID-19 outbreak could shut down data collection. Second, the Qualtrics survey randomized participants to one of four conditions; two were new conditions, and two were the same synergistic mindsets and neutral control conditions that appeared in the other studies (the materials for the two new conditions are posted on the OSF; see the
+Supplementary Information
+). Third, we assessed threat and challenge appraisals and well-being at the end of the study.
+The first new control condition was a growth-mindset-only condition. This used materials from a previously published growth mindset intervention experiment that was successful at improving the grades of lower-achieving adolescents
+65
+. The intervention involved reading a scientific article about the brain’s potential to grow and learn and answering open-ended questions that encourage students to internalize the information, as described in previous reviews of the literature
+66
+. It did not discuss stress or encourage stress reappraisals. Replicating previous studies, the growth-mindset-only condition reduced reports of fixed mindset by 0.46 s.d. [−0.64, −0.28], which is within the expected range on the basis of a previous national experiment evaluating a growth mindset intervention (which was 0.33 s.d. (ref.
+4
+)). This condition did not reduce reports of stress-is-debilitating mindsets relative to the neutral control condition; ATE = 0.08 SD [−0.25, 0.41]. Thus, the growth-mindset-only condition faithfully manipulated growth mindset but not stress mindset, as intended.
+The second new control condition was a stress-mindset-only condition. This used materials from a previously published stress mindset intervention experiment that was successful at changing stress mindsets and showed mixed effects on stress coping in a longitudinal study
+67
+. This intervention involved watching videos that explained the concept of stress-is-enhancing mindsets, invited participants to practice reappraising stress and guided them through a vivid imagery reflection exercise to make the stress-is-enhancing mindset message vivid and relatable. As expected, this established stress-mindset-only intervention reduced stress-is-debilitating mindsets by −0.33 s.d. on average [−0.095, −0.56] relative to the neutral control condition, but did not reduce (and perhaps even increased) fixed mindsets; ATE = 0.19 [0.01, 0.40].
+Measures
+The measures for TPR, stroke volume and PEP reactivity were identical to study 3. Two new indices were added for exploratory analyses.
+The first exploratory measure assessed self-reports of threat-type (versus challenge-type) appraisals. These are global appraisals of whether people feel like the demands of a stressful situation exceed the resources available to them to cope with the situation (see Fig.
+1a
+). The composite consisted of the unweighted average of items used in previous TSST studies
+29
+(all items appear in materials posted on the OSF; see the
+Supplementary Information
+for links). Several questions measured the perceived demand of the speech task ("The task was very demanding"; "The task was very stressful") and several assessed perceived resources ("I felt that I had the abilities to perform well on the task"; "I believe I performed well on the task"); these were combined into an index corresponding to threat versus challenge appraisals by computing the ratio of perceived demand to perceived resources, following previous research. Next, one question assessed perceived threat ("I felt threatened by the task") and one question assessed perceived challenge ("I felt that the task challenged me in a positive way"); these too were combined by dividing threat by challenge. Finally, the two ratio scores were combined by taking their unweighted average.
+The second additional measure involved items taken from an established measure of well-being: reports of whether people felt that their psychological needs were currently being met
+68
+,
+69
+. Measures assessing threats to psychological needs ("I felt disconnected; rejected; insecure") were reverse-scored and averaged with items assessing satisfaction of psychological needs ("I felt good about myself; liked; powerful"; and "My self-esteem was high") to create an index of positive well-being. Notably, feeling bad about oneself, and reporting low self-esteem, is central to the network of depression symptoms
+35
+. Therefore, this measure of well-being assesses the presence or lack of immediate post-task internalizing symptoms, and conceptually replicated the results of the field experiment in study 5.
+Pre-registered analysis plan
+The pre-registration called for a focus on TPR reactivity during the most stressful speech epoch. In addition to this primary outcome, we used the pre-registered modelling method to replicate study 3’s finding with regard to the effects of the synergistic mindsets treatment on stroke volume (also during the speech epoch) and PEP (during the recovery period). As in study 3, we would have focused on cardiac output rather than stroke volume, but because we again found differences in PEP (a measure of SNS activation), we used the less-contaminated stroke volume measure. Finally, we used the pre-registered BCF method, and same covariates and moderators, to analyse two exploratory outcomes that were not mentioned in the analysis plan: threat appraisals and well-being.
+Study 5
+Sample size determination
+We aimed for a minimum of 100 participants and 1,000 daily diary responses in this field experiment evaluating the synergistic mindsets treatment. We sought to recruit as many as possible before the end of October in the autumn of 2019, because the study was focused on normative stressors at the start of a new school year, and because daily diary data collection could not happen during or after the Thanksgiving break in the ﻿United States (which is in late November). The number of students recruited each week was constrained by the research team’s capacity to support twice-daily diary surveys and thrice-daily saliva samples in a school environment. The ultimate sample size was determined by the total number of students who could be recruited from the school in the autumn semester of 2019, given these constraints.
+Participants
+Participants were adolescents from economically disadvantaged families (99%); 78% were Black/African-American, 5% were white or Asian, and the remaining students were Hispanic/Latino; 36% were in 9th grade; 34% were in 10th grade; 18% were in 11th grade; and 12% were in 12th grade. Students attended a high-quality urban charter school that showed a high graduation rate (98%) relative to the urban city school district (68%). The teachers at the school were well-trained and motivated, having earned a national distinction for this charter school. This was a meaningful school for a first evaluation study because the synergistic mindsets intervention was not expected to overcome an absence of objective opportunities to learn, but rather to inspire students to take advantage of opportunities for upward mobility.
+Procedure
+Participants were assigned to one of three data collection cohorts on the basis of their academic schedules and available research staff. Cohorts 1, 2 and 3 completed daily diary measures across three consecutive weeks during the autumn term. The intervention was administered on a Thursday, and then students began their weekly daily diary data collection 1–3 weeks later (
+M
+= 14 days). Intervention materials (see experiment 1) were completed on a tablet computer with headphones in a quiet room at the school. Randomization to conditions occurred at this time. All data collection was supervised by trained research staff who assisted participants and answered any questions, while being blind to condition assignment and specific hypotheses. Before intervention or control materials, participants completed baseline measures of mindsets (stress mindsets and growth mindsets) along with demographic information.
+The week of daily diary data collection began on a Monday and students were surveyed twice each day for five consecutive days through to Friday. Students provided their first self-report at lunch and the second at the conclusion of the school day but before leaving the school’s campus. Saliva samples were collected three times per day by adding the morning, before the first class period of the day. Lunchtime samples were collected before students ate. Thus, we targeted 10 total reports for each student and 15 total saliva samples. In addition to occasional non-response, there were two exceptions to these targeted numbers. One cohort had four days of data collection owing to a school-wide event on a Friday, and the first cohort had up to three preliminary days of self-report (not saliva) data collection while the research team was refining procedures. Rather than exclude these additional self-report records, they were included, although the results were the same when excluding them.
+The daily diary measures were designed to be brief (around five minutes) and were completed on paper. In the mornings only, students completed brief writing prompts that asked them to reflect on the themes from their respective treatment or control groups. The purpose of the reflections was to collect qualitative data to use in future research and development about how students were using the treatment messages in their daily lives. Students provided their saliva samples either before completing the reflections or simultaneously with them; as noted, at lunch and in the afternoon, students completed their daily stress diaries. Note that although there was a possibility that the morning reflections influenced students’ self-reports later in the day, they could not have influenced the saliva samples, because, as noted, salivary samples were collected before or simultaneously with the reflections, and salivary cortisol levels reflect stress responses 30–45 min earlier.
+To report daily stressful events, students first checked boxes indicating which of several categories of stressors they experienced that day (for example, friends/social, academics, romantic relationships, daily hassles and so on), then how intense the stressors, combined, were overall (“How negative would you say these experiences were?”; 1 = not negative at all, 5 = extremely negative). Following published standard operating procedures for the diary studies in this laboratory
+29
+, days on which no social-evaluative stressors were listed were coded as a 1 for stressor intensity (the lowest value), to avoid dropping data from those who did not experience a social-evaluative stressor.
+Students were compensated US$10 for completing intervention materials, and US$5 for each daily diary entry. Thus, the maximum compensation per participant was US$60. After the conclusion of data collection, students and instructors were debriefed. At the end of the school year, students randomly assigned to the control condition were provided with the mindset intervention.
+Daily negative self-regard
+On each daily survey, students reported daily negative self-regard, an internalizing symptom, operationalized as overall positive or negative feelings about themselves (“Overall, how good or bad did you feel about yourself today?”; 1 = extremely good, 7 = extremely bad). This was a single-item measure owing to the limited respondent time.
+Cortisol
+Acute cortisol responses follow a specific time course (peak levels occur around 30 min after stress onset). However, the diary survey stressors were not calibrated to identify the timing of specific events, so the two sources of information could not be yoked. Indeed, as noted in the main text, there was no association between the intensity of stressors reported and cortisol in the control condition (unlike self-regard and stressor intensity). In addition, levels of cortisol have a diurnal cycle (peak levels at wakening, rapid declines within the first waking hours and nadir at the end of the day). Waking levels and diurnal slopes can map onto well-being, stress coping and health
+70
+. Because all sampling was conducted during the school day, waking levels and diurnal cortisol slopes could not be accurately and precisely measured. The lack of time-course specificity and diurnal cycle data means that our reported effect sizes for global cortisol levels are likely to be conservative because noise in the data attenuates effect sizes.
+Academic achievement
+The research team obtained students’ transcripts from schools after credits were recorded in the spring of 2020. Credit attainment (that is, whether students passed the course) in core classes (mathematics, science, social studies and English or language arts) were coded. An 'on-track' index
+71
+was computed for each student (1 = students passed all four of their core classes; 0 = they did not). In addition, following a previous growth mindset intervention study
+4
+, a STEM course on-track indicator was computed (1 = passed mathematics and science; 0 = they did not) as was a non-STEM course on-track indicator (1 = passed social studies and English or language arts; 0 = they did not).
+Study 6
+Sample size determination
+We recruited all students possible from an entire social science class in the spring of 2020, which, we would later learn, was a unique cohort for examining stress during the COVID-19 lockdowns. A minimum of 278 students would be needed to have a greater than 80% chance of detecting a directional effect on anxiety of 0.3 s.d. with a conventional linear model analysis, and more students than this participated.
+Participants, procedure and measures
+Data were collected during the spring semester of 2020. Participants were from the same university as study 2 and the same intervention procedures were followed. (Owing to a difference in data collection procedures relative to study 2, quiz appraisal data could not be collected in study 5). The intervention was delivered at the end of January 2020. In March 2020, students were sent home owing to COVID-19 quarantines. In mid-April 2020, students completed the Generalized Anxiety Disorder-7 (GAD-7)
+38
+as a part of a class activity focused on psychopathology. The GAD-7 asks “How often have you been bothered by the following over the past 2 weeks?” and offers several symptoms, including “Feeling nervous, anxious, or on edge,” “Not being able to stop or control worrying,” and “Feeling afraid as if something awful might happen.” Each symptom is rated on a scale from 0 ("Not at all") to 3 ("Nearly every day"). The seven items were summed, producing an overall score ranging from 0 to 21, with higher values corresponding to higher levels of general anxiety symptoms.
+Reporting summary
+Further information on research design is available in the
+Nature Research Reporting Summary
+linked to this paper.

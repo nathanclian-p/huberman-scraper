@@ -1,0 +1,472 @@
+Introduction
+The environments in which animals and humans live are complex. Thus, to make the best decisions, agents must learn which choices are associated with good or bad outcomes, such as monetary rewards, or effort. They must then integrate information about these qualitatively different types of outcomes to make choices (
+Walton et al., 2002
+,
+2003
+;
+Rudebeck et al., 2006
+;
+Pessiglione et al., 2007
+;
+Croxson et al., 2009
+;
+Prévost et al., 2010
+). Outcomes may, however, have informational content that is independent of whether or not they are immediately rewarding. Imagine an animal foraging for berries on the higher branches of a tree after a strenuous climb. The animal tries to learn how many berries the tree carries to know whether to come back again. On a specific day, the weather may be good and the animal is able to gather a lot of berries from the tree, whereas on another day the weather may be bad and it has to abandon its food gathering prematurely. Despite not collecting any rewards, when learning about how good the tree is, it should only take into account how much food it saw hanging on the tree (this is the informational content of the outcome), but not how much food it managed to gather (this is the rewarding aspect of the outcome) on that day as that could depend on other interfering factors (such as the weather) and not the tree's value itself. In other words, sometimes the rewarding content (i.e., whether the berry reward was really experienced or only hypothetical) is a bad guide for future choices, which should be based on more abstract informational content.
+In short, we tried to tackle the fundamental problem of how contingencies are learned when an outcome has, as is commonly the case, multiple components only some of which should be learned. How does information in the irrelevant dimension (in our experiment, this was the outcome's reward content) interfere with the learning of a contingency in the relevant dimension (in our experiment, this was the outcome's informational content)? Because many brain systems are extremely sensitive to obtaining a reward (
+Vickery et al., 2011
+), we examined here whether this prominence of reward signals in some areas might bias behavior and hamper learning based on the informational content of the outcome. More importantly, we wanted to also test whether neural systems exist to counteract such biases. One region potentially equipped to contextualize reward appropriately is anterior prefrontal cortex (aPFC) because it has been implicated in complex behaviors, such as pursuing alternative, hypothetical, and potentially novel future courses of action (
+Boorman et al., 2009
+;
+Donoso et al., 2014
+;
+Kolling et al., 2014
+).
+We recorded brain activity using fMRI while participants learned the reward and effort magnitudes of two options and chose between them. Crucially, they only sometimes received the rewards associated with the option chosen. They were, however, always shown the associated reward magnitude regardless of whether the rewards were really received or hypothetical (i.e., the outcome's informational content was always provided even if the reward content was not). Thus, whether a reward was real or hypothetical was incidental and should not have affected participants' future choices, as the information needed for learning was the same in both conditions. Nonetheless, participants were biased toward repeating choices that led to real rewards. Ventromedial prefrontal cortex (vmPFC) and amygdala activity was related to this bias. aPFC, frontal operculum/anterior insula (FO/AI), and dorsal anterior cingulate cortex (dACC) activity appeared to counteract such biases in several ways and mediated more flexible and optimal decision-making. Because only rewards, not effort costs, were real or hypothetical, we were furthermore able to test whether only reward signals or instead the relative value of repeating a choice was changed when rewards remained hypothetical (see Materials and Methods). Not receiving a real reward had profound effects not only on the neural representation of rewards themselves, but also on representations of effort costs.
+Results
+Decision-making analysis
+Participants performed a reward and effort learning task in which they tracked the continuously changing reward and effort magnitude values of two options. The range of reward and effort magnitude differences between the two options and the influence these differences exerted on participants' choices are shown in
+Figure 3
+A
+,
+B
+. We found, as predicted, that participants were more likely to select an option associated with a higher expected reward magnitude and a lower expected effort magnitude. To test more formally whether participants learned the changing reward and effort magnitudes, we performed a regression analysis assessing the effect of reward magnitude and effort magnitude outcomes on recent trials and the reward probabilities (which were shown to participants at the time of the choice;
+Fig. 3
+C
+). This analysis demonstrated that participants' decisions to repeat a choice (stay) or select the alternative option (switch) were influenced by the reward probabilities they were shown at the time they made a decision (these varied randomly from trial to trial) and that the history of reward magnitude and effort magnitude outcomes on recent trials (i.e., what should be learned) also influenced whether participants stayed with their previous choice or switched to the alternative. Furthermore, the impact of more recent reward and effort magnitudes was larger than for reward and effort magnitudes received longer ago in the past, as is typically found in a learning task (ANOVA, main effect of time:
+F
+(1.4,26.4)
+= 4.536,
+p
+= 0.031).
+Figure 3.
+Behavioral results.
+A
+, Distribution of the Bayesian estimated reward and effort magnitude differences (Option 1 − Option 2) of the two options on the trials used in the task.
+B
+, How likely participants were to select one option over the other based on the predicted reward and effort magnitude differences between the options. Decisions were analyzed using a regression analysis (
+C
+). Participants were more likely to stay with an option (choose it again) rather than switch to the alternative if the option was associated with a higher displayed probability (“prob”) and higher past (one [
+t
+− 1], two [
+t
+− 2], or three [
+t
+− 3] trials ago) reward and lower past effort magnitudes than the alternative option. Furthermore, participants were more likely to stay if they had received a real rather than a hypothetical reward on the last trial (
+p
+= 0.008, highlighted in red). Effort exertion was analyzed using a regression analysis (
+D
+) predicting the clicking rate. The regressors were the effort and reward magnitude outcomes, separately for the option participants had chosen (“C”) or not chosen (“UC,” unchosen), and the reward type (i.e., whether the reward was real or hypothetical). Again, participants' behavior was influenced by whether the reward was real or hypothetical (
+p
+= 0.039, highlighted in red).
+Our main factor of interest in this decision analysis was whether participants' decisions were also influenced by whether the reward had been real or hypothetical on the last trial (reward type). To test this, we also included the last trial's reward type in the regression analysis described above. We found that participants were more likely to repeat a choice (stay) if they had received a real reward on the last trial (
+Fig. 3
+C
+, red bar;
+z
+= 2.65,
+p
+= 0.008, one-sample Wilcoxon signed rank test). To confirm this result in a simpler way, we divided all trials into two bins: those that occurred after real rewards and those that occurred after hypothetical rewards. We then calculated the percentage of trials for each participant on which they chose the same option again (stay) or selected the other option (switch) after the reward had been real or hypothetical on the last trial. We found, as before, that participants were more likely to stay when the reward had been real rather than hypothetical (
+z
+= −3.10,
+p
+= 0.002, one-sample Wilcoxon signed rank test).
+Computational modeling of the decision behavior
+To look at the reward-type-induced decision bias in more detail, we fitted different learning models to the behavioral data. We first fitted five models to the data to determine which model to examine further to assess the effect of reward type (real vs hypothetical). These models differed in the learning and the decision rules used. For each model, we computed the model fit using the DIC. DIC differences between models of 0–5 suggest no evidence in favor of a model, DIC differences of 5–10 suggests mild evidence in favor of a model, and DIC differences >10 suggest strong evidence in favor of a model (
+Spiegelhalter et al., 2002
+). The DIC scores are shown in
+Table 1
+. A model with a shared learning rate for reward and effort and which integrated reward magnitude and probability in a heuristic manner by linear summation (Addition1α model) showed the best fit (DIC = 2828). This model explained 81% of participants' choices on average. We then analyzed this model further with regard to the mechanism of how reward type could influence decisions. However, we note that the second best model (which used separate learning rates for reward and effort) showed a similar fit, and so we also repeated all the analyses shown below for this alternative model. We do not report these analyses here because the conclusions drawn were identical to those drawn below. It is perhaps worth briefly pointing out that the model with different learning rates for the chosen and the unchosen option (AdditionChosenUnchosenα) also did not provide a better fit to the data than a model with just one learning rate (Addition1α). Therefore, we cannot determine from our data whether the learning occurs separately for each option or for the relative value of the two options.
+Next, we fitted three model types to test different hypotheses of how reward type (real vs hypothetical) could affect decisions (
+Table 1
+). The first model type incorporated the hypothesis that reward type changed how participants learn about reward, more specifically whether, as could be expected from some basic reinforcement learning theories, hypothetical reward is not used for learning (NoLearningHypothetical model in table). We found that this model did not provide a better explanation for participants' behavior (DIC = 2837). A variant of this model tested whether, instead of no learning from hypothetical reward, learning from hypothetical reward might be reduced (LessLearningHypothetical model). This model only provided a marginally better fit to the data than the simplest Addition1α model (DIC = 2822).
+The second model tested whether hypothetical reward was perceived as nonrewarding (NoRewardHypothetical model in table). Again, this model did not provide a good explanation of participants' behavior (DIC = 3388). A variant of this model tested whether, instead of perceiving hypothetical reward as completely nonrewarding, it might be perceived as somewhat less rewarding (LessRewardHypothetical model). This model did not provide a better fit than the simple Addition1α model (DIC = 2830).
+The third model tested whether after receiving a real reward when choosing an option, participants mistakenly perceive the option as having a higher utility and therefore are more likely to select it again (DecisionBias model in table). We found this model to provide the best fit to the data (DIC = 2780). Furthermore, we found that, across participants, reward type had a consistent positive effect (mean = 0.19, 95% confidence interval: 0.01–0.39;
+Table 2
+), replicating the result of the regression analysis that participants prefer options that had received a real rather than a hypothetical reward in the past. This suggests that participants can learn from both hypothetical and real reward but that they irrationally behave as if choices that had been associated with a real reward were more valuable to them. The conclusions of this analysis are therefore the same as those drawn from the regression analysis.
+Table 2.
+Parameters of the DecisionBias model
+a
+It is of note that, although this behavioral modeling is able to tell us that participants are biased toward an option that had been linked to a real reward, it does not distinguish between different possible neural mechanisms that could generate this behavior. In other words, participants could simply have a weak bias or alternatively the bias is due to a competition between a brain mechanism that is biased by real reward (and thus drives the behavior) and another brain mechanism that reflects the true, underlying task structure (i.e., that participants should ignore for future choice whether reward is real or hypothetical). To investigate this question further, we need to interrogate the neural signals.
+Effort exertion phase
+In the effort exertion phase, we tested for an effect of reward type (real vs hypothetical) on the clicking rate (i.e., on how vigorously participants exerted an effort). A multiple regression analysis (
+Fig. 3
+D
+) revealed that, if the reward were real as opposed to hypothetical, then the clicking rate increased in the subsequent effort exertion phase (
+t
+(19)
+= 2.214,
+p
+= 0.039). Thus, this further supports the view that reward type was not ignored by participants but instead affected their decision and effort exertion behavior. The effect is consistent with what would be expected if participants perceived real rewards as more rewarding than hypothetical rewards.
+fMRI results
+The behavioral modeling was able to tell us that participants were biased toward staying with an option that had been linked to a real reward. However, the behavioral modeling could not distinguish between different possible neural mechanisms that could generate this behavior. For example, the behavioral bias could simply be due to a brain mechanism that is weakly biased toward irrationally repeating a choice after real reward. Alternatively, the behavioral bias could be due to a competition between a brain mechanism that is biased by real reward (and thus drives the behavior) and another brain mechanism with activity that reflects the true task structure (i.e., whether a reward is real or hypothetical should be irrelevant for future choice) and tries to oppose the bias. To investigate this question, we needed to interrogate the neural signals. We reasoned that the effect of reward type might be seen when the outcomes themselves were presented and participants needed to use the reward magnitude and effort magnitude information they received to update their expectations for their next choices. Alternatively, or additionally, an effect of reward type might be seen on the subsequent trial when participants next had to make a decision. Below we first consider reward type effects at the time of outcome processing; and then in a later section, we consider the effects of reward type on subsequent decision-related activity.
+Reward magnitude and effort magnitude signals at outcome
+When we examined activity during the outcome phase of trials (GLM1; see Materials and Methods), we found that the relative reward magnitude outcome (i.e., the chosen − the unchosen reward magnitude) led to an increase in BOLD activity in the ventral striatum and elsewhere (
+Fig. 4
+A
+, brown;
+Table 3
+). There was an analogous effect of relative effort magnitude outcome (the chosen − the unchosen effort magnitude) in FO/AI, ACC, and aPFC (
+Fig. 4
+A
+, red; for a complete list of activations, see
+Table 3
+). We did not find any areas that showed a decrease in BOLD with either regressor. We note that we used relative outcome signals, rather than just the chosen outcome, because in our task participants were shown information at outcome about both the chosen and the unchosen options. Therefore, for future decisions, the relevant quantity is how good an option is compared with the other option available. One could consider this quantity to be the relative evidence for switching/staying. However, in control analyses (data not shown), we confirmed that the regions carried signals for both the chosen and the unchosen options separately (with reversed signs). Thus, our data do not speak to the issue of whether learning is about the relative evidence for the chosen versus the unchosen option or occurs separately in relation to the evidence for the chosen option and the unchosen option. Both of these possibilities are compatible with both our fMRI and behavior modeling findings, and further studies are needed to address this specific question.
+Figure 4.
+Brain activations in the outcome phase.
+A
+, Increases in BOLD activity correlating with the relative effort magnitude outcomes (chosen − unchosen option; red) and relative reward magnitude outcomes (chosen − unchosen option; brown) in the outcome phase. At the same time, whether a reward was real or hypothetical (
+B
+) led to widespread increases in BOLD activity throughout the brain (pink). All activations are cluster-corrected at
+p
+< 0.05.
+Table 3.
+Outcome phase (GLM1)
+a
+Furthermore, we also note that, as we used sustained effort, there is an inherent (and naturalistic) confound between amount of effort and duration of the effort (or delay). Comparison of our study results with other studies (
+Prévost et al., 2010
+) suggests that the effort-related activations resembled those found in a pure effort task rather than in a pure delay-discounting task.
+Representation of whether reward is real or hypothetical is widespread at the time of the outcome and relates to decision biases
+We found widespread effects, in the outcome phase, of the reward type (real vs hypothetical) in areas including the ventral striatum and the vmPFC (
+Table 3
+;
+Fig. 4
+B
+, pink).
+Notably, we also found activation with reward type in the aPFC, meaning that aPFC was more active (main effect) when outcomes were real rather than hypothetical (
+Fig. 4
+B
+, right hand panel;
+t
+(19)
+= 2.42,
+p
+= 0.025, statistical test in ROI, see “aPFC and FO/AI effort cost and reward outcome representations change when the reward is real as opposed to hypothetical”, below). At first glance, this might be surprising in as far as prior studies (e.g.,
+Boorman et al., 2011
+) found that aPFC deactivates in proportion to the value of the option chosen. However, the result is consistent with the hypothesis that aPFC carries signals reporting the relative value of the choice not taken (the counterfactual choice), which would be the choice subjects would switch to if they could change their decision (and which they might switch to on the next trial) (
+Boorman et al., 2011
+). Thus, in our experiment, the activation found in relation with reward type is consistent with an enhanced switch signal that helps to overcome the stay bias introduced by real reward. If this interpretation is true, then individual differences in the strength of this activity should also relate to individual differences between participants in behavioral bias.
+Therefore, we assessed next whether these BOLD increases related to the behavioral impact of reward type (real rewards biased participants toward staying with the same choice on the next trial;
+Fig. 3
+C
+) using GLM2 (see “Relating neural effects of real versus hypothetical reward to behavior”, above). Brain areas that are linked to the bias in behavior induced by real rewards should be ones in which the difference in activity in response to a real versus a hypothetical reward is greatest in participants exhibiting the strongest behavioral bias. We found such an effect in vmPFC (
+Fig. 5
+, red). By contrast, brain areas that are linked to resistance against the behavioral bias induced by real rewards should be ones in which the difference in activity in response to a real versus a hypothetical reward is greatest in participants exhibiting the weakest behavioral bias. We found such an effect in aPFC and a dorsal part of ACC (
+Fig. 5
+, blue;
+Table 4
+). Thus, this further supports the view that aPFC and dACC represent evidence in favor of switching to the alternative, and counteract signals advocating staying with the current choice in vmPFC when the reward was real as opposed to hypothetical.
+Figure 5.
+Correlations between the decision bias and the neural response to real versus hypothetical reward in the outcome phase. Participants who had a larger BOLD increase to real compared with hypothetical rewards in the vmPFC showed a larger behavioral bias (positive correlation; red). In contrast, participants who showed a larger activation to real compared with hypothetical rewards in the aPFC or the dACC showed a weaker behavioral bias (negative correlation; blue). All results are cluster corrected at
+p
+< 0.05. For illustration, we also show scatter plots of these correlations (
+B
+,
+C
+) using averages within spherical ROI's with a radius of 3 voxels in MNI space.
+Table 4.
+Outcome phase (GLM2): between-subject correlations neural signal real/hypothetical reward and decision bias
+a
+To assess whether aPFC and vmPFC made independent contributions in relation to the decision bias, we performed partial correlations between the COPE values extracted from these regions (for coordinates, see
+Table 4
+) and the behavioral impact of reward type (decision bias). We found that, when controlling for aPFC correlations, the correlation between vmPFC and decision bias was still significant (
+r
+= 0.49,
+p
+= 0.032). Similarly, the negative correlation between aPFC and the decision bias remained significant after controlling for vmPFC–behavior correlations (
+r
+= −0.498,
+p
+= 0.03). Similarly, we found that vmPFC is not a mediator for the effect of aPFC on behavior (
+z
+= −0.91,
+p
+= 0.36, Sobel test). Distinct neural processes linked to vmPFC and aPFC exert independent influences consistent with induction of the decision bias and with resistance to the decision bias. In contrast, when controlling for dACC, the correlation between aPFC and decision bias was no longer significant (
+r
+= −0.34,
+p
+= 0.16), suggesting that activity in both of these areas reflects a common process related to resistance to the decision bias. Furthermore, whereas the activations of aPFC and dACC in response to real compared with hypothetical reward were strongly correlated (
+p
+= 0.642,
+p
+= 0.002), this was not true for aPFC and vmPFC (
+r
+= −0.246,
+p
+= 0.296) or dACC and vmPFC (
+r
+= −0.233,
+p
+= 0.324). This further supports the view that, even though both aPFC and vmPFC were more active when a reward is real rather than hypothetical, activity in the two regions made independent and very different contributions to behavior. In other words, aPFC did not exert its influence on behavior by reducing the effect of reward on the vmPFC.
+We note that, as with any fMRI study, all results discussed here are correlational, and further studies using techniques that can interfere with brain function will be needed to address questions about causality between brain and behavior more directly.
+aPFC and FO/AI effort cost and reward outcome representations change when the reward is real as opposed to hypothetical
+So far, we have reported two main types of results. First, we have shown that reward magnitude and effort magnitude significantly affect activity in several frontal cortical regions in the outcome phase, when participants witness the consequence of their decisions. Second, we have shown that reward type (real vs hypothetical) also affects activity in several frontal cortical regions in the outcome phases of trials and that this effect was related to the irrational behavioral bias to repeat choices associated with real as opposed to hypothetical rewards. Thus, the next obvious question was whether, within areas coding reward magnitude and effort magnitude, there was any influence of reward type. This allowed us to arbitrate between two opposing hypotheses: First, a region could code real and hypothetical reward differently because it is sensitive to the rewarding aspect of an outcome. In this case, the effort magnitude should always be represented the same, independent of reward type, as the effort always needs to be executed regardless of the reward type. Second, as an alternative hypothesis, a region could represent reward and effort magnitudes differently when the reward is real if its activity is related to counteracting a decision bias; in this case, we would expect it to represent reward and effort magnitudes more strongly when the reward is real to overcome the bias to stay with the rewarded option by enhancing the representation of the alternative option.
+Using a time course analysis (
+Fig. 6
+), we found, to our surprise, that in the ventral striatum, there was no difference in the reward magnitude outcome effect for real versus hypothetical rewards (
+t
+(19)
+= 0.55,
+p
+= 0.587), even though there was a strong main effect (i.e., BOLD increase when the reward was real vs hypothetical;
+t
+(19)
+= 5.81,
+p
+< 0.001).
+Figure 6.
+Time courses from selected regions showing the main effect of real versus hypothetical reward and how the coding of the relative reward and effort magnitude outcomes is affected by the reward being real.
+A–C
+, Locations of the ROIs. Relative effort magnitude outcomes (chosen − unchosen option) (
+D
+) led to a larger increase in BOLD when the reward was real rather than hypothetical in aPFC and FO/AI, but not in ventral striatum. Similarly, relative reward magnitudes (chosen − unchosen option) (
+E
+) led to a stronger decrease in BOLD when the reward was real rather than hypothetical in aPFC and FO/AI, but not in ventral striatum.
+F
+, Whether the reward was real or hypothetical not only led to an increase in BOLD in ventral striatum and vmPFC but also in the aPFC.
+D
+,
+E
+, Significance was based on the result of paired two-tailed
+t
+tests comparing the hemodynamically convolved time courses from trials on which the reward was real or hypothetical: *
+p
+< 0.05; **
+p
+< 0.01; ***
+p
+< 0.001.
+F
+, Significance tests were one-sample two-tailed
+t
+tests. All ROIs were selected on the basis of an orthogonal contrast; aPFC, FO/AI, and dACC ROIs were selected based on the whole-brain-corrected contrast-relative effort magnitude at the time of outcome (chosen option − unchosen option); the ventral striatum ROI was selected based on the whole-brain-corrected contrast-relative reward magnitude at time of outcome (chosen − unchosen option); the vmPFC ROI was selected based on the whole-brain-corrected contrast real versus hypothetical reward outcome. The ROIs were 3 voxels in radius in the case of all cortical regions (aPFC, FO/AI, dACC, and vmPFC) and 2 voxels in radius in the case of the subcortical region (ventral striatum).
+In contrast (
+Fig. 6
+), in aPFC and FO/AI, both reward magnitude and effort magnitude signals were significantly affected by reward type. In both regions, relative reward magnitude outcomes (chosen option reward magnitude outcome − unchosen option reward magnitude outcome) led to a BOLD decrease; related results have previously been reported (
+Boorman et al., 2009
+,
+2011
+,
+2013
+). But this effect was stronger when the reward was real (aPFC:
+t
+(19)
+= −2.314,
+p
+= 0.032; FO/AI:
+t
+(19)
+= −3.671,
+p
+= 0.002). Similarly, relative effort magnitude outcomes (chosen option effort magnitude − unchosen option effort magnitude) led to a stronger increase in BOLD signal when the reward was real (aPFC:
+t
+(19)
+= 2.27,
+p
+= 0.035; FO/AI:
+t
+(19)
+= 2.89,
+p
+= 0.009). This effect is striking because the effort that had to be exerted did not vary depending on whether reward was real or hypothetical. Instead, the effect on effort and reward magnitude outcomes suggests that aPFC and FO/AI code the evidence in favor of the counterfactual option (the switch choice) more when there is more need to consider this because receiving a real reward biases behavior toward staying with the current option. The pattern of results was qualitatively similar in dACC, although it did not reach statistical significance (reward magnitude-related effects of reward type:
+t
+(19)
+= −1.55,
+p
+= 0.138; effort magnitude-related effects of reward type:
+t
+(19)
+= 1.534,
+p
+= 0.142).
+As already discussed in the last section, we also found an activation with real reward (main effect) in aPFC (
+Fig. 6
+;
+t
+(19)
+= 2.42,
+p
+= 0.025). This is not consistent with aPFC merely coding the value of the chosen option in an inverse or negative fashion. It is, however, like some of the other results found, consistent with the idea that aPFC codes the values of choices in a reference frame tied to the relative value of switching to the alternative choice as opposed to staying with the current choice.
+aPFC carries all information necessary for reigning in the impact of rewards on decisions and representing costs when necessary
+From the series of analyses conducted so far, aPFC repeatedly emerged as an area carrying various signals that are consistent with it playing a role in counteracting the bias to repeat choices (stay) introduced by real reward (
+Fig. 7
+). First, aPFC activated when rewards were real rather than hypothetical, consistent with a switch signal to overcome the bias (GLM1) (
+Figs. 4
+,
+6
+). Importantly, participants in whom this signal was stronger had a reduced behavioral bias or, in other words, were better at overcoming the bias (GLM2) (
+Fig. 5
+). Next, aPFC also showed an increase in the coding of the reward and effort magnitudes (GLM3) (
+Fig. 6
+) when reward was real, again consistent with a role in overcoming the bias by enhancing the signal indexing the value of the alternative choice (switch) when real reward in other brain areas biased behavior toward repeating the current choice (stay).
+Figure 7.
+Various signals are present in the aPFC during the outcome phase. Different signals are present in aPFC that are consistent with a role in overcoming a bias to stay with the current choice when there is real rather than hypothetical reward.
+A
+, First, aPFC activity increases when rewards are real (pink) and participants with a stronger increase are better at overcoming the behavioral bias (blue).
+B
+, Second, the representation of effort magnitude outcomes increases in aPFC when reward is real (yellow). We also show the relative effort magnitude outcome contrast (red) used to identify our aPFC ROI (used for time courses in
+Fig. 6
+).
+At the time of choice, the vmPFC is sensitive to whether the reward was real or hypothetical on the last trial
+To understand further what signals at the time of decision-making (as opposed to at the time of the previous trials' outcome phase) might mediate the real reward-induced bias to repeat choices, we next investigated signals at the time of the decision phase. In addition to a regressor indexing the last trial's reward type (real vs hypothetical), we also included regressors indexing all the rational decision variables that ought to have influenced decision making (i.e., the learned reward and effort magnitudes and the explicitly shown probabilities, GLM 1) (
+Fig. 2
+A
+). For simplicity of presentation, we combined these rational decision variables into a “relative decision value” contrast. Specifically, the contrast for relative decision values included the following: chosen option value (reward magnitude + probability − effort magnitude) − unchosen option value (reward magnitude + probability − effort magnitude). We found that relative decision value was associated with activity in several areas (
+Fig. 8
+A
+;
+Table 5
+). For example, relative decision value was associated with BOLD increases in a midcingulate region and decreases in dACC, FO/AI, and aPFC. We also note that, although the vmPFC did not carry a statistically significant signal of relative decision value, we found a subthreshold activation.
+Figure 8.
+Brain activations in the decision phase. Relative decision value (
+A
+), a linear contrast of the regressors for relative (chosen − unchosen option) predicted reward magnitude + shown reward probability − predicted effort magnitude, led to increases (orange) and decreases (blue) in BOLD at the time of the decision. Regions activated in this contrast are regions in which activity is covarying with the value information that ought, rationally, to guide decision-making. Importantly, we also found increases in BOLD (
+B
+) in the vmPFC (beige) when a real rather than a hypothetical reward had been received on the last trial. vmPFC activity, therefore, covaries with an outcome feature that led to irrational biases in behavior. All results are cluster-corrected at
+p
+< 0.05.
+Table 5.
+Decision phase (GLM1)
+a
+The important result, however, is that whether the reward on the last trial had been real as opposed to hypothetical again affected vmPFC at the time of decision-making just as had been the case in the outcome phase (
+Fig. 8
+B
+, beige). This signal was significant even after whole-brain cluster-based correction for multiple comparisons. The outcome-related and decision-related effects in vmPFC relating to whether rewards were real or hypothetical were distinct because of their large temporal separation. On average, 17 s elapsed between the outcome phase of one trial and the decision phase of the next trial (
+Fig. 1
+).
+Amygdalar activity at the time of choice reflects the bias to repeat choices when reward was real as opposed to hypothetical on the last trial
+So far, we have identified regions susceptible to the bias induced by real rewards because they activated differently when reward was real versus hypothetical. Although such an activation pattern reflects the registration of the impact of the reward type, one could also imagine a region that then uses this information to bias behavior (i.e., the decision to stay or switch). Previous studies (
+de Martino et al., 2006
+;
+Roiser et al., 2009
+) have found the amygdala to play such a role; more precisely, they found the amygdala to activate more when decisions were in agreement with a frame (or bias) than when decisions were made against it. In our case, this would translate to more activity when a decision is made to stay after a real reward or switch after a hypothetical reward (i.e., behavior in both cases that is in line with the “frame” introduced by the real/hypothetical reward on the last trial). And on the other hand, this would translate to reduced activity when a decision is made to switch after a real reward or stay after a hypothetical reward. We tested this hypothesis (GLM3) by including a stay-switch regressor and a regressor for last trial's reward type (in addition to regressors controlling for the options' values). This analysis then allowed examination of how such stay-switch signals interacted with the previous trials' reward type: We compared activity associated with staying and switching on trials that followed either real or hypothetical rewards (i.e., a contrast of the regressors stay/switch on trials after a real reward minus stay/switch on trials after a hypothetical reward). The contrast revealed activations in the amygdala (
+Fig. 9
+A
+, green) and other regions (for a full list of activations, see
+Table 6
+). For the next analyses, we focused on the amygdala because previous studies suggested that this was a key area of interest (
+de Martino et al., 2006
+;
+Roiser et al., 2009
+). However, further studies should also investigate the other areas found in the same contrast in more detail. To look at the effect in more detail, we extracted the BOLD time course from an ROI in the amygdala (
+Fig. 9
+B
+). We found that the amygdala was more active when participants decided to stay with the same option (repeat a choice) only after they had received a real reward on the last trial. In contrast, the amygdala was more active when participants decide to switch when the reward outcome on the last trial was only hypothetical. In other words, when the decision to stay or leave was made in line with the participants' overall decision bias, the amygdala was more active.
+Figure 9.
+Stay and switch signals in the decision phase.
+A
+, In the decision phase, in addition to decision signals (shown in
+Fig. 8
+), dACC activity decreased when participants chose to stay rather than switch relative to the last trial (blue; i.e., when they chose the same option again as on the last trial). This was independent of whether the reward had been real or hypothetical on the last trial. In contrast, regions including the amygdala (green) differentially activate to whether a trial was a stay or a switch, depending on whether the reward was real or hypothetical on the last trial. All results are cluster-corrected at
+p
+< 0.05.
+B
+, Specifically, when there had been a real reward on the last trial, the amygdala was more active on stay than on switch trials (purple line). In contrast, when the reward had been hypothetical on the last trial, the amygdala was less active on stay than on switch trials (blue). During decisions, the amygdala's activity was negatively coupled with the aPFC's activity (
+Ci
+); a negative correlation between activity in the two regions. This negative coupling was decreased (
+Cii
+) on trials when participants made choices that were consistent with the overall bias introduced by the last trial's reward type. *
+p
+< 0.05 (two-tailed one-sample test of correlation values).
+Table 6.
+Decision phase (GLM3)
+a
+As an exploratory analysis, we next hypothesized, by analogy with previous studies (
+Roiser et al., 2009
+), that if the amygdala biases participants, its activity might be affected by an area that opposes the bias. If this were the case, then decisions would be more likely to be made in line with the overall decision bias when connectivity between a frontal lobe area and amygdala is weaker (i.e., the frontal lobe area is less able to influence the amygdala). In our experiment, the frontal brain area most likely to have such a role was aPFC. To test this idea, we performed a PPI analysis in which we measured whether the functional coupling between amygdala and aPFC (measured as correlation in activity) was reduced when decisions were made in line with the overall decision bias. We found (
+Fig. 9
+Ci
+) that, at the time of the decision, aPFC and amygdala were, in general, negatively coupled (
+p
+< 0.05 at every time point, two-tailed one-sample
+t
+test). This negative coupling was smaller (
+Fig. 9
+Cii
+) when decisions were made in line with the bias, shown as a reduction in the negative correlation between the two areas (
+p
+< 0.05 at 16 time points, two-tailed one-sample
+t
+test). Thus, in summary, we found that the functional connectivity or coupling between aPFC and amygdala may be linked to how well participants are able to prevent themselves from being biased. However, we also note that our design may not be the most ideal for examining such an interaction effect; in our task (in contrast to the task used by
+de Martino et al., 2006
+), decisions should be influenced by many factors; thus, our categorization of whether a trial was in line with, or against, the bias was somewhat simplistic: for example, on some trials, the rationally better option might also have happened to either be the option consistent or inconsistent with the bias. Thus, further research is needed to probe the connectivity between these areas in more detail.
+Discussion
+In complex natural environments, single choices can lead to multiple aspect outcomes. Humans should particularly learn about those aspects contingent upon choice: in our task, such aspects were reward and effort magnitudes. Importantly, participants should not learn choice–outcome feature relationships when those outcome features have no contingent relationship with choice: in our task, whether a reward was really received or only hypothetical. Participants were able to learn the real contingencies; they could use the informational content of reward, but they were also biased by its rewarding properties. At a neural level, we found areas possibly inducing (e.g., vmPFC and amygdala) and counteracting (aPFC, dACC, AI/FO) this bias.
+Real rewards biased decisions
+After obtaining real rather than hypothetical rewards, participants were more likely to repeat choices. This irrational bias remained even after controlling for factors that should, rationally, have influenced decisions. This suggests that participants perceived choices recently associated with real reward as preferable to those associated with hypothetical reward. Intriguingly, whether reward was real or hypothetical also affected how participants exerted effort. Using computational modeling, we found that this bias was not due to participants not learning about hypothetical rewards or treating hypothetical rewards as if no reward had occurred. Instead, we found that the bias was best explained as participants simply preferring options that had led to a real reward independent of their other attributes that should rationally influence decisions (e.g., learned reward or effort magnitudes or explicitly shown probabilities).
+Brain networks driving decision bias
+Two competing networks were related to the extent irrational biases manifested in behavior. Activity patterns and between-subject correlations suggested that vmPFC and amygdala contributed to the bias, whereas aPFC, together with FO/AI and dACC, counteracted it.
+When participants saw choice outcomes, vmPFC encoded whether reward had been real or hypothetical. We also found a positive correlation between this signal and participants' behavioral biases to repeat choices after real rewards. Participants whose vmPFC activity was more affected by whether reward was real were more biased.
+vmPFC was not just active at choice outcome but also during decisions. Then vmPFC activity reflected whether reward had been real or hypothetical on the last trial, but it did not significantly encode any quantity that should rationally have affected decisions, such as reward and effort magnitudes or reward probabilities. These quantities were instead represented in aPFC, dACC, and FO/AI. This result recalls other studies that failed to find vmPFC activity when both rewards and effort costs had to be integrated before participants could choose (
+Croxson et al., 2009
+;
+Prévost et al., 2010
+;
+Burke et al., 2013
+;
+Kurniawan et al., 2013
+; but see also
+Skvortsova et al., 2014
+). It contrasts, however, with a large body of work confirming the importance of vmPFC in reward-guided decision-making (
+Rangel and Hare, 2010
+;
+Rushworth et al., 2012
+) and in subjective estimates of real reward contingencies (
+Tanaka et al., 2008
+).
+vmPFC's role in inducing decision bias may be related to a more general role in choice repetition when this is advantageous. vmPFC activity at choice outcome predicts whether similar choices will be taken on the next opportunity (
+Boorman et al., 2011
+). Moreover, contrary to widespread beliefs about perseverative behavior after frontal lesions, vmPFC lesions reduce the rates at which advantageous choices are retaken (
+Noonan et al., 2012
+).
+vmPFC has been linked to construction of task models to guide behavior (
+Daw et al., 2011
+;
+Wunderlich et al., 2012
+). In those studies, vmPFC contextualized real reward information relevant for decision-making in task models. In contrast, in our study, whether reward is real should be completely ignored, rather than used within a model framework. Thus, our results suggest that, although vmPFC may be good at contextualizing real reward within a task model, it may be not as good at ignoring whether a reward is real or hypothetical.
+Bias-related activity was also present in amygdala. Amygdala and vmPFC are monosynaptically interconnected, and their activity is coupled (
+Carmichael and Price, 1995
+;
+Neubert et al., 2015
+). Whereas vmPFC was always more active when the last trial had been rewarded, the amygdala was more active whenever choices accorded with the irrational behavioral bias that the vmPFC signal could induce. It may be helpful to consider this result in relation to the response potentiating effect that reward-related amygdala activity exerts in Pavlovian instrumental transfer (
+Bray et al., 2008
+;
+Talmi et al., 2008
+;
+Geurts et al., 2013
+) and to observations that amygdala choice coding changes when participants make decisions “framed” in terms of losses or gains and irrational changes in behavior ensue (
+de Martino et al., 2006
+). It is also noteworthy that, although we focused on the amygdala here, other areas were also more active when choices were in accordance with the irrational bias, and further studies need to establish the specific roles they play.
+Ventral striatum has also been implicated in the response-potentiating influences of reward in Pavlovian instrumental transfer (
+Bray et al., 2008
+;
+Talmi et al., 2008
+;
+Prévost et al., 2012
+;
+Geurts et al., 2013
+), but these regions were less central to the behavioral biases identified in the present study. Ventral striatal activity increased identically when reward magnitude outcomes were larger regardless of whether outcomes were real or hypothetical, although there was a main effect of reward type (real vs hypothetical) that meant activity was greater when rewards were real as opposed to hypothetical. Thus, although ventral striatum was sensitive to reward type, this effect did not interact with reward magnitude. These results are similar to previous reports of no difference in coding of real or hypothetical rewards in ventral striatum (
+Bickel et al., 2009
+) and reports of both fictive and real reward prediction errors in ventral striatum (
+Lohrenz et al., 2007
+;
+Chiu et al., 2008
+). These results are, however, surprising in the context of other brain regions that did code reward magnitudes differently when rewards were real rather than hypothetical.
+A network including aPFC opposed the irrational bias in decision-making induced by real rewards
+Having identified which regions bias behavior when reward was real, we looked also for whether regions existed that opposed this bias. We found different activations in aPFC, FO/AI, and dACC that contributed to overcoming the bias to repeat choices recently associated with real rewards. The results suggest that one reason that these regions code costs (e.g.,
+Palminteri et al., 2012
+) may be not just because costs are aversive but because they motivate change in behavior when repetition is maladaptive.
+The aPFC was particularly interesting because it carried several important signals. In agreement with previous studies (
+Boorman et al., 2009
+,
+2011
+;
+Donoso et al., 2014
+), aPFC activation increased as the unchosen option's reward magnitude increased and deactivated with the chosen option's reward magnitude, suggesting that aPFC represents the relative advantage of switching to the alternative option rather than staying with the current choice. We extend this finding by reporting a complementary pattern for the coding of learned effort cost magnitudes.
+Coding of reward magnitude outcomes in aPFC and FO/AI was affected by whether reward outcome was real or hypothetical. The relative reward magnitude of the unchosen option was associated with increased activity when reward was real compared with hypothetical. This suggests that it is not simply the hypothetical nature of choices that leads to them being represented in aPFC; if that had been the case, then reward magnitude ought to have been represented more strongly when the outcome was hypothetical and effort representation should be unaffected by reward type. Instead, these results suggest that aPFC activity is driven by the importance reward and effort magnitudes have for switching to an alternative choice. Specifically, when a reward is real, brain regions, such as vmPFC, bias behavior toward choice repetition. To overcome this bias, it may be necessary to enhance the representation of the alternative choice in aPFC. Moreover, as functional coupling between amygdala and aPFC increased, decisions were less likely to be made in a biased manner.
+The importance of aPFC in overcoming the bias is further supported by the observation that reward type (real vs hypothetical) led to an increase in activation in aPFC. This increase in activation would be surprising if aPFC only coded a negative value signal, as then real reward should have led to a deactivation compared with hypothetical reward. Instead, activation in aPFC is related to promoting the choice of the alternative option. In agreement with this interpretation, we also found that participants with stronger activation to reward type in aPFC were better at counteracting the bias to repeat choices previously followed by real rewards. Thus, although individual variation in vmPFC activity was positively correlated with susceptibility to decision biases induced by real rewards, the relationship was the opposite way around for aPFC. Further analysis demonstrated that aPFC and vmPFC constitute two independent systems: one biasing behavior toward staying with rewarded options and the other one counteracting this bias when it is important to do so. aPFC, together with ACC, is not only involved in value-guided exploration (
+Daw et al., 2006
+;
+Kolling et al., 2012
+), but also in counteracting reward-based choice repetition when this should be avoided. In a similar vein,
+Kolling et al. (2014
+) suggested that activity in aPFC and dACC, as opposed to vmPFC, guides decision making in risky contexts to maximize longer-term reward even when this did not maximize reward on the current trial.

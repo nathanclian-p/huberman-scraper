@@ -1,0 +1,677 @@
+Koganemaru, S., Fukuyama, H. & Mima, T. Two is more than one: How to combine brain stimulation rehabilitative training for functional recovery?
+Front. Syst. Neurosci
+.
+9
+,
+https://doi.org/10.3389/fnsys.2015.00154
+(2015).
+Bolognini, N., Pascual-Leone, A. & Fregni, F. Using non-invasive brain stimulation to augment motor training-induced plasticity.
+J. NeuroEng. Rehabil
+.
+6
+,
+https://doi.org/10.1186/1743-0003-6-8
+(2009).
+Flöel, A. TDCS-enhanced motor and cognitive function in neurological diseases.
+Neuroimage
+85
+, 934–947,
+https://doi.org/10.1016/j.neuroimage.2013.05.098
+(2014).
+Article
+PubMed
+Google Scholar
+Wu, T., Jie, F., Seng, L. K., Li, X. & Wilder-Smith, E. P. V. Modeling of membrane potential dynamics induced by electromagnetic stimulation.
+Int IEEE/EMBS Conf Neur Eng
+2013
+, 243–246,
+https://doi.org/10.1109/NER.2013.6695917
+(2013).
+Pashut, T.
+et al
+. Mechanisms of magnetic stimulation of central nervous system neurons.
+PLoS Comput. Biol
+.
+7
+,
+https://doi.org/10.1371/journal.pcbi.1002022
+(2011).
+Sanders, P. J., Thompson, B., Corballis, P. M., Maslin, M. & Searchfield, G. D. A review of plasticity induced by auditory and visual tetanic stimulation in humans.
+Eur. J. Neurosci.
+48
+, 2084–2097,
+https://doi.org/10.1111/ejn.14080
+(2018).
+Article
+PubMed
+Google Scholar
+Thut, G., Schyns, P. G. & Gross, J. Entrainment of perceptually relevant brain oscillations by non-invasive rhythmic stimulation of the human brain.
+Front. Psychol
+.
+2
+,
+https://doi.org/10.3389/fpsyg.2011.00170
+(2011).
+Vosskuhl, J., Strüber, D. & Herrmann, C. S. Non-invasive Brain Stimulation: A Paradigm Shift in Understanding Brain Oscillations.
+Front. Hum. Neurosci
+.
+12
+,
+https://doi.org/10.3389/fnhum.2018.00211
+(2018).
+Walter, V. J. & Walter, W. G. The central effects of rhythmic sensory stimulation.
+Electroencephalogr. Clin. Neurophysiol.
+1
+, 57–86,
+https://doi.org/10.1016/0013-4694(49)90164-9
+(1949).
+Article
+CAS
+PubMed
+Google Scholar
+Herrmann, C. S. Human EEG responses to 1-100 Hz flicker: Resonance phenomena in visual cortex and their potential correlation to cognitive phenomena.
+Exp. Brain Res.
+137
+, 346–353,
+https://doi.org/10.1007/s002210100682
+(2001).
+Article
+ADS
+CAS
+PubMed
+Google Scholar
+Ross, B., Jamali, S., Miyazaki, T. & Fujioka, T. Synchronization of beta and gamma oscillations in the somatosensory evoked neuromagnetic steady-state response.
+Exp. Neurol.
+245
+, 40–51,
+https://doi.org/10.1016/j.expneurol.2012.08.019
+(2013).
+Article
+PubMed
+Google Scholar
+Tobimatsu, S., Zhang, Y. M. & Kato, M. Steady-state vibration somatosensory evoked potentials: Physiological characteristics and tuning function.
+Clin. Neurophysiol.
+110
+, 1953–1958 (1999).
+Article
+CAS
+Google Scholar
+Ross, B., Miyazaki, T., Thompson, J., Jamali, S. & Fujioka, T. Human cortical responses to slow and fast binaural beats reveal multiple mechanisms of binaural hearing.
+J. Neurophysiol.
+112
+, 1871–1884,
+https://doi.org/10.1152/jn.00224.2014
+(2014).
+Article
+PubMed
+Google Scholar
+Picton, T. W., John, M. S., Dimitrijevic, A. & Purcell, D. Human auditory steady-state responses.
+Int. J. Audiol.
+42
+, 177–219,
+https://doi.org/10.3109/14992020309101316
+(2003).
+Article
+PubMed
+Google Scholar
+Oster, G. Auditory beats in the brain.
+Sci. Am.
+229
+, 94–102 (1973).
+Article
+CAS
+Google Scholar
+Yin, T. C. T. & Chan, J. C. K. Interaural time sensitivity in medial superior olive of cat.
+J. Neurophysiol.
+64
+, 465–488,
+https://doi.org/10.1152/jn.1990.64.2.465
+(1990).
+Article
+CAS
+PubMed
+Google Scholar
+Grose, J. H., Buss, E. & Hall, J. W. Binaural beat salience.
+Hear. Res.
+285
+, 40–45,
+https://doi.org/10.1016/j.heares.2012.01.012
+(2012).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Pratt, H.
+et al
+. A comparison of auditory evoked potentials to acoustic beats and to binaural beats.
+Hear. Res.
+262
+, 34–44,
+https://doi.org/10.1016/j.heares.2010.01.013
+(2010).
+Article
+PubMed
+Google Scholar
+Karino, S.
+et al
+. Neuromagnetic responses to binaural beat in human cerebral cortex.
+J. Neurophysiol.
+96
+, 1927–1938,
+https://doi.org/10.1152/jn.00859.2005
+(2006).
+Article
+PubMed
+Google Scholar
+Draganova, R., Ross, B., Wollbrink, A. & Pantev, C. Cortical steady-state responses to central and peripheral auditory beats.
+Cereb. Cortex
+18
+, 1193–1200 (2008).
+Article
+Google Scholar
+Lakatos, P., Karmos, G., Mehta, A. D., Ulbert, I. & Schroeder, C. E. Entrainment of neuronal oscillations as a mechanism of attentional selection.
+Science
+320
+, 110–113,
+https://doi.org/10.1126/science.1154735
+(2008).
+Article
+ADS
+CAS
+PubMed
+Google Scholar
+Engel, A. K. & Singer, W. Temporal binding and the neural correlates of sensory awareness.
+Trends Cogn. Sci.
+5
+, 16–25,
+https://doi.org/10.1016/s1364-6613(00)01568-0
+(2001).
+Article
+PubMed
+Google Scholar
+Tallon-Baudry, C. & Bertrand, O. Oscillatory gamma activity in humans and its role in object representation.
+Trends Cogn. Sci.
+3
+, 151–162 (1999).
+Article
+CAS
+Google Scholar
+Jensen, O., Kaiser, J. & Lachaux, J. P. Human gamma-frequency oscillations associated with attention and memory.
+Trends Neurosci.
+30
+, 317–324,
+https://doi.org/10.1016/j.tins.2007.05.001
+(2007).
+Article
+CAS
+PubMed
+Google Scholar
+Tort, A. B. L., Komorowski, R. W., Manns, J. R., Kopell, N. J. & Eichenbaum, H. Theta-gamma coupling increases during the learning of item-context associations.
+Proc. Natl. Acad. Sci. USA
+106
+, 20942–20947,
+https://doi.org/10.1073/pnas.0911331106
+(2009).
+Article
+ADS
+PubMed
+Google Scholar
+Garcia-Argibay, M., Santed, M. A. & Reales, J. M. Binaural auditory beats affect long-term memory.
+Psychol. Res.
+83
+, 1124–1136,
+https://doi.org/10.1007/s00426-017-0959-2
+(2019).
+Article
+PubMed
+Google Scholar
+Jirakittayakorn, N. & Wongsawat, Y. Brain responses to 40-Hz binaural beat and effects on emotion and memory.
+Int. J. Psychophysiol.
+120
+, 96–107,
+https://doi.org/10.1016/j.ijpsycho.2017.07.010
+(2017).
+Article
+PubMed
+Google Scholar
+Beauchene, C., Abaid, N., Moran, R., Diana, R. A. & Leonessa, A. The effect of binaural beats on visuospatial working memory and cortical connectivity.
+PLoS ONE
+11
+,
+https://doi.org/10.1371/journal.pone.0166630
+(2016).
+Kraus, J. & Porubanová, M. The effect of binaural beats on working memory capacity.
+Stud. Psychol.
+57
+, 135–145,
+https://doi.org/10.21909/sp.2015.02.689
+(2015).
+Article
+Google Scholar
+Kennel, S., Taylor, A. G., Lyon, D. & Bourguignon, C. Pilot Feasibility Study of Binaural Auditory Beats for Reducing Symptoms of Inattention in Children and Adolescents with Attention-Deficit/Hyperactivity Disorder.
+J. Pediatr. Nurs.
+25
+, 3–11,
+https://doi.org/10.1016/j.pedn.2008.06.010
+(2010).
+Article
+PubMed
+Google Scholar
+Reedijk, S. A., Bolders, A. & Hommel, B. The impact of binaural beats on creativity.
+Front. Hum. Neurosci
+.,
+https://doi.org/10.3389/fnhum.2013.00786
+(2013).
+Le Scouarnec, R. P.
+et al
+. Use of binaural beat tapes for treatment of anxiety: A pilot study of tape preference and outcomes.
+Altern. Ther. Health Med.
+7
+, 58–63 (2001).
+PubMed
+Google Scholar
+Chaieb, L., Wilpert, E. C., Reber, T. P. & Fell, J. Auditory beat stimulation and its effects on cognition and mood states.
+Front. Psychiatry
+6
+,
+https://doi.org/10.3389/fpsyt.2015.00070
+(2015).
+Garcia-Argibay, M., Santed, M. A. & Reales, J. M. Efficacy of binaural auditory beats in cognition, anxiety, and pain perception: a meta-analysis.
+Psychol. Res.
+83
+, 357–372,
+https://doi.org/10.1007/s00426-018-1066-8
+(2019).
+Article
+PubMed
+Google Scholar
+Raymond, J. E., Shapiro, K. L. & Arnell, K. M. Temporary Suppression of Visual Processing in an RSVP Task: An Attentional Blink?
+J. Exp. Psychol. Hum. Percept. Perform.
+18
+, 849–860,
+https://doi.org/10.1037/0096-1523.18.3.849
+(1992).
+Article
+CAS
+PubMed
+Google Scholar
+Dux, P. E. & Rent́marois The attentional blink: A review of data and theory.
+Atten. Percept. Psychophys.
+71
+, 1683–1700,
+https://doi.org/10.3758/app.71.8.1683
+(2009).
+Article
+PubMed
+PubMed Central
+Google Scholar
+VanRullen, R., Carlson, T. & Cavanagh, P. The blinking spotlight of attention.
+Proc. Natl. Acad. Sci. USA
+104
+, 19204–19209,
+https://doi.org/10.1073/pnas.0707316104
+(2007).
+Article
+ADS
+PubMed
+Google Scholar
+Marois, R. & Ivanoff, J. Capacity limits of information processing in the brain.
+Trends Cogn. Sci.
+9
+, 296–305,
+https://doi.org/10.1016/j.tics.2005.04.010
+(2005).
+Article
+PubMed
+Google Scholar
+Jolicœur, P. & Dell’Acqua, R. The Demonstration of Short-Term Consolidation.
+Cognit. Psychol.
+36
+, 138–202,
+https://doi.org/10.1006/cogp.1998.0684
+(1998).
+Article
+PubMed
+Google Scholar
+Braun, J., Joseph, J. S., Chun, M. M. & Nakayama, K. Vision and attention: The role of training.
+Nature
+393
+, 424–425,
+https://doi.org/10.1038/30875
+(1998).
+Article
+ADS
+CAS
+PubMed
+Google Scholar
+Choi, H., Chang, L. H., Shibata, K., Sasaki, Y. & Watanabe, T. Resetting capacity limitations revealed by long-lasting elimination of attentional blink through training.
+Proc. Natl. Acad. Sci. USA
+109
+, 12242–12247,
+https://doi.org/10.1073/pnas.1203972109
+(2012).
+Article
+ADS
+PubMed
+Google Scholar
+Baeck, A., Rentmeesters, N. & Holtackers, S. & Op de Beeck, H. P. The effect of sleep in perceptual learning with complex objects.
+Vision Res.
+99
+, 180–185,
+https://doi.org/10.1016/j.visres.2013.10.003
+(2014).
+Article
+PubMed
+Google Scholar
+Haroush, K., Deouell, L. Y. & Hochstein, S. Hearing while blinking: Multisensory attentional blink revisited.
+J. Neurosci.
+31
+, 922–927,
+https://doi.org/10.1523/jneurosci.0420-10.2011
+(2011).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Reedijk, S. A., Bolders, A., Colzato, L. S. & Hommel, B. Eliminating the attentional blink through binaural beats: A case for tailored cognitive enhancement.
+Front. Psychiatry
+6
+,
+https://doi.org/10.3389/fpsyt.2015.00082
+(2015).
+World Medical Association declaration of Helsinki. Ethical principles for medical research involving human subjects.
+JAMA
+310
+, 2191–2194,
+https://doi.org/10.1001/jama.2013.281053
+(2013).
+Article
+CAS
+Google Scholar
+Lachaux, J. P., Rodriguez, E., Martinerie, J. & Varela, F. J. Measuring phase synchrony in brain signals.
+Hum. Brain Mapp
+.
+8
+, 194-208, doi:10.1002/(sici)1097-0193(1999)8:4<194::aid-hbm4>3.0.co;2-c (1999).
+Wianda, E. & Ross, B. Detecting neuromagnetic synchrony in the presence of noise.
+J. Neurosci. Methods
+262
+, 41–55,
+https://doi.org/10.1016/j.jneumeth.2016.01.012
+(2016).
+Article
+PubMed
+Google Scholar
+Kronland-Martinet, R., Morlet, J. & Grossmann, A. Analysis of sound patterns through wavelet transforms.
+Int J Pattern Recogn
+1
+, 273–302,
+https://doi.org/10.1142/S0218001487000205
+(1987).
+Article
+MATH
+Google Scholar
+MacLean, M. H. & Arnell, K. M. A conceptual and methodological framework for measuring and modulating the attentional blink.
+Atten. Percept. Psychophys.
+74
+, 1080–1097,
+https://doi.org/10.3758/s13414-012-0338-4
+(2012).
+Article
+PubMed
+Google Scholar
+Shapiro, K. L., Arnell, K. M. & Raymond, J. E. The attentional blink.
+Trends Cogn. Sci.
+1
+, 291–296,
+https://doi.org/10.1016/s1364-6613(97)01094-2
+(1997).
+Article
+CAS
+PubMed
+Google Scholar
+Cellini, N.
+et al
+. Sleep after practice reduces the attentional blink.
+Atten. Percept. Psychophys.
+77
+, 1945–1954,
+https://doi.org/10.3758/s13414-015-0912-7
+(2015).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Garner, K. G., Tombu, M. N. & Dux, P. E. The influence of training on the attentional blink and psychological refractory period.
+Atten. Percept. Psychophys.
+76
+, 979–999,
+https://doi.org/10.3758/s13414-014-0638-y
+(2014).
+Article
+CAS
+PubMed
+Google Scholar
+Tang, M. F., Badcock, D. R. & Visser, T. A. W. Training and the attentional blink: Limits overcome or expectations raised?
+Psychon. Bull. Rev.
+21
+, 406–411,
+https://doi.org/10.3758/s13423-013-0491-3
+(2014).
+Article
+PubMed
+Google Scholar
+R Core Team. (R Foundation for Statistical Computing, Vienna, Austria, 2013).
+Shapiro, K. L., Hanslmayr, S., Enns, J. T. & Lleras, A. Alpha, beta: The rhythm of the attentional blink.
+Psychon. Bull. Rev.
+24
+, 1862–1869,
+https://doi.org/10.3758/s13423-017-1257-0
+(2017).
+Article
+PubMed
+Google Scholar
+MacLean, M. H. & Arnell, K. M. Greater attentional blink magnitude is associated with higher levels of anticipatory attention as measured by alpha event-related desynchronization (ERD).
+Brain Res.
+1387
+, 99–107,
+https://doi.org/10.1016/j.brainres.2011.02.069
+(2011).
+Article
+CAS
+PubMed
+Google Scholar
+Hülsdünker, T., Strüder, H. K. & Mierau, A. The pre-stimulus oscillatory alpha phase affects neural correlates of early visual perception.
+Neurosci. Lett.
+685
+, 90–95,
+https://doi.org/10.1016/j.neulet.2018.08.020
+(2018).
+Article
+CAS
+PubMed
+Google Scholar
+Milton, A. & Pleydell-Pearce, C. W. The phase of pre-stimulus alpha oscillations influences the visual perception of stimulus timing.
+Neuroimage
+133
+, 53–61,
+https://doi.org/10.1016/j.neuroimage.2016.02.065
+(2016).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Busch, N. A., Dubois, J. & VanRullen, R. The phase of ongoing EEG oscillations predicts visual perception.
+J. Neurosci.
+29
+, 7869–7876,
+https://doi.org/10.1523/jneurosci.0113-09.2009
+(2009).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Ronconi, L., Pincham, H. L., Cristoforetti, G., Facoetti, A. & Szucs, D. Shaping prestimulus neural activity with auditory rhythmic stimulation improves the temporal allocation of attention.
+Neuroreport
+27
+, 487–494,
+https://doi.org/10.1097/wnr.0000000000000565
+(2016).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Olivers, C. N. L. & Nieuwenhuis, S. The beneficial effect of concurrent task-irrelevant mental activity on temporal attention.
+Psychol. Sci.
+16
+, 265–269,
+https://doi.org/10.1111/j.0956-7976.2005.01526.x
+(2005).
+Article
+PubMed
+Google Scholar
+Jäncke, L., Leipold, S. & Burkhard, A. The neural underpinnings of music listening under different attention conditions.
+Neuroreport
+29
+, 594–604,
+https://doi.org/10.1097/wnr.0000000000001019
+(2018).
+Article
+PubMed
+Google Scholar
+Klimesch, W., Sauseng, P. & Hanslmayr, S. EEG alpha oscillations: The inhibition-timing hypothesis.
+Brain Research Reviews
+53
+, 63–88,
+https://doi.org/10.1016/j.brainresrev.2006.06.003
+(2007).
+Article
+PubMed
+Google Scholar
+Regan, M. P., Regan, D. & He, P. An audio-visual convergence area in the human brain.
+Exp. Brain Res.
+106
+, 485–487,
+https://doi.org/10.1007/bf00231071
+(1995).
+Article
+CAS
+PubMed
+Google Scholar
+Gordon, N., Hohwy, J., Davidson, M. J., van Boxtel, J. J. A. & Tsuchiya, N. From intermodulation components to visual perception and cognition-a review.
+Neuroimage
+199
+, 480–494,
+https://doi.org/10.1016/j.neuroimage.2019.06.008
+(2019).
+Article
+PubMed
+Google Scholar
+Norcia, A. M., Gregory Appelbaum, L., Ales, J. M., Cottereau, B. R. & Rossion, B. The steady-state visual evoked potential in vision research: A review.
+J. Vision
+15
+, 1–46,
+https://doi.org/10.1167/15.6.4
+(2015).
+Article
+Google Scholar
+Alain, C., Zhu, K. D., He, Y. & Ross, B. Sleep-dependent neuroplastic changes during auditory perceptual learning.
+Neurobiol. Learn. Mem.
+118
+, 133–142,
+https://doi.org/10.1016/j.nlm.2014.12.001
+(2015).
+Article
+PubMed
+Google Scholar
+Colzato, L. S., Steenbergen, L. & Sellaro, R. The effect of gamma-enhancing binaural beats on the control of feature bindings.
+Exp. Brain Res.
+235
+, 2125–2131,
+https://doi.org/10.1007/s00221-017-4957-9
+(2017).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Hommel, B., Sellaro, R., Fischer, R., Borg, S. & Colzato, L. S. High-frequency binaural beats increase cognitive flexibility: Evidence from dual-task crosstalk.
+Front. Psychol
+.
+7
+,
+https://doi.org/10.3389/fpsyg.2016.01287
+(2016).
+Enns, J. T., Kealong, P., Tichon, J. G. & Visser, T. A. W. Training and the attentional blink: Raising the ceiling does not remove the limits.
+Atten. Percept. Psychophys.
+79
+, 2257–2274,
+https://doi.org/10.3758/s13414-017-1391-9
+(2017).
+Article
+PubMed
+Google Scholar
+Diaz, J. A., Queirazza, F. & Philiastides, M. G. Perceptual learning alters post-sensory processing in human decision-making.
+Nat. Hum. Behav
+.
+1
+,
+https://doi.org/10.1038/s41562-016-0035
+(2017).
+Martens, S., Munneke, J., Smid, H. & Johnson, A. Quick minds don’t blink: Electrophysiological correlates of individual differences in attentional selection.
+J. Cogn. Neurosci.
+18
+, 1423–1438,
+https://doi.org/10.1162/jocn.2006.18.9.1423
+(2006).
+Article
+PubMed
+Google Scholar
+Chaieb, L., Wilpert, E. C., Hoppe, C., Axmacher, N. & Fell, J. The impact of monaural beat stimulation on anxiety and cognition.
+Front. Hum. Neurosci
+.
+11
+,
+https://doi.org/10.3389/fnhum.2017.00251
+(2017).
+Schwarz, D. W. F. & Taylor, P. Human auditory steady state responses to binaural and monaural beats.
+Clin. Neurophysiol.
+116
+, 658–668,
+https://doi.org/10.1016/j.clinph.2004.09.014
+(2005).
+Article
+CAS
+PubMed
+Google Scholar
+Maeder, P. P.
+et al
+. Distinct pathways involved in sound recognition and localization: A human fMRI study.
+Neuroimage
+14
+, 802–816,
+https://doi.org/10.1006/nimg.2001.0888
+(2001).
+Article
+CAS
+PubMed
+Google Scholar
+Groen, J. J. Super- and subliminal binaural beats.
+Acta Otolaryngol. (Stockh).
+57
+, 224–230 (1964).
+Article
+CAS
+Google Scholar
+Akeroyd, M. A. A binaural beat constructed from a noise (L).
+J. Acoust. Soc. Am.
+128
+, 3301–3304,
+https://doi.org/10.1121/1.3505122
+(2010).
+Article
+ADS
+PubMed
+PubMed Central
+Google Scholar

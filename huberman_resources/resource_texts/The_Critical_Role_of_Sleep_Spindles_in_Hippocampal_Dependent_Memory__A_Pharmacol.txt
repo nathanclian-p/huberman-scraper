@@ -1,0 +1,264 @@
+Increased spindles improve hippocampal memory
+Before examining the effect of drug condition on memory consolidation, we ruled out an encoding effect by testing for baseline differences across drug conditions in the encoding sessions: texture discrimination (
+p
+= 0.87), word-pair associates (
+p
+= 0.10), and motor sequence task (
+p
+= 0.15). Next, we analyzed the effects of drug condition on memory consolidation for each task by running a repeated-measures ANOVA on the difference score between encoding and test sessions [for the verbal task, immediate (A.M.) and delayed (P.M.) test] across the three drug conditions (
+Fig. 3
+,
+Table 6
+).
+Figure 3.
+Cognitive performance by drug condition. Difference scores for the verbal paired associate task, the visual texture discrimination task, and the motor sequence task for the three drug conditions: 10 mg of ZOL, 2.5 g of SO, and placebo. Statistical comparisons are between drug conditions and placebo. **
+p
+< 0.005; *
+p
+< 0.05.
+Table 6.
+Study 2: task performance for encoding and test sessions
+For the verbal task, a significant difference was found in performance across drug conditions (
+p
+= 0.004) (
+Fig. 4
+a
+). Verbal memory improvement was observed in the ZOL conditions (
+p
+= 0.03) and not the SO condition (
+p
+= 0.21) relative to placebo. These memory performance differences were in agreement with our hypothesis, except for the fact that SO, though numerically lower than placebo, did not produce significant differences in the ANOVA. To further test our hypothesis that there would be a linear trend in memory performance (i.e., SO<placebo<ZOL), we ran a planned contrast analysis that compared the difference scores in SO, placebo, and ZOL with contrast weights (−1, 0, 1) respectively. Here, our hypothesis significantly predicted the data (
+t
+(28)
+= 3.89;
+p
+= 0.0002, one-tailed). There was a difference across drug conditions in perceptual learning (
+p
+= 0.02) and
+post hoc t
+tests showed significantly decreased learning in ZOL (
+p
+= 0.01) and no differences between SO (
+p
+= 0.77) compared with placebo (
+Fig. 4
+b
+). Contrary to our predictions, we found no significant differences across drug conditions on the motor sequence task (
+p
+= 0.65) (
+Fig. 4
+c
+), which underscores the specificity of these effects.
+Figure 4.
+Sleep features and memory performance.
+a
+, Spindle density in each drug condition (ZOL, black circle; SO, gray circle; placebo, white circle) is shown relative to change scores in verbal memory.
+b
+, REM minutes in each drug are shown relative to change scores in perceptual learning.
+c
+, Spindle density in each drug condition is shown relative to change scores in motor learning.
+Correlations were run between performance on the three memory tasks and nap sleep features (TST, SL, WASO, SE, and minutes of Stage 1, Stage 2, SWS, and REM sleep) in each of the drug conditions. In the ZOL condition, no significant correlations with these sleep features were found for the motor task (
+r
+< 0.25,
+p
+> 0.20), verbal task [all correlations were
+r
+< 0.013,
+p
+> 0.26, except Stage 1 min
+r
+= −0.30,
+p
+= 0.11), or perceptual task (
+r
+< 0.12,
+p
+> 0.20). Similarly, no significant correlations were found in placebo condition for the motor task (
+r
+< 0.14,
+p
+> 0.44), verbal task [all correlations were
+r
+< 0.12,
+p
+> 0.50, except REM minutes (
+r
+= −0.15,
+p
+= 0.16)], and perceptual task [all correlations were
+r
+< 0.15,
+p
+> 0.20, except SL (
+r
+= −0.15,
+p
+= 0.15) and SE (
+r
+= 0.14,
+p
+= 0.18)]. Finally, SO also did not show any significant correlations between sleep features and performance for the motor task (
+r
+< 0.12,
+p
+> 0.38), verbal task [all correlations were
+r
+< 0.25,
+p
+> 0.20, except Stage 2 min (
+r
+= 0.32
+p
+= 0.08)], and perceptual task [all correlations were
+r
+< 0.21,
+p
+> 0.23, except SE (
+r
+= 0.31,
+p
+= 0.09), SL (
+r
+= −0.32,
+p
+= 0.09), and WASO (
+r
+= −0.28,
+p
+= 0.14)].
+We next examined whether the drug effects on memory could be related to postnap differences in sleepiness with a repeated-measures ANOVA between sleepiness (KSS scores at 6:00 A.M., 7:00 A.M., 10:30 A.M., 3:00 P.M., and 4:00 P.M.) by drug condition. The sleepiness-by-condition interaction term was not significant (
+p
+= 0.53), indicating that sleepiness was modulated similarly throughout the experimental day across all conditions. We further probed the potential confound of sleepiness on performance by examining whether the change in sleepiness from prenap to postnap was correlated with the change in performance and again found no significant correlation in any drug condition (
+p
+> 0.28). Thus, variation in sleepiness or alertness attributable to drug condition did not appear to play an important role in the pharmacologically enhanced learning.
+We next examined the relationship between Stage 2 spindle density and the magnitude of verbal memory improvement in the three drug conditions. Verbal memory performance was significantly correlated with spindle density in ZOL (
+r
+= 0.38,
+p
+= 0.02) and placebo (
+r
+= 0.34,
+p
+= 0.02) but was not significant in SO (
+r
+= 0.29,
+p
+= 0.08). Importantly, no significant correlations were found between spindle density and either texture discrimination (where ZOL decreased performance) or motor learning (where no performance changes were observed) in any drug condition (except see correlations between performance and fast and slow spindles below).
+Previous studies have discussed the importance of slow wave oscillations for declarative memory consolidation (
+Molle et al., 2002
+;
+Marshall et al., 2006
+). Therefore, we examined the association between total slow oscillation power in NREM sleep and performance on the three tasks in each drug condition. In the placebo condition, performance was not significantly correlated with slow oscillations in the motor task (C3:
+r
+= −0.16,
+p
+= 0.39; or C4:
+r
+= −0.19,
+p
+= 0.30), perceptual task (C3:
+r
+= −0.10,
+p
+= 0.60; or C4:
+r
+= 0.11,
+p
+= 0.54), or verbal task (C3:
+r
+= 0.13,
+p
+= 0.49; or C4:
+r
+= 0.22,
+p
+= 0.24). Similarly, no significant correlations were found in the SO condition with performance for the motor task (C3:
+r
+= −0.11,
+p
+= 0.55; or C4:
+r
+= −0.14,
+p
+= 0.43), perceptual task (C3:
+r
+= 0.05,
+p
+= 0.77; or C4:
+r
+= 0.13,
+p
+= 0.49), and verbal task (C3:
+r
+= 0.04,
+p
+= 0.80; or C4:
+r
+= 0.03,
+p
+= 0.84). Finally, in the ZOL condition, no significant correlations were found in the motor task (C3:
+r
+= 0.12,
+p
+= 0.52; or C4:
+r
+= 0.16,
+p
+= 0.38), perceptual task (C3:
+r
+= 0.06,
+p
+= 0.73; or C4:
+r
+= −0.22,
+p
+= 0.25), or verbal task (note the nonsignificant effect in the right hemisphere) (C3:
+r
+= −0.14,
+p
+= 0.45; or C4:
+r
+= −0.32,
+p
+= 0.08).
+To further probe the relationship between Stage 2 spindle density and enhancements in verbal memory that was independent of the drug conditions, we used ANCOVA with verbal memory performance as the dependent variable, drug condition as the independent variable, and spindle density as the covariate. The ANCOVA showed that when spindle density is accounted for, the main effect of drug condition disappears (
+p
+= 0.40), whereas the spindle density effect on performance was highly significant (
+p
+< 0.001).
+Together, these findings indicate that the verbal memory improvements with ZOL seem to represent an enhancement of a normal consolidation process during sleep, as similar correlations between spindles and verbal memory were found in all three drug conditions and there were no detectable differences between spindles in amplitude or frequency between ZOL and placebo. In addition, the experimental manipulation of spindles and associated increases in verbal memory raise the possibility that sleep spindles may represent physiological processes critical for hippocampal-dependent verbal memory consolidation, evinced by the significant effect of spindles on performance in the ANCOVA. Importantly, we did not find improved verbal memory to be related to any other sleep features (e.g., sleep duration, sleep efficiency, etc.) whether in the placebo condition or in changes associated with either of the active drugs.
+To further dissect the effects of fast and slow spindles on memory performance, we correlated fast and slow spindle density, amplitude, and average frequency within each drug condition with difference scores on the verbal, perceptual, and motor tasks. For verbal memory, only overall spindle density was significantly correlated with performance in the three drug conditions.
+For perceptual learning, however, improvements under the placebo condition were negatively correlated with slow spindle density (
+r
+= −0.41,
+p
+= 0.02), and positively correlated with fast spindle frequency (
+r
+= 0.50,
+p
+= 0.006) and amplitude (
+r
+= 0.47,
+p
+= 0.01). SO perceptual learning was also negatively correlated with slow spindle density (
+r
+= −0.50,
+p
+= 0.006), but not with any other spindle feature (
+p
+> 0.25), and no ZOL spindle features were significantly correlated with perceptual learning (
+p
+> 0.44).
+For motor memory, negative correlations with slow spindle density were found in SO (
+r
+= −0.38,
+p
+= 0.03), but no other spindle feature was correlated (
+p
+> 0.85). A marginally significant positive correlation was found between placebo motor learning and fast spindle density (
+r
+= 0.35,
+p
+= 0.05), whereas no correlations were found in ZOL (
+p
+> 0.45). In summary, perceptual learning was negatively correlated with fast spindle characteristics in the placebo and SO conditions, and a weak association with fast spindle density emerged in both the placebo and SO conditions for motor learning; however, the improvements found in verbal memory did not seem to distinguish fast or slow spindles.

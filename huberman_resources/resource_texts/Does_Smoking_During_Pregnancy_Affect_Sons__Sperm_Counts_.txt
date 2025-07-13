@@ -1,0 +1,240 @@
+In 1983 Bostofte
+et al
+. reported a decline in the sperm density in Danish infertility patients from 73.4 mill/ml to 54.5 mill/ml across a 20-year period.
+1
+Auger
+et al
+. reported a similar decline in French semen donors.
+2
+A worldwide decline was suggested in a metanalysis by Carlsen
+et al
+.
+3
+Despite some evidence to the contrary,
+4–7
+it seems clear today that there are large geographic differences in sperm counts and in some countries there perhaps has been a decline.
+8–10
+The decline in semen quality may be related to environmental chemicals with estrogen-like actions during pregnancy (xenobiotics)
+11
+or to putative causes acting during spermatogenesis such as air pollution,
+12
+physical factors,
+13
+higher sexual activity associated with more leisure time
+14
+and a changing pattern of desired family size.
+15
+The “estrogen hypothesis”
+11
+has, however, received the most attention in scientific discussions as well as in public media.
+Tobacco use among women in Denmark has increased from the 1940s, which parallels an apparent decline in sperm count 20 years later.
+16
+Reduced fecundability has been found in women prenatally exposed to their mothers’ cigarette smoking,
+17
+and delayed time to pregnancy (TTP) has been observed in both men and women whose mothers smoked during pregnancy.
+18
+Therefore, prenatal exposure to tobacco smoke can be hypothesized to be an alternative explanation for the possible decline in sperm counts in some countries. In animal studies a destruction of oocytes and reduced fertility have been observed in female mice after
+in utero
+exposure to polycyclic aromatic hydrocarbons (PAH)—one of many compounds in cigarette smoke.
+19
+Moreover, the fecundity of male offspring in mice exposed to PAH
+in utero
+is reduced.
+20
+Several components in tobacco such as cadmium and nicotine have been found in the amniotic fluid of women who smoke.
+21
+However, in the only previous study of humans, Ratcliffe
+et al
+.
+22
+found no effect of prenatal exposure to maternal smoking for semen quality (conventional semen characteristics) or reproductive hormones.
+We obtained data on tobacco smoking during pregnancy among the mothers of participants in a study designed previously to look at environmental effects on semen.
+23
+We have data on semen quality (as measured by conventional semen characteristics), hormone levels (follicular stimulating hormone, luteinizing hormone, testosterone and inhibin-B) and chromatin stability. In this paper we examine whether these endpoints are related to men’s exposure as fetuses to mothers’ tobacco smoking.
+Methods
+Population
+We analyzed data from a study of the effect of prenatal estrogen exposure on quality of semen among twins and singleton brothers.
+23
+The population of brothers age 20–45 years were all selected from the population-based Danish Twin Registry (500 monozygotic twins and 500 dizygotic twins) and the Danish Civil Registration System (1000 single born).
+23
+The twins were selected from a geographic list of all twins, living close to the research center, while the singleton brothers all lived within the area of the research center. Men who had undergone vasectomy or had known azoospermia were not invited to participate in the study. If one of the brothers was adopted they were not recruited to the study because we also wanted to study hereditary determinants of semen quality. The study was approved by the ethics committee of Aarhus University Hospital. The participants provided informed consent in writing. Of the 2000 invited men, 778 (39%) consented to participate (
+Figure 1
+). We excluded 147 men because only one of the brothers in a pair responded. The study population comprised the first 414 responders. We stopped the enrollment procedure when 316 semen samples were collected. These 316 samples were obtained from 50 pairs of monozygotic twins, 51 pairs of dizygotic twins, 51 pairs of singleton brothers and 12 single brothers. For these 12, the paired brother was lost because it was not possible to make an appointment, he could not provide an ejaculate or there was a failure of the laboratory analysis. The data collection started in November 1999 and ended in May 2000.
+FIGURE 1:
+Flow chart for the study population.
+The men were asked for permission to contact their mothers by mail. Eleven of the mothers had died and the sons declined contact for another 11. In all, 142 mothers received a self-administered questionnaire regarding their smoking habits while they were pregnant with the participants under study; 138 returned completed questionnaires (97%). These mothers corresponded to 267 men (129 twins or singleton pairs and nine brothers without a sibling sample). One mother (two sons) did not recall her smoking habits and so we obtained information on tobacco exposure
+in utero
+for 265 men.
+Assessment of Prenatal Tobacco Exposure
+The questions on smoking had the following answer categories: no smoking, 1–10 cigarettes daily, 11–20 cigarettes daily, more than 20 cigarettes daily and “do not recall.” The same answer categories were applied for pipe, cigar or cheroot smoking, which was coded as daily cigarette smoking according to estimated contents of tobacco (
+eg
+, <50 gm of pipe tobacco corresponds to 1–10 cigarettes per day). We added the same questions about the father while the mother was pregnant. The distribution of mothers’ smoking per day during pregnancy was as follows: 1–10 cigarettes, 28%; 11–20 cigarettes, 12%; more than 20 cigarettes, 1%; 1–10 cheroots, 2%; and nonsmokers, 58%. Fifty-eight percent of the fathers were smokers.
+Data Collection
+The sons collected semen by masturbating directly into a sterile 50 ml polyethylene jar that was kept close to the body until analysis. One of two trained staff members analyzed the samples within 0.5–1.5 hours after collection. The sons completed questionnaires that asked about reproductive, medical and life-style factors (
+eg
+, current smoker), occupational history, frequencies of Finnish baths, spillage of sample and number of days since previous ejaculation.
+Laboratory Methods
+The semen samples were examined in a mobile laboratory at the participants’ home (N = 103) or in a stationary laboratory at the University of Aarhus (N = 164). The samples were kept in a heat chamber at 37°C for liquefaction. We measured semen volume in a graduated Falcon tube with an accuracy of 0.1 ml. The sperm concentration (number of spermatozoa per ml) of an appropriate dilution was counted in an improved Neubauer hemacytometer according to World Health Organization criteria.
+24
+One technician also used these criteria to classify sperm morphology. The smears were air-dried, fixed in 96% ethanol and stained using a modification of the Papanicolaou stain.
+We established an internal quality control program to evaluate the laboratory variation in assessment of sperm counts. Based on 38 samples, the median variation between technicians was 9% for sperm concentration, and the median average intra observer differences were 8% and 6%, respectively, for the two analysts. The laboratory underwent external quality control with the Nordic ESHRE QC programs that found a median average difference for the two analysts of 8% and 11%.
+Reproductive Hormones
+Serum was stored at −80°C until hormone measurements took place. We measured serum concentrations of luteinizing hormone (LH), FSH and testosterone by using the VIDAS analysis, which is an enzyme-linked fluorescent assay (ELFA) technique from bioMérieux, France. Dimeric inhibin-B was measured using a commercially available enzyme-linked immunosorbent assay (Oxford Bio-Innovation Ltd., Oxford, UK). The assay employs two monoclonal antibodies; the first is specific for the B-subunit of inhibin and the second is directed against the α-subunit and coupled to alkaline phosphatase. As a standard, a mixture of inhibin forms obtained from human follicular fluid was used, and the concentration was determined by calibration against recombinant 32 kD inhibin-B. The sensitivity of the assay was 15 pg/ml and the interassay variation of a sample containing 305 pg/ml inhibin-B was 9.5% (N = 8).
+Sperm Chromatin Structure Assay
+We applied the sperm chromatin structure assay (SCSA) according to the procedure described by Spano
+et al
+.
+25
+Briefly, 0.2-ml aliquots of semen were kept at −80°C until analysis. 1–2 × 10
+6
+sperm cells were treated with a low pH detergent solution (pH 1.2) and then stained with acridine orange (AO). The low pH solution partially denatures DNA in sperm with abnormal chromatin structure, whereas sperm with normal chromatin structure do not denaturate DNA. AO intercalated into double-stranded DNA fluoresces red when excited by a blue light. Sperm chromatin damage was quantified by measuring the red and green fluorescence intensity emitted from each of 10,000 sperm cells using a FACScan flow cytometer. We measured each sample twice. The extent of sperm DNA denaturation was expressed by the function αT obtained by the ratio of red to total (red plus green) fluorescence intensity, thus representing the amount of denatured, single-stranded DNA over the total cellular DNA. The results of the SCSA analysis are expressed in terms of Mean αT and percentage of cells outside the main population (COMP αT). The measurements of normal sperm samples generally produce narrow αT distributions, but samples with sperm showing increased susceptibility to DNA denaturation have broader αT distributions and larger COMP αT values. The SCSA correlate with the probability to conceive in normal populations.
+25
+Analysis and Statistical Methods
+We counted the samples twice and used the average for analysis. If the two counts differed by more than 10%, the counting procedure was repeated. If the second pair of counts also differed by more than 10%, an average of the four counts was used as a single measurement.
+Each of the semen parameters and the reproductive hormones in sons was log transformed. We analyzed these outcomes by a mixed model (SAS procedure Proc Mixed
+26
+) to estimate the systematic effects of mothers’ smoking habits (0, 1–10, or >10 cigarettes per day), the confounders listed below and a random effect of each mother/family. Furthermore, the size of residual variation (
+ie
+, the unexplained random variation within brothers) was allowed to depend on the type of brother (singleton, dizygotic and monozygotic twins). The estimates of the systematic effects were transformed back to the original scales and are expressed as relative differences of the adjusted medians. We estimated the effects of paternal smoking analogously.
+We also examined three parameters as dichotomized variables: sperm density (≤20 mill/ml), inhibin-B (≤25th percentile) and FSH (≥75th percentile). These were analyzed by GEE (SAS procedure Proc Genmod
+26
+) with the same systematic variables as above and an exchangeable working covariance structure within mother/family. This method can be interpreted as a logistic regression adjusting for correlation between brothers.
+We performed a cubic root transformation for sperm density (mill/ml), total count (mill) and inhibin-B to obtain a more symmetric distribution. The risk estimates were essentially the same as in analyses based on logarithmic transformation. Logit transformations were tried for normal morphology and SCSA values. This produced results similar to those presented.
+The following potential confounding variables were identified in the literature and included in the statistical models: length of sexual abstinence (continuous; log-transformed), age of the offspring (continuous; linear), season (two categories: January and February compared with the rest of the year), cryptorchidism (two categories: one or both testicles not in scrotum or having undergone treatment for a nondescended testicle compared with no history of cryptorchidism), current smoking (two categories: smoking and no smoking) and type of brother (three categories: singleton born, dizygotic twin, monozygotic twin). The analyses of reproductive hormones were also adjusted for time of blood sample collection (before 9:00 am, 9:00–12:00, and after 12:00 pm). We retained the confounders in the model irrespective of whether they changed the point estimates for smoking exposure and the outcome measures. We also carried out analyses after excluding cases with cryptorchidism; this restriction did not change the point estimates.
+Results
+Characteristics of the male participants are outlined in
+Table 1
+. Birth weight was lower and the prevalence of preterm birth was higher among sons exposed to prenatal tobacco smoke. Mothers of twins smoked more than mothers of singletons.
+TABLE 1:
+Characteristics of Male Study Participants by Maternal Smoking During Pregnancy
+Sons of mothers who smoked more than 10 cigarettes per day during pregnancy had a 48% lower adjusted sperm density (95% confidence interval [CI] = −69% to −11%) compared with sons whose mothers did not smoke (
+Table 2
+). Total sperm counts and inhibin-B levels were lower and FSH levels were somewhat higher (16% increase; CI = −13% to 54%) among the highest smoking group. This effect was most prominent for twin brothers, but there was little difference in the smoking effect among the three types of brothers (
+ie
+, no effect modification by type of brother). In
+Figure 2
+results are graphically delineated by cumulative plots showing the curve for offspring of mothers with the highest smoking levels displaced towards the left, reflecting lower values for sperm density and inhibin-B. For FSH the curve is displaced to the right indicating higher values. The point estimates for the effects of prenatal smoke exposure on sperm density, total sperm count, inhibin-B and FSH were reversed in the group with lower prenatal smoke exposure (1–10 cigarettes per day), so there was no dose-response relation across smoking categories. Sperm morphology or sperm chromatin anomalies (mean αT and COMP αT) were not related to maternal smoking during pregnancy. There was little difference in LH or testosterone levels by prenatal smoking exposure (
+Table 2
+).
+TABLE 2:
+Offspring Semen Characteristics and Reproductive Hormones in Relation to Maternal Smoking During Pregnancy
+FIGURE 2:
+Cumulative plots of (A) sperm density, (B) inhibin-B and (C) FSH in sons of mothers’ not smoking (
+line
+), smoking 1–10 cigarettes per day (
+dotted line
+) and more than 10 cigarettes per day (
+broken line
+) during pregnancy.
+There was no effect on sperm density for sons prenatally exposed to their father’s smoking of more than 10 cigarettes per day compared with the non-exposed (−2%; CI = −65% to 49%]. Sons exposed to fewer than 10 cigarettes per day had an increase of 34% in sperm density compared with the non-exposed (CI = −15% to 110%).
+There was an adjusted odds ratio of 4.3 for sperm density of 20 mill/ml or less among sons exposed to prenatal smoking of more than 10 cigarettes per day (CI = 1.4–13.2)(
+Table 3
+). Elevated odds ratios were also seen for reduced inhibin-B and elevated FSH level. These associations were not seen among sons whose mothers smoked 1–10 cigarettes per day during pregnancy.
+TABLE 3:
+Low Sperm Density, Low Inhibin-B and High FSH in Relation to Prenatal Tobacco Exposure
+Discussion
+We found lower sperm density, total sperm count, inhibin-B values and correspondingly higher values of FSH among the offspring of mothers who smoked more than 10 cigarettes per day during the index pregnancy. No effect was detected for sperm volume, morphology, testosterone, LH and sperm chromatin. If these associations were causal, the global smoking epidemic among women would correspond to a substantial decline in sperm concentration that may contribute to lower fecundity 20 to 30 years later. Some of the geographic differences in sperm quality may also be attributed to smoking, especially if only a high level of smoking plays a role. The “smoking hypothesis” could also explain why low sperm counts repeatedly have been found in Danish males.
+1,27
+Smoking in females started early in Denmark, and Danish women smoke more than women in most other countries.
+16,28
+Components in tobacco smoke may impair fetal Sertoli cells, as morphology and SCSA values were not affected, whereas sperm density, total count and inhibin-B were lowered. The Sertoli cell “nurses” the germ cells (approximately 10 germ cells per Sertoli cell) and the number obtained during fetal life is believed to be important for sperm production after puberty.
+29
+However, the mechanism by which fetal exposure to mothers’ smoking affect semen is not clear. In animal experiments two mechanisms have been discussed. Rat fetuses exposed to tobacco smoke have shown reduced sperm cell numbers without affecting the cell size.
+30
+Exposure of mice to PAH from gestational day 7 to 17 resulted in dose-dependent effect in the male progeny, including a decrease in testicular weight, atrophy of seminiferous tubules and altered spermatogenesis,
+21
+which indicate a toxic effect. Human and animal experimental evidence indicate that nicotine may disturb the hypothalamic-pituitary axis through stimulation of growth hormone, cortisol, vasopressin and oxytocin which in turn inhibits LH and prolactin release.
+31
+As nicotine passes the placenta, a similar effect could be expected in fetal life.
+32
+We have information on maternal smoking in only three categories. No decrease in sperm counts was seen in sons of mothers who smoked 1–10 cigarettes per day, which may indicate a threshold effect. Ratcliffe
+et al
+.
+19
+found no association of prenatal tobacco exposure with semen characteristics or reproductive hormones, which is inconsistent with our findings. The numbers of participants in these two studies are similar, but the earlier study had information on smoking in just two categories (mother smoked or did not smoke during pregnancy). We found an effect only among the high-exposure group (>10 cigarettes/day). An adverse effect would not be detected in Ratcliffe’s study if there were few heavy-smoking women among the smokers.
+The findings of an increase in sperm density and inhibin-B in sons of mothers smoking less than 10 cigarettes/day are puzzling. This could be attributable to chance, or to a lower estrogen level among smokers in accordance with the “estrogen hypothesis.”
+33
+The highest sperm counts are found in Finnish men,
+3,34
+and sperm counts have remained unchanged among Finnish men during the last four decades.
+35
+The sperm counts among Finnish men have been found to be 106% higher than for Danish men.
+34
+Two or three decades ago, 41%–47% of all Danish women smoked, whereas in Finland the proportion of women who smoked during the same period was 11%–16%.
+16,28,36,37
+Although our findings might help to explain a decline in sperm count among Danish men, smoking habits among women can hardly be the only explanatory factor accounting for geographic differences. Changes in sexual behavior, more sedentary work and genetic differences could also contribute to geographic differences.
+The sperm density was not decreased in sons of fathers who smoked more than 10 cigarettes per day. These findings do not support the effect of either passive smoking exposure of the mothers or a male-mediated effect of active smoking.
+Exposure-response relations remain to be established, given the small numbers of exposed sons in our study. Follow-up of pregnancy cohorts that were established more than 20 years ago could provide the necessary data.
+Selection bias attributable to nonresponders constitutes a well-known problem in studies on semen parameters in healthy men. In some studies, a low participation rate has been associated with an oversampling of men with low fertility, whereas an oversampling of men with high fertility has also been suggested.
+38,39
+We obtained information from the Danish Civil Registration System on number of children fathered for the source population (N = 2,000) and found no difference between responders and nonresponders in fertility measured as numbers of children (data not shown). We do not expect selection bias to be the explanation for our findings.
+We studied brothers because these data were also used in a study on genetic factors. We took the family link into consideration in the analyses and have no reason to believe that there are major design-induced biases in our study. Although smoking dosages were collected retrospectively for a time period of 20–45 years earlier, we believe the data to be of reasonably good quality. Any recall bias is likely to be nondifferential because mothers reported without knowing their sons’ test results. Some random misclassification is still expected, and in most cases lead to an underestimation of the actual adverse effect of tobacco smoking on male reproduction.
+Few factors are known to influence semen quality. Duration of sexual abstinence is known to correlate with semen quality (volume, count and total number of spermatozoa).
+40
+We found that the period of sexual abstinence was evenly distributed in the three exposure groups. Seasonal variation in sperm density (higher counts during winter compared with summer) has also been established for populations living in the northern hemisphere.
+41
+The mechanism is unclear, but changes in daylight or the warmer temperatures during summer have been suggested. In a recent study the sperm density in Danish men during the winter period was found to be 98 mill/ml, whereas in the summer it was 69 mill/ml.
+42
+Different smoking habits among mothers of twins (52% smoked) and mothers of singletons (35% smoked), as well as differences in the uterine environment and in birth weights among twins compared with singletons, could also lead to confounding. This issue was taken into account in the statistical model by adding type of brother (singleton, monozygotic twins, dizygotic twin).
+Smoking is often associated with other health-damaging lifestyle factors such as coffee consumption, alcohol intake and dietary habits. Therefore, the findings should be interpreted with caution because we have no information on these potential confounders.
+In conclusion, we found that sons of mothers smoking more than 10 cigarettes per day during pregnancy had a substantial decrease in sperm density, total sperm count and inhibin-B, whereas FSH was somewhat increased. No effect was seen on morphology and SCSA parameters, and these effects were not seen with lower levels of maternal smoking. Smoking during pregnancy may be contributing to the apparent secular decline in sperm count, as well as to observed geographic differences in sperm parameters.
+Acknowledgments
+We are indebted to support from Professor Gorm Dancher, research technician Kirsten Lunding, and technicians at the laboratory at the Institute of Anatomy Aarhus University. We also thank Giorgio Leter and Francesca Caruso for the flow cytometric SCSA analysis and Kirsten O. Kyvik from the Danish Twin Registry.
+References
+1. Bostofte E, Serup J, Rebbe H. Has the fertility of Danish men declined through the years in terms of semen quality? A comparison of semen qualities between 1952 and 1972. Int J Fertil 1983; 28: 91–95.
+2. Auger J, Kunstmann JM, Czyglik F, Jouannet P. Decline in semen quality among fertile men in Paris during the past 20 years. N Engl J Med 1995; 332: 281–285.
+3. Carlsen E, Giwercman A, Keiding N, Skakkebaek NE. Evidence for decreasing quality of semen during past 50 years. BMJ 1992; 305: 609–613.
+4. Becker S, Berhane K. A meta-analysis of 61 sperm count studies revisited. Fertil Steril 1997; 67: 1103–1108.
+5. Handelsman DJ. Sperm output of healthy men in Australia: magnitude of bias due to self-selected volunteers. Hum Reprod 1997; 12: 2701–2705.
+6. Olsen GW, Bodner KM, Ramlow JM, Ross CE, Lipshultz LI. Have sperm counts been reduced 50 percent in 50 years? A statistical model revisited. Fertil Steril 1995; 63: 887–893.
+7. Fisch H, Goluboff ET, Olson JH, Feldshuh J, Broder SJ, Barad DH. Semen analyses in 1,283 men from the United States over a 25-year period: no decline in quality. Fertil Steril 1996; 65: 1009–1014.
+8. Fisch H, Ikeguchi EF, Goluboff ET. Worldwide variations in sperm counts. Urology 1996; 48: 909–911.
+9. Fisch H, Goluboff ET. Geographic variations in sperm counts: a potential cause of bias in studies of semen quality. Fertil Steril 1996; 65: 1044–1046.
+10. Bujan L, Mansat A, Pontonnier F, Mieusset R. Time series analysis of sperm concentration in fertile men in Toulouse, France between 1977 and 1992. BMJ 1996; 312: 471–472.
+11. Sharpe RM, Skakkebaek NE. Are oestrogens involved in falling sperm counts and disorders of the male reproductive tract? [See comments]. Lancet 1993; 341: 1392–1395.
+12. Selevan SG, Borkovec L, Slott VL,
+et al
+. Semen quality and reproductive health of young Czech men exposed to seasonal air pollution. Environ Health Perspect 2000; 108: 887–894.
+13. Hjollund NH, Bonde JP, Jensen TK, Olsen J. Diurnal scrotal skin temperature and semen quality. Int J Androl 2000; 23: 309–318.
+14. Olsen J. Is human fecundity declining—and does occupational exposures play a role in such a decline if it exists? Scand J Work Environ Health 1994; 20: 72–77.
+15. Czeizel AE, Rothman KJ. Does relaxed reproductive selection explain the decline in male reproductive health? A new hypothesis. Epidemiology 2002; 13: 113–114.
+16. Joossens L, Sasco A. Some like it light. 1999. The European Network for Smoking Prevention (ENSP). Available at:
+http://www.ash.org.uk/uk/luk/luk.docs/somelikelight.pdf
+. Accessed 14 March 2002.
+17. Weinberg CR, Wilcox AJ, Baird DD. Reduced fecundability in women with prenatal exposure to cigarette smoking. Am J Epidemiol 1989; 129: 1072–1078.
+18. Jensen TK, Henriksen TB, Hjollund NH,
+et al
+. Adult and prenatal exposures to tobacco smoke as risk indicators of fertility among 430 Danish couples. Am J Epidemiol 1998; 148: 992–997.
+19. Dobson RL, Felton JS. Female germ cell loss from radiation and chemical exposures. Am J Ind Med 1983; 4: 175–190.
+20. MacKenzie KM, Angevine DM. Infertility in mice exposed in utero to benzo(a)pyrene. Biol Reprod 1981; 24: 183–191.
+21. Tuormaa TE. The adverse effects of tobacco smoking on reproduction and health: a review from the literature. Nutr Health 1995; 10: 105–120.
+22. Ratcliffe JM, Gladen BC, Wilcox AJ, Herbst AL. Does early exposure to maternal smoking affect future fertility in adult males? Reprod Toxicol 1992; 6: 297–307.
+23. Storgaard L, Bonde JP, Ernst E, Andersen CY, Kyvik KO, Olsen J. Effect of prenatal exposure to oestrogen on quality of semen: comparison of twins and singleton brothers. BMJ 2002; 325: 252–253.
+24. World Health Organization.
+WHO Laboratory Manual for the Examination of Human Semen and Sperm-Cervical Mucus Interaction
+. 4th edition. New York: Cambridge University Press, 1999.
+25. Spano M, Bonde JP, Hjollund HI, Kolstad HA, Cordelli E, Leter G. Sperm chromatin damage impairs human fertility. The Danish First Pregnancy Planner Study Team. Fertil Steril 2000; 73: 43–50.
+26. Littell RC, Milliken GA, Stroup WW, Wolfinger RD. SAS System for Mixed Models. Cary, NC: SAS Institute, Inc., 2000.
+27. Bonde JP, Kold JT, Brixen LS,
+et al
+. Year of birth and sperm count in 10 Danish occupational studies. Scand J Work Environ Health 1998; 24: 407–413.
+28. Osler M. Smoking habits in Denmark from 1953 to 1991: a comparative analysis of results from three nationwide health surveys among adult Danes in 1953–1954, 1986–1987 and 1990–1991. Int J Epidemiol 1992; 21: 862–871.
+29. Orth JM, Gunsalus GL, Lamperti AA. Evidence from Sertoli cell-depleted rats indicates that spermatid number in adults depends on numbers of Sertoli cells produced during perinatal development. Endocrinology 1988; 122: 787–794.
+30. Haworth JC, Ford JD. Comparison of the effects of maternal undernutrition and exposure to cigarette smoke on the cellular growth of the rat fetus. Am J Obstet Gynecol 1972; 112: 653–656.
+31. Weisberg E. Smoking and reproductive health. Clin Reprod Fertil 1985; 3: 175–186.
+32. McLachlan JA, Dames NM, Sieber SM, Fabro S. Accumulation of nicotine in the uterine fluid of the 6-day pregnant rabbit. Fertil Steril 1976; 27: 1204–1213.
+33. Baron JA, La Vecchia C, Levi F. The antiestrogenic effect of cigarette smoking in women. Am J Obstet Gynecol 1990; 162: 502–514.
+34. Jensen TK, Vierula M, Hjollund NH,
+et al
+. Semen quality among Danish and Finnish men attempting to conceive. The Danish First Pregnancy Planner Study Team. Eur J Endocrinol 2000; 142: 47–52.
+35. Suominen J, Vierula M. Semen quality of Finnish men. BMJ 1993; 306: 1579.
+36. Maerkedahl I, Helweg-Larsen K, Andersen BH, et al. Women life and mortality. [Research report.] Statens Information 1994; 1: 75–77.
+37. Vartiainen E, Puska P, Pekkanen J, Tuomilehto J, Jousilahti P. Changes in risk factors explain changes in mortality from ischaemic heart disease in Finland. BMJ 1994; 309: 23–27.
+38. Larsen SB, Abell A, Bonde JP. Selection bias in occupational sperm studies. Am J Epidemiol 1998; 147: 681–685.
+39. Cohn BA, Overstreet JW, Fogel RJ, Brazil CK, Baird DD, Cirillo PM. Epidemiologic studies of human semen quality: considerations for study design. Am J Epidemiol 2002; 155: 664–671.
+40. Schwartz D, Laplanche A, Jouannet P, David G. Within-subject variability of human semen in regard to sperm count, volume, total number of spermatozoa and length of abstinence. J Reprod Fertil 1979; 57: 391–395.
+41. Levine RJ. Seasonal variation of semen quality and fertility. Scand J Work Environ Health 1999; 25 (suppl 1): 34–37.
+42. Jorgensen N, Andersen AG, Eustache F,
+et al
+. Regional differences in semen quality in Europe. Hum Reprod 2001; 16: 1012–1019.
+View full references list

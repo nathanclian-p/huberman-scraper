@@ -1,0 +1,2339 @@
+Abstract
+Prediction of the initial compatibility of heterosexual individuals based on self-reported traits and preferences has not been successful, even with significantly developed information technology. To overcome the limitations of self-reported measures and predict compatibility, we used functional connectivity profiles from resting-state functional magnetic resonance imaging (fMRI) data that carry rich individual-specific information sufficient to predict psychological constructs and activation patterns during social cognitive tasks. Several days after collecting data from resting-state fMRIs, participants undertook a speed-dating experiment in which they had a 3-min speed date with every other opposite-sex participant. Our machine learning algorithm successfully predicted whether pairs in the experiment were compatible or not using (dis)similarity of functional connectivity profiles obtained before the experiment. The similarity and dissimilarity of functional connectivity between individuals and these multivariate relationships contributed to the prediction, hence suggesting the importance of complementarity (observed as dissimilarity) as well as the similarity between an individual and a potential partner during the initial attraction phase. The result indicates that the salience network, limbic areas, and cerebellum are especially important for the feeling of compatibility. This research emphasizes the utility of neural information to predict complex phenomena in a social environment that behavioral measures alone cannot predict.
+Introduction
+Finding a suitable romantic partner is challenging, which is why matchmaking services have a strong economic market (
+Finkel et al. 2007
+,
+2012
+). To help individuals find their soulmates, some matchmaking services utilize algorithms that aim to predict, based on self-reported data, potentially suitable partners for users before they begin communication (
+Finkel et al. 2012
+;
+Joel et al. 2017
+). However, the performance of such algorithms is currently very limited at best (
+Finkel et al. 2012
+). In such algorithms, following research on social relationships, both similarity and complementarity in personality are considered important for compatibility (
+Finkel et al. 2012
+). Individuals prefer dating those with the same personality types (
+Morell et al. 1989
+) and complementary attachment insecurities (anxious or avoidant) (
+Kirkpatrick and Davis 1994
+;
+Holmes and Johnson 2009
+). They also prefer to have dyadic interactions with partners with complementary interpersonal styles (dominant or submissive) (
+Dryer and Horowitz 1997
+). Thus, such psychological constructs could help predict the compatibility of individuals.
+However, a recent study showed negative results for the prediction of compatibility (
+Joel et al. 2017
+). Participants first completed questionnaires of more than 100 psychological constructs. Subsequently, they attended a speed-dating event in which they had a 4-min conversation, referred to as a “speed date,” with every participant of the opposite sex. After each speed date, participants filled in a three-item measure of their romantic desires for their potential partners. The findings showed that a machine learning algorithm, even with more than 100 psychological constructs, could not anticipate the degree to which individuals desired one another. This might be due to the behavior of an individual in the speed-dating context, which is time-constrained. Moreover, unfamiliar situations, as in most cases of relationship initiation, do not necessarily elicit behaviors consistent with self-reported psychological constructs, which reflect general behavioral tendencies. Another study also showed that the “perceived” similarity during a dyadic interaction, but not similarity of self-reported measures collected before meeting, was important for predicting initial attraction (
+Tidwell et al. 2013
+). There is an additional discrepancy between subjective preferences for particular qualities in a partner before meeting and the qualities in selected partners accordingly (
+Todd et al. 2007
+). Thus, to predict compatibility of two individuals during relationship initiation, predictive variables need to reflect behavioral tendencies that the two individuals actually exhibit during dyadic interactions.
+In the last two decades, task-free, spontaneous brain activity has been densely investigated because of the invaluable information it carries as well as the simplicity of data collection. Scanning no more than 10 min of task-free resting state by functional magnetic resonance imaging (fMRI) enables one to obtain correlation patterns of time series across regions (i.e., functional connectivity) and identify functional organization (i.e., large-scale brain networks) of the human brain corresponding to various task-evoked activation patterns (
+Cole et al. 2016
+). Resting-state functional connectivity can predict not only various psychological constructs that represent general tendencies of behaviors and thoughts (e.g., Big Five personality traits,
+Nostro et al. 2018
+) but also activation patterns during various social cognitive tasks (
+Cole et al. 2016
+;
+Tavor et al. 2016
+;
+Ito et al. 2017
+;
+Kong et al. 2019
+), which require abilities essential for dyadic interactions (e.g., emotional processing, language, and social cognition) (
+Redcay and Schilbach 2019
+). It has also been revealed that (dis)similarity of functional connectivity profiles between two individuals represents (dis)similarity of psychological constructs or behavioral tendencies (
+Liu et al. 2019
+). Furthermore, recent research has succeeded in predicting the proximity in a real-world social network based on similarity in resting-state functional connectivity, indicating that functional connectivity may capture latent interpersonal similarities between friends, which are otherwise not fully captured by commonly used demographic or personality measures (
+Hyon et al. 2020
+). Based on these findings, it is likely that (dis)similarity of functional connectivity profiles of an individual to those of a potential romantic partner corresponds to (dis)similarity of behavioral tendencies during dyadic interactions. This would enable us to predict the outcome of such interactions, that is, the compatibility of relationship initiation.
+In the present study, using a speed-dating paradigm and fMRI, we aimed to demonstrate that the compatibility of a female–male relationship can be predicted using the functional connectivity profiles of individuals which was collected before their meetings. Compatibility was predicted by a machine learning algorithm using the similarity index of functional connectivity in this study. This comparable index as used by Hyon et al. (2020) was the absolute value of the difference between the functional connectivities of premeeting resting-state fMRIs.
+We hypothesized that compatibility would be successfully predicted using the (dis)similarity of functional connectivity profiles. Considering that compatibility is determined not only by the similarity but also by the complementarity of traits, such as dominance/submissive (
+Dryer and Horowitz 1997
+) and attachment anxiety/avoidance (
+Kirkpatrick and Davis 1994
+;
+Holmes and Johnson 2009
+), the feature values contributing to compatibility classification would be both positive (represents similarity) and negative (represents dissimilarity or complementarity). Such classification-contributed features would enable us to explore the neural foundations of compatibility.
+Materials and Methods
+As the present study is, to the best of our knowledge, the first to use the similarity indices of functional connectivity as a feature value in neuroimaging research (although a similar approach was used for questionnaire data in social psychology,
+Tidwell et al. 2013
+), we first assessed the utility of the index using publicly available data from the Human Connectome Project (HCP). In this index assessment, we attempted to classify the pair data collected from a given individual at different time points (self–self pair) and that of different individuals (self–other pair) using an identical protocol. We then confirmed that the index represents pair-specific information and enables us to distinguish pairs with different properties. Although conventional resting-state fMRI research uses only low frequency (<0.1 Hz) data (
+Lee et al. 2013
+), recent findings have unveiled the importance of frequency-dependent information (
+Sasai et al. 2014
+;
+Park et al. 2019
+;
+Ries et al. 2019
+) and the link between higher-frequency data and complex information processing (
+Baria et al. 2011
+). Therefore, we classified information using data from four distinct frequency bands. The effective frequency bands for the pair-data classification were also marked in the index assessment using the HCP dataset.
+The data and codes for data analyses in this study are available on request from the corresponding authors S. K. and A. I.
+Identity Classification Based on Functional Connectivity Contrast
+Subjects
+This test was conducted using the test-retest dataset from the HCP. The dataset contained data on 44 healthy subjects (14 males) (This is the full sample size of the dataset as of August 2019.) who underwent two resting-state fMRI scans on different days (mean interval = 139.3 ± 69.0 days).
+Preprocessing
+All preprocessing was performed using Data Processing Assistant for Resting-State fMRI Advanced Edition (DPARSFA;
+http://www.rfmri.org/DPARSF
+), which is based on Statistical Parametric Mapping 12 (SPM12;
+http://www.fil.ion.ucl.ac.uk/spm
+) and Resting-State fMRI Data Analysis Toolkit (REST;
+http://www
+.
+restfmri.net
+). The first four dummy scans were discarded. The time series of images for each subject were realigned using a six-parameter rigid-body transformation, followed by slice-timing correction. All volume slices were corrected for differences in signal acquisition time by shifting the signal measured in each slice relative to slice acquisition at the midpoint of each time repetition (TR). Individual structural images (T1-weighted magnetization-prepared rapid acquisition with gradient echo [MPRAGE]) were coregistered to the mean functional image using a rigid-body transformation. The transformed structural images were then segmented into gray matter, white matter, and cerebrospinal fluid (CSF). We then conducted nuisance covariates regression in native space to minimize the noise effects caused by cardiac and respiratory cycles, scanner drifts, and motion. We controlled for nuisance regressors of six head motion parameters, average white matter, and CSF signals, and we included them in the general linear model. We did not apply global signal regression, considering the loss of information by the procedure (
+Liu et al. 2017
+). Subsequently, the functional scans were spatially normalized to the Montreal Neurological Institute (MNI) stereotactic standard space.
+Decomposing Signals into Multiple Frequency Bands
+To ensure that both the identity and the compatibility classification utilize the same frequency bands, this procedure was conducted using data for compatibility classification as described in the Decomposing Signals into Multiple Frequency Bands section for compatibility classification. Four frequency bands (0.109–0.199, 0.055–0.109, 0.027–0.055, and 0.014–0.027 Hz) comparable with those used in previous studies (
+Achard et al. 2006
+;
+Qian et al. 2015
+) were defined for subsequent analysis; these frequency bands were referred to as F1, F2, F3, and F4, respectively.
+Identity Definition
+The identities of two sets of data were defined by whether they were collected from the same individual. A self–self pair contained two sets of data collected from an individual at different time points (e.g., subject A at time 1 and subject A at time 2). A self–other pair contained two sets of data collected at different time points from two consecutively numbered individuals (e.g., subject A at time 1 and subject B at time 2). Thus, we obtained 44 self–self pairs and 44 self–other pairs.
+Given that the self–self pair data are considered to be more similar than the self–other pair data, if the feature values indeed represent individual-specific information, then the machine learning algorithm should be able to distinguish the self–self pairs from self–other pairs. In addition, the feature values (explained in the next section) used for classification should have positive coefficients because a high probability of being a self–self pair should be related to a high degree of similarity (and not dissimilarity) in connectivity. Thus, we confirmed that the procedure can correctly classify pairs based on individual-specific information, assess which frequency bands are particularly rich in information about individuals, and possibly predict compatibility.
+Feature Values of Pair Data
+Appropriate feature values are required to construct a machine learning classifier and classify an identity label. The feature values that potentially represent the identity of two sets of data were calculated from functional connectivity, that is, Pearson’s correlation of regional averaged time series data. The regions of interest (ROIs) were defined by automated anatomical labeling (AAL) (
+Tzourio-Mazoyer et al. 2002
+), which divides the brain into 116 ROIs (Although this is a coarse atlas compared with those that are proposed recently,
+Power et al. 2011
+;
+Glasser et al. 2016
+;
+Gordon et al. 2016
+, it has been broadly used for functional connectivity research,
+Tommasin et al. 2018
+;
+Wegrzyk et al. 2018
+;
+Farràs-Permanyer et al. 2019
+, and is better when considering the curse of dimensionality in machine learning,
+Altman and Krzywinski 2018
+, as it also works as a dimension-reduction method.). A vector of 6670 functional connectivities was obtained for each data point. The absolute difference vector of two vectors was then obtained as the set of feature values of a pair for each frequency band. Below, we refer to these feature values as “the contrast of functional connectivity” or “functional connectivity contrast.”
+Similarity of Connectivity Patterns
+In addition to feature value preparation, we compared the similarity within pairs (Pearson’s correlation of the functional connectivity vectors) between two groups (i.e., self–self pairs vs. self–other pairs) as an initial analysis. The statistical significance of differences across groups was assessed using a permutation test, which was also used for significance testing in the other parts of the current study. This test first calculated the to-be-tested value, which in this case was the difference in median similarity value of each group. Next, the same calculation was repeated 1000 times with data whose group labels were randomized. The probability of obtaining the to-be-tested value was then calculated. A difference between the self–self and self–other group was considered significant if a magnitude of difference between the groups was rarely observed (
+P
+< 0.05) in the randomized data. The significance of this value implies that the similarity of functional connectivity patterns was significantly higher (or lower) in the self–self group than in the self–other group.
+Classification of Identity from Functional Connectivity Contrast
+We classified identity based on the contrast of functional connectivity vectors. For classification, we applied a machine learning algorithm known as sparse logistic regression with elastic-net regularization (SLR-EN) using the scikit-learn package in Python. The elastic net is a regularization method that enables feature selection (i.e., dissimilarity vector of functional connectivity) and prevents overfitting of the classifier, which contains numerous parameters when compared with the number of participants (
+Zou and Hastie 2005
+;
+Friedman et al. 2010
+;
+Ryali et al. 2010
+). Hence, the combination of the elastic-net and logistic regression enables the extraction of a set of functional connectivities whose (dis)similarity discriminates the identity from the numerous parameters in a more generalizable way rather than assessing the significance of each parameter by independently applying logistic regression.
+The elastic net was determined using the following equation (
+Friedman et al. 2010
+):
+where
+where
+is the elastic-net penalty (
+Zou and Hastie 2005
+) with
+N
+samples and
+P
+features and represents a compromise between the ridge regression penalty (
+⁠
+= 0) and lasso penalty (
+⁠
+= 1). This penalty is particularly useful when
+P
+≫
+N
+or in any situation featuring many correlated predictor variables (the current data satisfy both situations) (
+Friedman et al. 2010
+). The best combination of hyperparameters
+(0.15, 0.50, 0.85) and
+(0.0001, 0.001, 0.01) was determined to calculate the highest accuracy of the classifier.
+The classification accuracy was evaluated using a stratified
+k
+-fold cross-validation procedure. All available samples were partitioned into
+k
+-folds, where
+k
+− 1 folds were used to train the classifier model (training set) and the remaining fold was used for validation (test set). This procedure was repeated
+k
+times such that each fold was used once as the test set. The stratified option ensures that each fold had the same proportion of samples from each class as in the original dataset as a whole. In the current study,
+k
+was set to 10. The ratio of the number of correctly classified labels was then obtained as the classification accuracy.
+Statistical Analysis
+Group-level significance was assessed using the permutation test explained in the Similarity of Connectivity Patterns section. We created a null distribution by repeating the SLR-EN classification 1000 times with a randomized label. The group-level classification accuracy was compared with the null distribution to determine whether the classification was statistically significant. The same procedure was conducted for each frequency-band data.
+Compatibility Classification Based on Functional Connectivity Contrasts
+Subjects
+The participants for compatibility classification consisted of 42 healthy young volunteers with no history of neurological disease (20 females, mean age = 20.36 years, range = 20–23 years). We could not identify any pathological findings in the brains of the participants using magnetic resonance imaging (MRI). All participants had normal or corrected-to-normal vision and declared that they were heterosexual. They provided written informed consent in accordance with the Declaration of Helsinki, and the study was approved by the Ethical Committees of the Hokkaido University.
+Experimental Design
+The participants undertook the experiment, which consisted of three phases across 4 separate days: 1) prespeed-dating task/resting fMRI session, 2) three speed-dating events, and 3) postspeed-dating fMRI session. As the experiment was conducted for two purposes, one of which was reported in another study (
+Ito et al. 2020
+) (please refer to this study for more detailed descriptions of the experimental paradigm and procedure), this section only elaborates on details relevant to the current study.
+First, the participants underwent a 10-min resting-state fMRI in the prespeed-dating fMRI session. The participants were instructed to fix their gaze on a cross during the scan. Next, they attended the speed-dating events several days after the fMRI session. It was held in a large open room and took approximately 3 h. Upon arrival, each participant received an identification number and a bundle of worksheets (questionnaires). They were asked to sit on a chair labeled with the same ID number as the one that they were assigned. During each speed-dating session, the participants had a 3-min unconstrained conversation with every participant of the opposite sex. After the conversation, all male participants moved by one individual to their left (
+Fig. 1
+) and had a 3-min conversation with the new individual. This process was repeated until each participant had had conversations with every other participants of the opposite sex. At the end of the task, the participants were asked to choose at least half of the participants of the opposite sex based on whether they wanted to talk to the individual again (i.e., potential partner choice) (
+Fig. 1
+). All participants were instructed to not reveal any personal information (e.g., name, phone number, and email address) to other participants during speed-dating. Regardless of the outcome of the speed-dating, no participant received personal information of any other participants due to security concerns.
+Figure 1
+Schematic flow of experimental paradigm.
+Image Acquisition
+Whole-brain imaging was performed using a 3 T MRI scanner (MAGNETOM Prisma, Siemens) equipped with a 12-channel head coil array for signal reception. A T2
+*
+-weighted echo planar imaging (EPI) sequence sensitive to blood oxygen level-dependent (BOLD) contrast was used for functional imaging with the following parameters: TR = 2500 ms, time echo (TE) = 30 ms, flip angle = 90°, acquisition matrix = 80 × 80, field of view (FOV) = 240 mm, in-plane resolution = 3 × 3 mm, number of axial slices = 39, slice thickness = 3 mm, and interslice gap = 0.5 mm. An acquisition sequence tilted at 30° to the intercommissural line (anterior commissure-posterior commissure) was used to recover magnetic susceptibility-induced signal losses induced by sinus cavities (
+Deichmann et al. 2003
+). A high-resolution (spatial resolution 1 × 1 × 1 mm) structural image was also acquired using a T1-weighted, MPRAGE pulse sequence. Head motion was restricted using firm padding around the head. Visual stimuli were presented on a mirror mounted on a head coil by using a projector outside the scanner room. The responses were collected using a magnet-compatible response box. The first four scans were discarded for T1 equilibration.
+Preprocessing
+All data were preprocessed using the same protocol described in the Preprocessing section for identity classification.
+Decomposing Signals into Multiple Frequency Bands
+Based on reports showing the frequency-specific properties of the brain function and their associations with cognitive function (
+Sasai et al. 2014
+;
+Park et al. 2019
+;
+Ries et al. 2019
+), we decomposed the fMRI time series data into several frequency bands that were defined using the wavelet transform method (
+Achard et al. 2006
+). The wavelet transform method was applied to the regional averaged time series data extracted from the 116 ROIs defined by AAL (
+Tzourio-Mazoyer et al. 2002
+). This step decomposed the signals into seven waveforms whose frequency bands differed across waveforms, ROIs, and subjects. Therefore, every subject had 116 minimum values of the lower limit of waveform frequency for each frequency band. The medians of these minimum values were set as the lower limits of the frequency bands, and the upper limits of the bands were defined by the lower limits of the following frequency bands. Frequency bands lower than 0.010 Hz were discarded because of their low informational value, and the data from four frequency bands (0.109–0.199, 0.055–0.109, 0.027–0.055, and 0.014–0.027 Hz) were used for subsequent analysis; these bands were referred to as F1, F2, F3, and F4, respectively.
+Definition of Compatibility
+The compatibility of two individuals was defined by their impressions of each participant of the opposite sex. A pair was labeled as compatible if both individuals chose each other as a potential partner with whom they wanted to talk again. Otherwise, a pair was labeled as incompatible. Following this definition, there were 158 compatible and 282 incompatible pairs.
+Feature Values of Pair Data
+Feature values of the pairs were obtained using the procedure described in the Feature Values of Pair Data section for identity classification.
+Similarity of Connectivity Patterns
+Similarity within pairs was compared between compatible and incompatible groups following the procedure described in the Similarity of Connectivity Patterns section for identity classification. The significance determined by the permutation test implied that the similarity of functional connectivity patterns was significantly higher (or lower) in the compatible group than in the incompatible group.
+Classification of Compatibility from Functional Connectivity Contrast and Statistical Analysis
+For the main analysis, we classified compatibility after speed-dating from the contrast of functional connectivity vectors. This was accomplished using the method described in the Classification of Identity from Functional Connectivity Contrast section for identity classification, with additional oversampling. Given that the number of compatible and incompatible pairs was unequal (compatible pairs = 158, incompatible pairs = 282), there was a possible difficulty in the effective learning of the decision boundary for the machine learning model. To solve this problem, we augmented the compatible pair dataset with artificial data using synthetic minority and oversampling (SMOTE) (
+Chawla et al. 2002
+). SMOTE is the most common oversampling technique that effectively forces the decision region of the minority class to become more general (
+Chawla et al. 2002
+). In this technique, synthetic samples are generated in the following manner (
+Chawla et al. 2002
+): “Take the difference between the feature vector (sample) under consideration and its nearest neighbor. Multiply this difference by a random number between 0 and 1, and add it to the feature vector under consideration. This causes the selection of a random point along the line segment between two specific features.”
+Figure 2
+Results of identity classification. (
+A
+) Similarities in the overall functional connectivity profile were significantly higher for the self–self pair (dark-colored distribution) than the self–other pair (light-colored distribution) for all frequency bands.
+*
+P
+< 0.05 after FDR correction. (
+B
+) Distribution of differences between classification accuracy with true labels of pairs and that with a randomized label for each frequency band. Vertical lines indicate chance levels. F1: 0.109–0.199 Hz, F2: 0.055–0.109 Hz, F3: 0.027–0.055 Hz, F4: 0.014–0.027 Hz,
+*
+P
+< 0.05 after FDR correction.
+Results
+Results of Identity Classification Using the HCP Dataset
+As predicted and shown in
+Figure 2A
+, the similarity of functional connectivity patterns was significantly higher in the self–self pairs than in the self–other pairs across all frequency bands (
+⁠
+0.001 after false discovery rate [FDR] correction). This means that functional connectivity represents individual-specific patterns.
+The machine learning algorithm successfully classified the self–self and self–other pairs using functional connectivity contrast for most of the frequency bands (F1, 12.4% ± 5.6% above chance level,
+P
+= 0.028 after FDR correction; F2, 14.8% ± 5.7% above chance level,
+P
+= 0.010 after FDR correction; F3, 16.3% ± 6.1% above chance level,
+P
+= 0.010 after FDR correction), except for the lowest band (F4, −0.008% ± 5.8% above chance level,
+P
+> 0.10 after FDR correction), as summarized in
+Figure 2B
+. This result indicates that, except for the lowest frequency band, the functional connectivity contrasts show consistent patterns across different self–self pairs, thus enabling discrimination from self–other pairs. Although the lowest frequency band was included in the resting-state fMRI research that succeeded in identifying individuals using patterns of brain connectivity (
+Finn et al. 2015
+), the current result that the classification performance was nonsignificant in the lowest band might indicate that using only this frequency band was insufficient for individual identification. This might be because a period of wave in the lowest frequency band took 33.3–66.7 s, which was too long to obtain stable correlation coefficients and include individual-specific information within the duration of current fMRI scans (864 s).
+Figure 3
+Top 100 feature values, that is, absolute values of differences between functional connectivity that contributed to identity classification for each frequency band. Red and blue lines represent similarity- and dissimilarity-based contributions, respectively. Dots on the circle represent ROIs, whose sizes were defined by the total number of significant feature values in which the ROIs were involved. F1: 0.109–0.199 Hz, F2: 0.055–0.109 Hz, F3: 0.027–0.055 Hz.
+Figure 4
+Ratio of classification-contributed connectivity in terms of the brain network. Red and blue matrices display the results of similarity- and dissimilarity-based contributions, respectively. F1: 0.109–0.199 Hz, F2: 0.055–0.109 Hz, F3: 0.027–0.055 Hz. Vis, visual network; Som, somatosensory-motor network; Sal, salience network; Lim, limbic system; Con, executive control network; Def, default mode network; Cer, cerebellum.
+Negative coefficients of the functional connectivity contrasts in the identity classification should be deliverables of overfitting. Therefore, we tested whether the number of positive coefficients was significantly greater than the number of negative coefficients using binomial tests for each frequency band. Of the top 1% coefficients (6670/100 ≈ 67) that contributed to identity classification (
+Fig. 3
+), most coefficients were positive in F1 (53 out of 67,
+P
+< 0.001) and F2 (52 out of 67,
+P
+< 0.001). These results confirmed that the contrast of the functional connectivity of these frequency bands reflected the difference in the connectivity patterns between self–self and self–other pairs. By contrast, F3 failed to show a significant difference (33 out of 67,
+P
+> 0.10), indicating that significant classification in this frequency band might be not achieved using individual-specific information but rather by overfitting. Regarding the ratio of classification-contributed connectivity in terms of the brain network, functional connectivity contrasts of the cerebellum were found to be important for identity classification across all significant frequency bands (
+Fig. 4
+).
+Figure 5
+Results of compatibility classification. (
+A
+) Similarity of overall functional connectivity profile. There was no significant difference between compatible (dark-colored distribution) and incompatible (light-colored distribution) pairs. (
+B
+) Distribution of differences between the classification accuracy with true labels of pairs and that with a randomized label for each frequency band. Vertical lines indicate chance levels. F1: 0.109–0.199 Hz, F2: 0.055–0.109 Hz, F3: 0.027–0.055 Hz, F4: 0.014–0.027 Hz,
+*
+P
+< 0.05 after FDR correction.
+In summary, the index assessment confirmed that the contrast of functional connectivity in pair data, especially for higher frequency bands (i.e., F1 and F2), represents pair-specific information and enables distinction of pairs with different properties. The results also indicated that information represented in the lower frequencies (i.e., F3 and F4) was unreliable.
+Compatibility Classification Results
+The results of compatibility classification show characteristic differences from those of identity classification. First, as shown in
+Figure 5A
+, there was no significant difference in the overall similarity of the functional connectivity patterns between compatible and incompatible pairs (
+⁠
+0.10 after FDR correction). This indicates that the compatibility of female–male relationships is not necessarily represented by the similarity of functional connectivity patterns.
+Second, and most importantly, compatibility was classified with significant accuracy for F1 (5.47% ± 2.10% above chance level,
+P
+= 0.012 after FDR correction) and F2 (4.95% ± 2.28% above chance level,
+P
+= 0.040 after FDR correction), as summarized in
+Figure 5B
+. This implies that the contrasts of functional connectivity for these frequency bands have specific information that enables predicting whether a given pair is compatible or not.
+Unlike identity classification, compatibility classification was supported by the considerable negative coefficients of the features (
+Fig. 6A, B
+). Binomial tests revealed that the positive coefficients were not the majority of the top 1% coefficients in either F1 (37 out of 67,
+P
+> 0.10) or F2 (37 out of 67,
+P
+> 0.10). In addition, chi-square tests revealed that the difference in positive/negative ratios was statistically significant between the compatibility and identity classifications (F1,
+= 7.61,
+P
+= 0.006; F2,
+= 6.56,
+P
+= 0.010). Thus, dissimilarity of functional connectivity is as important as similarity for compatibility classification.
+Figure 6
+Properties of features that significantly contributed to compatibility classification. (
+A, B
+) Top 100 feature values, that is, absolute values of differences between functional connectivity that contributed to successful compatibility classification for each frequency band. Red and blue lines represent similarity- and dissimilarity-based contributions, respectively. Dots on the circle represent the ROIs, whose size was defined by the total number of significant feature values in which the ROIs were involved. (
+C, E
+) ROI-level contribution to classification. Warm- and cold-colored ROIs display the number of similarity- and dissimilarity-based contributions by the ROI, respectively. (
+D, F
+) Ratio of classification-contributed connectivity in terms of the brain network. Red and blue matrices display the result of similarity- and dissimilarity-based contributions, respectively. F1: 0.109–0.199 Hz, F2: 0.055–0.109 Hz.
+The contributions of ROI to classification were represented by the number of classification-contributed functional connectivity contrasts to which the ROI belonged.
+Figure 6C, E
+shows that the classification-contributed ROIs tend to belong to specific networks (not visual and sensorimotor networks) and have laterality differences (contrasts in cerebellum). Accordingly, we performed an exploratory analysis by using permutation tests to test the network- and laterality-specific contributions. In the permutation test, the ROI labels were randomized and network- and laterality-level contributions were calculated 1000 times to assess whether the current result was significant under the null distribution. The network-level contribution was defined by the total contribution of ROIs belonging to a given network. The laterality difference was also assessed for each network.
+Regarding the proportional contribution of each combination of networks (
+Fig. 6D, F
+), the cerebellum showed a significant overall positive contribution in F1 (
+P
+< 0.001 after FDR correction) and the salience network showed a significant overall positive contribution in F2 (
+P
+= 0.032 after FDR correction). In addition, the internetwork contribution of the cerebellum and limbic areas was significantly positive in F1 (
+P
+< 0.001 after FDR correction) and the salience network positively contributed to the classification when combined with the limbic areas in F2 (
+P
+= 0.025 after FDR correction). With respect to the total contrast in terms of laterality within networks (
+Fig. 6C, E
+), we did not find any significant result (
+P
+> 0.100 after FDR correction).
+Discussion
+In the present study, we sought to predict the compatibility of female–male relationships after a speed-date session by using resting-state fMRI data. As supported by the index assessment using the HCP test-retest dataset (identity classification), the results demonstrated that the compatibility of relationships was classifiable using the contrast of functional connectivity in high-frequency bands (i.e., F1 and F2). The finding that the similarity of the overall functional connectivity profile was not higher in compatible pairs than in incompatible pairs and that compatibility classification was supported by considerable dissimilarity of functional connectivity compared with the identity classification, possibly reflected the fact that compatibility depended on both similarity and complementarity between an individual and a potential partner (
+Kirkpatrick and Davis 1994
+;
+Dryer and Horowitz 1997
+;
+Holmes and Johnson 2009
+;
+Finkel et al. 2012
+). To the best of our knowledge, this is the first study that elucidates the neural foundations of the feeling of compatibility and highlights the potential of resting-state fMRI in predicting the outcome of interpersonal interactions.
+The collective wisdom of social relationship research indicates that self-reported psychological constructs collected a priori have little power to predict the outcome of dyad-specific experiences, such as a feeling of compatibility (
+Joel et al. 2017
+). Then, why can resting-state functional connectivity predict compatibility, as shown by this study? This might be because the neuroimaging data reflect information that cannot be measured using a self-report method. Self-reported personality traits reflect the general tendencies of behavior and thus may have discrepancies with the personality traits elicited by time-constrained and unfamiliar situations, such as speed dating. Such discrepancies limit the use of the self-reported method to predict the outcome of behaviors in specific situations (
+Todd et al. 2007
+;
+Tidwell et al. 2013
+). On the other hand, functional connectivity in resting-state fMRI represents not only general tendencies of behavior (
+Cole et al. 2016
+) but also the brain activity during various social cognitive tasks (
+Cole et al. 2016
+;
+Tavor et al. 2016
+;
+Ito et al. 2017
+;
+Kong et al. 2019
+), which require abilities essential for dyadic interactions (
+Redcay and Schilbach 2019
+). Considering these facts and findings, the current results indicate that resting-state functional connectivity has information about behavioral tendencies that two individuals actually exhibit during a dyadic interaction, which cannot be measured by self-report methods and thus may remain hidden unless we use neuroimaging methods concurrently.
+Our finding that the resting-state fMRI was capable of predicting compatibility has important applications. If the task fMRI paradigm is used for compatibility prediction instead of resting-state fMRI, it needs to collect brain activation data that appear to be associated with compatibility; for example, brain activation while the individual is rating photos of potential partners for attractiveness before the dates (
+Cooper et al. 2012
+). However, this type of paradigm could not predict variables (e.g., compatibility of Ken with Rola) when the corresponding brain activation patterns (e.g., brain activation when Ken was viewing a photo of Rola) were not collected, considerably restricting the applicability of task fMRI when predicting relationship compatibility. On the contrary, resting-state fMRI does not require any specific tasks to be performed, meaning that the current approach can be easily applied to novel data. Once the compatibility classifier is prepared from the whole current data, the newly obtained resting-state fMRI data of an individual can be classified and the compatibility of the individuals with the persons who were included in the current data can be predicted. In addition, redoing the classifier preparation, including the new data, can refine the algorithm and expand the pool of the persons with whom compatibility could be predicted.
+This is the first study to combine speed-dating and resting-state fMRI, enabling to explore the neural underpinnings of compatibility. The results revealed the significant involvement of the salience network, limbic areas, and the cerebellum. The salience network (especially the insula) and limbic areas (especially the amygdala) are already known to be necessary for social cognition, such as processing emotionally and socially relevant information (
+Adolphs 2010
+), recognizing facial emotions of other people (
+Wang et al. 2014
+), and mentalizing (
+Uddin 2015
+). However, the cerebellum had long been thought to contribute purely to motor coordination (
+Wagner and Luo 2020
+). However, recent literature has imbued the cerebellum with various social cognitive functions in combination with limbic areas (
+Schmahmann et al. 2007
+;
+Guell et al. 2018
+); it plays a key role in attention, executive control, language, working memory, learning, and emotion (
+Strick et al. 2009
+;
+Baumann and Mattingley 2012
+;
+Hoche et al. 2016
+;
+Carta et al. 2019
+;
+Clausi et al. 2019
+;
+Wagner and Luo 2020
+), all of which are essential for effective social interactions (
+Gross and Medina-DeVilliers 2020
+). More directly, a thorough meta-analysis exploring the role of the cerebellum in social cognition revealed that it is consistently involved in abstraction processes, such as person trait inferences, projection of oneself into the future, and recalling of autobiographical past (
+Overwalle et al. 2014
+), all of which are likely to be involved in relationship initiation.
+Recently, several studies linked the cerebellum to the attachment style (
+Donges et al. 2012
+;
+Debbané et al. 2017
+;
+Long et al. 2020
+). Individuals with negative attachment-derived self-models or high attachment anxiety showed different cerebellar activation patterns for processing of social stimuli (
+Donges et al. 2012
+;
+Debbané et al. 2017
+). Importantly, attachment anxiety and avoidance are complementary; individuals with attachment anxiety prefer those with attachment avoidance and vice versa, depending on how well potential partners confirm attachment-related expectations (
+Kirkpatrick and Davis 1994
+;
+Holmes and Johnson 2009
+). When placed in the context of the findings that similarities in functional connectivity profiles are associated with similarity of personality traits (
+Liu et al. 2019
+), dissimilarities in cerebellar functioning might represent complementarity of attachment style, leading to a higher compatibility.
+The default mode network, although its network-level contribution was not significant, also showed a positive contribution for compatibility classification in F2 (
+Fig. 6B, F
+). The default mode network is associated with a variety of personality traits (e.g., openness to experience,
+Beaty et al. 2016
+; conscientiousness,
+Toschi et al. 2018
+; neuroticism,
+Adelstein et al. 2011
+); and egocentricity,
+Sheng et al. 2010
+), and it is engaged in social cognitive functions, such as theory of mind, prospection, self-reflection, and perspective-taking of others (
+Barrett and Satpute 2013
+). Furthermore, together with the salience network, the default mode network supports the processing of the relevant internal and external stimuli to guide social behavior (
+Uddin 2015
+). These networks work together when people use their own internal states as a way of inferring what someone else is thinking or feeling (i.e., self-projection,
+Barrett and Satpute 2013
+). Thus, aside from those with similar personalities, individuals with similar connectivity patterns of these networks might also consider the mental states of potential partners with similar levels of self-projection.
+Our research spawns four valuable future directions. First, to advance our understanding of the neural foundations of compatibility and interpersonal attraction or mating behavior, the missing links between similarity of resting-state functional connectivity, brain-to-brain coupling during dyadic interactions, and perceived similarity should be examined. Brain-to-brain coupling during social interaction could be captured by recruiting the hyperscanning techniques that measure the activity of multiple brains simultaneously (
+Koike et al. 2015
+;
+Redcay and Schilbach 2019
+;
+Czeszumski et al. 2020
+;
+Misaki et al. 2021
+). In addition to fMRI, hyperscanning with other neuroimaging techniques, such as electroencephalography (EEG) and functional near-infrared spectroscopy (fNIRS), could be valuable when considering the availability and ecological validity. Furthermore, although EEG and fNIRS can measure only the brain surface areas, the current results, that showed that many of the regions contributing to compatibility classification were on the brain surface, support the utility of these imaging techniques.
+Second, the compatibility prediction performance can be improved by utilizing task-based functional connectivity. Unlike the situation-dependent tasks described above, functional connectivity obtained from situation-independent tasks, such as working memory or emotion processing tasks, can be treated in the same way as the resting-state functional connectivity. It is important to identify the right tasks; such task-based functional connectivity has been indicated to improve the prediction performance of individual traits (
+Greene et al. 2018
+). The involvement of the salience network and limbic areas in compatibility as revealed by this research indicates that the tasks that reflect the function of these networks and areas, such as emotion recognition (
+Wang et al. 2014
+) or theory of mind (
+Barrett and Satpute 2013
+), would be appropriate for this purpose. Language style matching has also been revealed to be important for relationship initiation and stability (
+Ireland et al. 2011
+), indicating the utility of tasks that measure the language style of individuals.
+Third, the present study highlighted the importance of frequency-specific (particularly >0.1 Hz) functions in social relationships. Our result showing that the higher frequency band has more information is in agreement with prior research showing that regional power in terms of frequency shifts from low frequency to high frequency during cognitive tasks (
+Baria et al. 2011
+). Investigating the exact frequency-specific functioning of the feeling of compatibility will deepen our understanding of the neural underpinnings of social cognition and improve the predictability of the outcomes of social relationships.
+Fourth, resting-state functional connectivity has been shown to be beneficial for similarity-based predictions of pair-based psychological constructs. As discussed above, the neural similarity that contributes to compatibility classification has also been associated with neural similarity in a more general context. For example, the neural similarity of the salience network is greater when the participants believe that they are viewing videos with a social partner (
+Golland et al. 2017
+) and is important for the transfer of emotional information (
+Anders et al. 2011
+). Furthermore, the relationship between similarity in the functional connectivity profile of the default mode network and interpersonal similarity is supported by Hyon et al. (2020), who recruited a similar similarity index as in our research and succeeded in predicting real-world social network proximity. Thus, this methodology will provide a novel approach for research on interpersonal relationships and can be widely used beyond romantic relationships (e.g., friendship and working efficiency).
+This study has at least two limitations. First, for ethical restrictions, we could not allow participants to initiate interactions with any of the other participants after the experiment. This inevitably restricts the follow-up of the consequences of long-term relationships and its predictability based on the similarity of resting-state functional connectivity. Second, it remains unknown whether adding the score of psychological constructs improves the prediction of compatibility (unfortunately, we omitted measuring them in our study). Although previous research has shown the difficulty of predicting compatibility from psychological constructs (
+Joel et al. 2017
+), the potential of the indices, especially for long-term relationships, has also been shown (
+Asendorph et al. 2011
+). Combining neuroimaging data with psychological constructs will also reveal the extent to which information neuroimaging data are unique and cannot be measured by self-reported measures. These limitations and possibilities should be addressed in future studies.
+In summary, the current study demonstrated that initial compatibility of heterosexual individuals, which cannot be predicted by self-reported psychological constructs, can be predicted by the functional connectivity profiles of resting-state fMRI data. The contributions of both similarity and dissimilarity of the functional connectivities between individuals and these multivariate relationships indicate the importance of complementarity as well as the similarity between an individual and a potential partner. Our study emphasizes the utility of neuroimaging in examining complex phenomena in a social environment.
+Funding
+Japan Society for the Promotion of Science (JSPS) KAKNHI (grant numbers 17J08004 to S.K. and 19K16889 to A.I.); JSPS Postdoctoral Fellowship for Research in Japan (to S.K.); JSPS Postdoctoral Fellowship for Research Abroad (to A.I.); Cosmetology Research Foundation (to A.I.); and Suntory Foundation Grant for Groundbreaking Young Researchers (to A.I.).
+Notes
+We would like to thank Kazuki Yoshida, Kenta Takeda, Daisuke Sawamura, Yui Murakami, Ai Hasegawa, and Shinya Sakai for their assistance with data collection.
+Conflict of Interest
+: None declared.
+References
+Achard
+S
+,
+Salvador
+R
+,
+Whitcher
+B
+,
+Suckling
+J
+,
+Bullmore
+E
+.
+2006
+.
+A resilient, low-frequency, small-world human brain functional network with highly connected association cortical hubs
+.
+J Neurosci
+.
+26
+(
+1
+):
+63
+–
+72
+.
+Adelstein
+JS
+,
+Shehzad
+Z
+,
+Mennes
+M
+,
+DeYoung
+CG
+,
+Zuo
+XN
+,
+Kelly
+C
+,
+Margulies
+DS
+,
+Bloomfield
+A
+,
+Gray
+JR
+,
+Castellanos
+FX
+, et al.
+2011
+.
+Personality is reflected in the brain’s intrinsic functional architecture
+.
+PLoS One
+.
+6
+(
+11
+):e27633.
+Adolphs
+R
+.
+2010
+.
+What does the amygdala contribute to social cognition?
+Ann N Y Acad Sci
+.
+1191
+(
+1
+):
+42
+–
+61
+.
+Altman
+N
+,
+Krzywinski
+M
+.
+2018
+.
+The curse(s) of dimensionality this-month
+.
+Nat Methods
+.
+15
+(
+6
+):
+399
+–
+400
+.
+Anders
+S
+,
+Heinzle
+J
+,
+Weiskopf
+N
+,
+Ethofer
+T
+,
+Haynes
+JD
+.
+2011
+.
+Flow of affective information between communicating brains
+.
+Neuroimage
+.
+54
+(
+1
+):
+439
+–
+446
+.
+Asendorph
+JB
+,
+Penke
+L
+,
+Back
+MD
+.
+2011
+.
+From dating to mating and relating: predictors of initial and Long-term outcomes of speed-dating in a community sample
+.
+Eur J Pers
+.
+25
+:
+16
+–
+30
+.
+Baria
+AT
+,
+Baliki
+MN
+,
+Parrish
+T
+,
+Vania Apkarian
+A
+.
+2011
+.
+Anatomical and functional assemblies of brain BOLD oscillations
+.
+J Neurosci
+.
+31
+(
+21
+):
+7910
+–
+7919
+.
+Barrett
+LF
+,
+Satpute
+AB
+.
+2013
+.
+Large-scale brain networks in affective and social neuroscience: towards an integrative functional architecture of the brain
+.
+Curr Opin Neurobiol
+.
+23
+(
+3
+):
+361
+–
+372
+.
+Baumann
+O
+,
+Mattingley
+JB
+.
+2012
+.
+Functional topography of primary emotion processing in the human cerebellum
+.
+Neuroimage
+.
+61
+(
+4
+):
+805
+–
+811
+.
+Beaty
+RE
+,
+Kaufman
+SB
+,
+Benedek
+M
+,
+Jung
+RE
+,
+Kenett
+YN
+,
+Jauk
+E
+,
+Neubauer
+AC
+,
+Silvia
+PJ
+.
+2016
+.
+Personality and complex brain networks: the role of openness to experience in default network efficiency
+.
+Hum Brain Mapp
+.
+37
+(
+2
+):
+773
+–
+779
+.
+Carta
+I
+,
+Chen
+CH
+,
+Schott
+AL
+,
+Dorizan
+S
+,
+Khodakhah
+K
+.
+2019
+.
+Cerebellar modulation of the reward circuitry and social behavior
+.
+Science
+.
+363
+(
+6424
+):eaav0581.
+Chawla
+NV
+,
+Bowyer
+KW
+,
+Hall
+LO
+,
+Kegelmeyer
+WP
+.
+2002
+.
+SMOTE: synthetic minority over-sampling technique
+.
+J Artif Intell
+.
+16
+:
+321
+–
+357
+.
+Clausi
+S
+,
+Olivito
+G
+,
+Lupo
+M
+,
+Siciliano
+L
+,
+Bozzali
+M
+,
+Leggio
+M
+.
+2019
+.
+The cerebellar predictions for social interactions: theory of mind abilities in patients with degenerative cerebellar atrophy
+.
+Front Cell Neurosci
+.
+12
+:
+510
+.
+Cole
+MW
+,
+Ito
+T
+,
+Bassett
+DS
+,
+Schultz
+DH
+.
+2016
+.
+Activity flow over resting-state networks shapes cognitive task activations
+.
+Nat Neurosci
+.
+19
+(
+12
+):
+1718
+–
+1726
+.
+Cooper
+JC
+,
+Dunne
+S
+,
+Furey
+T
+,
+O’Doherty
+JP
+.
+2012
+.
+Dorsomedial prefrontal cortex mediates rapid evaluations predicting the outcome of romantic interactions
+.
+J Neurosci
+.
+32
+(
+45
+):
+15647
+–
+15656
+.
+Czeszumski
+A
+,
+Eustergerling
+S
+,
+Lang
+A
+,
+Menrath
+D
+,
+Gerstenberger
+M
+,
+Schuberth
+S
+,
+Schreiber
+F
+,
+Rendon
+ZZ
+,
+König
+P
+.
+2020
+.
+Hyperscanning: a valid method to study neural inter-brain underpinnings of social interaction
+.
+Front Hum Neurosci
+.
+14
+:
+39
+.
+Debbané
+M
+,
+Badoud
+D
+,
+Sander
+D
+,
+Eliez
+S
+,
+Luyten
+P
+,
+Vrtička
+P
+.
+2017
+.
+Brain activity underlying negative self- and other-perception in adolescents: the role of attachment-derived self-representations
+.
+Cogn Affect Behav Neurosci
+.
+17
+(
+3
+):
+554
+–
+576
+.
+Deichmann
+R
+,
+Gottfried
+JA
+,
+Hutton
+C
+,
+Turner
+R
+.
+2003
+.
+Optimized EPI for FMRI studies of the orbitofrontal cortex
+.
+Neuroimage
+.
+19
+(
+2
+):
+430
+–
+441
+.
+Donges
+US
+,
+Kugel
+H
+,
+Stuhrmann
+A
+,
+Grotegerd
+D
+,
+Redlich
+R
+,
+Lichev
+V
+,
+Rosenberg
+N
+,
+Ihme
+K
+,
+Suslow
+T
+,
+Dannlowski
+U
+.
+2012
+.
+Adult attachment anxiety is associated with enhanced automatic neural response to positive facial expression
+.
+Neuroscience
+.
+220
+:
+149
+–
+157
+.
+Dryer
+DC
+,
+Horowitz
+LM
+.
+1997
+.
+When do opposites attract? Interpersonal complementarity versus similarity
+.
+J Pers Soc Psychol
+.
+72
+(
+3
+):
+592
+–
+603
+.
+Farràs-Permanyer
+L
+,
+Mancho-Fora
+N
+,
+Montalà-Flaquer
+M
+,
+Gudayol-Ferré
+E
+,
+Gallardo-Moreno
+GB
+,
+Zarabozo-Hurtado
+D
+,
+Villuendas-González
+E
+,
+Peró-Cebollero
+M
+,
+Guàrdia-Olmos
+J
+.
+2019
+.
+Estimation of brain functional connectivity in patients with mild cognitive impairment
+.
+Brain Sci
+.
+9
+(
+12
+):
+6
+–
+8
+.
+Finkel
+EJ
+,
+Eastwick
+PW
+,
+Karney
+BR
+,
+Reis
+HT
+,
+Sprecher
+S
+.
+2012
+.
+Online dating: a critical analysis from the perspective of psychological science
+.
+Psychol Sci Public Interest.
+13
+:3–66.
+Finkel
+EJ
+,
+Eastwick
+PW
+,
+Matthews
+J
+.
+2007
+.
+Speed-dating as an invaluable tool for studying romantic attraction: a methodological primer
+.
+Pers Relatsh
+.
+14
+(
+1
+):
+149
+–
+166
+.
+Finn ES, Shen X, Scheinost D, Rosenberg MD, Huang J, Chun MM, Papademetris X, Constable RT.
+.
+2015
+.
+Functional connectome fingerprinting: identifying individuals using patterns of brain connectivity
+.
+Nat Neurosci
+.
+18
+(
+11
+):
+1664
+–
+1671
+.
+Friedman
+J
+,
+Hastie
+T
+,
+Tibshirani
+R
+.
+2010
+.
+Regularization paths for generalized linear models via coordinate descent
+.
+J Stat Softw
+.
+33
+(
+1
+):
+1
+–
+22
+.
+Glasser
+MF
+,
+Coalson
+TS
+,
+Robinson
+EC
+,
+Hacker
+CD
+,
+Harwell
+J
+,
+Yacoub
+E
+,
+Ugurbil
+K
+,
+Andersson
+J
+,
+Beckmann
+CF
+,
+Jenkinson
+M
+, et al.
+2016
+.
+A multi-modal parcellation of human cerebral cortex
+.
+Nature
+.
+536
+(
+7615
+):
+171
+–
+178
+.
+Golland
+Y
+,
+Levit-Binnun
+N
+,
+Hendler
+T
+,
+Lerner
+Y
+.
+2017
+.
+Neural dynamics underlying emotional transmissions between individuals
+.
+Soc Cogn Affect Neurosci
+.
+12
+(
+8
+):
+1249
+–
+1260
+.
+Gordon
+EM
+,
+Laumann
+TO
+,
+Adeyemo
+B
+,
+Huckins
+JF
+,
+Kelley
+WM
+,
+Petersen
+SE
+.
+2016
+.
+Generation and evaluation of a cortical area parcellation from resting-state correlations
+.
+Cereb Cortex
+.
+26
+(
+1
+):
+288
+–
+303
+.
+Greene
+AS
+,
+Gao
+S
+,
+Scheinost
+D
+,
+Constable
+RT
+.
+2018
+.
+Task-induced brain state manipulation improves prediction of individual traits
+.
+Nat Commun
+.
+9
+(
+1
+):1–13.
+Gross
+EB
+,
+Medina-DeVilliers
+SE
+.
+2020
+.
+Cognitive processes unfold in a social context: a review and extension of social baseline theory
+.
+Front Psychol
+.
+11
+:
+378
+.
+Guell
+X
+,
+Gabrieli
+JDE
+,
+Schmahmann
+JD
+.
+2018
+.
+Triple representation of language, working memory, social and emotion processing in the cerebellum: convergent evidence from task and seed-based resting-state FMRI analyses in a single large cohort
+.
+Neuroimage
+.
+172
+:
+437
+–
+449
+.
+Hoche
+F
+,
+Guell
+X
+,
+Sherman
+JC
+,
+Vangel
+MG
+,
+Schmahmann
+JD
+.
+2016
+.
+Cerebellar contribution to social cognition
+.
+Cerebellum
+.
+15
+(
+6
+):
+732
+–
+743
+.
+Holmes
+BM
+,
+Johnson
+KR
+.
+2009
+.
+Adult attachment and romantic partner preference: a review
+.
+J Soc Pers Relat
+.
+26
+(
+6–7
+):
+833
+–
+852
+.
+Hyon R, Youm Y, Kim J, Chey J, Kwak S, Parkinson C
+.
+2020
+.
+Similarity in functional brain connectivity at rest predicts interpersonal closeness in the social network of an entire village
+.
+Proc Natl Acad Sci U S A
+.
+117
+(
+52
+):
+33149
+–
+33160
+.
+Ireland
+ME
+,
+Slatcher
+RB
+,
+Eastwick
+PW
+,
+Scissors
+LE
+,
+Finkel
+EJ
+,
+Pennebaker
+JW
+.
+2011
+.
+Language style matching predicts relationship initiation and stability
+.
+Psychol Sci
+.
+22
+(
+1
+):
+39
+–
+44
+.
+Ito
+A
+,
+Yoshida
+K
+,
+Takeda
+K
+,
+Sawamura
+D
+,
+Murakami
+Y
+,
+Ai
+H
+,
+Sakai
+S
+,
+Izuma
+K
+.
+2020
+.
+The role of the ventromedial prefrontal cortex in automatic formation of impression and reflected impression
+.
+Hum Brain Mapp
+.
+41
+(
+11
+):
+3045
+–
+3058
+.
+Ito
+T
+,
+Kulkarni
+KR
+,
+Schultz
+DH
+,
+Mill
+RD
+,
+Chen
+RH
+,
+Solomyak
+LI
+,
+Cole
+MW
+.
+2017
+.
+Cognitive task information is transferred between brain regions via resting-state network topology
+.
+Nat Commun
+.
+8
+(
+1
+):
+1
+–
+13
+.
+Joel
+S
+,
+Eastwick
+PW
+,
+Finkel
+EJ
+.
+2017
+.
+Is romantic desire predictable? Machine learning applied to initial romantic attraction
+.
+Psychol Sci
+.
+28
+(
+10
+):
+1478
+–
+1489
+.
+Kirkpatrick
+LA
+,
+Davis
+KE
+.
+1994
+.
+Attachment style, gender, and relationship stability: a longitudinal analysis
+.
+J Pers Soc Psychol
+.
+66
+(
+3
+):
+502
+–
+512
+.
+Koike
+T
+,
+Tanabe
+HC
+,
+Sadato
+N
+.
+2015
+.
+Hyperscanning neuroimaging technique to reveal the ‘two-in-one’ system in social interactions
+.
+Neurosci Res
+.
+90
+:
+25
+–
+32
+.
+Kong
+R
+,
+Li
+J
+,
+Orban
+C
+,
+Sabuncu
+MR
+,
+Liu
+H
+,
+Schaefer
+A
+,
+Sun
+N
+,
+Xi
+NZ
+,
+Holmes
+AJ
+,
+Eickhoff
+SB
+, et al.
+2019
+.
+Spatial topography of individual-specific cortical networks predicts human cognition, personality, and emotion
+.
+Cereb Cortex
+.
+29
+(
+6
+):
+2533
+–
+2551
+.
+Lee
+MH
+,
+Smyser
+CD
+,
+Shimony
+JS
+.
+2013
+.
+Resting-state FMRI: a review of methods and clinical applications
+.
+Am J Neuroradiol
+.
+34
+(
+10
+):
+1866
+–
+1872
+.
+Liu TT, Nalci A, Falahpour M
+.
+2017
+.
+The global signal in fMRI: Nuisance or Information?
+Neuroimage
+.
+150
+:
+213
+–
+229
+.
+Liu
+W
+,
+Kohn
+N
+,
+Fernández
+G
+.
+2019
+.
+Intersubject similarity of personality is associated with intersubject similarity of brain connectivity patterns
+.
+Neuroimage
+.
+186
+:
+56
+–
+69
+.
+Long
+M
+,
+Verbeke
+W
+,
+Ein-Dor
+T
+,
+Vrtička
+P
+.
+2020
+.
+A functional neuro-anatomical model of human attachment (NAMA): insights from first- and second-person social neuroscience
+.
+Cortex
+.
+126
+:
+281
+–
+321
+.
+Misaki
+M
+,
+Kerr
+KL
+,
+Ratliff
+EL
+,
+Cosgrove
+KT
+,
+Simmons
+WK
+,
+Morris
+AS
+,
+Bodurka
+J
+.
+2021
+.
+Beyond synchrony: the capacity of FMRI hyperscanning for the study of human social interaction
+.
+Soc Cogn Affect Neurosci
+.
+16
+(
+1–2
+):
+84
+–
+92
+.
+Morell
+MA
+,
+Twillman
+RK
+,
+Sullaway
+ME
+.
+1989
+.
+Would a type a date another type a?: influence of behavior type and personal attributes in the selection of dating partners
+.
+J Appl Soc Psychol
+.
+19
+(
+11
+):
+918
+–
+931
+.
+Nostro
+AD
+,
+Müller
+VI
+,
+Varikuti
+DP
+,
+Pläschke
+RN
+,
+Hoffstaedter
+F
+,
+Langner
+R
+,
+Patil
+KR
+,
+Eickhoff
+SB
+.
+2018
+.
+Predicting personality from network-based resting-state functional connectivity
+.
+Brain Struct Funct
+.
+223
+(
+6
+):
+2699
+–
+2719
+.
+Overwalle
+V
+,
+Frank
+KB
+,
+Mariën
+P
+,
+Vandekerckhove
+M
+.
+2014
+.
+Social cognition and the cerebellum: a meta-analysis of over 350 FMRI studies
+.
+Neuroimage
+.
+86
+:
+554
+–
+572
+.
+Park
+YH
+,
+Cha
+J
+,
+Bourakova
+V
+,
+Lee
+JM
+.
+2019
+.
+Frequency specific contribution of intrinsic connectivity networks to the integration in brain networks
+.
+Sci Rep
+.
+9
+(
+1
+):
+1
+–
+10
+.
+Power
+JD
+,
+Cohen
+AL
+,
+Nelson
+SM
+,
+Wig
+GS
+,
+Barnes
+KA
+,
+Church
+JA
+,
+Vogel
+AC
+,
+Laumann
+TO
+,
+Miezin
+FM
+,
+Schlaggar
+BL
+, et al.
+2011
+.
+Functional network organization of the human brain
+.
+Neuron
+.
+72
+(
+4
+):
+665
+–
+678
+.
+Qian
+L
+,
+Zhang
+Y
+,
+Zheng
+L
+,
+Shang
+Y
+,
+Gao
+JH
+,
+Liu
+Y
+.
+2015
+.
+Frequency dependent topological patterns of resting-state brain networks
+.
+PLoS One
+.
+10
+(
+4
+):
+1
+–
+19
+.
+Redcay
+E
+,
+Schilbach
+L
+.
+2019
+.
+Using second-person neuroscience to elucidate the mechanisms of social interaction
+.
+Nat Rev Neurosci
+.
+20
+(
+8
+):
+495
+–
+505
+.
+Ries
+A
+,
+Hollander
+M
+,
+Glim
+S
+,
+Meng
+C
+,
+Sorg
+C
+,
+Wohlschläger
+A
+.
+2019
+.
+Frequency-dependent spatial distribution of functional hubs in the human brain and alterations in major depressive disorder
+.
+Front Hum Neurosci
+.
+13
+:
+1
+–
+17
+.
+Ryali
+S
+,
+Supekar
+K
+,
+Abrams
+DA
+,
+Menon
+V
+.
+2010
+.
+Sparse logistic regression for whole-brain classification of FMRI data
+.
+Neuroimage
+.
+51
+(
+2
+):
+752
+–
+764
+.
+Sasai
+S
+,
+Homae
+F
+,
+Watanabe
+H
+,
+Sasaki
+AT
+,
+Tanabe
+HC
+,
+Sadato
+N
+,
+Taga
+G
+.
+2014
+.
+Frequency-specific network topologies in the resting human brain
+.
+Front Hum Neurosci
+.
+8
+:
+1022
+.
+Schmahmann
+JD
+,
+Weilburg
+JB
+,
+Sherman
+JC
+.
+2007
+.
+The neuropsychiatry of the cerebellum—insights from the clinic
+.
+Cerebellum
+.
+6
+(
+3
+):
+254
+–
+267
+.
+Sheng
+T
+,
+Gheytanchi
+A
+,
+Aziz-Zadeh
+L
+.
+2010
+.
+Default network deactivations are correlated with psychopathic personality traits
+.
+PLoS One
+.
+5
+(
+9
+):
+1
+–
+7
+.
+Strick
+PL
+,
+Dum
+RP
+,
+Fiez
+JA
+.
+2009
+.
+Cerebellum and nonmotor function
+.
+Annu Rev Neurosci
+.
+32
+(
+1
+):
+413
+–
+434
+.
+Tavor
+I
+,
+Jones
+OP
+,
+Mars
+RB
+,
+Smith
+SM
+,
+Behrens
+TE
+,
+Jbabdi
+S
+.
+2016
+.
+Task-free MRI predicts individual differences in brain activity during task performance
+.
+Science
+.
+352
+(
+6282
+):
+216
+–
+220
+.
+Tidwell
+ND
+,
+Eastwick
+PW
+,
+Finkel
+EJ
+.
+2013
+.
+Perceived, not actual, similarity predicts initial attraction in a live romantic context: evidence from the speed-dating paradigm
+.
+Pers Relatsh
+.
+20
+(
+2
+):
+199
+–
+215
+.
+Todd
+PM
+,
+Penke
+L
+,
+Fasolo
+B
+,
+Lenton
+AP
+.
+2007
+.
+Different cognitive processes underlie human mate choices and mate preferences
+.
+Proc Natl Acad Sci U S A
+.
+104
+(
+38
+):
+15011
+–
+15016
+.
+Tommasin
+S
+,
+De Giglio
+L
+,
+Ruggieri
+S
+,
+Petsas
+N
+,
+Giannì
+C
+,
+Pozzilli
+C
+,
+Pantano
+P
+.
+2018
+.
+Relation between functional connectivity and disability in multiple sclerosis: a non-linear model
+.
+J Neurol
+.
+265
+(
+12
+):
+2881
+–
+2892
+.
+Toschi
+N
+,
+Riccelli
+R
+,
+Indovina
+I
+,
+Terracciano
+A
+,
+Passamonti
+L
+.
+2018
+.
+Functional connectome of the five-factor model of personality
+.
+Personal Neurosci
+.
+1
+:e2.
+Tzourio-Mazoyer
+N
+,
+Landeau
+B
+,
+Papathanassiou
+D
+,
+Crivello
+F
+,
+Etard
+O
+,
+Delcroix
+N
+,
+Mazoyer
+B
+,
+Joliot
+M
+.
+2002
+.
+Automated anatomical labeling of activations in SPM using a macroscopic anatomical parcellation of the MNI MRI single-subject brain
+.
+Neuroimage
+.
+15
+(
+1
+):
+273
+–
+289
+.
+Uddin
+LQ
+.
+2015
+.
+Salience processing and insular cortical function and dysfunction
+.
+Nat Rev Neurosci
+.
+16
+(
+1
+):
+55
+–
+61
+.
+Wagner
+MJ
+,
+Luo
+L
+.
+2020
+.
+Neocortex–cerebellum circuits for cognitive processing
+.
+Trends Neurosci
+.
+43
+(
+1
+):
+42
+–
+54
+.
+Wang
+S
+,
+Tudusciuc
+O
+,
+Mamelak
+AN
+,
+Ross
+IB
+,
+Adolphs
+R
+,
+Rutishauser
+U
+.
+2014
+.
+Neurons in the human amygdala selective for perceived emotion
+.
+Proc Natl Acad Sci U S A
+.
+111
+(
+30
+):E3110–E3119.
+Wegrzyk
+J
+,
+Kebets
+V
+,
+Richiardi
+J
+,
+Galli
+S
+,
+Van de Ville
+D
+,
+Aybek
+S
+.
+2018
+.
+Identifying motor functional neurological disorder using resting-state functional connectivity
+.
+Neuroimage Clin
+.
+17
+:
+163
+–
+168
+.
+Zou
+H
+,
+Hastie
+T
+.
+2005
+.
+Regularization and variable selection via the elastic net
+.
+J R Stat Soc Series B Stat Methodology
+.
+67
+(
+2
+):
+301
+–
+320
+.
+© The Author(s) 2021. Published by Oxford University Press. All rights reserved. For permissions, please e-mail: journals.permissions@oup.com
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (
+http://creativecommons.org/licenses/by-nc/4.0/
+), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited. For commercial re-use, please contact journals.permissions@oup.com

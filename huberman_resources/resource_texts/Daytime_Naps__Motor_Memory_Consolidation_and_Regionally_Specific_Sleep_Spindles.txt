@@ -1,0 +1,343 @@
+Abstract
+Background
+Increasing evidence demonstrates that motor-skill memories improve across a night of sleep, and that non-rapid eye movement (NREM) sleep commonly plays a role in orchestrating these consolidation enhancements. Here we show the benefit of a daytime nap on motor memory consolidation and its relationship not simply with global sleep-stage measures, but unique characteristics of sleep spindles at regionally specific locations; mapping to the corresponding memory representation.
+Methodology/Principal Findings
+Two groups of subjects trained on a motor-skill task using their left hand – a paradigm known to result in overnight plastic changes in the contralateral, right motor cortex. Both groups trained in the morning and were tested 8 hr later, with one group obtaining a 60–90 minute intervening midday nap, while the other group remained awake. At testing, subjects that did not nap showed no significant performance improvement, yet those that did nap expressed a highly significant consolidation enhancement. Within the nap group, the amount of offline improvement showed a significant correlation with the global measure of stage-2 NREM sleep. However, topographical sleep spindle analysis revealed more precise correlations. Specifically, when spindle activity at the central electrode of the non-learning hemisphere (left) was subtracted from that in the learning hemisphere (right), representing the homeostatic difference following learning, strong positive relationships with offline memory improvement emerged–correlations that were not evident for either hemisphere alone.
+Conclusions/Significance
+These results demonstrate that motor memories are dynamically facilitated across daytime naps, enhancements that are uniquely associated with electrophysiological events expressed at local, anatomically discrete locations of the brain.
+Citation:
+Nishida M, Walker MP (2007) Daytime Naps, Motor Memory Consolidation and Regionally Specific Sleep Spindles. PLoS ONE 2(4):
+           e341.
+        
+        https://doi.org/10.1371/journal.pone.0000341
+Academic Editor:
+Chris Miall, University of Birmingham, United Kingdom
+Received:
+February 7, 2007;
+Accepted:
+March 6, 2007;
+Published:
+April 4, 2007
+Copyright:
+© 2007 Nishida, Walker. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Funding:
+This work was supported in part by grants from the National Institutes of Health (MH069935, MH48832, MH65292 and MH67754), and the American Academy of Sleep Medicine.
+Competing interests:
+The authors have declared that no competing interests exist.
+Introduction
+A growing corpus of literature continues to demonstrate that, following learning, additional “offline” memory improvements develop during sleep
+[1]
+,
+[2]
+. Evidence of sleep-dependent consolidation now exists across numerous memory domains, including procedural as well as declarative memory
+[3]
+. Regarding procedural motor memory, several studies have demonstrated that the extent of initial learning, and the subsequent offline enhancement, commonly correlate with non-rapid eye movement (NREM) sleep, and neurophysiological characteristics of NREM
+[4]
+–
+[8]
+, although see
+[9]
+. For example, it has been shown that offline motor-memory enhancements specifically develop across a night of sleep, with the extent of improvement demonstrating a positive relationship with the amount of stage-2 NREM sleep, especially in the last quarter of the night
+[4]
+. Considering sleep spindles – a defining electrophysiological signature of NREM involving short (∼1 ) synchronous burst of activity (12–15 Hz) – may represent candidate triggers of synaptic potentiation leading to neural plasticity
+[10]
+–
+[12]
+, and that spindle activity is highest late in the night
+[13]
+, this latter correlation was hypothesized to reflected an association between spindle activity and offline memory improvement
+[4]
+.
+At a neural level, recent functional imaging data have also demonstrated that these overnight motor memory improvements are associated with a systems-level, plastic reorganization within the brain, including a lateralized expansion and increased activation in the right primary motor cortex; contralateral to the hand (left) learning the motor skill memory
+[14]
+. While sleep stage correlations represent a global measure of association with memory enhancement, such neuroimaging data illustrate that sleep produces highly localized changes in discrete brain circuits. Therefore, if sleep and specific electrophysiological characteristics of sleep are contributing to these circuit changes, then topographical EEG examination should reveal more selective, local associations with memory improvement.
+Here we investigate the relationship between regionally specific sleep spindle activity and motor memory consolidation, using a nap paradigm, incorporating the above described motor-sequence task. The advantage of this design is twofold; a) the offline motor-skill enhancements are associated with a localized plastic change in the contralateral motor cortex, situated proximal to standard EEG recording sites where sleep spindles are commonly expressed
+[15]
+, and b) it allows a within subject comparison of spindle activity between the predominant “learning” (right) hemisphere relative to the “non-learning” (left) hemisphere. We use the terms “learning” and “non-learning” hemispheres simply to reflect the known lateralized, offline plastic changes observe across a night of sleep using this task
+[14]
+; although it should be noted that practice-dependent motor learning using the non-dominant hand often involves bilateral motor cortex activation (e.g.
+[16]
+). We tested the hypothesis that i) daytime naps would result in significant offline learning enhancements of motor-skill memory, and ii) the magnitude of enhancement would not only be proportional to the amount of stage-2 NREM and the extent of sleep spindle activity, but specifically with spindle activity in the hemisphere associated with offline learning (right),
+relative
+to homeostatic/non-task relevant spindle activity in the “non-learning” hemisphere (left).
+Results
+Two groups of subjects trained on a motor-skill task using their left hand–a paradigm known to result in overnight plastic changes in the contralateral, right motor cortex. Both groups trained in the morning and were tested 8 hr later, with one group obtaining a 60–90 minute intervening midday nap, while the other group remained awake (
+Figure 1
+).
+Figure 1.
+Experimental design. a, Both groups were trained in the morning and test 8 hr later. Following training, the Nap group obtained a 60–90 min midday sleep period, while the No nap group remained awake across the 8hr delay. b, The nap period was recorded with digitized polysomnography (PSG) using a referenced electrode montage. The electrode montage (represented by blue discs) included EEG sites C3 and C4, covering localized learning regions of interest (motor cortex), together with O1 and O2 sites (referenced to A1 and A2, left and right outer canthi). A bipolar left and right submental array was used for monitoring of EMG (not shown), while left and right EOG channels (L-EOG, R-EOG) were used for eye-movement evaluation. For reference purposes, the electrode array is superimposed on top of the known fMRI changes in activation that occur across a night of sleep (modified from
+[14]
+; EEG anatomical precision not inferred), demonstrating enhanced activation in the right, contralateral motor cortex (activation strength in red/yellow, display threshold;
+P
+<0.05
+FWE
+).
+https://doi.org/10.1371/journal.pone.0000341.g001
+Behavioural performance
+Practice-dependent learning.
+Across the training session, performance speed improved in both the nap and non-nap groups, without loss of accuracy. Comparing initial baseline (average of the first 2 trials of training) to post-training performance, subjects in the no-nap group demonstrated an average improvement of 5.37 seq/trial (baseline: 16.6 seq/trial, post-training: 22.0 seq/trial; paired t-test t
+(11)
+= 4.43, p = 0.001). Similarly in the nap group, a significant average improvement of 6.42 seq/trial was achieved across training (baseline: 17.0 seq/trial, post-training: 23.4 seq/trial; paired t-test t
+(13)
+= 4.78, p<0.001). No significant change in performance accuracy occurred across the training session in either the no-nap group (baseline: 0.25 errors/seq, post-training: 0.21 seq/trial) or nap group (baseline: 0.28 seq/trial, post-training: 0.21 seq/trial), both p>0.49. A comparison of training performance between the nap and no-nap groups revealed no significant difference, for speed or accuracy, at baseline, post-training, or in the amount of improvement across training (unpaired t-test; all p>0.48). Therefore, both groups similarly acquired the motor skill memory across the training session.
+Offline, practice-independent learning.
+Consistent with previous findings
+[4]
+,
+[9]
+,
+[17]
+–
+[19]
+, there was no evidence of delayed offline memory enhancement across the day in those subjects that remained awake. Specifically, performance in the no-nap group changed from 22.0 seq/trial (post-training) to 22.8 seq/trial (test; paired t-test t
+(11)
+= 0.80, p = 0.44), representing a non-significant 3.8% (0.8 seq/trial) increase at later testing (p = 0.29;
+Figure 2a
+).
+Figure 2.
+Motor memory performance. a, Motor skill performance at the end of the initial training session (“post-training”) compared with later testing following the 8hr intervening period in the No Nap and Nap groups. b, Correlation between the extent of offline memory improvement and the amount of stage-2 NREM sleep obtained within the Nap group.
+https://doi.org/10.1371/journal.pone.0000341.g002
+In contrast, subjects in the nap group demonstrated a highly significant 16% consolidation enhancement (3.5 seq/trial, p = 0.002), improving from 23.4 seq/trial (post-training) to 27.0 seq/trial (test; paired t-test t
+(13)
+= 4.05, p = 0.001;
+Figure 2b
+). Furthermore, the magnitude of offline enhancement in the nap group was larger than that observed in the no-nap group (unpaired t-test t
+(24)
+= 1.99, p = 0.058). As with training, there were no significant differences in performance error within or between groups across the delay period (all p>0.20), indicating that no loss of accuracy accompanied these improvements in motor sequence production.
+Therefore, no delayed improvements were observed in subjects that remained awake across the day, while those that obtain a midday nap expressed significant offline consolidation enhancements across the day.
+Sleep stage analysis
+Sleep stage polysomnography (PSG) characteristics for the nap period (nap group) are summarized in
+Table 1
+, with an average nap time of 67 minutes and a predominance of NREM (combined stages 1–4; 79%) over REM (14%).
+To examine our experimental hypothesis, we correlated the amount of stage-2 NREM sleep with the amount of offline memory improvement across the nap group. As demonstrated in
+Figure 2b
+, there was a significant positive relationship between stage-2 NREM and the amount of motor skill enhancement (Pearson correlation
+r
+= 55, p = 0.04), with those subjects obtaining the most stage-2 NREM demonstrating the largest consolidation benefit at later testing.
+Also as expected, no correlations were evident between performance improvement and other sleep stages (stage-1 NREM, SWS or REM, all
+r
+<0.14). Therefore, at a global level of sleep analysis, there was a positive relationship between nap-related memory improvement, and stage-2 NREM, similar to that reported across a night of sleep.
+Sleep spindle analysis
+One participant was excluded from the analysis due to abnormal spindle activity, representing density values over three standard deviations above the group mean (although it should be noted that if included, this participant increased the below described strength of correlations). Spindle analysis focused on
+a priori
+central EEG sites C3 and C4, and specifically the difference between activity in the learning and non-learning hemispheres ([C4–C3]).
+When first considering each central electrode site separately, there was no significant difference in spindle density between the learning versus non-learning hemisphere (paired t-test t
+(12)
+= 0.98, p = 0.35). Furthermore, there was no correlation between offline memory improvement and spindle density at either C3 or C4 electrode sites individually (
+Figure 3a
+; both
+r
+<0.41). However, when spindle density in the non-learning hemisphere (electrode C3) was subtracted from the learning hemisphere (electrode C4), representing the homeostatic difference following learning ([C4–C3]), a significant positive correlation was identified between the amount of offline motor skill improvement across the nap and the density of spindles (
+r
+= 65, p = 0.01;
+Figure 3c
+). In order to determine whether these correlations were locally specific to the central electrode sites proximal to the motor cortex region of interest, rather than a more general hemispheric difference or asymmetry, we repeated these correlations using spindle activity from posterior occipital electrodes. No significant relationships were evident for either of the occipital electrode sites alone (O3 or O4), or for the subtracted difference ([O4–O3]; all
+r
+<0.29, p>0.37); indicating that the above correlations represented a regionally specific spindle association with offline learning in central locations.
+Figure 3.
+Spindle density and offline (nap) memory enhancement. a, Correlations between offline motor memory enhancement and spindle density in the non-learning hemisphere (electrode site C3) and learning hemisphere (electrode site C4) individually. b, Correlations between offline motor memory improvement and the subtracted difference in spindle density between the learning hemisphere versus the non-learning hemisphere (C4–C3). Pearson's correlation coefficients (r) and corresponding significance (p) are displayed within each correlation window.
+https://doi.org/10.1371/journal.pone.0000341.g003
+As with spindle density, spindle power analysis revealed similar locally specific correlations with over-nap improvement (
+Figure 4
+). First, no significant differences were observed between the amount of spindle power at C3 (non-learning hemisphere) compared to C4 (learning hemisphere) electrodes (paired t-test t
+(12)
+= 1.81, p = 0.10). Furthermore, for each electrode site separately, no significant correlation was observed between the amount of offline memory improvement and the magnitude of spindle power (
+Figure 4b
+;
+r
+<0.32). In contrast, however, when spindle power in the non-learning hemisphere at electrode C3 was subtracted from that in the learning hemisphere at electrode site C4, a strong and significant correlation with offline memory enhancement was revealed (
+r
+= 0.57, p = 0.04;
+Figure 4d
+). There was once again no significant relationships between spindle power in occipital electrode sites and offline improvement (either O3 or O4 alone, or for the subtracted difference [O4-O3]; all
+r
+<0.25, p>0.44); further confirming the local specificity of association between spindle power and offline learning in central regions.
+Figure 4.
+Spindle power and offline motor memory enhancement. a, Spindle event-related time-frequency activity, evaluated across a 2 second epoch (0.5 seconds before spindle onset and the 1.5 seconds after), incorporating a frequency range of 1–30 Hz after band-pass filtering (12–16 Hz, encompassing sigma-band power), in the non-learning hemisphere (electrode site C3) and learning hemisphere (electrode site C4) individually. b, Corresponding correlations between motor memory improvement and mean spindle power. c, Subtracted difference in spindle power between the learning hemisphere versus the non-learning hemisphere (C4–C3). d, Corresponding correlation between motor memory improvement and subtracted spindle power (C4–C3). Spindle power is depicted in µV
+2
+(strength indicated by right side color bar). Pearson's correlation coefficients (
+r
+) and corresponding significance (
+p
+) are displayed within each correlation window.
+https://doi.org/10.1371/journal.pone.0000341.g004
+Therefore, by subtracting non-specific (to this task) spindle activity in the central non-learning hemisphere (C3) from that recorded in the learning hemisphere (C4), a clear predictive relationship was evident between the density and power of locally expressed spindles and the amount of offline memory enhancement across the nap episode.
+It may, however, be possible that these predictive correlations reflect use-dependent differences between hemispheres, triggered by the daytime training session, and not necessarily offline learning-dependent associations (i.e. spindle asymmetry may be driven by increased hand-use prior to the nap, produced by the initial practice session). To further investigate this possibility, we correlated spindle activity with the total number of key-strokes accomplish across the 12 trials of training, independent of being correct or incorrect; reflecting the aggregate of digit use. Neither subtracted (C4–C3) spindle frequency or power demonstrated a significant relationship with the total number of key-strokes achieved during training (
+r
+= 0.35, p = 0.24;
+r
+= 0.42, p = 0.15, respectively). Therefore, a use-dependent explanation for the significant correlations reported in
+Figures 3
+and
+4
+appears inadequate.
+Discussion
+While it is known that motor skill memories improve offline across a night sleep, and can correlate with global sleep-stage measures, using a nap paradigm, here we demonstrate that offline motor memory enhancement is proportional not simply with basic sleep stages, but with locally constrained increases in sleep-spindle activity in central regions of the learning hemisphere, relative to more non-specific activity in the non-learning hemisphere. These findings offer more precise insights into the nature of sleep-dependent memory consolidation at an anatomical, physiological, and behavioral level, each of which we now focus on.
+Although a general correlation was observed between memory improvement and the amount of stage-2 NREM sleep–a global measure of brain physiology–more detailed topographical analyses identified significant relationships with regionally specific sleep-spindles at a local level of brain anatomy. It should perhaps not be surprising that, if a memory representation is manifest in discrete neural circuits of the brain, then brain-states capable of modulating them offline will likewise operate at a similarly sophisticated local, anatomically specific level. Supporting this local sleep hypothesis, our results build on a growing body of evidence indicating that daytime waking experience can trigger regionally specific modifications in post-training sleep complexion
+[20]
+–
+[22]
+, and indicate that a similar local sleep change may also operate in the facilitation of offline consolidation and plasticity, leading to post-sleep memory improvements.
+Pioneering work by Tononi and colleagues has demonstrated that overnight memory enhancements are regulated by homeostatic, regionally specific changes in sleep physiology
+[23]
+. For example, following training on a motor reaching task, a corresponding increase in subsequent NREM slow-wave activity (SWA) was observed in parietal regions known to represent such memories, with the amount of SWA increase being proportional both to the extent of initial daytime learning and the degree of next-day memory improvement
+[7]
+. Conversely, motor limb inactivation through arm immobilization results in a corresponding decrease of SWA in localized sensori-motor regions
+[24]
+.
+Our findings add to this concept of local sleep modulation by demonstrating that a phasic electrophysiological event–sleep spindles–also displays a regionally specific association with offline memory enhancement. However, this change was only revealed when subtracting non-specific spindle activity in the non-learning hemisphere from that measured in the learning hemisphere, indicating that such a change is subtle. This too should not be surprising considering that the daytime learning experience only lasted 12 minutes. Nevertheless, when this method was implemented, a clear predictive relationship emerged between residual, local spindle activity in the learning hemisphere and the extent of offline consolidation improvement. Such within subject (between hemisphere) subtractions appear to provide a sensitive means of extracting learning-dependent signal in brain activity; a relationship that would likely be lost at a between-subjects level.
+A difference of interpretation between our study findings and those of Tononi and colleagues concerns the proposed function of such local sleep changes. The above described increases in regional SWA are hypothesized to represent processes that reduce or depress synaptic plasticity following daytime experience, thereby preventing the circumstance of over potentiated networks the following day
+[23]
+. In contrast, since sleep spindles have been proposed as a neurophysiological marker of synaptic potentiation–with corresponding electrophysiological frequencies more commonly associated with long-term potentiation (LTP) than de-potentiation (LTD) – we suggest that the local effects of increased spindle activity in the learning-related hemisphere represents the
+facilitation
+of intrinsic synaptic plasticity, not its diminution. We do not, however, feel that these two hypotheses are mutually exclusive, nor diametrically opposed. Instead, we entertain that they may occur in a co-operative, symbiotic manner across a night of sleep (SWA dominating early in the night, spindle activity most dominant late in the night), and in the endeavour of refining and subsequently enhancing recently formed memory representations.
+At the global sleep-stage level, we replicate findings of our own, and those of others
+[4]
+–
+[8]
+, indicating that consolidation of basic motor skills are preferentially associated with NREM sleep, here stage-2 NREM across a daytime nap (although see
+[25]
+for discussion of task difficulty and REM- versus NREM-dependency). These selective sleep-stage correlations indicate that it is not simply obtaining any period of behavioral quiescence (representing a passive time of minimal sensori-motor interference) that favours consolidation, since it was a specific stage of sleep that predicted offline memory enhancement, not total sleep (inactivity) time. In fact, previous motor skill studies have shown that periods of daytime wake with learning-effector immobilization (negating corresponding limb interference, hence offering the opportunity for consolidation), not only result in the absence of any memory improvement, but can produce learning deteriorations
+[4]
+,
+[24]
+.
+At a behavioral level, our demonstration of offline-memory enhancement across a nap is consistent with previous work demonstrating similar daytime sleep benefits for both sensory-perceptual
+[26]
+, as well as episodic declarative memory
+[27]
+. Moreover, the magnitude of enhancement we observed across the nap period was similar to the amount of improvement normally expressed following an entire night of sleep
+[4]
+,
+[14]
+,
+[17]
+,
+[18]
+,
+[28]
+. One interpretation of this finding is that daytime “power” naps trigger a form of accelerated consolidation, leading to more rapid offline memory improvements. Alternatively, and the hypothesis we subscribe to, it may be that an entire night of sleep contains multiple sleep-stage windows preferentially devoted to the consolidation of many different forms of daytime learning
+[29]
+. As a consequence, for any one specific memory, an entire night of sleep is not necessary, only the corresponding specific sleep state/window.
+In summary, here we demonstrate that motor memories are dynamically facilitated across daytime naps; improvements that are not simply associated with a particular stage of sleep, but with unique electrophysiological events at anatomically discrete locations of the human brain. These findings are compatible with the notion of a homeostatic response by the sleeping brain to neuroplastic demands; the goal of which is to sculpt the most efficient neural representation of recently acquired information.
+Materials and Methods
+Participants
+A total of 26 healthy right-handed subjects between the ages of 18 and 30 were assigned to either a nap group (
+n
+= 14; 7 males, mean age 24.3 [S.D.±2.0]) or no-nap group (
+n
+= 12, 8 males, mean age 23.1 [S.D.±1.4]). Subjects had no prior history of drug or alcohol abuse, neurological, psychiatric or sleep disorders, were maintaining a regular sleep schedule 1 week prior to the study, as measured using sleep logs. Subjects were also required to abstain from caffeine and alcohol throughout the course of the study, and also refrain from non-experimentally measured naps, confirmed by post-experimental questionnaire. The study was approved by the local human studies committee and conducted according to the principles expressed in the Declaration of Helsinki, with all subjects provided written informed consent.
+Motor Skill Task
+The sequential finger-tapping task required subjects to press four numeric keys on a standard computer keyboard with the fingers of their left (non-dominant) hand, repeating the five element sequence, 4-1-3-2-4, “as quickly and as accurately as possible” for a period of 30 seconds (for details, see
+[4]
+,
+[17]
+). The initial training session consisted of twelve 30 second trials with 30 second rest periods between trials, and lasted a total of 12 minutes. Trials were automatically scored for both performance speed (number of correctly typed sequences per trial) and accuracy (error rate: number of errors per sequence). Performance on the first two trials of the training session were taken as the “baseline” measure, while averaged scores from the final three trials were defined as “post-training” performance. At the subsequent “test”, subjects performed three 30 second trials of the same sequence, separated by 30 second rest periods, with the scores again being averaged. Offline memory consolidation (practice-independent) improvement was defined as the difference between post-training performance and subsequent test performance
+[4]
+,
+[17]
+.
+Experimental design: Nap and non-nap groups
+Both groups trained on the motor skill task at 10AM and, eights hours later, were tested on the task at 6PM (
+Figure 1a
+). Standard daily activities were conducted by participants between training and testing, except that in the nap group, subjects undertook a 60–90 min sleep period at midday, monitored using polysomnography (PSG). The no-nap group was instructed not to nap during the day, with confirmation obtained by post-experimental questionnaire. Similarly, beyond the experimentally recorded midday nap, those in the nap group were also instructed not to nap before or after the noon sleep session, also confirmed by post-experimental questionnaire. PSG recording was performed in accordance with standardized techniques
+[30]
+, using digital EEG, EMG and EOG signals acquired with a Grass Colleague system (sampling rate: 100 Hz, high- and low-pass filter 0.3 Hz and 35 Hz respectively, notch filter 60 Hz). A referenced PSG electrode montage was utilized, including EEG sites C3 and C4 (referenced to A1 and A2, left and right outer canthi), proximal to the localized learning region of interest (motor cortex;
+[14]
+;
+Figure 1b
+).
+PSG and EEG analysis
+Each sleep epoch of the PSG record was scored according to standard criteria
+[30]
+, blind to subjects behavioral task performance. The signals were displayed on a computer monitor and rated visually, epoch by epoch, as either NREM stages 1–4, rapid eye movement (REM) sleep, awake or movement time. Slow wave sleep (SWS) consisted of stage 3 and stage 4 NREM sleep.
+Upon removal of waking epochs and movement/muscle artefacts from sleep recordings, sleep spindles analysis focused on NREM sleep epochs, at all electrodes sites, using an automatic algorithm in Matlab (The MathWorks Inc, Natick, MA). The raw EEG was first band-pass filtered between 12 and 16 Hz using a linear finite impulse response (FIR) filter (EEGLAB toolbox [
+http://www.sccn.ucsd.edu/eeglab/
+]).
+Analyses focused on two spindle characteristics potentially influencing plasticity–amount (density) and strength (spectral power)
+[12]
+. Spindle density was evaluated using two complementary methods. The first involved visual scoring, calculated as the mean number of spindles per minute of NREM sleep. The second involved the application of a dynamic, automated EEG spindle detection algorithm, developed by Huber, Ferrarelli, Tononi and colleagues
+[31]
+. In short (but for details see
+[31]
+), the amplitude of the rectified signal was used as a unique time series, identifying amplitude fluctuations exceeding threshold values, with the lower and upper values set at two and eight times the average amplitude. The peak amplitude for each spindle was defined as the local maximum above the threshold, with the beginning and end of the spindle defined as points immediately preceding or following this peak, when the amplitude of the time series dropped below the cut-off threshold. As with visual scoring, automated spindle density was calculated as the mean number of spindles per minute epoch of NREM sleep. Based on the high specificity and sensitivity
+[31]
+, and its standardized applicability for this and future studies, automated spindle detection was used as our experimental measure of choice. It should be recognized that the sensitivity and specificity of this technique for identifying spindle activity across waking epochs, such as in the no-nap group, has not been determined, although the occurrence of waking spindling is usually indicative of pathological disease, hence would not be expected
+[32]
+.
+Quantification of sleep spindle spectral power was also determined using the method of Huber, Ferrarelli, Tononi and colleagues (for details, see
+[31]
+), similarly implemented in Matlab. In brief, event-related time-frequency activity was evaluated in 2 second epochs (0.5 seconds before spindle onset and the 1.5 seconds after) and for a frequency range of 1–30 Hz after band-pass filtering (12–16 Hz), encompassing sigma-band power. The time-frequency representations were calculated for all spindle events of each subject by using the Morlet wavelet transform to compute the spectral power. Detailed methods of the wavelet analysis are available as Supplemental
+Text S1
+. The averaged sigma power value was calculated between a time range from spindle onset to 1.0 sec, and a frequency range of 12 Hz to 16 Hz.
+Statistical Analysis
+Analyses were carried out using paired and two-sample two-tailed Student's t-test, together with Pearson's correlation coefficients.
+Acknowledgments
+The authors wish to thank Robert Stickgold, Jose L. Cantero, Edwin Robertson and Fumikazu Miwakeichi for their helpful guidance and advice, and Reto Huber and Guilio Tononi for providing spindle analysis tools.
+Author Contributions
+Conceived and designed the experiments: MW MN. Performed the experiments: MW MN. Analyzed the data: MW MN. Contributed reagents/materials/analysis tools: MW MN. Wrote the paper: MW MN.
+References
+1.
+Walker MP (2005) A refined model of sleep and the time course of memory formation. Behav Brain Sci  28: 51–64.
+2.
+Robertson EM, Pascual-Leone A, Miall RC (2004) Current concepts in procedural consolidation. Nat Rev Neurosci  5: 576–582.
+3.
+Walker MP, Stickgold R (2006) Sleep, Memory and Plasticity. Annu Rev Psychol  10: 139–166.
+4.
+Walker MP, Brakefield T, Morgan A, Hobson JA, Stickgold R (2002) Practice with sleep makes perfect: sleep dependent motor skill learning. Neuron  35: 205–211.
+5.
+Smith C, MacNeill C (1994) Impaired motor memory for a pursuit rotor task following Stage 2 sleep loss in college students. J Sleep Res  3: 206–213.
+6.
+Robertson EM, Pascual-Leone A, Press DZ (2004) Awareness modifies the skill-learning benefits of sleep. Curr Biol  14: 208–212.
+7.
+Huber R, Ghilardi MF, Massimini M, Tononi G (2004) Local sleep and learning. Nature  430: 78–81.
+8.
+Fogel SM, Smith CT (2006) Learning-dependent changes in sleep spindles and Stage 2 sleep. J Sleep Res  15: 250–255.
+9.
+Fischer S, Hallschmid M, Elsner AL, Born J (2002) Sleep forms memory for finger skills. Proc Natl Acad Sci U S A  99: 11987–11991.
+10.
+Steriade M (2001) The Intact and Sliced Brain. Cambridge, MA: MIT Press.
+11.
+Sejnowski TJ, Destexhe A (2000) Why do we sleep? Brain Res  886: 208–223.
+12.
+Smith CT, Aubrey JB, Peters KR (2004) Different roles for REM and stage 2 sleep in motor learning: A proposed model. Psychologica Belgica  44: 81–104.
+13.
+De Gennaro L, Ferrara M, Bertini M (2000) Topographical distribution of spindles: variations between and within NREM sleep cycles. Sleep Res Online  3: 155–160.
+14.
+Walker MP, Stickgold R, Alsop D, Gaab N, Schlaug G (2005) Sleep-dependent motor memory plasticity in the human brain. Neuroscience  133: 911–917.
+15.
+Zeitlhofer J, Gruber G, Anderer P, Asenbaum S, Schimicek P, et al.  (1997) Topographic distribution of sleep spindles in young healthy subjects. J Sleep Res  6: 149–155.
+16.
+Grafton ST, Hazeltine E, Ivry RB (2002) Motor sequence learning with the nondominant left hand. A PET functional imaging study. Exp Brain Res  146: 369–378.
+17.
+Walker MP, Brakefield T, Seidman J, Morgan A, Hobson JA, et al.  (2003) Sleep and the time course of motor skill learning. Learn Mem  10: 275–284.
+18.
+Walker MP, Brakefield T, Hobson JA, Stickgold R (2003) Dissociable stages of human memory consolidation and reconsolidation. Nature  425: 616–620.
+19.
+Korman M, Raz N, Flash T, Karni A (2003) Multiple shifts in the representation of a motor sequence during the acquisition of skilled performance. Proc Natl Acad Sci U S A  100: 12492–12497.
+20.
+Kattler H, Dijk DJ, Borbely AA (1994) Effect of unilateral somatosensory stimulation prior to sleep on the sleep EEG in humans. J Sleep Res  3: 159–164.
+21.
+Vyazovskiy V, Borbely AA, Tobler I (2000) Unilateral vibrissae stimulation during waking induces interhemispheric EEG asymmetry during subsequent sleep in the rat. J Sleep Res  9: 367–371.
+22.
+Cantero JL, Atienza M, Salas RM, Dominguez-Marin E (2002) Effects of prolonged waking-auditory stimulation on electroencephalogram synchronization and cortical coherence during subsequent slow-wave sleep. J Neurosci  22: 4702–4708.
+23.
+Tononi G, Cirelli C (2006) Sleep function and synaptic homeostasis. Sleep Med Rev  10: 49–62.
+24.
+Huber R, Ghilardi MF, Massimini M, Ferrarelli F, Riedner BA, et al.  (2006) Arm immobilization causes cortical plastic changes and locally decreases sleep slow wave activity. Nat Neurosci  9: 1169–1176.
+25.
+Peters K, Smith V, Smith C (In Press) Changes in sleep architecture following motor learning depend on intitial skill level. J Cogn Neurosci.
+26.
+Mednick SC, Nakayama K, Cantero JL, Atienza M, Levin AA, et al.  (2002) The restorative effect of naps on perceptual deterioration. Nat Neurosci  28: 28.
+27.
+Tucker MA, Hirota Y, Wamsley EJ, Lau H, Chaklader A, et al.  (2006) A daytime nap containing solely non-REM sleep enhances declarative but not procedural memory. Neurobiol Learn Mem.
+28.
+Kuriyama K, Stickgold R, Walker MP (2004) Sleep-dependent learning and motor skill complexity. Learn Mem  11: 705–713.
+29.
+Smith C (1995) Sleep states and memory processes. Behav Brain Res  69: 137–145.
+30.
+Rechtschaffen A, Kales A (1968) A manual standardized terminology, techniques and scoring system for sleep stages of human subjects. Bethesda, Maryland, USA: U.S. Department of Health.
+31.
+Ferrarelli F, Huber R, Peterson MJ, Massimini M, Murphy M, et al. Reduced sleep spindle activity in schizophrenics. American Journal of Psychiatry  In press:
+32.
+Iyama A, Inouye T, Ukai S, Shinosaki K (1992) Spindle activity in the waking EEG in older adults. Clin Electroencephalogr  23: 137–141.

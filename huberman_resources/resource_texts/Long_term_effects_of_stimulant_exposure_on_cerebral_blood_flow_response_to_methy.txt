@@ -1,0 +1,370 @@
+Alsop, D. C., Detre, J. A., Golay, X., Günther, M., Hendrikse, J., Hernandez-Garcia, L., et al. (2014). Recommended implementation of arterial spin-labeled perfusion MRI for clinical applications: a consensus of the ISMRM perfusion study group and the European consortium for ASL in dementia.
+Magnetic Resonance in Medicine, 73
+(1), 102–116. doi:
+10.1002/mrm.25197
+.
+Article
+PubMed
+PubMed Central
+Google Scholar
+Andersen, S. L., & Navalta, C. P. (2004). Altering the course of neurodevelopment: a framework for understanding the enduring effects of psychotropic drugs.
+International Journal of Developmental Neuroscience, 22
+(5–6), 423–440.
+Article
+CAS
+PubMed
+Google Scholar
+Andersen, S. L., Arvanitogiannis, A., Pliakas, A. M., LeBlanc, C., & Carlezon, W. A. (2002). Altered responsiveness to cocaine in rats exposed to methylphenidate during development.
+Nature Neuroscience, 5
+(1), 13–14. doi:
+10.1038/nn777
+.
+Article
+CAS
+PubMed
+Google Scholar
+Andersen, S. L., Napierata, L., Brenhouse, H. C., & Sonntag, K. C. (2008). Juvenile methylphenidate modulates reward-related behaviors and cerebral blood flow by decreasing cortical D
+3
+receptors.
+The European Journal of Neuroscience, 27
+(11), 2962–2972.
+Article
+PubMed
+Google Scholar
+Asllani, I., Borogovac, A., & Brown, T. R. (2008). Regression algorithm correcting for partial volume effects in arterial spin labeling MRI.
+Magnetic Resonance in Medicine, 60
+(6), 1362–1371.
+Article
+PubMed
+Google Scholar
+Biederman, J., Monuteaux, M. C., Spencer, T., Wilens, T. E., & Faraone, S. V. (2009). Do stimulants protect against psychiatric disorders in youth with ADHD? A 10-year follow-up study.
+Pediatrics, 124
+(1), 71–78. doi:
+10.1542/peds.2008-3347
+.
+Article
+PubMed
+PubMed Central
+Google Scholar
+Bolaños, C. A., Barrot, M., Berton, O., Wallace-Black, D., & Nestler, E. J. (2003). Methylphenidate treatment during pre- and periadolescence alters behavioral responses to emotional stimuli at adulthood.
+Biological Psychiatry, 54
+(12), 1317–1329.
+Article
+PubMed
+Google Scholar
+Bolaños, C. A., Willey, M. D., Maffeo, M. L., Powers, K. D., Kinka, D. W., Grausam, K. B., & Henderson, R. P. (2008). Antidepressant treatment can normalize adult behavioral deficits induced by early-life exposure to methylphenidate.
+Biological Psychiatry, 63
+(3), 309–316.
+Article
+PubMed
+Google Scholar
+Bottelier, M. A., Schouw, M. L. J., Klomp, A., Tamminga, H. G. H., Schrantee, A. G. M., Bouziane, C., et al. (2014). The effects of psychotropic drugs on developing brain (ePOD) study: Methods and design.
+BMC Psychiatry, 14
+, 48.
+Article
+PubMed
+PubMed Central
+Google Scholar
+Bron, E. E., Steketee, R. M. E., Houston, G. C., Oliver, R. A., Achterberg, H. C., Loog, M., et al. (2014). Diagnostic classification of arterial spin labeling and structural MRI in presenile early stage dementia.
+Human Brain Mapping, 35
+(9), 4916–4931. doi:
+10.1002/hbm.22522
+.
+Article
+PubMed
+Google Scholar
+Buxton, R. B., Frank, L. R., Wong, E. C., Siewert, B., Warach, S., & Edelman, R. R. (1998). A general kinetic model for quantitative perfusion imaging with arterial spin labeling.
+Magnetic Resonance in Medicine, 40
+(3), 383–396.
+Article
+CAS
+PubMed
+Google Scholar
+Carlezon, W. A., Mague, S. D., & Andersen, S. L. (2003). Enduring behavioral effects of early exposure to methylphenidate in rats.
+Biological Psychiatry, 54
+(12), 1330–1337.
+Article
+CAS
+PubMed
+Google Scholar
+Chen, Y., Galpern, W. R., Brownell, A. L., Matthews, R. T., Bogdanov, M., Isacson, O., et al. (1997). Detection of dopaminergic neurotransmitter activity using pharmacologic MRI: correlation with PET, microdialysis, and behavioral data.
+Magnetic Resonance Imaging, 38
+(3), 389–398.
+CAS
+Google Scholar
+Chen, Y., Choi, J.-K., Xu, H., Ren, J., Andersen, S. L., &Jenkins, B. G. (2010). Pharmacologic neuroimaging of the ontogeny of dopamine receptor function.
+Developmental neuroscience, 32
+(2), 125–38.
+Cherkasova, M. V., Faridi, N., Casey, K. F., O’Driscoll, G., Hechtman, L., Joober, R., et al. (2014). Amphetamine-induced dopamine release and neurocognitive function in treatment-naive adults with ADHD.
+Neuropsychopharmacology, 39
+(6), 1498–1507. doi:
+10.1038/npp.2013.349
+.
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Dalsgaard, S., Mortensen, P. B., Frydenberg, M., & Thomsen, P. H. (2014). ADHD, stimulant treatment in childhood and subsequent substance abuse in adulthood - a naturalistic long-term follow-up study.
+Addictive Behaviors, 39
+(1), 325–328.
+Article
+PubMed
+Google Scholar
+Daviss, W. B., Birmaher, B., Diler, R. S., & Mintz, J. (2008). Does pharmacotherapy for attention-deficit/hyperactivity disorder predict risk of later major depression?
+Journal of Child and Adolescent Psychopharmacology, 18
+(3), 257–264. doi:
+10.1089/cap.2007.0100
+.
+Article
+PubMed
+PubMed Central
+Google Scholar
+Gill, K. E., Pierre, P. J., Daunais, J., Bennett, A. J., Martelle, S., Gage, H. D., et al. (2012). Chronic treatment with extended release methylphenidate does not alter dopamine systems or increase vulnerability for cocaine self-administration: a study in nonhuman primates.
+Neuropsychopharmacology: Official Publication of the American College of Neuropsychopharmacology, 37
+(12), 2555–2565. doi:
+10.1038/npp.2012.117
+.
+Article
+CAS
+Google Scholar
+Gousias, I. S., Rueckert, D., Heckemann, R. A., Dyet, L. E., Boardman, J. P., Edwards, A. D., & Hammers, A. (2008). Automatic segmentation of brain MRIs of 2-year-olds into 83 regions of interest.
+NeuroImage, 40
+, 672–684.
+Article
+PubMed
+Google Scholar
+Hammers, A., Allom, R., Koepp, M. J., Free, S. L., Myers, R., Lemieux, L., et al. (2003). Three-dimensional maximum probability atlas of the human brain, with particular reference to the temporal lobe.
+Human Brain Mapping, 19
+, 224–247.
+Article
+PubMed
+Google Scholar
+Heckemann, R. A., Hajnal, J. V., Aljabar, P., Rueckert, D., & Hammers, A. (2006). Automatic anatomical brain MRI segmentation combining label propagation and decision fusion.
+NeuroImage, 33
+(1), 115–126. doi:
+10.1016/j.neuroimage.2006.05.061
+.
+Article
+PubMed
+Google Scholar
+Humphreys, K. L., Eng, T., & Lee, S. S. (2013). Stimulant medication and substance use outcomes: a meta-analysis.
+JAMA Psychiatry, 70
+(7), 740–749.
+Article
+CAS
+PubMed
+Google Scholar
+Klein, S., Staring, M., Murphy, K., Viergever, M. A., & Pluim, J. P. W. (2010). Elastix: a toolbox for intensity-based medical image registration.
+IEEE Transactions on Medical Imaging, 29
+(1), 196–205.
+Article
+PubMed
+Google Scholar
+Kooij, S., Boonstra, M., Swinkels, S., Bekker, E. M., de Noord, I., & Buitelaar, J. K. (2008). Reliability, validity, and utility of instruments for self-report and informant report concerning symptoms of ADHD in adult patients.
+Journal of Attention Disorders, 11
+(4), 445–458.
+Article
+Google Scholar
+Lee, M.-J., Yang, K.-C., Shyu, Y.-C., Yuan, S.-S., Yang, C.-J., Lee, S.-Y., et al. (2016). Attention-deficit hyperactivity disorder, its treatment with medication and the probability of developing a depressive disorder: a nationwide population-based study in Taiwan.
+Journal of Affective Disorders, 189
+, 110–117. doi:
+10.1016/j.jad.2015.09.015
+.
+Article
+PubMed
+Google Scholar
+Mannuzza, S., Klein, R. G., Truong, N. L., Moulton, J. L., Roizen, E. R., Howell, K. H., & Castellanos, F. X. (2008). Age of methylphenidate treatment initiation in children with ADHD and later substance abuse: prospective follow-up into adulthood.
+The American Journal of Psychiatry, 165
+(5), 604–609. doi:
+10.1176/appi.ajp.2008.07091465
+.
+Article
+PubMed
+PubMed Central
+Google Scholar
+Marquand, A. F., O’Daly, O. G., De Simoni, S., Alsop, D. C., Maguire, R. P., Williams, S. C. R., et al. (2012). Dissociable effects of methylphenidate, atomoxetine and placebo on regional cerebral blood flow in healthy volunteers at rest: a multi-class pattern recognition approach.
+NeuroImage, 60
+(2), 1015–1024. doi:
+10.1016/j.neuroimage.2012.01.058
+.
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+McCarthy, S., Wilton, L., Murray, M. L., Hodgkins, P., Asherson, P., & Wong, I. C. K. (2012). The epidemiology of pharmacologically treated attention deficit hyperactivity disorder (ADHD) in children, adolescents and adults in UK primary care.
+BMC Pediatrics, 12
+, 78. doi:
+10.1186/1471-2431-12-78
+.
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Meng, S. Z., Ozawa, Y., Itoh, M., & Takashima, S. (1999). Developmental and age-related changes of dopamine transporter, and dopamine D1 and D2 receptors in human basal ganglia.
+Brain Research, 843
+(1–2), 136–144.
+Article
+CAS
+PubMed
+Google Scholar
+Molina, B. S. G., Hinshaw, S. P., Swanson, J. M., Arnold, L. E., Vitiello, B., Jensen, P. S., et al. (2009). The MTA at 8 years: prospective follow-up of children treated for combined-type ADHD in a multisite study.
+Journal of the American Academy of Child and Adolescent Psychiatry, 48
+(5), 484–500.
+Article
+PubMed
+PubMed Central
+Google Scholar
+Molina, B. S. G., Hinshaw, S. P., Eugene Arnold, L., Swanson, J. M., Pelham, W. E., Hechtman, L., et al. (2013). Adolescent substance use in the multimodal treatment study of attention-deficit/hyperactivity disorder (ADHD) (MTA) as a function of childhood ADHD, random assignment to childhood treatments, and subsequent medication.
+Journal of the American Academy of Child and Adolescent Psychiatry, 52
+(3), 250–263.
+Article
+PubMed
+PubMed Central
+Google Scholar
+Moll, G. H., Hause, S., Rüther, E., Rothenberger, A., Huether, G., & Al, M. E. T. (2001). Early methylphenidate administration to young rats causes a persistent reduction in the density of striatal dopamine transporters.
+Journal of Child and Adolescent Psychopharmacology, 11
+(1), 15–24.
+Article
+CAS
+PubMed
+Google Scholar
+O’Gorman, R. L., Mehta, M. A., Asherson, P., Zelaya, F. O., Brookes, K. J., Toone, B. K., et al. (2008). Increased cerebral perfusion in adult attention deficit hyperactivity disorder is normalised by stimulant treatment: a non-invasive MRI pilot study.
+NeuroImage, 42
+(1), 36–41.
+Article
+PubMed
+Google Scholar
+Oliver, R. A., Thomas, D. L., & Golay, X. (2012). Improved partial volume correction of ASL images using 3D kernels. In
+ISMRM British Chapter
+.
+Schrantee, A., & Reneman, L. (2014). Pharmacological imaging as a tool to visualise dopaminergic neurotoxicity.
+Neuropharmacology, 84
+, 159–169. doi:
+10.1016/j.neuropharm.2013.06.029
+.
+Article
+CAS
+PubMed
+Google Scholar
+Schrantee, A., Václavů, L., Heijtel, D. F. R., Caan, M. W. A., Gsell, W., Lucassen, P. J., et al. (2015). Dopaminergic system dysfunction in recreational dexamphetamine users.
+Neuropsychopharmacology, 40
+(5), 1172–1180.
+Article
+CAS
+PubMed
+Google Scholar
+Schrantee, A., Tamminga, H., Bouziane, C., Bottelier, M. A., Bron, E. E., Mutsaerts, H.-J. M., et al. (2016). Age-dependent effects of methylphenidate on the human dopaminergic system in young vs adult patients with attention-deficit/hyperactivity disorder.
+JAMA Psychiatry, 73
+(9), 955. doi:
+10.1001/jamapsychiatry.2016.1572
+.
+Article
+PubMed
+PubMed Central
+Google Scholar
+Schweitzer, J. B., Lee, D. O., Hanford, R. B., Tagamets, M. A., Hoffman, J. M., Grafton, S. T., & Kilts, C. D. (2003). A positron emission tomography study of methylphenidate in adults with ADHD: alterations in resting blood flow and predicting treatment response.
+Neuropsychopharmacology: Official Publication of the American College of Neuropsychopharmacology, 28
+(5), 967–973.
+Article
+CAS
+Google Scholar
+Seeman, P., Bzowej, N. H., Guan, H. C., Bergeron, C., Becker, L. E., Reynolds, G. P., et al. (1987). Human brain dopamine receptors in children and aging adults.
+Synapse, 1
+(5), 399–404. doi:
+10.1002/syn.890010503
+.
+Article
+CAS
+PubMed
+Google Scholar
+Simon, V., Czobor, P., Bálint, S., Mészáros, A., & Bitter, I. (2009). Prevalence and correlates of adult attention-deficit hyperactivity disorder: Meta-analysis.
+The British Journal of Psychiatry, 194
+(3), 204–211. doi:
+10.1192/bjp.bp.107.048827
+.
+Article
+PubMed
+Google Scholar
+Spencer, T. J., Wilens, T. E., Biederman, J., Weisler, R. H., Read, S. C., & Pratt, R. (2006). Efficacy and safety of mixed amphetamine salts extended release (Adderall XR) in the management of attention-deficit/hyperactivity disorder in adolescent patients: a 4-week, randomized, double-blind, placebo-controlled, parallel-group study.
+Clinical Therapeutics, 28
+(2), 266–279.
+Article
+CAS
+PubMed
+Google Scholar
+Swanson, J., & Volkow, N. (2003). Serum and brain concentrations of methylphenidate: implications for use and abuse.
+Neuroscience & Biobehavioral Reviews, 27
+(7), 615–621.
+Article
+CAS
+Google Scholar
+Thomas, R., Sanders, S., Doust, J., Beller, E., & Glasziou, P. (2015). Prevalence of attention-deficit/hyperactivity disorder: a systematic review and meta-analysis.
+Pediatrics, 135
+(4), e994–1001. doi:
+10.1542/peds.2014-3482
+.
+Article
+PubMed
+Google Scholar
+Udo de Haes, J. I., Maguire, R. P., Jager, P. L., Paans, A. M. J., & den Boer, J. A. (2007). Methylphenidate-induced activation of the anterior cingulate but not the striatum: A [
+15
+O]H
+2
+O PET study in healthy volunteers.
+Human Brain Mapping, 28
+(7), 625–635. doi:
+10.1002/hbm.20293
+.
+Article
+PubMed
+Google Scholar
+van de Loo-Neus, G. H. H., Rommelse, N., & Buitelaar, J. K. (2011). To stop or not to stop? How long should medication treatment of ADHD be extended?
+European Neuropsychopharmacology: The Journal of the European College of Neuropsychopharmacology, 21
+(8), 584–599.
+Article
+Google Scholar
+Volkow, N., Wang, G.-J., Newcorn, J., Telang, F., Solanto, M. V., Fowler, J. S., et al. (2007). Depressed dopamine activity in caudate and preliminary evidence of limbic involvement in adults with attention-deficit/hyperactivity disorder.
+Archives of General Psychiatry, 64
+(8), 932–940. doi:
+10.1001/archpsyc.64.8.932
+.
+Article
+CAS
+PubMed
+Google Scholar
+Volkow, N., Wang, G.-J., Tomasi, D., Kollins, S. H., Wigal, T. L., Newcorn, J. H., et al. (2012). Methylphenidate-elicited dopamine increases in ventral striatum are associated with long-term symptom improvement in adults with attention deficit hyperactivity disorder.
+Journal of Neuroscience, 32
+(3), 841–849.
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Wang, G.-J., Volkow, N. D., Wigal, T., Kollins, S. H., Newcorn, J. H., Telang, F., et al. (2013). Long-term stimulant treatment affects brain dopamine transporter level in patients with attention deficit hyperactive disorder.
+PloS One, 8
+(5), e63023. doi:
+10.1371/journal.pone.0063023
+.
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Wilens, T. E. (2004). Impact of ADHD and its treatment on substance abuse in adults.
+Journal of Clinical Psychiatry, 65
+(SUPPL. 3), 38–45. doi:
+10.1016/j.cpr.2011.01.006.Prospective
+.
+PubMed
+Google Scholar
+Wilens, T. E., Faraone, S., Biederman, J., & Gunawardene, S. (2003). Does stimulant therapy of attention-deficit/hyperactivity disorder beget later substance abuse? A meta-analytic review of the literature.
+Pediatrics, 111
+(1), 179–185
+http://www.ncbi.nlm.nih.gov/pubmed/12509574
+. Accessed 13 Nov 2015.
+Article
+PubMed
+Google Scholar

@@ -1,0 +1,360 @@
+Cannabis (e.g., marijuana) products are used by many (especially young) people, yet use comes with various health risks. As cannabis use and distribution are becoming legal in different countries (e.g., Canada), efforts are needed to reduce health risks from use. Therefore, a group of international experts developed the Lower-Risk Cannabis Use Guidelines (LRCUG). The LRCUG are based on scientific evidence, identifying behaviors within the user’s control that influence the risk of health consequences from cannabis use. Our expert group systematically reviewed up-to-date evidence, and translated it into concrete recommendations on how to practically reduce such health risks. A total of 10 concrete recommendations are provided (similar to guidelines in other areas of health) extending, for example, to age of cannabis use initiation, use frequency or patterns, cannabis products (i.e., low- vs high-tetrahydrocannabinol content) used, and cannabis use and driving. Especially in settings where cannabis use is legal and regulated, the LRCUG can be distributed by health authorities as a science-based information tool for cannabis users to modify their use toward reducing at least some of the health risks. Hence, the LRCUG may function as a valuable measure to reduce negative health outcomes from cannabis use in environments where such use is legal.
+Cannabis is the most commonly used illicit drug globally, and Canada has among the highest use rates.
+1,2
+Some 10% to 15% of general-population adults and 25% to 30% of adolescents or young adults report current (i.e., past-year) cannabis use.
+3
+Although the public health burden of cannabis use is clearly smaller than for alcohol, tobacco, and other illicit drugs, it is associated with risks for various adverse health outcomes, although causality is not established for all of these (for key reviews see Degenhardt et al.,
+2
+Volkow et al.,
+4
+Hall and Degenhardt,
+5
+World Health Organization,
+6
+and National Academies of Science, Engineering, and Medicine
+7
+). Strongest evidence exists for the following associations: acute cognitive and psychomotor impairments, motor-vehicle accidents (MVAs), brain development and chronic functioning, dependence and psychosis, pulmonary or bronchial system problems, and poorer pregnancy outcomes.
+4–12
+A substantial proportion of these problems occurs in users who initiated use in adolescence or continued to use frequently into adulthood.
+4,13–17
+Internationally, dependence has been assessed as the only contributor to cannabis-attributable disease burden
+2,18
+; in Canada, the main contributors have been identified as being MVAs and disorders (e.g., dependence).
+19,20
+Prohibition of recreational cannabis use has long been the dominant policy model,
+21,22
+yet it has been increasingly recognized as ineffective. As a consequence, a growing number of jurisdictions has implemented cannabis policy reforms, including full legalization approaches for use and supply. Legalization has been implemented in several US states and in Uruguay,
+23–26
+and awaits nationwide implementation in Canada—the first G7 country—to be enacted shortly.
+27,28
+The Canadian legalization framework emphasizes objectives of public health, although experiences from US legalization states suggest that public health outcomes there have not necessarily been improved throughout.
+25
+Extensive data suggest that many cannabis use–associated harms—or at least their severity—are influenced by modifiable behavioral factors or user choices. Moreover, in legalization environments, there is opportunity for interventions to modify cannabis users’ behavior toward improved public health outcomes. Expert assessments of evidence have generated similar population-oriented interventions for alcohol
+29,30
+and other health areas (e.g., nutrition, sexual health, and physical activity).
+31–35
+Thus, Lower-Risk Cannabis Use Guidelines (LRCUG) may be a worthwhile public health intervention for cannabis, particularly following legalization of use. Although an initial version of LRCUG was developed for Canada several years ago,
+36
+scientific evidence on cannabis use and outcomes has substantially evolved since then; this article presents a comprehensive evidence update and corresponding revisions of the original LRCUG’s recommendations. The LRCUG are primarily aimed at individuals, initially in the context of Canada, who have made the choice to use cannabis, as a knowledge-based tool to lower their risk of harms. As such, the LRCUG constitute an evidence-based resource for governments and other relevant organizations for implementation; they may be adapted for application in sociocultural contexts other than North America.
+Two main methodological components underlie the revised LRCUG: (1) a set of systematic reviews of modifiable risk factors for cannabis use–related health harms and (2) grading of this evidence and the revision of the LRCUG’s recommendations by expert author consensus. We conducted the systematic reviews in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) Guidelines.
+37
+To identify relevant systematic reviews and meta-analyses on the different risk factor topics, we searched studies published in any language (January 1, 2010, to December 30, 2016) in the following databases: MEDLINE, EMBASE, PsycINFO, and Cochrane Library for Systematic Reviews. We developed separate search strategies for each review topic; these were based on the strategy developed for MEDLINE but revised appropriately for each database (see Appendix A, available as a supplement to the online version of this article at
+http://www.ajph.org
+, for details). In addition, we consulted the recent seminal reviews on cannabis and health from the World Health Organization
+6
+and the US National Academies of Sciences, Engineering, and Medicine
+7
+as relevant systematic review sources. We checked the reference lists of all relevant studies, and hand-searched relevant articles to identify additional relevant studies not retrieved by the electronic searches.
+Inclusion and Exclusion Criteria
+We included studies if they focused on potentially modifiable behavior-based factors for risks or harms of cannabis use, and we excluded them if cannabis was assessed for therapeutic purposes. We developed specific inclusion and exclusion criteria for each topic of this review (see Appendix B, available as a supplement to the online version of this article at
+http://www.ajph.org
+, for details).
+Two of the authors (C. R. and P. S.) independently screened the titles and abstracts of all publications identified by the search strategy. We retrieved all potentially eligible studies as full-text articles and independently assessed them for inclusion and exclusion. In instances of doubt or discordance, the review authors discussed the data and reached consensus for all such cases without the need for arbitration. P. S. and C. R. independently extracted data from all studies included in this systematic review (see Figure A, available as a supplement to the online version of this article at
+http://www.ajph.org
+, for PRISMA flow charts for each of the subtopic searches).
+Evidence Grading and Recommendations Development
+We quality-graded the resulting evidence according to a widely used grading scheme
+38,39
+in a 2-step process. Four of the authors (B. F., J. R., C. R., and P. S.) first did this individually and then full author group consensus was developed. Evidence grades assigned are included with the recommendations (see the
+box
+on the next page); an extended version of the recommendations with detailed explanation of the evidence grades is available as a supplement to the online version of this article (available at
+http://www.ajph.org
+). The selected studies were rated according to the following evidence grades (i.e., same criteria as used by the National Academies of Sciences, Engineering, and Medicine
+7
+):
+Conclusive: based on good-quality studies and no credible opposing findings;
+Substantial: based on several supportive findings from good-quality studies with few opposing studies;
+Moderate: based on several supportive findings from good- to fair-quality studies with few or no credible opposing findings; a general conclusion can be made, but limitations, including chance, bias, and confounding factors, cannot be ruled out;
+Limited: supportive findings from fair-quality studies or mixed findings with most favoring one conclusion, or no firm conclusions; and
+None or Insufficient: based on mixed findings, a single poor study, or the endpoint has not been studied, with substantial uncertainty attributable to chance, bias, and confounding factors.
+RECOMMENDATIONS
+Recommendation 1:
+The most effective way to avoid any risks of cannabis use is to abstain from use. Those who decide to use need to recognize that they incur risks of a variety of—acute and long-term—adverse health and social outcomes. These risks will vary in their likelihood and severity with user characteristics, use patterns, and product qualities, and so may not be the same from user to user or use episode to another.
+[
+Evidence Grade: None required
+.]
+Recommendation 2:
+Early initiation of cannabis use (i.e., most clearly that which begins before age 16 years) is associated with multiple subsequent adverse health and social effects in young adult life. These effects are particularly pronounced in early-onset users who also engage in intensive and frequent use. This may be in part because frequent cannabis use affects the developing brain. Prevention messages should emphasize that, the later cannabis use is initiated, the lower the risks will be for adverse effects on the user’s general health and welfare throughout later life.
+[
+Evidence Grade: Substantial
+.]
+Recommendation 3:
+High THC-content products are generally associated with higher risks of various (acute and chronic) mental and behavioral problem outcomes. Users should know the nature and composition of the cannabis products that they use, and ideally use cannabis products with low THC content. Given the evidence of CBD’s attenuating effects on some THC-related outcomes, it is advisable to use cannabis containing high CBD:THC ratios.
+[
+Evidence Grade: Substantial
+.]
+Recommendation 4:
+Recent reviews on synthetic cannabinoids indicate markedly more acute and severe adverse health effects from the use of these products (including instances of death). The use of these products should be avoided.
+[
+Evidence Grade: Limited
+.]
+Recommendation 5:
+Regular inhalation of combusted cannabis adversely affects respiratory health outcomes. While alternative delivery methods come with their own risks, it is generally preferable to avoid routes of administration that involve smoking combusted cannabis material (e.g., by using vaporizers or edibles). Use of edibles eliminates respiratory risks, but the delayed onset of psychoactive effect may result in the use of larger than intended doses and subsequently increased (mainly acute, e.g., from impairment) adverse effects.
+[
+Evidence Grade: Substantial
+.]
+Recommendation 6:
+Users should avoid practices such as “deep inhalation,” breath-holding, or the Valsalva maneuver to increase psychoactive ingredient absorption when smoking cannabis, as these practices disproportionately increase the intake of toxic material into the pulmonary system.
+[
+Evidence Grade: Limited
+.]
+Recommendation 7:
+Frequent or intensive (e.g., daily or near-daily) cannabis use is strongly associated with higher risks of experiencing adverse health and social outcomes related to cannabis use. Users should be aware and vigilant to keep their own cannabis use—and that of friends, peers, or fellow users—occasional (e.g., use only on 1 day/week, weekend use only, etc.) at most.
+[
+Evidence Grade: Substantial
+.]
+Recommendation 8:
+Driving while impaired from cannabis is associated with an increased risk of involvement in motor-vehicle accidents. It is recommended that users categorically refrain from driving (or operating other machinery or mobility devices) for at least 6 hours after using cannabis. This wait time may need to be longer, depending on the user and the properties of the specific cannabis product used. Besides these behavioral recommendations, users are bound by locally applicable legal limits concerning cannabis impairment and driving. The use of both cannabis and alcohol results in multiply increased impairment and risks for driving, and categorically should be avoided.
+[
+Evidence Grade: Substantial
+.]
+Recommendation 9:
+There are some populations at probable higher risk for cannabis-related adverse effects who should refrain from using cannabis. These include individuals with predisposition for, or a first-degree family history of, psychosis and substance use disorders, as well as pregnant women (primarily to avoid adverse effects on the fetus or newborn). These recommendations, in part, are based on precautionary principles.
+[
+Evidence Grade: Substantial
+.]
+Recommendation 10:
+While data are sparse, it is likely that the combination of some of the risk behaviors listed above will magnify the risk of adverse outcomes from cannabis use. For example, early-onset use involving frequent use of high-potency cannabis is likely to disproportionately increase the risks of experiencing acute or chronic problems. Preventing these combined high-risk patterns of use should be avoided by the user and a policy focus.
+[
+Evidence Grade: Limited.
+]
+Note
+. A detailed rationale for each evidence grade is provided as a supplement to the online version of this article at
+http://www.ajph.org
+.
+Importantly, most studies reviewed were cross-sectional and naturalistic, implying caution with causal interpretations and conclusions about the magnitudes of effects.
+We then translated the reviewed evidence into revised recommendations using established process standards.
+39–42
+This again involved a 2-step process: 2 of the authors (B. F., J. R.) generated draft recommendations (either by revising original or drafting new recommendations) and the authors subsequently discussed and collectively revised the recommendations until they reached consensus. Both the topical evidence reviews and corresponding recommendations are presented in sequential order related to the cannabis use continuum.
+The results are presented by subtopics of evidence informing the LRCUG recommendations.
+Early Use Initiation
+There is substantial evidence that early onset (e.g., before age 18 years) cannabis use is associated with a higher risk of dependence and later problem outcomes. This may be because cannabis use in adolescence impairs various aspects of brain development, especially if intensive and ongoing during the brain development period (until the mid-20s).
+43–46
+For example, early-onset cannabis users have shown alterations of white and gray brain matter and cortical thickness
+47–49
+; lowered functional connectivity, IQ, and cognitive functioning
+50
+; and greater behavioral impulsivity.
+51
+These may reflect factors explaining both early onset of cannabis use and later outcomes.
+Associations between early-onset cannabis use and mental health problems and dependence outcomes are well-established.
+52–54
+Compared with later onset, early-onset users commonly used cannabis more intensively and subsequently showed poorer cognitive and executive functioning.
+55
+The risk of cannabis dependence was almost double in early- versus late-onset users (1 in 6 vs 1 in 10, respectively).
+56
+Among cannabis-dependent users, early onset is associated with subsequent poorer attention, verbal learning and memory, impulse control, and executive functioning outcomes.
+57,58
+Individual studies have documented further associations for early-onset use, for example with elevated risk of developing mental health problems, including depressive symptoms,
+59,60
+and psychotic symptoms.
+61,62
+Conversely, no associations were found between cannabis use and psychosis,
+61
+or reduced IQ,
+63
+among those initiating use after age 18 years. In a longitudinal sibling-pair study, those initiating use before age 16 years had increased risk of nonaffective psychosis (odds ratio [OR] = 2.2; 95% confidence interval [CI] = 1.1, 4.5), delusions (OR = 4.2; 95% CI = 4.2, 5.8), and experiencing hallucinations (OR = 2.8; 95% CI = 1.9, 4.1); the association persisted when examined in sibling pairs.
+64
+Early-use initiators (by age 14 years) were 4 times more likely to develop cannabis dependence and 3 times more likely to have an MVA than those starting use after age 21 years.
+65
+In a subsample of male twins discordant for cannabis use, early-onset users had elevated risk of subsequent other substance use, and for alcohol and illegal drug dependence, compared with controls.
+66,67
+In a meta-analysis of longitudinal studies, never-users of cannabis by age 18 years had greater odds of high-school and university degree attainment, compared with those who started use before age 15 years.
+68
+Other studies demonstrated poorer educational outcomes, including a risk of early school leaving or postsecondary degree noncompletion.
+17,69
+Choice of Cannabis Products
+In recent years, the psychoactive properties of cannabis products have substantially changed with evolving production techniques. Although cannabis contains many cannabinoids, a consistent increase in levels of tetrahydrocannabinol (THC)—the main psychoactive agent—in cannabis has been observed over the past decades,
+70
+rising to as much as 20% to 25% or more in some places.
+6,71–73
+Meanwhile, cannabis concentrates or synthetic cannabinoid products can contain up to 80% to 90% THC or more potent cannabinoid agonists.
+6,71,74
+High THC content in cannabis has been identified as a risk factor for acute and chronic adverse outcomes, including mental health problems and dependence.
+4,5,75
+For example, frequent use of high-potency cannabis (“skunk”) has been associated with marked effects on memory, increased paranoia, and greater dependence severity in (especially younger) users in the United Kingdom.
+76
+In a case–control study, use of high-THC cannabis was associated with a 3-times-elevated risk of psychotic disorder and, hence, with 1 in 4 of incident cases.
+77
+Use of high-potency “wax dabs” has been linked to cannabis-induced psychosis among individuals with no psychiatric history.
+78
+There is some evidence that users of cannabis products with higher THC potency titrate their doses (i.e., use less of higher-potency products to achieve desired psychoactive effects).
+5,79
+Among experienced users, a positive association between THC concentration and cannabis dose per joint has been observed, but the THC concentration was negatively associated with inhalation volume, leading to only a partial titration of dose (i.e., high-THC product users still obtained more THC than low-THC product users).
+80
+Similarly, in another naturalistic study, the amount of cannabis per joint was negatively associated with THC concentrations, estimating a 0.1-gram reduction in the amount of cannabis used if it contained 14% versus 4% THC content.
+81
+Other cannabinoids besides THC may influence the adverse effects of cannabis. Specifically, cannabidiol (CBD) is increasingly understood as a cannabinoid that may attenuate some of THC’s adverse effects.
+82–86
+Several randomized controlled trials and systematic reviews suggest that CBD can block the psychotogenic effects of THC,
+83,87–90
+and mitigate THC’s intoxicating, sedating, and cardiovascular effects.
+86
+However, a systematic review concluded that high doses of CBD are needed to inhibit the effects of even low doses of THC.
+91
+A recent development has been the availability of potent synthetic cannabinoid products (e.g., Spice, K2). These have a distinct pharmacology and toxicology and have been associated with an array of severe adverse side effects, including acute cognitive impairment, psychosis and anxiety, strokes and seizures, myocardial infarction, tachycardia, nausea, and fatalities.
+92–94
+These effects are commonly more severe than those from organic cannabis use.
+95,96
+Another systematic review similarly found adverse acute and chronic mental effects (e.g., anxiety, psychosis, dependence) to be common among regular users of synthetic cannabinoid products.
+97
+Emergency department contacts related to synthetic cannabinoids have increased among younger users in recent years.
+98–100
+Cannabis Use Practices
+Although alternative use practices exist, smoking burnt (combusted) cannabis remains the most common route of administration in North America,
+101,102
+commonly in combination with tobacco.
+6,103
+These use practices are associated with a variety of risks.
+Systematic reviews and major studies have identified various pulmonary or bronchial problems (e.g., coughing, excessive sputum, wheezing, shortness of breath) as well as acute bronchitis and impaired respiratory functioning associated cannabis smoking.
+11,104–108
+Although many of these symptoms appear to be associated with use intensity, they may be reversible following cessation.
+109,110
+Findings are more equivocal for other respiratory diseases. For example, emphysematous lung bullae have been detected among young cannabis smokers.
+111
+There is mixed evidence for associations of cannabis smoking with lung cancer, with only some studies reporting associations; among those showing associations, the risk is moderately elevated (1.5- to 4-fold)
+108,112–114
+and associations continue to be inconclusive mainly because of confounding by tobacco use.
+113,114
+Some specific cannabis smoking practices can acutely increase respiratory health risks. For example, breath-holding or deep inhalation practices—intended to intensify the absorption of psychoactive components—increase the intake of hazardous byproducts (e.g., carcinogens, tar and other toxins, carbon monoxide).
+113,115–118
+These effects are further amplified by concurrent smoking of cannabis and tobacco.
+Various alternative administration routes for cannabis use have emerged, which, however, come with their own risks. For example, bongs or water pipes may reduce burnt particle inhalation while increasing tar or particulate matter intake; infectious disease (e.g., pulmonary tuberculosis) transmission has also been reported among users.
+119–121
+As for newer options, vaporizer devices eliminate cannabis combustion and thus reduce toxic compound intake and related pulmonary problems.
+122,123
+In 2 experimental studies, respiratory problems (including bronchitis) significantly improved among users switching to vaporizer use, but the lag in onset of psychoactive effects led to higher dosing.
+124,125
+However, no rigorous studies exist on the long-term effects of vaporizer use.
+126
+For cannabis e-cigarette devices, formaldehyde particles have been detected at higher voltage that may expose users to risky toxins.
+127
+“Dabbing” (the inhaling of flash-vaporized cannabis concentrates) has been associated with elevated risks of hydrocarbon burns and inhalation of solder, rust, and benzene, in addition to greater impairment, tolerance, and withdrawal symptoms.
+71,128,129
+Ingested (e.g., edible or liquid or oils) cannabis products eliminate the risks of inhalation of combusted cannabis smoke or vapor.
+115
+Concerns exist that “edibles” may lower the perceived risks of using cannabis (e.g., leading to earlier initiation or increased use). Other acute risks include the delayed absorption of THC and consequently delayed onset of psychoactive effects that reduces edibles users’ ability to titrate their doses.
+128
+This may result in larger-than-intended amounts of THC consumed, possibly contributing to increases in edibles-related poisonings and hospitalizations where these products are available (e.g., Colorado
+130,131
+). Furthermore, edible cannabis products can also be accidentally ingested by children who then require treatment.
+132
+Frequency or Intensity of Use
+Frequency or intensity of use is a strong predictor of both acute and chronic cannabis-related problems. Use intensity or frequency is a common epidemiological proxy measure, which is typically defined as (near-) daily use and compared with less-frequent use. Ideally, these indicators should be complemented by other measures, such as dose or potency, but this is rarely the case.
+133
+Frequent cannabis use has increased substantially among (especially younger) users in the United States.
+134
+Systematic reviews have found associations between the frequency or intensity of cannabis use and various adverse health outcomes, including mental health problems,
+5,10,135,136
+cardiovascular problems,
+137
+MVAs,
+138
+suicidality,
+139
+changes in brain structure, and neurocognitive effects.
+140,141
+Specifically, neuroimaging studies have found morphological brain alterations and neurocognitive effects in both adolescents and adults related to intensity of cannabis use.
+140–142
+In case–control studies, use intensity has had an inverse association with brain volume and structure integrity.
+143–146
+Thus, the magnitude of brain abnormalities and the persistence of acute impairment of executive functions (e.g., cognition, memory, psychomotor control) may be influenced by use intensity.
+9,147,148
+At the same time, there is evidence for tolerance effects resulting in reduced cognitive impairment among frequent or chronic users.
+148,149
+Key individual studies complement the previously mentioned review findings on mental health and other outcomes. For instance, studies from various countries have identified cannabis use frequency as a predictor of psychosis,
+150–152
+depressive symptoms, mania, and suicide.
+153–155
+In a longitudinal cohort, daily cannabis use was associated with anxiety disorder (OR = 2.5; 95% CI = 1.2, 5.2) and cannabis dependence (OR = 2.2; 95% CI = 1.1, 4.4); those with persistent daily cannabis use at age 29 years remained at elevated odds for anxiety disorder (OR = 3.2; 95% CI = 1.1, 9.2).
+156
+The risk of cannabis dependence was 5-fold among daily versus infrequent users in Australia.
+157
+Frequent use predicted dependence severity among adult users in the United Kingdom.
+76
+An exception may be a Dutch study in which use frequency was not associated with incidence of dependence; however, this study involved frequent and age-limited users only.
+158
+In combined analyses of longitudinal cohorts, daily cannabis users by age 17 years had significant reductions in high-school completion and degree attainment (OR = 0.4; 95% CI =  0.2, 0.7), and increased odds of later cannabis dependence (OR = 18.0; 95% CI = 9.4, 34.1), other illicit drug use (OR = 7.8; 95% CI = 4.5, 13.6), and suicide attempts (OR = 6.8; 95% CI = 2.0, 22.9).
+159
+Similar associations with educational, socioeconomic, and other substance use outcomes have been shown.
+5,17,160–162
+Several studies have found that MVA risk is increased among frequent users.
+163,164
+Use frequency also predicted higher overall and specific problem domain outcomes on the Alcohol, Smoking, and Substance Involvement Screening Test; daily or near-daily users were at least 9 times more likely to experience problems than infrequent users.
+165
+Cannabis Use and Driving
+Cannabis use acutely impairs key executive functions critical for driving, including cognition, attention, memory, decision-making, and psychomotor functioning. This occurs in a dose-dependent way, although the magnitude and persistence of impairments may vary with use patterns, THC concentration, tolerance, metabolism, and other factors.
+9,147,148,166
+Some of these impairments have been found to persist after acute intoxication, particularly in chronic users.
+9
+Following cannabis intake, peak THC plasma concentrations (around 100 ng/mL) are usually reached within approximately 5 to 30 minutes and generally taper off approximately 2 to 4 hours later.
+149,167–170
+However, intoxication and cognitive impairments may persist beyond THC plasma concentration peaks, yet typically clear within approximately 3 to 6 hours.
+149,170–173
+Higher THC or other cannabinoid concentration or ingested cannabis products (with an extended absorption period) can have more pronounced and persistent effects.
+171,174
+Although these effects are based on the typical pharmacokinetics of THC, they may vary with inhalation intensity, lung capacity, and other factors.
+6
+Epidemiological studies have clearly established that acute cannabis impairment increases the risk of MVA involvement, including fatal collisions (a notable exception: National Highway Traffic Safety Administration
+175
+). Several meta-analyses and reviews concluded that there is an approximate 1.3- to 3-fold (low-to-medium magnitude) increase in MVA risk after cannabis use.
+8,163,164,176
+A recent Canadian case–crossover study found cannabis use to be associated with a 4-fold increase in MVA involvement.
+177
+Risk of MVA involvement increases in a dose-related way with THC concentration or frequency of cannabis use.
+163,164
+This risk is substantially higher when cannabis and alcohol use are combined.
+178–182
+As cannabis-impaired driving has become more common, especially among young drivers,
+183–187
+attempts have been made to define threshold levels of blood-THC concentration equivalent to blood-alcohol content limits. This has been methodologically challenging, and no gold-standard threshold exists. Some studies concluded that blood-THC concentrations ranging from about 2 to 8 nanograms per milliliter (ng/mL; whole blood) resulted in the equivalent driving impairment to 0.05 blood-alcohol content,
+164,179,188
+whereas the final recommendations of the Driving Under the Influence of Drugs, Alcohol, and Medicines study were 1 ng/mL in whole blood or saliva.
+189
+Some US states with
+per se
+laws have blood-THC concentration limits of 5 ng/mL (whole blood), whereas some European countries (e.g., Norway, the Netherlands) have thresholds of less than 5 ng/mL,
+189–191
+and others (e.g., Australia) have defined any detectable recent use as impairment.
+192
+These legal limits, which cannot be reliably self-assessed by users, may thus translate into stricter restrictions on driving than the behavioral parameters outlined previously.
+Special Risk Populations
+Some users with pre-existing conditions should probably abstain from using cannabis. For example, several studies have concluded that a substantial proportion of cannabis-attributable psychosis occurs among users with a family or personal history of psychosis, and a genetic predisposition to psychosis may be triggered or amplified by cannabis use.
+5,193–197
+Assuming that risk of psychosis from family history and cannabis use are multiplicative, someone with a first-degree relative with a history of psychosis has a 10% baseline risk, which is doubled if they become regular users.
+62,198
+It is unclear whether such dynamics also exist for other mental health risks, such as depression, anxiety, or suicide, for which associations with cannabis have been shown.
+154,155,199–202
+However, previous experiences with or family histories of substance use disorders should encourage prudence for cannabis use.
+A systematic review found that women who used cannabis during pregnancy had increased odds of anemia (pooled OR = 1.4; 95% CI = 1.1, 1.7), decreased birth weight (pooled OR = 1.8; 95% CI = 1.0, 3.0), and placement in neonatal care units (pooled OR = 2.0; 95% CI = 1.3, 3.2).
+12
+Maternal cannabis use has been associated with fetal growth reduction and decreased birth weight in newborns,
+203
+as well as with child development and behavior problems, poor school performance, and illicit drug use in children.
+204–207
+Case–control studies have found associations for different cancers among children when maternal cannabis use occurred during pregnancy, but provide weak evidence for causal associations.
+137,208–210
+Cannabis control policy in Canada, reflecting developments elsewhere, is shifting to legalization of recreational use and supply, with the declared objective of improving public health outcomes.
+27,28
+Experiences from other jurisdictions have suggested that legalization does not necessarily—at least in the short run—translate into consistent public health improvements but may increase specific problems.
+24,25,211,212
+Nonetheless, one of the distinct advantages of legalization is that it allows open and direct information of users on risk behaviors, product properties, and more with the aim of reducing harmful outcomes from use.
+22,213,214
+Evidence-based guidelines for cannabis users on how to reduce risks for acute and chronic harms from use, if widely adopted, may reduce the harm burden for both individuals and the population, and thus constitute a valuable public health tool. On this basis, we have undertaken a comprehensive update and revision, based on a systematic review of new evidence, of previously developed LRCUG for Canada.
+36
+These were developed when cannabis was still criminally prohibited; however, impending legalization has entailed strong reasons and demand for updated LRCUG.
+As the data show, cannabis use is associated with a variety of health risks, including several for which the evidence is “substantial.” The primary challenge for public health–oriented cannabis policy is to prevent adolescent or young adult cannabis users from developing severe—acute or chronic—health problems from use.
+4,16,215
+Our review has identified multiple concrete risk factors for cannabis-related health problems, which are modifiable by the user, offering the potential for reduced risks based on recommendations as presented by the LRCUG. Most of the evidence of risk factors and outcomes underlying the recommendations is “substantial” as per established evidence-grading standards.
+7,39
+For example, frequent or intense cannabis use is a well-documented determinant of several key adverse health outcomes and a behavior that can be modified by users. Similarly, the evidence for risks associated with early initiation of cannabis use is strong. Successfully addressing this risk factor hinges on effective prevention efforts (e.g., by parents, teachers, and peers) to delay first use. For cannabis-impaired driving, the strong evidence for risk of MVAs warrants the categorical recommendation that users abstain from driving for at least the acute period of impairment identified by current scientific evidence. For other risk factors—for example, the use of alternative delivery methods for cannabis use to avoid smoking-related health harms—the evidence is weaker because of an absence of rigorous studies. Here, better studies and data are urgently needed. Similarly, the evidence base for special risk populations to warrant abstention from cannabis use is relatively thin, and thus limited to the 2 subgroups indicated. There may be empirical grounds to extend future recommendations to other subgroups (e.g., with cardiovascular or other predispositions to specific health problems).
+On the basis of our rigorous review methodology and expert consensus-based evidence grading and recommendations development, we are confident in the overall quality and relevance of the recommendations presented. At the same time, specific cannabis use–related risk factors and outcomes are influenced by other (intrinsic and extrinsic) factors (e.g., genetic profiles, cobehaviors, socioenvironmental factors); thus, the applicability of the recommendations certainly varies among individual users.
+6,216–220
+Also unclear is the extent of concrete health harm that may be avoided from each of the recommendations; this should be systematically assessed.
+Importantly, behavior-oriented public health interventions like the LRCUG require effective implementation and uptake to have impact.
+221,222
+In addition, they need to be supported by information for users—for example, about the specific content details of cannabis products, facilitated by measures such as product testing and labeling.
+214
+The implementation of interventions like the LRCUG does not fall into the realm of science but requires systematic efforts by governmental and nongovernmental institutions and other key stakeholders. The evidence for impact of similar endeavors (e.g., alcohol-, food and nutrition–, and safer sex–related guidelines) in other areas is mixed.
+33–35,223,224
+Given impending legalization, an acute need for public health tools to further population-oriented prevention goals exists in Canada, which the revised LRCUG aim to serve. The LRCUG can be adapted for use in other sociocultural environments beyond North America. Ideally, their impact should be evaluated toward an evidence base concerning effective public health interventions within the emerging cannabis policy paradigm of legalization.

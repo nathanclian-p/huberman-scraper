@@ -1,0 +1,3456 @@
+Abstract
+A significant body of work has investigated the effects of acute exercise, defined as a single bout of physical activity, on mood and cognitive functions in humans. Several excellent recent reviews have summarized these findings; however, the neurobiological basis of these results has received less attention. In this review, we will first briefly summarize the cognitive and behavioral changes that occur with acute exercise in humans. We will then review the results from both human and animal model studies documenting the wide range of neurophysiological and neurochemical alterations that occur after a single bout of exercise. Finally, we will discuss the strengths, weaknesses, and missing elements in the current literature, as well as offer an acute exercise standardization protocol and provide possible goals for future research.
+Keywords:
+Running, affect, prefrontal cortex, hippocampus, electroencephalography, neuroimaging, neurochemistry, neurogenesis
+INTRODUCTION
+The positive influence of exercise on mood and cognition across the lifespan has become a topic of much excitement [
+1
+]. In particular, abundant data suggest that physical activity can reduce the risk of various neurological diseases and protect the brain from the detrimental effects of aging [
+2–4
+]. Animal models have focused mainly on the effects of long-term exercise (i.e., weeks to months of increased exercise) on hippocampal function, with special emphasis on exercise-induced adult hippocampal neurogenesis and hippocampal-dependent learning and memory [
+5, 6
+]. Studies in rodents have also documented the neuroanatomical, neurochemical, and cellular/molecular changes associated with long-term exposure to exercise [
+7, 8
+]. In humans, both behavioral and functional imaging approaches have started to identify the neuroanatomical systems modulated by long-term increases in exercise. The most commonly reported area to undergo improvement is the prefrontal cortex, with exercise-induced enhancements observed in attention and other executive functions [
+9
+]. As well as for improving cognition in children and healthy adults, these long-term effects of exercise are of particular interest for their possible role in improving cognitive function during aging [
+10–12
+]. As we age, cognitive decline, though not inevitable, is a common occurrence resulting from the process of neurodegeneration. In some instances, neurodegeneration results in mild cognitive impairment or more severe forms of dementia including Alzheimer’s, Parkinson’s, or Huntington’s disease. Because of the role of exercise in enhancing neurogenesis and brain plasticity, physical activity may serve as a potential therapeutic tool to prevent, delay, or treat cognitive decline. Indeed, studies in both rodents and humans have shown that long-term exercise is helpful in both delaying the onset of cognitive decline and dementia as well as improving symptoms in patients with an already existing diagnosis [
+13–15
+].
+In addition to the robust literature on the effects of long-term exercise on brain function, a growing literature has also examined the influence of a single bout of exercise, termed “acute exercise”, on human behavior. A recent set of excellent meta-analyses has detailed a range of behavioral changes, concluding that acute exercise has an overall small positive effect on cognitive functioning, especially in areas of prefrontal cortex-dependent cognition [
+9, 16–19
+]. Additionally, acute exercise has been shown to enhance affective, mood, and emotional states [
+20
+]. Because of the lack of a general criteria regarding low-, moderate-, and high-intensity aerobic exercise, human studies have utilized a range of acute exercise protocols. This has led to a diverse set of findings, which are highlighted throughout the manuscript; implications for such findings are considered in the discussion. For this review, we have primarily focused on aerobic exercise, but have included some studies that utilize resistance exercise. Additionally, we have mainly reviewed studies in healthy adults, but have included some discussion of the effects of acute exercise in individuals with various diseases/disorders. Finally, our focus has centered around the effects of acute exercise on behaviors dependent on the prefrontal cortex, mood, and stress responses, but a small collection of literature is starting to reveal that acute exercise may be beneficial on a variety of other brain processes as well, including motor learning and memory dependent on striatal-cortical circuits.
+To maximize results, the majority of rodent studies investigating the effects of physical activity on brain structure and function utilize running protocols typically lasting three weeks or more. Therefore, acute exercise, as it is used in humans (e.g., approximately one hour of exercise), is rarely studied in rodents. The majority of studies that have utilized a single bout of exercise typically examine the effects on neurochemical changes. Many fewer studies have examined the behavioral effects of acute exercise in rodents. Because of the limited number of these studies, we have included those that investigated the effects of one week or less of exercise, which is considered an acquisition time period for running in the rodent [
+21
+], on behavioral and brain outcomes.
+The goal of this review is to summarize the wide range of neurophysiological and neurochemical changes that have been described after an acute bout of exercise, from studies in both animal models and human subjects, and to link these changes to a range of behavioral effects that have been described mainly in humans. As chronic exercise is ultimately the result of regular bouts of acute exercise, understanding the changes induced by a singular bout of exercise may provide novel insight into how to interpret and even approach the study of the effects of chronic increases in physical exercise on cognitive function.
+THE EFFECTS OF ACUTE EXERCISE ON COGNITION, MOOD, AND STRESS RESPONSES IN HUMANS
+A comprehensive set of narrative [
+22–26
+] and meta-analytic reviews [
+9, 16–19
+] that focused on the effects of acute exercise on cognition in people concluded that acute exercise has an overall small positive effect on cognitive functioning. However, the individual studies supporting this conclusion are highly variable, demonstrating behavioral effects ranging from strongly positive to detrimental. One of the main reasons this spread of results exists is because of the diverse exercise regimens that have been utilized. Notably, there is currently no standardized way to assess the influence of exercise on cognitive functioning, which has resulted in a wide variety of physical activity protocols that differ in the critical factors of format (i.e., the type of exercise used), intensity, and duration (but see
+Table 2
+). Despite this wide range of testing parameters, three of the most consistent effects reported are (1) improvements in cognitive tasks that depend primarily on the prefrontal cortex [
+27
+], (2) enhancements in mood state [
+28, 29
+], and (3) decreases in stress level [
+30
+] (
+Fig. 1A
+). More limited evidence exists to show that acute exercise improves long-term memory [
+31–34
+] and associative memory [
+35, 36
+] dependent on the hippocampus, learning [
+37
+] and retention [
+38, 39
+] of motor skills dependent on the striatum, emotional memory dependent on the amygdala [
+40, 41
+], and skills dependent on both the primary visual and motor cortices [
+42
+].
+Table 2.
+Prefrontal cortex-dependent tasks that show improvement with acute exercise
+Stroop Color and Word Task
+Eriksen Flanker Task
+N-Back Task
+Trail Making Task A and B
+Wisconsin Card Sorting Task
+Hopkins Verbal Learning Task
+Symbol Digit Modalities Task
+Go/No Go Task
+Stop Signal Task
+Simon Task
+Random Number Generation Task
+Tower of London Task
+Digit Span Task
+Reading Span Task
+Operation Span Task
+Fig.1.
+The Time Course of Behavioral, Functional, Physiological, and Neurochemical Effects of Acute Exercise.
+The tasks most often used to test the effects of acute exercise on cognition are those that assess the functions of the prefrontal cortex, including attention and perception tasks that focus primarily on reaction time, and both verbal and visual working memory tasks. These include the Eriksen Flanker Task, the Stroop Color and Word Task, the Go/No Go Task, and the N-back Task among others (
+Table 1
+). Collectively, this literature shows that executive functions including attention, working memory, problem solving, cognitive flexibility, verbal fluency, decision making, and inhibitory control receive the most benefit from acute exercise [
+9
+], with effects lasting for up to two hours post-exercise cessation (
+Fig. 1A
+) [
+27
+]. Moreover, many of these neuropsychological assessments measure several aspects of behavior including both accuracy of performance and speed of processing. McMorris and Hale performed a meta-analysis examining the effects of acute exercise on both accuracy and speed of processing, revealing that speed significantly improved post-exercise, with minimal or no effect on accuracy [
+17
+]. These authors concluded that increasing task difficulty or complexity may help to augment the effect of acute exercise on accuracy.
+Table 1.
+Proposed acute exercise study standards
+Acute Exercise Measurement and Category
+Values
+1) Duration (measured in minutes)
+Short
+0 to 15 minutes
+Moderate
+16 to 45 minutes
+Long
+46 minutes or longer
+2) Intensity (measured in percentage of VO
+2
+max)
+Low
+≤39
+Moderate
+40 to 59
+High
+≥60
+3) Percevied exertion
+Measured by the Borg Ratings of Perceived Exertion Scale
+6 to 20
+4) Exercise index
+A combined value of duration, intensity, and perceived exertion
+Calculation: (% of hour + % of VO2 max + % of scale) / 3
+A major factor that has been shown to influence the cognitive effects of acute exercise in people is exercise intensity. Yerkes and Dodson’s law suggests that an inverted-U relationship exists between arousal and performance [
+43, 44
+]. Based on this idea, which predicts that moderate-, but not low- or high-, intensity exercise supports enhanced cognition, the majority of studies have utilized moderate-intensity exercise protocols. However, in a comprehensive meta-analysis, Chang and colleagues found that exercise intensities ranging from very light (<50% MHR) to very hard (>93% MHR) have all been reported to improve cognitive functioning [
+9
+]. Some studies have examined the effects of varying doses of exercise [
+34, 45–48
+]. One study, for example, that compared the effects of various maximal resistance regimens (none versus 40%, 70%, or 100% of 10-repetition maximum) on cognitive functioning revealed that different intensities of exercise might differentially improve distinct types of brain functions. Specifically, moderate-intensity exercise may be more beneficial for executive functions (Tower of London and Stroop), whereas high-intensity exercise may be more beneficial for information processing (Paced Auditory Serial Addition) [
+45, 49
+]. Another study in individuals with Down syndrome investigated the effects of 20 minutes of moderate- (50–74% age-predicted MHR) versus high-intensity (75–85% age-predicted MHR) treadmill walking on information processing speed (assessed by a choice reaction time test) and executive function (attention shifting assessed by the dimensional change card sorting test and inhibitory control assessed by the knock-tap test) [
+50
+]. In this population, moderate-intensity, but not high-intensity, exercise facilitated information process speed, whereas both moderate- and high-intensity exercise were beneficial for inhibitory control. Comparison of these studies indicate that exercise type as well as health status of the individual may be important factors affecting the impact of acute exercise on cognitive functioning.
+Acute exercise is one of the most effective behavioral techniques for self-regulation of mood in healthy populations [
+51
+]. The effects of acute exercise on mood state have been evaluated using a variety of self-reported questionnaires such as the Profile of Mood States (POMS; a questionnaire that measures tension, depression, anger, fatigue, confusion, vigor and overall mood disturbance) and the Positive and Negative Affects Scale (PANAS) [
+28
+]. These acute interventions have shown that exercise alleviates negative as well as enhances positive mood states [
+52
+], with effects occurring immediately after and lasting up to one day post-exercise cessation [
+28, 29, 53
+] (
+Fig. 1A
+). As a large number of studies have utilized the POMS, one review sought to determine the areas of mood that are most influenced by acute exercise [
+54
+]. They found that the largest improvements in mood were decreases in tension, depression, anger, and confusion. One study examined the effects of acute moderate-intensity exercise on affect using the circumplex model of emotional state [
+55
+], which examines affect based on two scales, valence and arousal, in young (19–39), middle-aged (40–64), and older (65+) individuals [
+56
+]. Results revealed that compared to a picture-viewing control group, acute exercise significantly increased high-arousal positive affect (HAP) (e.g., feeling energized) in all age groups. In contrast, low-arousal positive affect (LAP) (e.g., feeling calm) decreased for young adults but remained stable for older adults. This study highlights the importance of assessing the influence of acute exercise on both low- and high-arousal affective states across different age groups.
+As the acute exercise protocols used in these studies vary dramatically, the best protocol for improving mood is unclear. Some evidence exists, however, to suggest that the most effective type of exercise at producing mood improvements may be a workout experience that participants find enjoyable. For example, in a study that compared varying exercise intensities (low-, moderate-, and high-intensity) to a self-chosen exercise intensity, the greatest mood benefits in the form of high enjoyment scores after exercise came from those who were able to choose their own workout experience (based on the Physical Activity Enjoyment Scale) [
+57
+]. However, other interpretations of this finding exist, and as this study included only a small sample size (
+n
+= 10 for this condition), future studies will be needed to assess whether this finding is related to the subject’s sense of control over the workout or the workout that best matches the subject’s physical fitness or perceived fitness level, for example.
+In addition to improving mood, studies also show that acute exercise is effective at reducing stress both on self-reported questionnaires [
+58
+] and from anxiety-inducing procedures conducted in the laboratory [
+59
+] (
+Fig. 1A
+). Acute exercise, for example, decreases stress-related blood pressure responses to laboratory-based stressors including mental arithmetic, public speaking, neuropsychological assessments, or the cold pressor test [
+30, 60
+]. Brownley and colleagues found that this effect was most likely a result of acute exercise suppressing the sympathetic nervous system response to stress [
+61
+]. These studies suggest that acute exercise may be an effective strategy for alleviating the psychological symptoms produced by an acute stressor. Additionally, studies have shown that acute exercise helps relieve symptoms associated with mood and psychological disorders such as depression, anxiety, schizophrenia, and post-traumatic stress disorder [
+62–64
+].
+Summary of acute exercise-induced behavioral changes (
+Fig. 1A
+)
+A large collection of research in humans has shown that a single bout of exercise alters behavior at the level of affective state and cognitive functioning in several key ways. In terms of affective state, acute exercise decreases negative affect, increases positive affect, and decreases the psychological and physiological response to acute stress [
+28
+]. These effects have been reported to persist for up to 24 hours after exercise cessation [
+28, 29, 53
+]. In terms of cognitive functioning, acute exercise primarily enhances executive functions dependent on the prefrontal cortex including attention, working memory, problem solving, cognitive flexibility, verbal fluency, decision making, and inhibitory control [
+9
+]. These positive changes have been demonstrated to occur with very low to very high exercise intensities [
+9
+], with effects lasting for up to two hours after the end of the exercise bout (
+Fig. 1A
+) [
+27
+].
+THE EFFECTS OF ACUTE EXERCISE ON THE BRAIN: INSIGHT FROM FUNCTIONAL IMAGING AND ELECTROPHYSIOLOGICAL STUDIES
+Brain imaging and electrophysiological techniques including electroencephalography (EEG), functional magnetic resonance imaging (fMRI), functional near-infrared spectroscopy (fNIRS), and transcranial magnetic stimulation (TMS) in humans have started to provide insight into how an acute bout of exercise affects the physiological and functional activity patterns of the brain (
+Fig. 1B
+). Of all these approaches, only EEG studies have examined the effects of acute exercise on baseline brain functions in the absence of a cognitive load. We start with a description of these baseline EEG studies in both humans and rodents. We then turn to results from studies using this and other approaches that describe how the brain responds to an acute bout of exercise during the performance of various cognitive demands.
+EEG Studies
+The majority of studies assessing the effect of acute exercise on the EEG signal have focused on the alpha frequency band, a neural oscillatory pattern in the frequency range of 7.5 to 12 hertz (Hz) in humans. Alpha oscillations indicate a state of decreased cortical activation and are associated with states of fatigue, relaxation, and diminished anxiety [
+65
+]. Because acute exercise causes these types of behavioral changes, the predominant hypothesis was that acute exercise should also increase alpha activity. However, in their review examining the effects of acute exercise on resting state brain activity, Crabbe and Dishman found significant increases not only in alpha activity but in delta, theta, and beta activity as well [
+66
+] (
+Fig. 1B
+). This review included 18 studies of acute exercise that incorporated protocols of walking, running, cycling, aqua, and isometric exercises that ranged from 2 to 60 minutes, with heart rates of 89 to 200 beats per minute, and EEG activity measured anywhere from immediately after and up to 30 minutes post-exercise cessation [
+67
+]. Despite this range in exercise protocols, the effect size was moderately large, ranging from 0.38 to 0.75 standard deviations, with similar patterns of activation seen across different brain regions including the frontal, temporal, central/parietal, and occipitalcortices.
+Though capturing electrophysiological changes in the human brain during exercise is difficult, microelectrodes and local field potential (LFP) recordings enable this kind of data collection in rodents. Using a 30-minute treadmill running paradigm at 13 meters per minute, Li and colleagues found similar increases in alpha and theta power (amplitude) in rodents [
+68, 69
+], with these effects dissipating within 10 minutes of the end of exercise [
+70
+] (
+Fig. 1B
+). An extensive body of work examining LFP patterns in rodents during locomotion has shown that the hippocampal theta oscillation is invariably present during spatial navigation, wheel, and treadmill running [
+71
+]. During theta, the hippocampus is bathed in an increased concentration of acetylcholine that is believed to facilitate plasticity [
+72, 73
+]. In addition to promoting synaptic plasticity, theta organizes hippocampal neurons into sequential activity patterns that are later repeated during subsequent behaviors [
+74, 75
+]. In the situation of acute exercise, this sequencing of neural firing may reinforce the synapses between neurons to support subsequent memory for events that unfold over time [
+76
+]. As the prefrontal cortex is a recipient of this sequential activity from the hippocampus [
+77, 78
+], prefrontal cortical neurons exhibit similar predictive or preparatory behavior during running [
+79
+], which is of particular interest as prefrontal cortex function clearly benefits from acute exercise (see above). These observations suggest that the exercise-induced sustained theta oscillation, and in particular the organized sequential activity and elevated cholinergic tone, may specifically enhance performance on tasks that depend on hippocampal-prefrontal interactions [
+80–82
+].
+Studies using EEG in humans have also examined the effects of acute exercise on the electrophysiological signal during cognitive task performance. Hillman and colleagues provided a comprehensive review that nicely describes the effects of acute exercise on electrophysiological indices of cognitive processes including stimulus discrimination, inhibition, and action monitoring [
+83
+]. Event related potentials (ERPs) are brain responses measured through EEG that are stereotyped and time-locked to specific internal or external events. The P300 or P3 component, for example, is elicited during decision making and is represented as a positive deflection in amplitude with a latency between 250 and 500 ms, with larger amplitudes and shorter latencies corresponding to superior cognitive performance. One study examined the influence of acute low- (30% VO
+2
+max) and moderate-intensity (50% VO
+2
+max) aerobic exercise on the P3 component during a modified flanker task in both healthy younger (19–25 years) and older (60–74 years) adults [
+84
+]. Compared to a resting baseline and low-intensity exercise, moderate-intensity exercise decreased reaction time in both young and old adults. This behavioral improvement was accompanied by decreased P3 latencies in both young and old adults as well as increased P3 amplitudes in young adults. Following acute exercise, other studies have reported similar increases in P3 amplitude and decreases in P3 latency during tasks including the oddball task, the Go/No Go task, and an attention network task similar to the Eriksen flanker task [
+85–90
+]. Though the precise neural origins of the P3 component are unknown, its generation is thought to reflect the synchronized firing of large groups of excitatory pyramidal neurons of the cortex [
+91, 92
+] and appears to be mediated by interactions between the frontal and temporal/parietal cortices [
+93, 94
+], with contributions from dopaminergic and noradrenergic inputs [
+95–97
+]. This work suggests that one mechanism underlying the acute exercise-induced improvements in cognition may be the enhancement of synchronous firing between cortical neurons.
+fNIRS Studies
+fNIRS is a non-invasive optical technique that utilizes near-infrared light to measure the hemodynamic response of the cerebral cortex. This technique has been used to examine the influence of acute exercise on human brain function. In particular, fNIRS has been useful in evaluating Dietrich’s reticular-activating hypofrontality theory of exercise [
+98
+]. This theory states that during exercise, the brain’s finite supply of energy and resources is shifted from areas involved in cognitive processing like the prefrontal cortex towards areas that are important for motor movement and coordination like the primary motor cortex, striatum, and cerebellum, causing a hypoperfusion or decreased activation of the former area during exercise [
+99
+]. Following this exercise-induced prefrontal hypoperfusion, this region is thought to experience a rebound surge of oxygenated blood, resulting in enhanced prefrontal function.
+Yanagisawa and colleagues conducted the first study to assess the neural substrates of acute exercise-induced enhancements in cognitive functioning using fNIRS [
+100
+]. In healthy, young adults, fNIRS measurements were captured during the Stroop Task both before and 15 minutes after a 10-minute bout of moderate-intensity aerobic exercise (50% of VO
+2
+peak) or rest. Compared to the resting control condition, acute moderate exercise significantly increased inhibitory control as measured by the interference component of the Stroop Task (incongruent minus neutral), and this effect was accompanied by increased activation in the left dorsolateral prefrontal cortex, a brain region integral to executive functioning (
+Fig. 1B
+). Similar findings were also more recently reported for low-intensity exercise (10 minutes at 30% VO
+2
+peak) [
+101
+]. The same group then repeated this study in older individuals to determine whether the beneficial effects of acute exercise could be induced in an elderly population. As we age, a compensatory phenomenon occurs known as hemispheric asymmetry reduction in older adults (HAROLD) [
+102
+]. In this process, older adults have less lateralized prefrontal activity than do older adults. For example, in young adults performing the Stroop Task, left regions of the prefrontal cortex are engaged; however, in some older adults, both sides become engaged, with older adults who show task-related recruitment of the bilateral prefrontal cortices outperforming those individuals who show only unilateral recruitment. As predicted, compared to young adults [
+100
+], the older population demonstrated the HAROLD effect, with increased activation reported bilaterally in the dorsolateral prefrontal cortex, ventrolateral prefrontal cortex, and frontal polar area during Stroop interference trials [
+103
+]. Acute exercise enhanced performance on the Stroop task and increased task-related activity in the right frontal polar area, indicating that exercise increased the HAROLD effect or the older brain’s ability for compensatory brain activation (
+Fig. 1B
+). An important area of future research will be to determine how long these acute exercise-induced enhancements in inhibitory control mechanisms persist, as the studies described above looked only up to 15 minutes after exercise cessation.
+fMRI Studies
+fMRI is another non-invasive technique that takes advantage of the brain’s hemodynamic response, allowing it to be imaged with high spatial resolution during rest or cognitive engagement. A number of cross-correlational and interventional studies have shown that long-term exercise causes changes in task-related brain activation and functional connectivity [
+104–106
+]. For example, high-fit older adults outperform their low-fit counterparts on the attention-related cognitive test, the Eriksen Flanker task, and this boost in performance is accompanied by increased activation in brain regions associated with attentional control (i.e., middle frontal gyrus, superior frontal gyrus, and the superior parietal lobe) and decreased activation in the inhibitory control region, the anterior cingulate cortex [
+105
+]. Compared to a stretching and toning control group, six months of aerobic exercise produced the same results [
+105
+]. Additionally, cardiopulmonary fitness is associated with and aerobic training can increase functional connectivity between frontal, posterior and temporal cortices in both the Default Mode and Frontal Executive Networks [
+104, 107, 108
+]. Many fewer studies, however, have examined the effects of acute exercise on cognition using fMRI. Though each of these studies describe a range of acute exercise-induced changes (both increases and decreases) in fMRI signaling [
+109–112
+], these findings were not accompanied by behavioral improvements, making the fMRI results difficult tointerpret.
+One recent study examined the influence of a single session of aerobic exercise after learning on memory consolidation and hippocampal functioning [
+113
+]. Subjects encoded a series of picture-location associations and then either rested or exercised (35 minutes of interval training on a cycle ergometer at 80% of their maximum heart rate) immediately after or four hours after encoding. Forty-eight hours after this experience, subjects returned for a cued-recall test while their brains were imaged in the magnetic resonance scanner. Compared to the no exercise controls, performing exercise four hours, but not immediately, after encoding enhanced retention of the picture-location associations. Additionally, compared to the no or immediate exercise groups, those individuals who exercised after a delay showed enhanced hippocampal pattern similarity during correct trials (
+Fig. 1B
+). These exciting results suggest that acute exercise may be used after learning to enhance memory and hippocampal functioning, but that these effects may be regulated by the timing of exercise in relation to the timing of learning.
+Another area of research where fMRI has been used is to study the underlying mechanisms of the stress-buffering effects of acute exercise in humans [
+114
+]. After 30-minutes of either aerobic exercise (walking/running at 60–70% of VO
+2
+max) or “placebo” exercise (light stretching and gymnastic exercises), subjects completed mood questionnaires and a modified version of the Montreal Imaging Stress Test (MIST), a test combining mental arithmetic with social evaluation that serves as an acute stressor. Compared to the control condition, acute exercise increased positive affect. Additionally, compared to the control group, acute aerobic exercise significantly increased MIST-induced BOLD signaling bilaterally in the hippocampus and parahippocampal gyrus and decreased BOLD signaling in frontal cortical regions including unilaterally in the right dorsolateral (dl) and dorsomedial (dm) prefrontal cortex (PFC), right inferior frontal gyrus (IFG), right middle cingulate cortex, and bilaterally in the paracentral lobule, and pre- and post-central gyrus (
+Fig. 1B
+). These findings indicate that acute exercise alters the brain’s response to an acutestressor.
+TMS Studies
+Transcranial magnetic stimulation (TMS) is a procedure whereby a magnetic field generator is placed above the head creating small electric currents in the brain through the process of electromagnetic induction. This technique has been used to assess brain damage resulting from stroke and movement disorders as well as to treat conditions such as chronic pain and major depression. TMS has also been used to determine whether acute exercise promotes neuroplasticity. Different TMS protocols are used to induce different types of brain changes. For example, continuous theta-burst stimulation (cTBS), thought to work through long-term depression-like mechanisms, serves to inhibit the motor cortex, whereas paired associative stimulation (PAS), thought to work through long-term potentiation-like mechanisms, serves to excite the motor cortex. Using these techniques, acute exercise has been shown to facilitate both the inhibition [
+115
+] and excitation [
+116–118
+] of the motor cortex, with this enhanced neuroplastic capacity relating to acute exercise-induced improvements in implicit motor learning [
+118
+] (
+Fig. 1B
+). In one study, paired associative stimulation (PAS), which is a method of repeatedly pairing peripheral nerve stimulation of the right median nerve with TMS over the primary motor cortex (M1), was administered after seated rest or 25 minutes of stationary cycling at 65–70% of the age-predicted MHR [
+116
+]. Changes in pyramidal neuron excitability were assessed by examining the stimulus-response curve of motor-evoked potentials (MEPs) from the electromyogram (EMG), while intracortical circuits were assessed through testing short-interval intracortical inhibition (SICI), long-interval intracortical inhibition (LICI), and intracortical facilitation (ICF). Acute exercise enhanced PAS-induced increases in M1 excitability as well as decreased SICI. Considering that a reduction in intracortical inhibition is necessary for the induction of short-term plasticity, this research indicates that acute exercise may prime the brain for neuroplasticity to occur. These results have implications for the use of acute exercise as a neurorehabilitation tool in clinical populations.
+Summary of acute exercise-induced neurophysiological changes (
+Fig. 1B
+)
+Several techniques in both rodents and humans have been used to assess the effects of acute exercise on brain neurophysiology and function including, multi-unit extracellular recordings, EEG, fNIRS, fMRI, and TMS. Together, these studies demonstrate that a single bout of exercise increases hippocampal theta as well as enhances delta, theta, alpha, and beta power throughout the cortex [
+68, 69, 71, 83
+]. In addition, acute exercise increases P300 amplitude and decreases P300 latency during cognitive task performance, a physiological indicator of enhanced decision making [
+84–90
+]. This work also shows that acute exercise-induced enhancements in cognition are accompanied by increased blood flow to frontal regions of the brain in both young and old adults [
+100, 101, 103
+]. Finally, through the use of TMS, studies have shown that a single bout of exercise facilitates both the inhibition and excitation of the motor cortex – a finding linked to improvements in motor learning and potential enhancements in cortical plasticity [
+116–118
+].
+THE EFFECTS OF ACUTE EXERCISE ON THE BRAIN: INSIGHT FROM NEUROCHEMICAL STUDIES
+Studies from both animal model systems and human subjects have started to shed light on the possible signaling pathways involved in the acute exercise-induced improvements in mood and cognitive function (
+Fig. 1C
+). A complex set of different signaling pathways, including those activated by hormones, neurotransmitters, growth factors, and neuromodulators, are stimulated with a single bout of exercise. Below, we summarize the changes that have been reported mainly in animals, but also in humans.
+Lactate, glutamate and glutamine
+During acute aerobic exercise, in the process of aerobic glycolysis, glucose is broken down to pyruvate, which then further breaks down to lactate or lactic acid. When exercise transitions from aerobic to anaerobic in nature, the “anaerobic threshold” is met. At this point, the body is at its peak of oxygen uptake. Beyond this point, lactic acidosis occurs. The excess
+H
++ ions of lactate must be buffered to maintain a physiological pH, and because bicarbonate buffering of lactate produces carbon dioxide (CO
+2
+) in the blood, ventilation is significantly increased [
+119, 120
+].
+Lactate is able to cross the blood brain barrier, is independently made by astrocytes in the brain, can be used by the brain as an alternate energy source to glucose [
+121
+], and has been implicated in memory processes [
+122, 123
+] and neuronal plasticity [
+124
+]. In the brain, lactate serves as a precursor to glutamate, which is the main excitatory neurotransmitter in the brain. Glutamate is then taken up by astrocytes and converted to glutamine in the glutamate-glutamine cycle. Acute exercise has been known for some time to increase peripheral lactate levels; however, expensive and invasive procedures have made direct quantification of acute exercise-induced brain lactate levels difficult in humans (
+Fig. 1C
+; but see [
+125–128
+]). Two recent studies used proton magnetic resonance spectroscopy (H
+1
+MRS) to investigate brain-level changes of lactate, glutamate, and glutamine [
+129, 130
+]. Using an exercise protocol of 15 minutes of discontinuous, graded exercise at 85% of the subject’s age-predicted MHR, these studies revealed that lactate, glutamate, and glutamine levels transiently increased by approximately 20% in the cortex (
+Fig. 1C
+).
+Recent animal research provides new insight into the link between lactate and memory [
+131
+]. Using a hippocampal-dependent inhibitory avoidance task, Suzuki and colleagues revealed that the transfer of lactate from astrocytes to neurons plays a direct role in long-term memory formation [
+122
+]. They also found that lactate is involved in the maintenance of long-term potentiation (LTP), a physiological marker of learning and memory that is induced in hippocampal area CA1 by inhibitory avoidance learning [
+132
+]. Lactate has also been shown to be involved in spatial working memory as assessed by a spontaneous alternation task [
+123
+], and may enhance memory by stimulating plasticity-related genes such as Arc, c-Fos, and Zif268 through NMDA receptor signaling [
+124
+]. An interesting future direction for research will be to explore the relationship between acute exercise-induced increases in central lactate levels and cognitive performance.
+The HPA axis response: Cortisol
+Exercise not only affects brain lactate levels, but is also a well-known stressor that stimulates the hypothalamus to secrete corticotropin-releasing hormone (CRH). CRH stimulates the anterior pituitary to secrete adrenocorticotropic hormone, which then stimulates the adrenal cortex to release cortisol, a glucocorticoid steroid hormone that crosses the blood brain barrier to reach the brain [
+133, 134
+]. These effects have been documented in both rodents [
+135, 136
+] as well as humans [
+137
+]. In humans, acute exercise stimulates the HPA axis in an intensity-dependent fashion, with increases in cortisol occurring after a threshold amount of exercise that equates to a duration of 10 minutes or more at approximately 60% of VO
+2
+max or greater [
+138–140
+]. After exercise cessation, peripheral cortisol levels peak around 30 minutes and remain elevated for up to two hours [
+141
+]. Surprisingly, the overall time course for changes in central levels of cortisol following an acute bout of exercise has not been reported. In this transient exercise-induced stress response, cortisol has an inhibitory feedback response on the hypothalamus and pituitary gland, thus completing this homeostatic circuit.
+A collection of work has shown that cortisol strongly influences learning and memory. Cortisol receptors, including mineralocorticoid and glucocorticoid receptors, are located throughout the brain, with heavy concentrations in areas supporting learning and memory, such as the prefrontal cortex, hippocampus, and amygdala [
+142
+]. The extent to which cortisol influences learning and memory processes depends on several factors including the intensity of cortisol elevation. For example, moderate increases in cortisol enhance working memory as well as LTP [
+143, 144
+]. Cortisol elevation over a certain threshold, however, serves to impair memory [
+145, 146
+]. This is, of course, an important concept when thinking about exercise as a stressor that raises cortisol levels and impacts learning andmemory.
+As was discussed in the fMRI section above, acute exercise also helps mitigate the debilitating effects of stress [
+114
+]. Along with the behavioral data, saliva cortisol and α-amylase were captured before and after both the acute exercise intervention and behavioral stress test (MIST). In addition to improving mood, acute exercise prevented the stress-induced increases in cortisol, with this effect being inversely correlated to the exercise-induced increases in cortisol and α-amylase. That is, individuals who had the greatest exercise-induced increases in cortisol and α-amylase experienced the lowest physiological response to the acute stressor. Compared to the stretching control group, acute exercise significantly increased stress-induced BOLD activity in several frontal and temporal regions. Further, the exercise-induced changes in cortisol and α-amylase were positively associated with the BOLD signal in the hippocampus and negatively associated with the BOLD signal in the dlPFC, dmPFC, and IFG. Interestingly, exercise-induced mood improvements were also negatively correlated with dlPFC and IFG activation. Considering that the hippocampus and prefrontal cortex are both integrally involved in negative feedback of the HPA axis [
+147
+], this evidence suggests that acute exercise-induced activation of the HPA axis helps to reduce the physiological response to acute stress, and that acute exercise-induced improvements in mood may be a good indicator of the effectiveness of the exercise intervention on stress buffering. These findings are in line with the cross-stressor adaptation hypothesis, whereby high-fit individuals, compared to their low-fit counterparts, show decreased physiological and psychological responses to stressors other than exercise (e.g., psychosocial stress) [
+148
+]. This suggests that acute bouts of exercise in high-fit individuals help prime the brain to deal with exposure to later acute stressors.
+Using rodent models, many have shown that chronic exercise produces potent anti-depressant- and anxiolytic-like effects (e.g., [
+149–153
+]), at similar or greater levels than that of pharmacological interventions [
+154–156
+]. Greenwood and Fleshner have conducted some elegant work revealing the underlying mechanisms of the effects of chronic exercise on stress resistance [
+157, 158
+]. For example, they showed that six weeks of voluntary wheel running protects against the depressive- and anxiety-like behaviors that result from uncontrollable stress (i.e., social avoidance, exaggerated freezing, and the escape deficit elicited by the learned helplessness paradigm). The negative effect of uncontrollable stress on behavior is mediated by hyperactivation and sensitization of the serotonergic system, and exercise appears to provide stress resistance by providing plasticity at the level of the serotonergic neurons [
+158
+]. Based on this work, one recent study examined the effects of a single bout of exercise on contextual fear conditioning [
+159
+]. Extinction in this paradigm is the decline of the fear response (i.e., freezing) during repeated presentations of the conditioned stimulus (i.e., sound) in the absence of the unconditioned stimulus (i.e., shock). Previously sedentary rats that experienced three hours of voluntary wheel running either before or after extinction, froze significantly less in a test session 24 hours later, with those rats that ran the farthest distances showing the lowest levels of freezing. Even more recently, Mika and colleagues determined that acute exercise during extinction reduced the fear response during relapse of the conditioned fear experience [
+160
+]. This behavioral response was accompanied by attenuated stress-induced increases in plasma corticosterone and
+cfos
+mRNA in the prelimbic medial prefrontal cortex and central nucleus of the amygdala as well as enhanced
+cfos
+mRNA in direct pathway, dynorphin-containing neurons of the dorsomedial striatum and nucleus accumbens core. The authors suggest that acute exercise may decrease the fear response through dopaminergic mechanisms, and that this intervention may provide the basis for a novel therapy for the treatment of anxiety and trauma-related disorders.
+Neurotrophins
+Neurotrophic factors, including brain derived neurotrophic factor (BDNF), insulin-like growth factor 1 (IGF-1), and vascular endothelial growth factor (VEGF) stimulate growth of new neurons and enhance synaptic plasticity and LTP, placing them at the forefront of factors that may promote learning and memory (
+Fig. 1C
+). In humans, acute exercise stimulates the peripheral increase of these three neurotrophins from sites including the liver, muscles, and blood cells [
+161, 162
+]. Some reports show that the effect is intensity-dependent, with higher-intensity workouts producing larger increases in peripheral neurotrophin levels [
+137, 163
+]. A caveat to this work is that peripherally measured BDNF may not accurately reflect central levels [
+164
+], despite many previous studies using this strategy [
+161
+] and arguments to the contrary [
+165
+]. We do know, however, that BDNF, VEGF, and IGF-1 all cross the blood brain barrier and then function to stimulate central neurotrophin increases, especially in the hippocampus [
+166
+]. New findings are emerging that the well-studied ketone body, β-hydroxybutyrate, secreted by the liver after exercise [
+167
+] and known to pass the blood brain barrier, activates central BDNF promoters and increases BDNF gene transcription in the hippocampus by inhibiting the histone deacetylases (HDAC), HDAC2 and HDAC3 [
+168
+]. Additionally, Moon and colleagues recently discovered that the myokine, cathepsin B, which is secreted from muscles with exercise, passes the blood brain barrier and stimulates the secretion of BDNF in the hippocampus [
+169
+]. Irisin is yet another hormone that is secreted by muscle tissue during exercise and thought to stimulate the release of BDNF in the hippocampus [
+170
+].
+BDNF
+BDNF is one of the main regulators of neurogenesis and is also involved in enhancing neuronal differentiation and survival, synaptic transmission, and LTP. Because of its involvement in these important plasticity-related processes, the majority of acute exercise studies have focused on BDNF. Surprisingly few, however, have assessed the correlation between acute exercise-induced increases in BDNF and cognitive function. One study investigated this relationship in 27 males between the ages of 19 and 27 [
+36
+]. In this cross-over design study, all subjects engaged in 15 minutes of relaxation (control condition), 40 minutes of low-intensity running (aerobic condition), and two three-minute sprints separated by a two-minute break (anaerobic condition). Though the majority of studies utilize aerobic exercise protocols, previous studies that have assessed the effects of anaerobic exercise on cognitive functioning report mixed findings (i.e., impairment, no effect, or enhancement of cognition) [
+23, 171, 172
+]; protocols that were too exhaustive led to impairment [
+173
+]. In Winter et al. [
+36
+], the anaerobic protocol was one of short duration, and therefore not expected to produce an exhaustive experience. Immediately before and after each treatment session, blood samples were taken for analysis of BDNF and fifteen minutes post-session, subjects underwent an associative learning task with pairings of object pictures and novel pseudowords over five trials. Compared to both groups (control and aerobic conditions), individuals in the anaerobic condition learned at a 20% faster rate and showed a significant increase in serum BDNF levels. Further, in this anaerobic group, sustained levels of BDNF (BDNF post-learning minus BDNF post-exercise) positively correlated with learning success (accuracy on final learning block minus accuracy on initial learning block). Other studies have shown a positive association between acute exercise-induced peripheral BDNF levels and short-term memory [
+174
+] as well as motor skill memory [
+39
+].
+Hopkins and Bucci [
+175
+] took advantage of a genetic polymorphism in the BDNF gene, Val66Met, which occurs in 33% of the population [
+176
+] and causes a decrease in activity-induced secretion of BDNF [
+177
+], to examine the role of BDNF in both the acute and long-term effects of exercise. They found that acute exercise improved hippocampal-dependent recognition memory, but only in those individuals who also participated in a four-week exercise program and who had a fully functional BDNF system (i.e., those who were Val homozygotes) [
+175
+]. The authors make the important point that the effects of acute exercise on cognition may be modulated by an individual’s previous physical activity habits. Consistent with this hypothesis, rodent work has shown that compared to naïve runners, habitual runners (i.e., those with 3 months of running experience) experience significantly faster exercise-inducedhippocampal BDNF protein increases [
+178
+], suggesting that chronic exercise may alter how the brain responds to acute exercise, especially at the level of neurotrophic factor production.
+Though studies in rodents tend to focus on chronic exercise paradigms, some have investigated the effects of acute exercise on brain BDNF levels. These findings parallel the human findings, showing that acute exercise upregulates BDNF expression. One study investigated the effects of low- (treadmill running for 30 minutes at 15 m/min) and moderate-intensity (the same protocol at 25 m/min) acute exercise on hippocampal BDNF expression in rats [
+179
+]. Low-intensity exercise caused significant elevations of BDNF mRNA in the hippocampal CA1, CA3, and dentate gyrus subregions, with the largest peaks occurring approximately 1.5 hours post-exercise cessation (
+Fig. 1C
+). Moderate-intensity exercise, however, did not produce this increase, most likely because this exercise regimen significantly increased corticosterone levels in the rats to levels observed to be produced by restraint stress [
+180
+], suggesting that it was a negative, stressful experience. Other studies have also shown no significant increase in hippocampal BDNF with high-intensity exercise regimens (60 minutes of treadmill running at 20 m/min) [
+181
+]. These negative results suggest that central BDNF levels may not increase if the workout is too stressful, as stress has been shown to decrease BDNF levels in the hippocampus [
+182
+], and acute exercise-induced increases in BDNF have been shown to negatively correlate with increases in corticosterone [
+181
+].
+IGF-1
+IGF-1 regulates a variety of processes both peripherally and centrally including muscle hypertrophy, neurogenesis, neuronal survival and differentiation, and enhancement of other neurotrophins including BDNF [
+183, 184
+]. Collectively, the literature suggests that by exercising at high-intensities around the anaerobic or lactate threshold, an increase of approximately 15% above pre-exercise levels can be achieved, lasting for up to 20 minutes post-exercise cessation [
+185–187
+]. One study examined the relationship between executive functioning and peripheral IGF-1 in a group of healthy, young adult males [
+188
+]. While having their brain activity recorded through EEG, subjects completed a Go/No-Go task combined with an Eriksen Flanker task both before and after 40 minutes of rest or a moderate- (50% 1 repetition maximum) or high-intensity (80% 1 repetition maximum) resistance exercise that included a 10-minute warmup. Blood samples for analysis of IGF-1 were also taken at these same time periods. Compared to controls, both moderate- and high-intensity exercise improved behavioral performance in terms of both reaction time and accuracy as well as increased the amplitude of the P3 component of the EEG signal. Contrary to their hypothesis, exercise-induced changes in IGF-1 did not correlate with changes in cognitive performance or the electrophysiological signal. In contrast, a study that investigated the effects of long-term aerobic exercise on changes in peripheral levels of IGF-1, hippocampal volume, and verbal long-term memory found significant positive correlations between changes in IGF-1 and both morphological and behavioral improvements; however, these changes were independent of exercise or changes in fitness [
+189
+].
+One study in rodents strongly supports the hypothesis that IGF-1 is involved in acute exercise-induced increases in hippocampal functioning [
+184
+]. Five days of voluntary wheel running (defined here as acute exercise in the context of the rodent exercise literature), increased both the acquisition and retention of spatial memory as weIl as IGF-1 mRNA levels in the hippocampus. Acute exercise-induced IGF-1 was then blocked through microinjection of the IGF-1 receptor binding antibody, alphaIR3, into the hippocampus. Though blockage of IGF-1during this exercise period did not affect the acquisition of spatial memory, it abolished the enhancement in spatial memory retention, suggesting that IGF-1 may support acute exercise-induced improvements in long-term memory. Collectively, this work shows that several days of exercise may be needed to induce the behavioral/brain changes caused by IGF-1, and perhaps, IGF-1 may be more involved in the chronic rather than the acute effects ofexercise.
+VEGF
+VEGF serves to support vascular growth both peripherally and centrally as well as provide both neurotrophic and neuroprotective effects [
+184, 190, 191
+]. Submaximal acute exercise (1 hour of cycling at 50% VO
+2
+max) has been shown to increase peripheral levels of VEGF by approximately 20%, with effects lasting for up to two hours [
+192
+]. One study that investigated the relationship between acute exercise-induced increases in peripheral VEGF and motor memory found no correlation between the two; however, the exercise protocol utilized did not significantly increase VEGF levels [
+39
+]. Studies in rodents have shown that long-term exercise increases hippocampal VEGF [
+193
+] and that these increases are critical for exercise-induced increases in neurogenesis [
+194
+]. Currently, these studies indicate that VEGF may play more of a critical role in the chronic effects of exercise on the brain. Future studies are warranted to determine whether immediate exercise-induced increases in VEGF support cognitive functioning, especially hippocampal-dependent behaviors.
+Neurotransmitters
+In addition to activating the HPA axis and a variety of neurotrophins, acute exercise also changes levels of a range of neurotransmitters that have been implicated in both the cognitive as well as mood effects seen with acute exercise (
+Fig. 1C
+). In humans, acute exercise has been shown to increase peripheral levels of monoamines including dopamine, epinephrine, and norepinephrine [
+36, 39, 195, 196
+]. Because of technical challenges, few studies have examined acute exercise-induced neurotransmitter changes in the brain of humans. Rather, much of this work has been conducted in rodents using techniques such as
+in vivo
+microdialysis or high-performance liquid chromatography (HPLC) analysis of post-mortem brain tissue. These studies have shown that acute exercise causes immediate changes in dopamine, serotonin, norepinephrine, acetylcholine, gamma-aminobutyric acid (GABA), and glutamate in a brain-region specific manner [
+151, 197–200
+]. Collectively, this work supports the idea that neurotransmitter changes may contribute to the acute exercise-induced behavioral changes highlighted above.
+Dopamine
+In rodents, dopamine and its metabolites increase significantly in several brain regions including the hippocampus, prefrontal cortex, striatum, midbrain, and pons-medulla after a single bout of exercise [
+197, 199, 201
+]. Levels return to baseline approximately two hours after exercise cessation, with this timeline depending on the exact exercise protocol utilized (
+Fig. 1C
+). Dopamine has been implicated in the motivation for and the rewarding effects of exercise [
+202, 203
+], and rodents bred to run excessive amounts (i.e., high running lines) show dysregulated dopaminergic systems; that is, compared to control lines, dopaminergic neurotransmission is disrupted in these high-running lines, including elevated dopamine and dopamine metabolite levels and down-regulated dopamine receptor gene expression [
+204, 205
+]. Interestingly, in humans, taking dopaminergic (and noradrenergic) reuptake inhibitors before a workout has been shown to enhance endurance exercise performance or prolong the amount of time that individuals can exercise [
+206–208
+].
+Dopamine has also been implicated in the positive effects of exercise on cognitive functioning [
+36
+]. In a recent study, 297 adolescent students (ages 13 to 17) who were genotyped for a variety of single nucleotide polymorphisms (SNPs) and variable number tandem repeats (VNTRs) targeting the dopamine system engaged in a 10- to 14-minute graded exercise test to exhaustion and a seated cartoon watching session on separate days in a randomized, counterbalanced design [
+209
+]. After each intervention, cognitive flexibility was assessed with a modified Rogers and Monsell task that tested the ability to shift between different, yet predictable rules. Compared to the control condition, lower switch costs were seen after exercise indicating that acute exercise enhanced shifting efficiency. Additionally, this exercise-induced enhancement was predicted by a polymorphism targeting the dopamine transporter, DAT1/SLC6A3, responsible for transporting dopamine out of the synapse and back into the presynaptic terminal.
+Positron emission tomography (PET) is one of the few ways that neurochemical changes can be assessed in the brains of humans. PET is a noninvasive functional imaging technique that requires the injection of biologically active molecules and measures the brain’s metabolic processes by detecting gamma rays that are emitted by a positron-emitting radionucleotide. Using this technique, one study utilized PET with [
+11
+C]raclopride [
+210
+] to measure the effects of acute exercise on dopamine concentrations in the brains of humans. Twelve, healthy, regular exercisers underwent PET scans after either rest or 30 minutes of treadmill running at 85% of age-predicted MHR. Surprisingly, dopamine was not found to increase after acute exercise in these humans. This finding is consistent with previous rodent studies showing that dopamine concentrations only increase once a threshold intensity is reached [
+211
+]. Considering that this PET study utilized individuals who on average were exercising 5±3 hours per week, this protocol may not have been strenuous enough to increase central dopamine levels.
+Serotonin
+Rodent studies indicate that acute exercise increases serotonin and its metabolites in the frontal cortex, hippocampus, striatum, and midbrain [
+212–214
+] (
+Fig. 1C
+). One study in rats that utilized a protocol of 60 minutes of treadmill running at 20 m/min showed no increase in hippocampal serotonin, a protocol that increased dopamine levels [
+181
+]. Discrepancies like this have been found in other studies [
+197
+], perhaps indicating that a certain level of exercise may be needed to increase central serotonergic levels. Serotonin has been implicated in the anti-depressant and anxiolytic action of exercise, with chronic exercise being just as effective as anti-depressant treatment in humans [
+215
+]. A recent study in rodents examined the involvement of serotonergic neurons in acute exercise-induced changes in depressive- and anxiety-like behaviors [
+216
+]. Compared to sedentary controls, rats that engaged in low-intensity exercise (15 m/min for 30 min) showed increased c-Fos expression in the serotonergic neurons of the dorsal raphe nucleus. High-intensity exercise (25 m/min for 30 min), on the other hand, induced c-Fos expression in the corticotropin-releasing factor neurons of the hypothalamic paraventricular nucleus, an area involved in the body’s response to stress, an indication that this exercise protocol may have been a stressful experience. Additionally, compared to high-intensity runners, low-intensity runners showed significant decreases in both depressive- and anxiety-like behaviors. The authors suggest that these findings indicate that low-intensity acute exercise may be the best workout to stimulate serotonergic activity and enhance mood states.
+Serotonin has also been implicated in the beneficial effects of acute exercise on cognition. Healthy, young adults (ages 18 to 35) were randomly assigned to either a sedentary, control group (myofascial release training), or a low- (45–50% MHR), moderate- (65–70% MHR), or high-intensity (85–90% MHR) exercise group [
+217
+]. Each exercise group started with a 5-minute warmup and then cycled for 30 minutes at their designated heart rate. Before and after the acute intervention, subjects had their blood drawn for analysis of serum serotonin and performed the Stroop task, a test of attention and response inhibition that is dependent on the prefrontal cortex. Acute exercise significantly increased plasma serotonin, with a positive linear correlation found between serotonin concentration and exercise intensity. Additionally, acute exercise improved performance on the Stroop task; individuals with the largest enhancements in response inhibition showed the greatest increases in serotonin.
+Additionally, acute exercise-induced changes in serotonin (and dopamine) are thought to contribute to central fatigue. During prolonged exercise, the physical fatigue that sets in is thought to be a result of both peripheral (including depletion of muscle glycogen, decreased plasma glucose, and increased plasma free fatty acids) and central mechanisms. One study in rodents sought to determine the neurotransmitter changes that occur in response to exercising to the point of fatigue [
+218
+]. After rest, one hour, or three hours (fatigue condition) of treadmill running, hippocampal, striatal, midbrain, and hypothalamic levels of serotonin, dopamine, and their primary metabolites were assessed. Over the course of running to exhaustion, serotonin and 5-hydroxyindoleacetic acid (5-HIAA) continued to increase; however, though dopamine and 3,4-dihydroxyphenylacetic acid (DOPAC) increased at the one-hour time-point, these levels returned to baseline after three hours. Additionally, studies have shown that decreasing serotonergic activity through intraperitoneal (IP) administration of a serotonergic antagonist increases the amount of time that rodents can run before they reach the point of exhaustion [
+219
+]. Conversely, IP administration of a serotonergic agonist decreases the run time to exhaustion. As serotonin regulates mood, emotion, sleep, and appetite, and dopamine regulates motivation memory, reward, and attention, the central fatigue hypothesis claims that the interaction between these two neurotransmitters contributes to exercise-induced fatigue, with a high serotonin to dopamine ratio supporting a low activity, exhausted state and a low ratio supporting a high activity, activated state [
+220, 221
+].
+Norepinephrine and epinephrine
+A collection of studies show that the effects of acute exercise on norepinephrine are brain-region specific [
+197, 222
+]. Acute exercise has been shown to increase levels in the cortex, striatum, and preoptic area but decrease levels in the hippocampus, brainstem, pons-medulla, and hypothalamus. These discrepancies may be due to differences in the various exercise protocols utilized, with different levels of training, and in different environmental conditions (see [
+197
+] for review). Using microdialysis, one study examined the influence of one or two hours of treadmill running at 25 meters per minute at a 3% incline on norepinephrine levels in the frontal cortex. After 40 minutes of running, norepinephrine and its metabolites showed significant increases from baseline and remained elevated for up to 70 minutes after exercise cessation; longer duration exercise resulted in higher levels of norepinephrine that remained elevated for a longer time period after post-exercise cessation (
+Fig. 1C
+). Further, peripheral levels of epinephrine positively correlated with central levels of norepinephrine, indicating that blood levels of epinephrine may be a good indicator of exercise-induced noradrenergic changes in the brain. Interestingly, a study by the same group revealed that in humans, peripheral (i.e., urine) levels of epinephrine and its metabolite, metanephrine, positively correlated with exercise-induced improvements in a time-limited word discrimination task [
+223
+].
+In humans, acute exercise stimulates increases in plasma norepinephrine and epinephrine [
+224
+]. At the point of maximal exertion, these two catecholamines display an exponential increase that strongly correlates with the level of plasma lactate [
+225
+]. This point is known as the cathecholamine threshold [
+226
+] and occurs at a similar time as both the lactate and ventilatory threshold. Peripheral norepinephrine and epinephrine are involved in a variety of physiological processes that help to support exercise such as glycogenolysis or the breakdown of glycogen to glucose, which the muscles use as a main source of energy supply during exercise. Though these catecholamines do not cross the blood brain barrier, one study found that maximal acute exercise increased noradrenergic levels in cerebral spinal fluid, which the authors suggested supports the idea that exercise increases levels of norepinephrine in the human brain [
+126
+]. Though norepinephrine is certainly involved in a variety of cognitive processes [
+200
+], little has been done to directly examine the influence of norepinephrine on acute exercise-induced changes in cognitive functioning.
+Acetylcholine
+Peripherally, acetylcholine is released from the neuromuscular junction as well as from preganglionic fibers of the autonomic nervous system, and is therefore, not surprisingly, involved in physical movement. Upon initiation of exercise, brain acetylcholine levels increase, specifically in the hippocampus and cortex. This increase in acetylcholine supports the generation of hippocampal theta, which serves to enhance synaptic plasticity and memory formation [
+72, 73
+]. Only one study in rodents examined post-exercise changes in cortical acetylcholine levels and found no change from baseline, which is most likely due to the minimal exercise protocol utilized (walking at a rate of 2.3 meters per minutes for 5 minutes) [
+227
+]. In humans, plasma choline, a precursor to acetylcholine, has been shown to decrease by 40% after marathon running [
+228
+], and along with serotonin and dopamine, studies suggest that acetylcholine may be involved in exercise-induced fatigue [
+229
+]. Though acetylcholine is involved in cognitive processes such as memory, and decreased central cholinergic levels have been found in Alzheimer’s disease [
+230
+], little has been done to investigate the involvement of acetylcholine in acute exercise-induced improvements in cognitive function.
+Glutamate and GABA
+Glutamate and GABA, the brain’s main excitatory and inhibitory neurotransmitters, respectively, have received surprisingly little attention in the acute exercise literature. Similar to the neurotransmitter-related work mentioned above, the main finding is that acute exercise increases levels of glutamate and GABA in the brain. Rodent work suggests that acute exercise upregulates glutamatergic-related genes [
+231
+] and increases mitochondrial glutamate oxidation or the conversion of glutamine to glutamate by neuronal mitochondria [
+232
+]. In humans, proton magnetic resonance spectroscopy (MRS) was used to visualize changes in glutamate and GABA in the primary visual cortex (V1) as well as the anterior cingulate cortex post-exercise [
+233
+]. Compared to pre-exercise, after a graded exercise test where subjects reached ≥80% of age-predicted MHR, glutamate significantly increased (4.9% ∼18 minutes post-exercise) in both cortical areas, returning to baseline approximately 30 minutes post-exercise (
+Fig. 1C
+). GABA also showed significant post-exercise increases in the visual cortex. This work corroborates studies showing that exercise shifts cortical circuits into excitatory states through GABAergic interneuron-mediated disinhibition of pyramidal neurons [
+234
+]. Future studies are needed to investigate the relationship between acute-exercise induced changes in cognition and these two prominent brain neurotransmitters.
+Neuromodulators: Endogenous opioids and endocannabinoids
+Neuromodulators, including the endogenous opioids and endocannabinoids, also increase after acute bouts of exercise in both animals and humans (
+Fig. 1C
+). The endogenous opioid system includes three families of opioid peptides, namely the ß-endorphins, enkephalins, and dynorphins, which are involved in a variety of processes including pain modulation, reward, response to stress, and autonomic control. In humans, acute exercise causes significant increases in peripheral levels of endogenous opioids; this effect is intensity-dependent, corresponds to acute exercise-induced changes in HPA axis hormones, and is linked to improvements in mood [
+235–239
+].
+One common hypothesis is that the “runner’s high”, or the euphoric sensations that can be experienced after intense exercise (often long-duration running), is due to increases in endogenous opioids. As peripheral opioids have limited ability to pass the blood brain barrier, a seminal study utilized PET to examine the effects of acute exercise on changes in endogenous opioids in the brains of humans. Boecker and colleagues conducted PET with [
+18
+F]FDPN, a radiotracer with similar affinity for
+μ
+,
+δ
+, and
+κ
+opioid receptors, to examine the effect of intense exercise (2 hours of running) in 10 trained male athletes (ages 33 to 40, with a minimum of 4 hours of weekly training for the past 2 years) [
+240
+]. Compared to rest, 30 minutes after running, mood (euphoria and happiness) was significantly enhanced and opioid concentrations significantly increased in the prefrontal/orbitofrontal cortices, dorsolateral prefrontal cortex, anterior and posterior cingulate cortex, insula, parahippocampal gyrus, sensorimotor/parietal cortices, cerebellum, and basal ganglia (
+Fig. 1C
+). Additionally, euphoria ratings were negatively correlated with [
+18
+F]FDPN binding in the prefrontal/orbitofrontal cortices, the anterior cingulate cortex, bilateral insula, and parainsular cortex. As the endogenous opioids displace [
+18
+F]FDPN, this suggests that increases in endogenous opioids may underlie exercise-induced mood improvements. Other evidence corroborates this finding as compared to placebo, administration of the opioid antagonists, naloxone or naltrexone, blocks the exercise-induced improvements in mood [
+241–243
+]; however, others have found this not to be the case [
+244, 245
+].
+Though the endogenous opioids have received much attention in terms of their involvement in the “runner’s high”, scientists are beginning to understand that endocannabinoids may be equally or perhaps more involved [
+246
+]. Endocannabinoids are a family of lipids including N-arachidonoylglycerol (anandamide, AEA) and 2-arachidonoylglycerol (2-AG), which are involved in a variety of processes including pain, mood, memory, and appetite. Acute exercise increases peripheral levels of endocannabinoids [
+247
+], with moderate- (70% and 80% age-predicted MHR) rather than low- (<50%) or high-intensity (90%) exercise eliciting the greatest effects [
+248
+]. In one study, 11 young male cyclists (ages 23.3±5.1 standard deviations) underwent 60 minutes of cycling at 55% of their maximal power output (W
+max
+) followed by an intense endurance test where subjects performed an amount of exercise equal to 30 minutes at 75% of W
+max
+as quickly as possible [
+249
+]. Blood samples were collected at rest, immediately after the continuous exercise, immediately after the endurance test, and 15 minutes post-exercise cessation for analysis of AEA, 2-AG, ß-endorphin, BDNF, and cortisol. AEA and its congeners N-oleylethanolamine (OEA) and N-palmitoylethanolamine (PEA), but not 2-AG, increased significantly post-endurance exercise and continued to increase 15 minutes post-exercise cessation. Additionally, AEA increases were significantly correlated to increases in cortisol and BDNF, but not ß-endorphin, suggesting an interconnectivity between exercise-induced increases in neurotrophins and endocannabinoids. One elegant study in mice combined pharmacological, genetic, and behavioral approaches to study the involvement of the endocannabinoid system in the “runner’s high” [
+250
+]. Compared to sedentary controls, mice that were exposed to five hours of voluntary wheel running showed decreased anxiety as evidenced by the dark-light box test, decreased pain sensitivity as evidenced by the hot plate test, and enhanced sedation as evidenced by a decrease in running wheel activity post-exercise, which the authors suggest is indicative of a “runner’s high” effect in mice. Additionally, running significantly enhanced plasma levels of AEA, 2-AG, OEA, and PEA. When the cannabinoid receptor 1 (CB1) was blocked with the inverse agonist, AM251, the exercise-induced anxiolytic effect went away. Additionally, blockage of both CB1 and CB2 receptors eliminated the exercise-induced analgesic effect. Surprisingly, these effects were not seen for blockage of opiate receptors. They then utilized a GABAergic neuron-selective CB1 knockout mouse (GABA-CB
+1
+–/–
+) to examine the involvement of the endocannabinoid system in the exercise-induced anxiolytic effect. Compared to wild-type mice (GABA-CB
+1
++/+
+), running had no effect on anxiety-like behaviors in GABA-CB
+1
+–/–
+mice, suggesting that acute exercise-induced mood effects are mediated by the endocannabinoid system and specifically dependent on CB1 receptors expressed by GABAergicinterneurons.
+Summary of acute-exercise induced neurochemical changes (
+Fig. 1C
+)
+A large body of research has investigated the neurochemical changes that occur after an acute bout of exercise. Together, these studies demonstrate that acute exercise stimulates the increase of a variety of neurochemicals: lactate; cortisol; neurotrophins, including BDNF, IGF-1, and VEGF; neurotransmitters, including dopamine, norepinephrine, serotonin, acetylcholine, GABA, and glutamate; and neuromodulators, including endogenous opioids and endocannabinoids [
+36, 39, 129, 130, 135–141, 151, 161–163, 195–200, 235–240
+]. Though many of these neurochemicals have been confirmed peripherally following acute bouts of exercise, gaps still exist in the literature as to where these changes occur in the brain (
+Fig. 1C
+). Future work is needed to link the acute-exercise induced changes in peripheral levels to central levels and to investigate how these neurochemicals are involved in the acute-exercise induced changes in affective state and cognitive functioning.
+NEUROGENESIS IS ENHANCED FOLLOWING JUST THREE DAYS OF WHEEL RUNNING
+One of the most notable effects of chronic increases in exercise on the brain is the enhancement of adult hippocampal neurogenesis [
+251, 252
+]. Adult neurogenesis only occurs in two areas of the brain, the subventricular zone and the subgranlar zone of the hippocampal dentate gyrus; running increases neurogenesis in the latter region only [
+253
+]. Chronic exercise causes double the amount of new neurons to form [
+252
+], but levels up to five-fold have been found in certain high-running lines of rodents [
+254
+]. This potent neurogenic effect is thought to result from the exercise-induced increases in neurotrophic factors, specifically, BDNF and IGF-1 [
+183, 184, 194, 255, 256
+]. In certain, but not all, strains of rodents, the number of proliferating neurons show a significant positive correlation to the total distance run [
+254, 257
+]. Along with enhancing the production of new neurons, exercise also increases the differentiation and survival of these cells [
+251, 252
+]. Because newly born hippocampal neurons have lower thresholds of excitability [
+258
+], they are thought to mediate the exercise-mediated enhancement of perforant-path-based LTP [
+259
+], which may underlie the wide range of hippocampal-dependent tasks shown to improve with exercise including spatial learning and memory [
+260
+], pattern separation [
+261
+], object recognition [
+262
+], and contextual fear conditioning [
+263
+]. Recently, these newly generated neurons have been shown to integrate into the hippocampal circuits that subserve improvements in hippocampal-dependent behaviors [
+264, 265
+].
+While most of this work has utilized chronic exercise paradigms, one study determined that as little as three days of voluntary wheel running increases rates of neurogenesis [
+266
+]. This protocol can be considered acute in the context of the rodent literature that frequently uses running paradigms lasting three weeks or longer. Kronenberg and colleagues followed cell proliferation through 32 days of voluntary wheel running, examining neurogenesis levels at days 3, 10, and 32. Interestingly, rates of neurogenesis were highest at day 3 (50% increase), then declined over time, returning to baseline levels by day 32; rates of neuronal development continued to increase over the 32 days [
+266
+]. These findings suggest that as little as 3 days of increased exercise can effect rates of neurogenesis in the hippocampus in rodents.
+SUMMARY, CONCLUSIONS, AND FUTURE DIRECTIONS
+We have summarized a relatively large and growing body of research examining the changes that occur at the cognitive/behavioral, neurophysiological, and neurochemical levels after a single bout of physical exercise. While comparisons of the cognitive/behavioral effects of acute exercise studies in humans remain handicapped by the lack of clear or common standards in the way acute exercise is defined or measured, general trends can be appreciated. In particular, this review has highlighted the breadth and complexity of changes that have been reported in the minutes to hours after a single bout of aerobic exercise. We show that the three most consistent cognitive/behavioral effects of a single bout of exercise in humans are improved executive functions, enhanced mood states, and decreased stress levels (
+Fig. 1A
+). Neurophysiological changes have been reported after an acute bout of exercise (mainly in humans) and these results emphasize the widespread brain areas where these physiological changes have been seen (
+Fig. 1B
+). One of the most dramatic effects seen after acute exercise is the change in neurochemical levels including neurotransmitters, metabolites, growth factors, and neuromodulators, which perhaps provides the best illustration of the complexity of brain responses to acute exercise (
+Fig. 1C
+).
+While clear progress has been made in our understanding of the effects of acute exercise on the brain, a number of fundamental questions/issues remain to be addressed. At the top of this list is the establishment of a standard definition for what constitutes acute exercise in people. This kind of standardization will not only facilitate comparisons across studies, but will enhance the impact of each study that uses an acute exercise standard (
+Table 2
+), as each study will be able to leverage the effects of previous studies in a more effective way. To address this issue, we suggest that standardizing the following four key acute exercise measures will go a long way to help comparisons across future acute exercise studies in people (
+Table 2
+,
+Supplementary Figure 1
+). First, based on the studies reviewed here and on previous meta-analyses [
+9
+], we suggest standardizing the
+duration
+of acute exercise studies in the following way: short duration exercise = 1 to 15 minutes; moderate duration exercise = 16 to 45 minutes; and long duration exercise = 46 minutes or longer. Second, based on the American College of Sports Medicine guidelines [
+267, 268
+], we propose defining the
+intensity
+of acute exercise in the following way: low-intensity exercise =≤39% of VO
+2
+max; moderate-intensity exercise = 40% to 59% of VO
+2
+max; and high-intensity exercise =≥60% VO
+2
+max. In addition, minute by minute recordings of heart rate data during exercise will be a valuable confirmation of the actual percentage of VO
+2
+max levels reached during the workout. Third, to obtain a psychological measurement of perceived difficulty of the workout, the Borg Ratings of Perceived Exertion Scale [
+269
+] can be administered immediately after the end of the exercise session. Finally, we propose that all future acute exercise studies that report duration, intensity and perceived difficulty as described above can be compared using a standardized “exercise index”. This is calculated by first standardizing each of the scores above (by converting to percentage) and then averaging these scores (i.e., calculate the average of the percentage of time spent exercising in an hour (duration), the percentage of VO
+2
+max at which the exercise was conducted (intensity), and the average percentage of the Borg Ratings of Perceived Exertion Scale reached as a result of the exercise session (perceived exertion)). We acknowledge that many other factors may be influencing the effects of acute exercise on brain physiology and function including age, body mass index, gender, health status, and fitness level; this exercise index will capture 3 core features of the acute exercise session. Moreover, to facilitate collection of this data and calculation of the exercise index, we have provided a template to use for data collection in future acute exercise studies (
+Supplementary Figure 1
+). The hope is that this guideline for acute exercise standardization will allow for the consistent collection across studies of both physiological and psychological data and will facilitate easier comparisons across studies in the future.
+Another key open question highlighted by
+Fig. 1
+is understanding the relationship between the central neurochemical changes following acute exercise (
+Fig. 1C
+), mainly described in rodents, and the behavioral changes seen after acute exercise (
+Fig. 1A
+), mainly described in humans. This is related to another gap in the literature, which is the surprising lack of studies examining the effects of acute exercise on behavior/cognition in rodents. This may be, at least in part, because of the relatively long duration of typical behavioral tasks used in rodents, making it difficult to administer immediately after just a single bout of exercise. However, given the relatively large amount of data already collected in rodents on the central neurochemical changes after an acute bout of exercise, a direct examination of the relationship between the effects of acute exercise on both behavior and neurochemistry in rodents would be a valuable addition to this field. While studying acute neurochemical changes following exercise is more challenging in humans, it has been successfully examined for endorphins [
+240
+]. The development of sensitive
+in vivo
+human measurements for the many other growth factors and neurotransmitters that have been reported to respond to exercise in rodents would be of great interest.
+While this review focused on the improvements in executive functioning, mood, and stress resistance seen with acute exercise (
+Fig. 1A
+), the widespread neurophysiological and neurochemical changes suggest an even larger array of potential behavioral/cognitive changes. In particular, acute exercise-induced changes in the hippocampus, parietal cortex, striatum, and cerebellum suggest a more pervasive effect, including improvements in long-term memory, recollection [
+270
+], reward-based learning [
+271, 272
+], and motor functions [
+273
+]. Certainly, these diffuse brain changes are consistent with findings from the more limited number of reports showing that acute exercise improves learning and memory functions of the hippocampus and motor functions dependent on the striatum and motor cortices [
+31–33, 35–39, 42
+]. Following up on these preliminary reports to define the full range of behavioral tasks affected by acute exercise will be an important area of future research.
+A detailed understanding of the acute effects of exercise is also fundamental to a full understanding of the long-term effects of exercise that has been examined in detail in both animal models and humans [
+1, 5
+]. As exercise is repeated in a regular fashion over time, the brain changes illustrated in
+Fig. 1
+will not only recur on a regular basis, but will also likely engage a variety of feedback, compensatory, and long-term, plasticity-based brain mechanisms. These changes may modulate these acute effects over time, resulting in modifications in baseline neurochemical levels that could lead to the long-term structural/anatomical and physiological changes that have been described following long-term increases in exercise. A basic and detailed comprehension of the effects of acute exercise on the brain is key to understanding the evolution of exercise-induced changes (i.e., the effects of long-term exercise), and may also help to determine optimal strategies to maximize the effects of both acute and chronic exercise on brain functioning. This information will aid in our ability to utilize exercise not only as a therapeutic tool to help delay, prevent, or treat cognitive decline in aging individuals, but also to use it as a powerful tool to enhance brain functioning in healthy individuals. Indeed, one of the most important implications for the positive behavioral effects of a single bout of exercise is the exciting potential for acute exercise to not only address conditions where attention and mood may be compromised (e.g., aging, attention-deficit hyperactivity disorder, and depression), but also to enhance attention, mood, and stress resistance in normal populations.
+CONFLICT OF INTEREST
+The authors have no conflict of interest to report.
+REFERENCES
+[1].
+Voss MW, et al. 
+Bridging animal and human models of exercise-induced brain plasticity. Trends Cogn Sci. 2013;17(10):525–44.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[2].
+Kramer AF, Erickson KI, Colcombe SJ. Exercise, cognition, and the aging brain. J Appl Physiol (1985). 2006;101(4):1237–42.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[3].
+Duzel E, van Praag H, Sendtner M. Can physical exercise in old age improve memory and hippocampal function?
+Brain
+2016;139(Pt 3):662–73.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[4].
+Vivar C, Adult hippocampal neurogenesis, aging and neurodegenerative diseases: Possible strategies to prevent cognitive impairment. Curr Top Med Chem. 2015;15(21):2175–92.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[5].
+Vivar C, Potter MC, van Praag H. All about running: Synaptic plasticity, growth factors and adult hippocampal neurogenesis. Curr Top Behav Neurosci. 2013;15:189–210.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[6].
+van Praag H. Neurogenesis and exercise: Past and future directions. Neuromolecular Med. 2008;10(2):128–40.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[7].
+Gligoroska JP, Manchevska S. The effect of physical activity on cognition - physiological mechanisms. Mater Sociomed. 2012;24(3):198–202.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[8].
+Dishman RK, et al. 
+Neurobiology of exercise. Obesity (Silver Spring). 2006;14(3):345–56.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[9].
+Chang YK, et al. 
+The effects of acute exercise on cognitive performance: A meta-analysis. Brain Res. 145387–101.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[10].
+Cox EP, et al. 
+Relationship between physical activity and cognitive function in apparently healthy young to middle-aged adults: A systematic review. J Sci Med Sport. 2016;19(8):616–28.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[11].
+Prakash RS, et al. 
+Physical activity and cognitive vitality. Annu Rev Psychol. 2015;66:769–97.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[12].
+Khan NA, Hillman CH. The relation of childhood physical activity and aerobic fitness to brain function and cognition: A review. Pediatr Exerc Sci. 2014;26(2):138–46.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[13].
+Lee HS, Park SW, Park YJ. Effects of physical activity programs on the improvement of dementia symptom: A meta-analysis. Biomed Res Int. 2016;2016:2920146.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[14].
+Kandola A, et al. 
+Aerobic exercise as a tool to improve hippocampal plasticity and function in humans: Practical implications for mental health treatment. Front Hum Neurosci. 2016;10:373.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[15].
+Cheng ST. Cognitive reserve and the prevention of dementia: The role of physical and cognitive activities. Curr Psychiatry Rep
+2016;18(9):85.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[16].
+Lambourne K, Tomporowski P. The effect of exercise-induced arousal on cognitive task performance: A meta-regression analysis. Brain Res. 2010;1341:12–24.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[17].
+McMorris T, Hale BJ. Differential effects of differing intensities of acute exercise on speed and accuracy of cognition: A meta-analytical investigation. Brain Cogn. 2012;80(3):338–51.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[18].
+Etnier JL, et al. 
+The influence of physical fitness and exercise upon cognitive functioning: A meta-analysis. Journal of Sport & Exercise Psychology. 1997;19(3):249–77.
+[
+Google Scholar
+]
+[19].
+Sibley BA, Etnier JL. The relationship between physical activity and cognition in children: A meta-analysis. Pediatric Exercise Science. 2003;15(3):243–56.
+[
+Google Scholar
+]
+[20].
+Liao Y, Shonkoff ET, Dunton GF. The acute relationships between affect, physical feeling states, and physical activity in daily life: A review of current evidence. Front Psychol. 2015;6:1975.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[21].
+Basso JC, Morrell JI. The medial prefrontal cortex and nucleus accumbens mediate the motivation for voluntary wheel running in the rat. Behav Neurosci. 2015;129(4):457–72.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[22].
+Best JR. Effects of physical activity on children’s executive function: Contributions of experimental research on aerobic exercise. Dev Rev. 2010;30(4):331–51.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[23].
+Tomporowski PD. Effects of acute bouts of exercise on cognition. Acta Psychol (Amst). 2003;112(3):297–324.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[24].
+Brisswalter J, Collardeau M, Rene A. Effects of acute physical exercise characteristics on cognitive performance. Sports Med. 2002;32(9):555–66.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[25].
+McMorris T, Graydon J. The effect of incremental exercise on cognitive performance. International Journal of Sport Psychology. 2000;31(1):66–81.
+[
+Google Scholar
+]
+[26].
+Tomporowski PD. Cognitive and behavioral responses to acute exercise in youths: A review. Pediatric Exercise Science. 2003;15(4):348–59.
+[
+Google Scholar
+]
+[27].
+Basso JC, et al. 
+Acute exercise improves prefrontal cortex but not hippocampal function in healthy adults. J Int Neuropsychol Soc. 2015;21(10):791–801.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[28].
+Reed J, Ones DS. The effect of acute aerobic exercise on positive activated affect: A meta-analysis. Psychology of Sport and Exercise. 2006;7(5):477–514.
+[
+Google Scholar
+]
+[29].
+Maroulakis E, Zervas Y. Effects of aerobic exercise on mood of adult women. Percept Mot Skills. 1993;76(3 Pt 1):795–801.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[30].
+Ebbesen BL, et al. 
+Effects of acute exercise on cardiovascular reactivity. J Behav Med. 1992;15(5):489–507.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[31].
+Labban JD, Etnier JL. Effects of acute exercise on long-term memory. Res Q Exerc Sport. 2011;82(4):712–21.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[32].
+Etnier J, et al. 
+Effects of an acute bout of exercise on memory in 6th grade children. Pediatr Exerc Sci. 2014;26(3):250–8.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[33].
+Coles K, Tomporowski PD. Effects of acute exercise on executive processing, short-term and long-term memory. J Sports Sci. 2008;26(3):333–44.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[34].
+Etnier JL, et al. 
+The effects of acute exercise on memory and brain-derived neurotrophic factor (BDNF). J Sport Exerc Psychol. 2016;1–33.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[35].
+Griffin EW, et al. 
+Aerobic exercise improves hippocampal function and increases BDNF in the serum of young adult males. Physiol Behav. 2011;104(5):934–41.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[36].
+Winter B, et al. 
+High impact running improves learning. Neurobiol Learn Mem. 2007;87(4):597–609.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[37].
+Statton MA, et al. 
+A single bout of moderate aerobic exercise improves motor skill acquisition. PLoS One. 2015;10(10):e0141393.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[38].
+Roig M, et al. 
+A single bout of exercise improves motor memory. PLoS One. 2012;7(9):e44594.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[39].
+Skriver K, et al. 
+Acute exercise improves motor memory: Exploring potential biomarkers. Neurobiol Learn Mem. 2014;116:46–58.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[40].
+Segal SK, Cotman CW, Cahill LF. Exercise-induced noradrenergic activation enhances memory consolidation in both normal aging and patients with amnestic mild cognitive impairment. J Alzheimers Dis. 2012;32(4):1011–8.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[41].
+Weinberg L, et al. 
+A single bout of resistance exercise can enhance episodic memory performance. Acta Psychol (Amst). 2014;153:13–9.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[42].
+Perini R, et al. 
+Acute effects of aerobic exercise promote learning. Sci Rep. 2016;6:25440.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[43].
+Davey CP. Physical exertion and mental performance. Ergonomics. 1973;16(5):595–9.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[44].
+Yerkes RM, Dodson JD. The relation of strength of stimulus to rapidity of habit-formation. Journal of Comparative Neurology and Psychology. 1908;18(5):459–82.
+[
+Google Scholar
+]
+[45].
+Chang YK, Etnier JL. Exploring the dose-response relationship between resistance exercise intensity and cognitive function. J Sport Exerc Psychol. 2009;31(5):640–56.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[46].
+Loprinzi PD, Kane CJ. Exercise and cognitive function: A randomized controlled trial examining acute exercise and free-living physical activity and sedentary effects. Mayo Clin Proc. 2015;90(4):450–60.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[47].
+Brush CJ, et al. 
+Dose-response and time course effects of acute resistance exercise on executive function. J Sport Exerc Psychol. 20161–35.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[48].
+Oberste M, et al. 
+Do reported effects of acute aerobic exercise on subsequent higher cognitive performances remain if tested against an instructed self-myofascial release training control group? A Randomized Controlled Trial. PLoS One. 2016;11(12):e0167818.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[49].
+Chang YK, et al. 
+Dose-response effect of acute resistance exercise on tower of london in middle-aged adults. Journal of Sport & Exercise Psychology. 2011;33(6):866–83.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[50].
+Chen CC, Ringenbach SD. Dose-response relationship between intensity of exercise and cognitive performance in individuals with Down syndrome: A preliminary study. J Intellect Disabil Res. 2016;60(6):606–14.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[51].
+Thayer RE, Newman JR, McClain TM. Self-regulation of mood: Strategies for changing a bad mood, raising energy, and reducing tension. J Pers Soc Psychol. 1994;67(5):910–25.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[52].
+Yeung RR, The acute effects of exercise on mood state. J Psychosom Res
+1996;40(2):123–41.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[53].
+Raglin JS, Morgan WP. Influence of exercise and quiet rest on state anxiety and blood pressure. Med Sci Sports Exerc. 1987;19(5):456–63.
+[
+PubMed
+] [
+Google Scholar
+]
+[54].
+Berger BG, Motl RW. Exercise and mood: A selective review and synthesis of research employing the profile of mood states. Journal of Applied Sport Psychology. 2000;12(1):69–92.
+[
+Google Scholar
+]
+[55].
+Yik MSM, Russell JA, Barrett LF. Structure of self-reported current affect: Integration and beyond. Journal of Personality and Social Psychology. 1999;77(3):600–19.
+[
+Google Scholar
+]
+[56].
+Hogan CL, Mata J, Carstensen LL. Exercise holds immediate benefits for affect and cognition in younger and older adults. Psychol Aging. 2013;28(2):587–94.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[57].
+Zervas Y, et al. 
+The acute effects of increasing levels of aerobic exercise intensity on mood states, in Proceedings of the 8th World Congress of Sport Psychology, Serpa S, et al. , Editors. 1993. 
+Lisbon, Portugal.
+[
+Google Scholar
+]
+[58].
+Salmon P. Effects of physical exercise on anxiety, depression, and sensitivity to stress: A unifying theory. Clin Psychol Rev. 2001;21(1):33–61.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[59].
+Crocker PR, Grozelle C. Reducing induced state anxiety: Effects of acute aerobic exercise and autogenic relaxation. J Sports Med Phys Fitness. 1991;31(2):277–82.
+[
+PubMed
+] [
+Google Scholar
+]
+[60].
+Hamer M, Taylor A, Steptoe A. The effect of acute aerobic exercise on stress related blood pressure responses: A systematic review and meta-analysis. Biol Psychol. 2006;71(2):183–90.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[61].
+Brownley KA, et al. 
+Sympathoadrenergic mechanisms in reduced hemodynamic stress responses after exercise. Med Sci Sports Exerc. 2003;35(6):978–86.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[62].
+Bartholomew JB, Morrison D, Ciccolo JT. Effects of acute exercise on mood and well-being in patients with major depressive disorder. Med Sci Sports Exerc. 2005;37(12):2032–7.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[63].
+Knapen J, et al. 
+State anxiety and subjective well-being responses to acute bouts of aerobic exercise in patients with depressive and anxiety disorders. Br J Sports Med. 2009;43(10):756–9.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[64].
+Heggelund J, et al. 
+High aerobic intensity training and psychological States in patients with depression or schizophrenia. Front Psychiatry. 2014;5:148.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[65].
+Petruzzello SJ, et al. 
+A meta-analysis on the anxiety-reducing effects of acute and chronic exercise. Outcomes and mechanisms. Sports Med. 1991;11(3):143–82.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[66].
+Crabbe JB, Dishman RK. Brain electrocortical activity during and after exercise: A quantitative synthesis. Psychophysiology. 2004;41(4):563–74.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[67].
+Mechau D, et al. 
+Effect of increasing running velocity on electroencephalogram in a field test. Eur J Appl Physiol Occup Physiol. 1998;78(4):340–5.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[68].
+Kuo TB, et al. 
+Effect of aging on treadmill exercise induced theta power in the rat. Age (Dordr). 2010;32(3):297–308.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[69].
+Li JY, et al. 
+Changes in electroencephalogram and heart rate during treadmill exercise in the rat. Neurosci Lett. 2008;434(2):175–8.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[70].
+McFarland WL, Teitelbaum H, Hedges EK. Relationship between hippocampal theta activity and running speed in the rat. J Comp Physiol Psychol. 1975;88(1):324–8.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[71].
+Buzsaki G, Moser EI. Memory, navigation and theta rhythm in the hippocampal-entorhinal system. Nat Neurosci. 2013;16(2):130–8.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[72].
+Giocomo LM, Hasselmo ME. Neuromodulation by glutamate and acetylcholine can change circuit dynamics by regulating the relative influence of afferent input and excitatory feedback. Mol Neurobiol. 2007;36(2):184–200.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[73].
+Buzsaki G. Theta rhythm of navigation: Link between path integration and landmark navigation, episodic and semantic memory. Hippocampus. 2005;15(7):827–40.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[74].
+Pastalkova E, et al. 
+Internally generated cell assembly sequences in the rat hippocampus. Science. 2008;321(5894:1322–7.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[75].
+Pfeiffer BE, Foster DJ. PLACE CELLS. Autoassociative dynamics in the generation of sequences of hippocampal place cells. Science. 2015;349(6244):180–3.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[76].
+Hasselmo ME, Eichenbaum H. Hippocampal mechanisms for the context-dependent retrieval of episodes. Neural Netw. 2005;18(9):1172–90.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[77].
+Preston AR, Eichenbaum H. Interplay of hippocampus and prefrontal cortex in memory. Curr Biol. 2013;23(17):R764–73.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[78].
+Li M, Long C, Yang L. Hippocampal-prefrontal circuit and disrupted functional connectivity in psychiatric and neurodegenerative disorders. Biomed Res Int. 2015;2015:810548.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[79].
+Fujisawa S, et al. 
+Behavior-dependent short-term assembly dynamics in the medial prefrontal cortex. Nat Neurosci. 2008;11(7):823–33.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[80].
+Jones MW, Wilson MA. Theta rhythms coordinate hippocampal-prefrontal interactions in a spatial memory task. PLoS Biol. 2005;3(12):e402.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[81].
+Sigurdsson T, Duvarci S. Hippocampal-prefrontal interactions in cognition, behavior and psychiatric disease. Front Syst Neurosci. 2015;9:190.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[82].
+Jin J, Maren S. Prefrontal-hippocampal interactions in memory and emotion. Front Syst Neurosci. 2015;9:170.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[83].
+Hillman CH, Kamijo K, Pontifex MB. The Relation of ERP Indices of Exercise to Brain Health and Cognition, in Functional Neuroimaging in Exercise and Sport Sciences
+Boecker H., et al. , Editors. 2012, Springer: New York, NY:  pp. 419–46.
+[
+Google Scholar
+]
+[84].
+Kamijo K, et al. 
+Acute effects of aerobic exercise on cognitive function in older adults. J Gerontol B Psychol Sci Soc Sci. 2009;64(3):356–63.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[85].
+Hillman CH, Snook EM, Jerome GJ. Acute cardiovascular exercise and executive control function. Int J Psychophysiol. 2003;48(3):307–14.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[86].
+Kamijo K, et al. 
+Differential influences of exercise intensity on information processing in the central nervous system. Eur J Appl Physiol. 2004;92(3):305–11.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[87].
+Kamijo K, et al. 
+The interactive effect of exercise intensity and task difficulty on human cognitive processing. Int J Psychophysiol. 2007;65(2):114–21.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[88].
+Hillman CH, et al. 
+The effect of acute treadmill walking on cognitive control and academic achievement in preadolescent children. Neuroscience. 2009;159(3):1044–54.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[89].
+Chang YK, et al. 
+Antecedent acute cycling exercise affects attention control: An ERP study using attention network test. Front Hum Neurosci. 2015;9:156.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[90].
+Chang YK, et al. 
+Acute exercise has a general facilitative effect on cognitive function: A combined ERP temporal dynamics and BDNF study. Psychophysiology. 2017;54(2):289–300.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[91].
+Peterson NN, Schroeder CE, Arezzo JC. Neural generators of early cortical somatosensory evoked potentials in the awake monkey. Electroencephalogr Clin Neurophysiol. 1995;96(3):248–60.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[92].
+Sur S, Sinha VK. Event-related potential: An overview. Ind Psychiatry J. 2009;18(1):70–3.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[93].
+Polich J. Updating P An integrative theory of P3a and P3b. Clin Neurophysiol. 2007;118(10):2128–48.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[94].
+Soltani M, Knight RT. Neural origins of the P300. Crit Rev Neurobiol. 2000;14(3-4):199–224.
+[
+PubMed
+] [
+Google Scholar
+]
+[95].
+Frodl-Bauch T, Bottlender R, Hegerl U. Neurochemical substrates and neuroanatomical generators of the event-related P300. Neuropsychobiology. 1999;40(2):86–94.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[96].
+Nieuwenhuis S, Aston-Jones G, Cohen JD. Decision making, the P3, and the locus coeruleus-norepinephrine system. Psychol Bull. 2005;131(4):510–32.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[97].
+Pineda JA. Are neurotransmitter systems of subcortical origin relevant to the electrogenesis of cortical ERPs?
+Electroencephalogr Clin Neurophysiol Suppl
+1995;44:143–50.
+[
+PubMed
+] [
+Google Scholar
+]
+[98].
+Dietrich A, Audiffren M. The reticular-activating hypofrontality (RAH) model of acute exercise. Neurosci Biobehav Rev. 2011;35(6):1305–25.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[99].
+Dietrich A. Transient hypofrontality as a mechanism for the psychological effects of exercise. Psychiatry Res. 2006;145(1):79–83.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[100].
+Yanagisawa H, et al. 
+Acute moderate exercise elicits increased dorsolateral prefrontal activation and improves cognitive performance with Stroop test. Neuroimage. 2010;50(4):1702–10.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[101].
+Byun K, et al. 
+Positive effect of acute mild exercise on executive function via arousal-related prefrontal activations: An fNIRS study. Neuroimage. 2014;98:336–45.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[102].
+Cabeza R. Hemispheric asymmetry reduction in older adults: The HAROLD model. Psychol Aging. 2002;17(1):85–100.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[103].
+Hyodo K, et al. 
+Acute moderate exercise enhances compensatory brain activation in older adults. Neurobiol Aging. 2012;33(11):2621–32.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[104].
+Voss MW, et al. 
+Plasticity of brain networks in a randomized intervention trial of exercise training in older adults. Front Aging Neurosci. 2010;2.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[105].
+Colcombe SJ, et al. 
+Cardiovascular fitness, cortical plasticity, and aging. Proc Natl Acad Sci U S A. 2004;101(9):3316–21.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[106].
+Colcombe SJ, et al. 
+Neurocognitive aging and cardiovascular fitness: Recent findings and future directions. J Mol Neurosci. 2004;24(1):9–14.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[107].
+Voss MW, et al. 
+Functional connectivity: A source of variance in the association between cardiorespiratory fitness and cognition?
+Neuropsychologia. 2010;48(5):1394–406.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[108].
+Voss MW, et al. 
+Fitness, but not physical activity, is related to functional integrity of brain networks associated with aging. Neuroimage. 2016;131:113–25.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[109].
+Li L, et al. 
+Acute aerobic exercise increases cortical activity during working memory: A functional MRI study in female college students. PLoS One. 2014;9(6):e99222.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[110].
+MacIntosh BJ, et al. 
+Impact of a single bout of aerobic exercise on regional brain perfusion and activation responses in healthy young adults. PLoS One. 2014;9(1):e85163.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[111].
+Metcalfe AW, et al. 
+Effects of acute aerobic exercise on neural correlates of attention and inhibition in adolescents with bipolar disorder. Transl Psychiatry. 2016;6:e814.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[112].
+Rajab AS, et al. 
+A single session of exercise increases connectivity in sensorimotor-related brain networks: A resting-state fMRI study in young healthy adults. Front Hum Neurosci. 2014;8:625.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[113].
+van Dongen EV, et al. 
+Physical exercise performed four hours after learning improves memory retention and increases hippocampal pattern similarity during retrieval. Curr Biol. 2016;26(13):1722–7.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[114].
+Zschucke E, et al. 
+The stress-buffering effect of acute exercise: Evidence for HPA axis negative feedback. Psychoneuroendocrinology. 2015;51:414–25.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[115].
+McDonnell MN, et al. 
+A single bout of aerobic exercise promotes motor cortical neuroplasticity. J Appl Physiol. 2013;114(9):1174–82.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[116].
+Singh AM, Neva JL, Staines WR. Acute exercise enhances the response to paired associative stimulation-induced plasticity in the primary motor cortex. Exp Brain Res. 2014;232(11):3675–85.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[117].
+Singh AM, Staines WR. The effects of acute aerobic exercise on the primary motor cortex. J Mot Behav. 2015;47(4):328–39.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[118].
+Mang CS, et al. 
+A single bout of high-intensity aerobic exercise facilitates response to paired associative stimulation and promotes sequence-specific implicit motor learning. J Appl Physiol. 2014;117(11):1325–36.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[119].
+Noakes TD. Physiological models to understand exercise fatigue and the adaptations that predict or enhance athletic performance. Scand J Med Sci Sports. 2000;10(3):123–45.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[120].
+Myers JM. Essentials of Cardiopulmonary Exercise Testing
+1996, Champaign, IL: Human Kinetics.
+[
+Google Scholar
+]
+[121].
+Schurr A. Cerebral glycolysis: A century of persistent misunderstanding and misconception. Front Neurosci. 2014;8:360.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[122].
+Suzuki A, et al. 
+Astrocyte-neuron lactate transport is required for long-term memory formation. Cell. 2011;144(5):810–23.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[123].
+Newman LA, Korol DL, Gold PE. Lactate produced by glycogenolysis in astrocytes regulates memory processing. PLoS One. 2011;6(12):e28427.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[124].
+Yang J, et al. 
+Lactate promotes plasticity gene expression by potentiating NMDA signaling in neurons. Proc Natl Acad Sci U S A. 2014;111(33):12228–33.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[125].
+Ide K, et al. 
+Lactate, glucose and O2 uptake in human brain during recovery from maximal exercise. J Physiol. 2000;522(Pt 1):159–64.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[126].
+Dalsgaard MK, et al. 
+A reduced cerebral metabolic ratio in exercise reflects metabolism and not accumulation of lactate within the human brain. J Physiol. 2004;554(Pt 2):571–8.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[127].
+van Hall G, et al. 
+Blood lactate is an important energy source for the human brain. Journal of Cerebral Blood Flow and Metabolism. 2009;29(6):1121–9.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[128].
+Volianitis S, et al. 
+Plasma pH does not influence the cerebral metabolic ratio during maximal whole body exercise. J Physiol. 2011;589(Pt 2):423–9.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[129].
+Maddock RJ, et al. 
+Vigorous exercise increases brain lactate and Glx (glutamate+glutamine): A dynamic 1H-MRS study. Neuroimage. 2011;57(4):1324–30.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[130].
+Dennis A, et al. 
+An ultra-high field magnetic resonance spectroscopy study of post exercise lactate, glutamate and glutamine change in the human brain. Front Physiol. 2015;6:351.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[131].
+Steinman MQ, Gao V, Alberini CM. The role of lactate-mediated metabolic coupling between astrocytes and neurons in long-term memory formation. Front Integr Neurosci. 2016;10:10.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[132].
+Whitlock JR, et al. 
+Learning induces long-term potentiation in the hippocampus. Science. 2006;313(5790):1093–7.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[133].
+Kirschbaum C, Hellhammer DH. Salivary cortisol in psychoneuroendocrine research: Recent developments and applications. Psychoneuroendocrinology. 1994;19(4):313–33.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[134].
+Budde H, et al. 
+The cortisol response to exercise in young adults. Front Behav Neurosci. 2015;9:13.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[135].
+Girard I, Garland T Jr. Plasma corticosterone response to acute and chronic voluntary exercise in female house mice. J Appl Physiol. 2002;92(4):1553–61.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[136].
+Coleman MA, et al. 
+Glucocorticoid response to forced exercise in laboratory house mice (Mus domesticus). Physiol Behav. 1998;63(2):279–85.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[137].
+Vega SR, et al. 
+Acute BDNF and cortisol response to low intensity exercise and following ramp incremental exercise to exhaustion in humans. Brain Research. 112159–65.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[138].
+Hill EE, et al. 
+Exercise and circulating cortisol levels: The intensity threshold effect. J Endocrinol Invest. 2008;31(7):587–91.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[139].
+Luger A, et al. 
+Acute hypothalamic-pituitary-adrenal responses to the stress of treadmill exercise. Physiologic adaptations to physical training. N Engl J Med. 1987;316(21):1309–15.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[140].
+Kraemer RR, et al. 
+Effects of treadmill running on plasma beta-endorphin, corticotropin, and cortisol levels in male and female 10K runners. Eur J Appl Physiol Occup Physiol. 1989;58(8):845–51.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[141].
+Duclos M, et al. 
+Corticotroph axis sensitivity after exercise in endurance-trained athletes. Clin Endocrinol (Oxf). 1998;48(4):493–501.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[142].
+Heffelfinger AK, Newcomer JW. Glucocorticoid effects on memory function over the human life span. Dev Psychopathol. 2001;13(3):491–513.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[143].
+Yuen EY, et al. 
+Acute stress enhances glutamatergic transmission in prefrontal cortex and facilitates working memory. Proc Natl Acad Sci U S A. 2009;106(33):14075–9.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[144].
+Yuen EY, et al. 
+Mechanisms for acute stress-induced enhancement of glutamatergic transmission and working memory. Mol Psychiatry. 2011;16(2):156–70.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[145].
+Tollenaar MS, et al. 
+The effects of cortisol increase on long-term memory retrieval during and after acute psychosocial stress. Acta Psychol (Amst). 2008;127(3):542–52.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[146].
+de Quervain DJ, et al. 
+Acute cortisone administration impairs retrieval of long-term declarative memory in humans. Nat Neurosci. 2000;3(4):313–4.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[147].
+Herman JP, et al. 
+Limbic system mechanisms of stress regulation: Hypothalamo-pituitary-adrenocortical axis. Prog Neuropsychopharmacol Biol Psychiatry. 2005;29(8):1201–13.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[148].
+Sothmann MS, et al. 
+Exercise training and the cross-stressor adaptation hypothesis. Exerc Sport Sci Rev. 1996;24:267–87.
+[
+PubMed
+] [
+Google Scholar
+]
+[149].
+Duman CH, et al. 
+Voluntary exercise produces antidepressant and anxiolytic behavioral effects in mice. Brain Res. 1199148–58.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[150].
+Bjornebekk A, Mathe AA, Brene S. The antidepressant effect of running is associated with increased hippocampal cell proliferation. Int J Neuropsychopharmacol. 2005;8(3):357–68.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[151].
+Dishman RK. Brain monoamines, exercise, and behavioral stress: Animal models. Med Sci Sports Exerc. 1997;29(1):63–74.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[152].
+Marais L, Stein DJ, Daniels WM. Exercise increases BDNF levels in the striatum and decreases depressive-like behavior in chronically stressed rats. Metab Brain Dis. 2009;24(4):587–97.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[153].
+Fulk LJ, et al. 
+Chronic physical exercise reduces anxiety-like behavior in rats. Int J Sports Med. 2004;25(1):78–82.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[154].
+Lapmanee S, Charoenphandhu J, Charoenphandhu N. Beneficial effects of fluoxetine, reboxetine, venlafaxine, and voluntary running exercise in stressed male rats with anxiety- and depression-like behaviors. Behav Brain Res. 2013;250:316–25.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[155].
+Marlatt MW, Lucassen PJ, van Praag H. Comparison of neurogenic effects of fluoxetine, duloxetine and running in mice. Brain Res. 134193–9.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[156].
+Lapmanee S, et al. 
+Anxiolytic-like actions of reboxetine, venlafaxine and endurance swimming in stressed male rats. Behav Brain Res. 2012;231(1):20–8.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[157].
+Greenwood BN, Fleshner M. Exercise, learned helplessness, and the stress-resistant brain. Neuromolecular Med. 2008;10(2):81–98.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[158].
+Greenwood BN, Fleshner M. Exercise, stress resistance, and central serotonergic systems. Exerc Sport Sci Rev. 2011;39(3):140–9.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[159].
+Siette J, Reichelt AC, Westbrook RF. A bout of voluntary running enhances context conditioned fear, its extinction, and its reconsolidation. Learn Mem. 2014;21(2):73–81.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[160].
+Mika A, et al. 
+Voluntary exercise during extinction of auditory fear conditioning reduces the relapse of fear associated with potentiated activity of striatal direct pathway neurons. Neurobiol Learn Mem. 2015;125:224–35.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[161].
+Huang T, et al. 
+The effects of physical activity and exercise on brain-derived neurotrophic factor in healthy humans: A review. Scand J Med Sci Sports. 2014;24(1):1–10.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[162].
+Knaepen K, et al. 
+Neuroplasticity - exercise-induced response of peripheral brain-derived neurotrophic factor: A systematic review of experimental studies in human subjects. Sports Med. 2010;40(9):765–801.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[163].
+Ferris LT, Williams JS, Shen CL. The effect of acute exercise on serum brain-derived neurotrophic factor levels and cognitive function. Med Sci Sports Exerc. 2007;39(4):728–34.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[164].
+Lanz TA, et al. 
+Robust changes in expression of brain-derived neurotrophic factor (BDNF) mRNA and protein across the brain do not translate to detectable changes in BDNF levels in CSF or plasma. Biomarkers. 2012;17(6):524–31.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[165].
+Klein AB, et al. 
+Blood BDNF concentrations reflect brain-tissue BDNF levels across species. Int J Neuropsychopharmacol. 2011;14(3):347–53.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[166].
+Cotman CW, Berchtold NC, Christie LA. Exercise builds brain health: Key roles of growth factor cascades and inflammation. Trends Neurosci. 2007;30(9):464–72.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[167].
+Newman JC, Verdin E. beta-hydroxybutyrate: Much more than a metabolite. Diabetes Res Clin Pract. 2014;106(2):173–81.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[168].
+Sleiman SF, et al. 
+Exercise promotes the expression of brain derived neurotrophic factor (BDNF) through the action of the ketone body beta-hydroxybutyrate. Elife. 20165.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[169].
+Moon HY, et al. 
+Running-induced systemic cathepsin b secretion is associated with memory function. Cell Metab. 2016;24(2):332–40.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[170].
+Wrann CD, et al. 
+Exercise induces hippocampal BDNF through a PGC-1alpha/FNDC5 pathway. Cell Metab. 2013;18(5):649–59.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[171].
+Pontifex MB, et al. 
+The effect of acute aerobic and resistance exercise on working memory. Med Sci Sports Exerc. 2009;41(4):927–34.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[172].
+Gutin B, Di Gennaro J. Effect of a treadmill run to exhaustion on performance of long addition. Res Q. 1968;39(4):958–64.
+[
+PubMed
+] [
+Google Scholar
+]
+[173].
+Wrisberg CA, Herbert WG. Fatigue effects on the timing performance of well-practiced subjects. Res Q. 1976;47(4):839–44.
+[
+PubMed
+] [
+Google Scholar
+]
+[174].
+Lee JK, et al. 
+Neck cooling and cognitive performance following exercise-induced hyperthermia. Eur J Appl Physiol. 2014;114(2):375–84.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[175].
+Hopkins ME, et al. 
+Differential effects of acute and regular physical exercise on cognition and affect. Neuroscience. 2012;215:59–68.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[176].
+Shimizu E, Hashimoto K, Iyo M. Ethnic difference of the BDNF 196G/A (val66met) polymorphism frequencies: The possibility to explain ethnic mental traits. Am J Med Genet B Neuropsychiatr Genet. 2004;126B(1):122–3.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[177].
+Egan MF, et al. 
+The BDNF val66met polymorphism affects activity-dependent secretion of BDNF and human memory and hippocampal function. Cell. 2003;112(2):257–69.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[178].
+Berchtold NC, et al. 
+Exercise primes a molecular memory for brain-derived neurotrophic factor protein induction in the rat hippocampus. Neuroscience. 2005;133(3):853–61.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[179].
+Soya H, et al. 
+BDNF induction with mild exercise in the rat hippocampus. Biochem Biophys Res Commun. 2007;358(4):961–7.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[180].
+Malisch JL, et al. 
+Baseline and stress-induced plasma corticosterone concentrations of mice selectively bred for high voluntary wheel running. Physiol Biochem Zool. 2007;80(1):146–56.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[181].
+Goekint M, et al. 
+Acute running stimulates hippocampal dopaminergic neurotransmission in rats, but has no influence on brain-derived neurotrophic factor. J Appl Physiol. 2012;112(4):535–41.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[182].
+Schaaf MJ, et al. 
+Downregulation of BDNF mRNA and protein in the rat hippocampus by corticosterone. Brain Res. 1998;813(1):112–20.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[183].
+Trejo JL, Carro E, Torres-Aleman I. Circulating insulin-like growth factor I mediates exercise-induced increases in the number of new neurons in the adult hippocampus. J Neurosci. 2001;21(5):1628–34.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[184].
+Ding Q, et al. 
+Insulin-like growth factor I interfaces with brain-derived neurotrophic factor-mediated synaptic plasticity to modulate aspects of exercise-induced cognitive function. Neuroscience. 2006;140(3):823–33.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[185].
+Bang P, et al. 
+Exercise-induced changes in insulin-like growth factors and their low molecular weight binding protein in healthy subjects and patients with growth hormone deficiency. Eur J Clin Invest. 1990;20(3):285–92.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[186].
+Cappon J, et al. 
+Effect of brief exercise on circulating insulin-like growth factor I. J Appl Physiol. 1994;76(6):2490–6.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[187].
+Schwarz AJ, et al. 
+Acute effect of brief low- and high-intensity exercise on circulating insulin-like growth factor (IGF) I, II, and IGF-binding protein-3 and its proteolysis in young healthy men. J Clin Endocrinol Metab. 1996;81(10):3492–7.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[188].
+Tsai CL, et al. 
+Executive function and endocrinological responses to acute resistance exercise. Front Behav Neurosci. 2014;8:262.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[189].
+Maass A, et al. 
+Relationships of peripheral IGF-1, VEGF and BDNF levels to exercise-related changes in memory, hippocampal perfusion and volumes in older adults. Neuroimage. 2016;131:142–54.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[190].
+Leung DW, et al. 
+Vascular endothelial growth factor is a secreted angiogenic mitogen. Science. 1989;246(4935):1306–9.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[191].
+Prior BM, Yang HT, Terjung RL. What makes vessels grow with exercise training?
+J Appl Physiol (1985). 2004;97(3):1119–28.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[192].
+Kraus RM, et al. 
+Circulating plasma VEGF response to exercise in sedentary and endurance-trained men. J Appl Physiol (1985). 2004;96(4):1445–50.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[193].
+Uysal N, et al. 
+Effects of voluntary and involuntary exercise on cognitive functions, and VEGF and BDNF levels in adolescent rats. Biotech Histochem. 2015;90(1):55–68.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[194].
+Fabel K, et al. 
+VEGF is necessary for exercise-induced adult hippocampal neurogenesis. Eur J Neurosci. 2003;18(10):2803–12.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[195].
+Hyyppa MT, Aunola S, Kuusela V. Psychoendocrine responses to bicycle exercise in healthy men in good physical condition. Int J Sports Med. 1986;7(2):89–93.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[196].
+Musso NR, et al. 
+Plasma dopamine response to sympathetic activation in man: A biphasic pattern. Life Sci. 1990;47(7):619–26.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[197].
+Meeusen R, Demeirleir K. Exercise and brain neurotransmission. Sports Medicine. 1995;20(3):160–88.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[198].
+Chaouloff F. Physical exercise and brain monoamines: A review. Acta Physiol Scand. 1989;137(1):1–13.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[199].
+Meeusen R, Piacentini MF, De Meirleir K. Brain microdialysis in exercise research. Sports Med. 2001;31(14):965–83.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[200].
+McMorris T. Developing the catecholamines hypothesis for the acute exercise-cognition interaction in humans: Lessons from animal studies. Physiol Behav. 2016;165:291–9.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[201].
+Meeusen R, et al. 
+The Effects of Exercise on Neurotransmission in Rat Striatum, a Microdialysis Study. Monitoring Molecules in Neuroscience. 1994;181–82.
+[
+Google Scholar
+]
+[202].
+Greenwood BN, et al. 
+Long-term voluntary wheel running is rewarding and produces plasticity in the mesolimbic reward pathway. Behav Brain Res. 2011;217(2):354–62.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[203].
+Park YM, et al. 
+Effects of intrinsic aerobic capacity and ovariectomy on voluntary wheel running and nucleus accumbens dopamine receptor gene expression. Physiol Behav. 2016;164(Pt A):383–9.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[204].
+Mathes WF, et al. 
+Dopaminergic dysregulation in mice selectively bred for excessive exercise or obesity. Behav Brain Res. 2010;210(2):155–63.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[205].
+Rhodes JS, Gammie SC, Garland T Jr. Neurobiology of Mice Selected for High Voluntary Wheel-running Activity. Integr Comp Biol. 2005;45(3):438–55.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[206].
+Cordery P, et al. 
+Dopamine/noradrenaline reuptake inhibition in women improves endurance exercise performance in the heat. Scand J Med Sci Sports. 2016. 
+[Epub ahead of print].
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[207].
+Watson P, et al. 
+Acute dopamine/noradrenaline reuptake inhibition enhances human exercise performance in warm, but not temperate conditions. J Physiol. 2005;565(Pt 3):873–83.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[208].
+Roelands B, et al. 
+A dopamine/noradrenaline reuptake inhibitor improves performance in the heat, but only at the maximum therapeutic dose. Scand J Med Sci Sports. 2012;22(5):e93–8.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[209].
+Berse T, et al. 
+Acute physical exercise improves shifting in adolescents at school: Evidence for a dopaminergic contribution. Front Behav Neurosci. 2015;9:196.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[210].
+Wang GJ, et al. 
+PET studies of the effects of aerobic exercise on human striatal dopamine release. J Nucl Med. 2000;41(8):1352–6.
+[
+PubMed
+] [
+Google Scholar
+]
+[211].
+Hattori S, Naoi M, Nishino H. Striatal dopamine turnover during treadmill running in the rat: Relation to the speed of running. Brain Res Bull. 1994;35(1):41–9.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[212].
+Meeusen R, et al. 
+Effects of tryptophan and/or acute running on extracellular 5-HT and 5-HIAA levels in the hippocampus of food-deprived rats. Brain Res. 1996;740(1-2):245–52.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[213].
+Chaouloff F. Effects of acute physical exercise on central serotonergic systems. Med Sci Sports Exerc. 1997;29(1):58–62.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[214].
+Gomez-Merino D, et al. 
+Site-dependent effects of an acute intensive exercise on extracellular 5-HT and 5-HIAA levels in rat brain. Neurosci Lett. 2001;301(2):143–6.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[215].
+Babyak M, et al. 
+Exercise treatment for major depression: Maintenance of therapeutic benefit at 10 months. Psychosom Med. 2000;62(5):633–8.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[216].
+Otsuka T, et al. 
+Effects of acute treadmill running at different intensities on activities of serotonin and corticotropin-releasing factor neurons, and anxiety- and depressive-like behaviors in rats. Behav Brain Res. 2016;298(Pt B):44–51.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[217].
+Zimmer P, et al. 
+The effects of different aerobic exercise intensities on serum serotonin concentrations and their association with Stroop task performance: A randomized controlled trial. Eur J Appl Physiol. 2016;116(10):2025–34.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[218].
+Bailey SP, Davis JM, Ahlborn EN. Neuroendocrine and substrate responses to altered brain 5-HT activity during prolonged exercise to fatigue. J Appl Physiol. 1993;74(6):3006–12.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[219].
+Bailey SP, Davis JM, Ahlborn EN. Serotonergic agonists and antagonists affect endurance performance in the rat. International Journal of Sports Medicine. 1993;14(6):330–3.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[220].
+Meeusen R, et al. 
+Central fatigue: The serotonin hypothesis and beyond. Sports Med. 2006;36(10):881–909.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[221].
+Davis JM, Alderson NL, Welsh RS. Serotonin and central nervous system fatigue: Nutritional considerations. Am J Clin Nutr. 2000;72(2 Suppl):573S–8S.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[222].
+Pagliari R, Peyrin L. Norepinephrine release in the rat frontal cortex under treadmill exercise: A study with microdialysis. J Appl Physiol. 1995;78(6):2121–30.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[223].
+Peyrin L, et al. 
+Relationships between catecholamine or 3-methoxy 4-hydroxy phenylglycol changes and the mental performance under submaximal exercise in man. Psychopharmacology (Berl). 1987;93(2):188–92.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[224].
+Lehmann M, Schmid P, Keul J. Plasma catecholamine and blood lactate cumulation during incremental exhaustive exercise. Int J Sports Med. 1985;6(2):78–81.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[225].
+Podolin DA, Munger PA, Mazzeo RS. Plasma catecholamine and lactate response during graded exercise with varied glycogen conditions. J Appl Physiol. 1991;71(4):1427–33.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[226].
+McMorris T, Hale BJ. Is there an acute exercise-induced physiological/biochemical threshold which triggers increased speed of cognitive functioning? A meta-analytic investigation. Journal of Sport and Health Science. 2015;4(1):4–13.
+[
+Google Scholar
+]
+[227].
+Kurosawa M, et al. 
+Extracellular release of acetylcholine, noradrenaline and serotonin increases in the cerebral cortex during walking in conscious rats. Neurosci Lett. 1993;161(1):73–6.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[228].
+Conlay LA, Sabounjian LA, Wurtman RJ. Exercise and neuromodulators: Choline and acetylcholine in marathon runners. Int J Sports Med. 1992;13(Suppl 1):S141–2.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[229].
+Wen G, et al. 
+The effects of exercise-induced fatigue on acetylcholinesterase expression and activity at rat neuromuscular junctions. Acta Histochem Cytochem. 2009;42(5):137–42.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[230].
+Ferreira-Vieira TH, et al. 
+Alzheimer’s disease: Targeting the Cholinergic System. Curr Neuropharmacol. 2016;14(1):101–15.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[231].
+Molteni R, Ying Z, Gomez-Pinilla F. Differential effects of acute and chronic exercise on plasticity-related genes in the rat hippocampus revealed by microarray. Eur J Neurosci. 2002;16(6):1107–16.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[232].
+Herbst EA, Holloway GP. Exercise increases mitochondrial glutamate oxidation in the mouse cerebral cortex. Appl Physiol Nutr Metab. 2016;41(7):799–801.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[233].
+Maddock RJ, et al. 
+Acute Modulation of Cortical Glutamate and GABA Content by Physical Activity. J Neurosci. 2016;36(8):2449–57.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[234].
+Fu Y, et al. 
+A cortical circuit for gain control by behavioral state. Cell. 2014;156(6):1139–52.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[235].
+Brooks S, et al. 
+The responses of the catecholamines and beta-endorphin to brief maximal exercise in man. Eur J Appl Physiol Occup Physiol. 1988;57(2):230–4.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[236].
+Colt EW, Wardlaw SL, Frantz AG. The effect of running on plasma beta-endorphin. Life Sci. 1981;28(14):1637–40.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[237].
+Goldfarb AH, et al. 
+Plasma beta-endorphin concentration: Response to intensity and duration of exercise. Med Sci Sports Exerc. 1990;22(2):241–4.
+[
+PubMed
+] [
+Google Scholar
+]
+[238].
+McMurray RG, et al. 
+Exercise intensity-related responses of beta-endorphin and catecholamines. Med Sci Sports Exerc. 1987;19(6):570–4.
+[
+PubMed
+] [
+Google Scholar
+]
+[239].
+Schwarz L, Kindermann W. Changes in beta-endorphin levels in response to aerobic and anaerobic exercise. Sports Med. 1992;13(1):25–36.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[240].
+Boecker H, et al. 
+The runner’s high: Opioidergic mechanisms in the human brain. Cereb Cortex. 2008;18(11):2523–31.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[241].
+Daniel M, Martin AD, Carter J. Opiate receptor blockade by naltrexone and mood state after acute physical activity. Br J Sports Med. 1992;26(2):111–5.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[242].
+Janal MN, et al. 
+Pain sensitivity, mood and plasma endocrine levels in man following long-distance running: Effects of naloxone. Pain. 1984;19(1):13–25.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[243].
+Jarvekulg A, Viru A. Opioid receptor blockade eliminates mood effects of aerobic gymnastics. Int J Sports Med. 2002;23(3):155–7.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[244].
+Farrell PA, et al. 
+Influence of endogenous opioids on the response of selected hormones to exercise in humans. Journal of Applied Physiology. 1986;61(3):1051–7.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[245].
+Markoff RA, Ryan P, Young T. Endorphins and mood changes in long-distance running. Med Sci Sports Exerc. 1982;14(1):11–5.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[246].
+Dietrich A, McDaniel WF. Endocannabinoids and exercise. Br J Sports Med. 2004;38(5):536–41.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[247].
+Sparling PB, et al. 
+Exercise activates the endocannabinoid system. Neuroreport. 2003;14(17):2209–11.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[248].
+Raichlen DA, et al. 
+Exercise-induced endocannabinoid signaling is modulated by intensity. Eur J Appl Physiol. 2013;113(4):869–75.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[249].
+Heyman E, et al. 
+Intense exercise increases circulating endocannabinoid and BDNF levels in humans–possible implications for reward and depression. Psychoneuroendocrinology. 2012;37(6):844–51.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[250].
+Fuss J, et al. 
+A runner’s high depends on cannabinoid receptors in mice. Proc Natl Acad Sci U S A. 2015;112(42):13105–8.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[251].
+van Praag H, et al. 
+Running enhances neurogenesis, learning, and long-term potentiation in mice. Proc Natl Acad Sci U S A. 1999;96(23):13427–31.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[252].
+van Praag H, Kempermann G, Gage FH. Running increases cell proliferation and neurogenesis in the adult mouse dentate gyrus. Nat Neurosci. 1999;2(3):266–70.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[253].
+Brown J, et al. 
+Enriched environment and physical activity stimulate hippocampal but not olfactory bulb neurogenesis. Eur J Neurosci. 2003;17(10):2042–6.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[254].
+Rhodes JS, et al. 
+Exercise increases hippocampal neurogenesis to high levels but does not improve spatial learning in mice bred for increased voluntary wheel running. Behav Neurosci. 2003;117(5):1006–16.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[255].
+Li Y, et al. 
+TrkB regulates hippocampal neurogenesis and governs sensitivity to antidepressive treatment. Neuron. 2008;59(3):399–412.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[256].
+Choi SH, et al. 
+Regulation of hippocampal progenitor cell survival, proliferation and dendritic development by BDNF. Mol Neurodegener. 2009;4:52.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[257].
+Allen DM, et al. 
+Ataxia telangiectasia mutated is essential during adult neurogenesis. Genes Dev. 2001;15(5):554–66.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[258].
+Schmidt-Hieber C, Jonas P, Bischofberger J. Enhanced synaptic plasticity in newly generated granule cells of the adult hippocampus. Nature. 2004;429(6988):184–7.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[259].
+Farmer J, et al. 
+Effects of voluntary exercise on synaptic plasticity and gene expression in the dentate gyrus of adult male Sprague-Dawley rats in vivo. Neuroscience. 2004;124(1):71–9.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[260].
+Vaynman S, Ying Z, Gomez-Pinilla F. Hippocampal BDNF mediates the efficacy of exercise on synaptic plasticity and cognition. Eur J Neurosci. 2004;20(10):2580–90.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[261].
+Creer DJ, et al. 
+Running enhances spatial pattern separation in mice. Proc Natl Acad Sci U S A. 2010;107(5):2367–72.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[262].
+Bechara RG, Kelly AM. Exercise improves object recognition memory and induces BDNF expression and cell proliferation in cognitively enriched rats. Behav Brain Res. 2013;245:96–100.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[263].
+Clark PJ, et al. 
+Intact neurogenesis is required for benefits of exercise on spatial memory but not motor performance or contextual fear conditioning in C57BL/6J mice. Neuroscience. 2008;155(4):1048–58.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[264].
+Vivar C, Peterson BD, van Praag H. Running rewires the neuronal network of adult-born dentate granule cells. Neuroimage. 2016;131:29–41.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[265].
+Stone SS, et al. 
+Stimulation of entorhinal cortex promotes adult neurogenesis and facilitates spatial memory. J Neurosci. 2011;31(38):13469–84.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[266].
+Kronenberg G, et al. 
+Physical exercise prevents age-related decline in precursor cell activity in the mouse dentate gyrus. Neurobiol Aging. 2006;27(10):1505–13.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[267].
+American College of Sports Medicine Position Stand. The recommended quantity and quality of exercise for developing and maintaining cardiorespiratory and muscular fitness, and flexibility in healthy adults. Med Sci Sports Exerc. 1998;30(6):975–91.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[268].
+Garber CE, et al. 
+American College of Sports Medicine position stand. Quantity and quality of exercise for developing and maintaining cardiorespiratory, musculoskeletal, and neuromotor fitness in apparently healthy adults: Guidance for prescribing exercise. Med Sci Sports Exerc. 2011;43(7):1334–59.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[269].
+Borg G. Ratings of perceived exertion and heart rates during short-term cycle exercise and their use in a new cycling strength test. Int J Sports Med. 1982;3(3):153–8.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[270].
+Vilberg KL, Rugg MD. Memory retrieval and the parietal cortex: A review of evidence from a dual-process perspective. Neuropsychologia. 2008;46(7):1787–99.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+[271].
+Daw ND, Doya K. The computational neurobiology of learning and reward. Curr Opin Neurobiol. 2006;16(2):199–204.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+[272].
+Glimcher PW, Fehr E. Neuroeconomics: Decision Making and the Brain
+Second Edition ed
+Oxford, UK: Elsevier Inc; 
+2014.
+[
+Google Scholar
+]
+[273].
+Isaacs KR, et al. 
+Exercise and the brain: Angiogenesis in the adult rat cerebellum after vigorous physical activity and motor skill learning. J Cereb Blood Flow Metab. 1992;12(1):110–9.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+Associated Data
+This section collects any data citations, data availability statements, or supplementary materials included in this article.

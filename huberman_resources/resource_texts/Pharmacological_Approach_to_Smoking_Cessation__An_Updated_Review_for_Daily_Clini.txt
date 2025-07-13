@@ -1,0 +1,157 @@
+Different pharmacological strategies are available to treat smoking dependence [
+19
+]. They should be associated with non-pharmacological strategies (behavioral counselling), which are validated approaches to promote the process of quitting.
+The main pharmacological treatments available for smoking cessation are the following: nicotine replacement therapy (NRT), varenicline, bupropion and cytisine (see Table
+2
+) [
+19
+].
+Table 2 First-line agents recommended for smoking cessation
+The clinician should follow both currently available scientific evidence and patient's preference for a proper choice of one therapy over another, paying particular attention to those patients having contraindications to these drugs due to the presence of specific comorbidities (i.e. CV, renal, hepatic, psychiatric comorbidities) (see Fig.
+1
+) [
+12
+].
+Fig. 1
+Proposed flow-chart for smoking cessation
+4.1
+Nicotine Replacement Therapy (NRT)
+Nicotine replacement therapy is based on the controlled administration of nicotine, making it easier to abstain from tobacco by partially replacing the nicotine previously obtained from tobacco use. Nicotine replacement therapy aims both to stimulate nicotine receptors thus removing smoking craving and withdrawal symptoms (this effect is immediate), and to reduce the number of nicotine receptors (this effect is slower and continues for weeks progressively reducing tobacco dependence).
+Controlled administration of nicotine reduces the positive effects induced by smoking thanks to a lower dosage and slower pharmacokinetics. Nicotine is more slowly absorbed generating lower but prolonged blood peaks, compared to cigarettes, thus reducing rewarding effects and withdrawal symptoms including irritability, anxiety, difficulty concentrating, dysphoria, increased appetite, weight gain, and sleep disorders [
+12
+]. Each different NRT product has demonstrated the same efficacy in achieving smoking cessation. Consequently, the choice of the NRT product should reflect the patient's preferences. Transdermal nicotine patch is commonly the first choice because it yields higher compliance rates than other NRT products [
+8
+].
+Due to a more beneficial pharmacokinetic profile, combination NRT (short plus long-acting products) is superior to single NRT. A combination of transdermal nicotine patch with a more rapidly absorbed NRT (i.e. oro-nasal products) is more effective than the use of a single product [
+8
+,
+20
+,
+21
+]. Combination NRT is the current standard of therapy, once the clinician decides to use NRT as therapeutical strategy.
+Transdermal nicotine patches deliver nicotine at a relatively steady rate (“controller” NRTs), so they are the most suitable routes of administration to reduce withdrawal symptoms. On the other hand, chewing gums, lozenges, inhalers and nasal sprays (“reliever” NRTs) reduce symptoms faster than patches, but they provide worse basal coverage [
+12
+].
+It is important to note that uncontrolled use of nicotine inhalers or sprays could determine high blood peaks of nicotine, resembling what happens with traditional cigarettes, thus providing some of the contentment associated with smoking and hence slowing down the process of cessation [
+12
+].
+Oral formulations contain nicotine absorbed by the oral mucosa. The main weakness of this class is the strict dosing scheme needed, sometimes with a fixed short interval of 1–2 h. Moreover, nicotine is absorbed by the oral mucosa only with a neutral mouth's pH. Therefore, the patient should be advised to avoid meals or drinks during or in the 15 min before drug use, paying attention to avoid mostly acid foods and beverages. Rather, inhalers have the advantage of mimicking cigarette usage, preserving the hand-to-mouth action of smoking [
+12
+].
+Nicotine replacement therapy usually lasts 12 weeks, although treating heavy smokers for longer intervals may be reasonable, at least until the patient feels confident enough not to relapse. Long-term NRT is not associated with increased incidence of harm. Longer therapeutic intervals are particularly indicated in patients with psychiatric or other substance use disorders [
+12
+].
+There are no contraindications to nicotine substitutes except evidence of allergy, which is rare for patients using patches and unusual for patients using oral formulations. In some countries, they are contraindicated during pregnancy.
+Controlled, longitudinal, and case-controlled trials with NRT in patients with CV diseases did not report greater risks of adverse events compared to placebo. It has been found an increase in CV symptoms, such as tachycardia and arrhythmia, expected because of the sympathomimetic effects of nicotine, but no increase in major CV events (death, myocardial infarction, stroke) [
+8
+].
+Nicotine could potentially worsen CV diseases through his sympathomimetic properties. However, nicotine levels in NRT are generally lower compared to those in tobacco products. Moreover, NRT does not expose users to the harmful products of combustion, which are major determinants in the pathogenesis of CV diseases. In conclusion, albeit NRT is not probably harmless, it is surely way less damaging than cigarette smoking.
+Typical adverse events common to all NRT products include gastrointestinal symptoms (nausea, vomiting, abdominal pain, diarrhea), dizziness, headache, local irritation according to the route of administration. Adverse event due to NRT could be managed by adjusting the dosage to minimize symptoms or, alternatively, by changing molecule [
+12
+].
+Patients usually interpret some symptoms as adverse events due to treatment, instead of symptoms related to smoking cessation. Depression and sleep disorders are the most common withdrawal symptoms mistaken for adverse events to treatment. Many individuals who quit smoking show more or less severe signs and symptoms of depression.
+Depression symptoms are not linked to the therapy itself but rather to the presence of a latent depression, unmasked by smoking cessation. Patients with a prior history of depression should be followed carefully to avoid a relapse of depression symptoms. Patients who are currently experiencing depression should start an antidepressant treatment, as indicated by current guidelines, simultaneously with strategies for smoking cessation [
+12
+].
+When craving persists, there is no risk of overtreatment with NRTs. Conversely, in a patient who is not experiencing any desire for smoking, an overdose induces the impression of excessive smoking, associated with signs like nausea and tachycardia. These signs are transient and vanish quickly after treatment suspension. Therefore, it is possible to reintroduce the therapy at a lower dose. On the other hand, typical signs of underdosing are craving, irritability, anxiety, food craving with frequent snacks, insomnia and smoking despite NRT [
+19
+].
+4.2
+Varenicline
+Varenicline is a partial agonist selective for α4β2 nicotinic acetylcholine receptors (nAChRs), one of the receptors related to dopamine release following nicotine binding. Varenicline activates the α4β2 receptor with a maximal effect about 50% that of nicotine, alleviating symptoms of craving and withdrawal (agonist activity), while simultaneously reducing the rewarding by preventing nicotine binding (antagonist activity). Ultimately, varenicline promotes smoking cessation by preventing withdrawal symptoms while moderate levels of dopamine are maintained in the brain [
+19
+].
+Several meta-analyses suggest that varenicline is as effective as combination NRT. These two approaches are considered first-line therapy for smoking cessation, especially in patients with CV disease [
+22
+,
+23
+].
+Smokers should stop smoking one to two weeks after the first dose of varenicline, in order to reach the steady state. The pre-medication phase may be prolonged to 4 weeks to increase efficacy [
+24
+].
+The drug is progressively titrated to minimize side effects, mainly gastrointestinal symptoms such as nausea (see Table
+2
+). Varenicline is substantially excreted by the kidney. Dose reduction is needed in patients with severe renal impairment (estimated glomerular filtration rate below 30 ml/min). In these patients, the maximum recommended dose is 1 mg once daily. Varenicline is not recommended in patients with end-stage renal disease, due to the lack of data in this population. Patients who cannot tolerate adverse reactions of varenicline may lower the dose temporarily or permanently. Nausea could be reduced assuming varenicline with food or reducing the dose to 0.5 mg twice a day. Sleep disorders, particularly vivid dreams, could be avoided progressively reducing the evening dose until suspension, maintaining the morning dose only.
+An additional course of 12 weeks treatment with varenicline at 1 mg twice daily may be considered for the maintenance of abstinence in patients who have successfully stopped smoking at the end of the therapeutic interval (12 weeks) [
+25
+].
+Absolute or relative contraindications to varenicline use are hypersensitivity to the active substance or any of the excipients, age < 18 years old, pregnancy and breastfeeding [
+12
+]. Varenicline has no clinically meaningful drug interactions. Safety studies on varenicline in patients with stable CV disease found no increase in CV events, even though no univocal data are available in patients with acute coronary syndrome. Therefore, varenicline could be used safely in patients with stable CV disease and with caution in patients with acute coronary syndrome [
+26
+].
+Soon after the introduction of varenicline, reports of an association with depression and suicidal ideation arose. A review of 11 published studies suggest that such association is likely to be weak [
+23
+]. Previous studies compared smokers having a previous psychiatric history (anxiety, depression, psychotic or bipolar disorder) with a control group demonstrating that treatment with varenicline was not associated with a higher risk of psychiatric adverse events [
+27
+]. Nevertheless, the possibility warrants patients' monitoring for clinical and therapeutical evaluation if neuropsychiatric symptoms occur, including behavioral changes, hostility, agitation, depressive mood, suicidal ideation.
+The most common adverse events are nausea and sleep disorders. In the majority of cases, nausea is mild to moderate in intensity, occurs early in the treatment period, lasting on average for 12 days, and seldom results in discontinuation. Dosing titration is likely to reduce the incidence of nausea. Patients should be informed that this symptom usually solves within one week after starting treatment and could be avoided taking the drug with food [
+12
+]. Other side effects have been reported such as abdominal pain, constipation, abdominal distension, abnormal dreams, insomnia, dizziness, dry mouth, weight increase, increased appetite, and headache. These symptoms developed twice more frequently with varenicline than placebo [
+28
+].
+In the majority of cases, they occur in the first 4 weeks of treatment, are mild to moderate in severity and temporary. Varenicline may influence the ability to drive. Previous reports found higher incidence of car accidents among patients taking varenicline. However, subsequent studies did not confirm this correlation [
+29
+].
+4.3
+Bupropion, Sustained-Release (SR)
+The precise mechanism of action of bupropion is not well understood. Bupropion is likely to exert its pharmacological effects by weakly inhibiting the reuptake of both dopamine and norepinephrine, therefore prolonging their duration of action within the neuronal synapse and their downstream effects. When taken to quit smoking, bupropion may confer both anti-craving and anti-withdrawal effects by inhibiting dopamine reuptake, which mediates the reward pathways associated to nicotine use, and through the antagonism of the nicotinic acetylcholinergic receptor [
+30
+].
+Bupropion also acts by alleviating some of the symptoms of nicotine withdrawal, which include depression, reducing the overall severity of withdrawal syndrome. Highly nicotine-dependent smokers who receive bupropion are more likely to experience a decrease in depressive symptoms associated with abstinence. Nevertheless, bupropion efficacy for nicotine addiction is due to a distinct property other than its anti-depressant activity. In fact, its positive outcomes regarding smoking cessation have been demonstrated even in patients not suffering from depression [
+31
+].
+Bupropion nearly doubled smoking cessation rates compared to placebo, and it was equally effective in men and women [
+31
+].
+Bupropion is recommended also to avoid weight increase after smoking cessation. Indeed, Hays et al. reported both better weight control and higher smoking cessation rates than placebo one year after bupropion discontinuation [
+30
+]. Furthermore, it could be useful to prevent relapse both in smokers and in alcoholic patients. Patients who quitted smoking using bupropion for 7 weeks delayed relapse if they continued taking it for a total of 52 weeks. In COPD patients, bupropion could impair ventilatory responses to hypoxia and hypercapnia, leading to potentially harmful effects on disease progression. However, no studies on COPD patients taking bupropion confirmed such hypothesis [
+32
+].
+Bupropion should be started before the patient’s planned quit day. The patient should set a “target quit date” within the first 2 weeks of therapy and could continue smoking during treatment since this does not significantly affect the pharmacodynamics of bupropion. Steady-state blood levels are usually achieved after 1–2 weeks of treatment. If the patient is not able to quit within the target date, it is possible to delay smoking suspension until the third or fourth week of treatment or when abstinence is reached [
+12
+].
+The recommended and maximum dosage of bupropion is 300 mg daily (150 mg twice daily). The dosage could be decreased to 150 mg daily if the patient does not tolerate the entire dose due to adverse reactions occurrence. Two previous RCTs found similar efficacy between bupropion 300 mg daily and 150 mg daily doses, but the latter was associated with fewer side effects [
+33
+].
+Bupropion should be used with caution in patients with liver disease and renal disease. The dose recommended in these patients is 150 mg daily.
+Absolute or relative contraindication to bupropion use are pregnancy and breastfeeding, history of seizures, epilepsy, brain and cranium neoplasms, current or prior diagnosis of bulimia or anorexia nervosa, simultaneous discontinuation of alcohol or sedatives/benzodiazepines, current use of monoaminoxydase inhibitors or use of these drugs in the previous 14 days [
+12
+].
+Regarding patients with CV disease, no clinical study highlighted any safety concern [
+34
+]. Insomnia, dry mouth, and headache are the most common adverse events associated with bupropion use. Insomnia is certainly the most frequent adverse event and it could be avoided by taking the first dose of bupropion early in the morning and the second dose in the late afternoon, at least 4 h prior bedtime. Insomnia could be limited even reducing the dose to 150 mg daily [
+12
+].
+A very small risk of seizure exists, and it is the most alarming adverse event associated with bupropion. It is quite rare (1:1000) and it is facilitated by some pre-existing risk factors, such as severe head injury, epilepsy, food disorders, arteriovenous malformations, cerebral neoplasms or infections, severe stroke and cerebrovascular disease, concomitant use of other medications that lower the seizure threshold [
+12
+]. Rare cases of angioedema [
+35
+] and syndrome of inappropriate antidiuretic hormone secretion have been reported, with the latter frequently associated with antipsychotic therapy [
+36
+].
+4.4
+Cytisine
+Cytisine is a natural alkaloid found in several plant genera, such as Cytisus Laburnum and Sophora Tetraptera. Cytisine acts similarly to varenicline. It is a partial agonist selective for α4β2 nicotinic acetylcholine receptors, responsible for nicotine effects, and it prevents nicotine binding, thus reducing rewarding and both withdrawal symptoms and craving. Cytisine is available as oral tablets containing 1.5 mg of active principle [
+37
+].
+Clinical data on cytisine found an efficacy similar, or even higher, than NRT regarding the likelihood of smoking cessation. However, cytisine has a greater propensity to adverse events, even though they are mainly minor such as nausea, vomiting, and sleep disorders [
+38
+,
+39
+].
+The recommended dose is 1 tablet (1.5 mg) every 2 h up to 6 tablets per day on day 1–3. In the meantime, the patient should reduce smoking to avoid nicotine overdosing symptoms. If the desired therapeutic effect is not obtained, the treatment should be interrupted and another cycle could be attempted after 2–3 months. If indeed a good response is achieved, the patient continues the treatment with 5 tablets per day (1 tablet every 2.5 h) on day 4–12, suspending smoking on day 5. The following therapy proceeds with 4 tablets per day (1 tablet every 3 h) on day 13–16, then with 3 tablets per day (1 tablet every 5 h) on day 17–20, lastly with 1 or 2 tablets per day (1 tablet every 6–8 h) on day 21–25 [
+19
+].
+Italian experience reports a longer treatment schedule (up to 40 days), which begins with a progressive increase in dosage of cytisine 1.5 mg. The maximum dose of 6 tablets per day is gradually reached in 7 days. Target quit date should be set between the 8th and the 14th day. Then the dose decreases slowly until the 40th day [
+40
+]. Cytisine overdosing is similar to nicotine intoxication and produces nausea, vomiting, clonic seizures, tachycardia, mydriasis, headache, fatigue, respiratory pump failure.
+4.5
+Anxiolytics and Other Antidepressants
+Many smokers are also affected by anxiety and depressive disorders, which could be emphasized by nicotine deprivation and/or the loss of smoking habit. Almost every smoker who attempts to quit manifests withdrawal symptoms such as irritability, restlessness, psychomotor agitation, insomnia, and anxiety. Although there are no specific data regarding the use of anxiolytics for smoking cessation, their role remains essential to manage associated anxiety disorders. Anxiolytics such as benzodiazepines (i.e. low dose and sustained-release alprazolam), could be helpful for the management of withdrawal symptoms [
+41
+]. Specific treatment is indicated if an overt mixed anxiety-depressive disorder is present, together with the smoking cessation drug regimens.
+The most effective and safe antidepressants are selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), atypical antidepressants (i.e. mirtazapine), and serotonin modulators (i.e. trazodone). Due to their proven effectiveness and tolerability, and the amount of available evidence, SSRI should be the first choice. Among SSRIs, sertraline and escitalopram have a good efficacy/safety profile [
+42
+].

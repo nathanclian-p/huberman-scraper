@@ -1,0 +1,182 @@
+Thank you for joining the Huberman Lab Neural Network—a once-a-month newsletter with science and science-related tools for everyday life. This newsletter aims to provide you with actionable information in a condensed form.
+Our recent
+guest series
+with Dr. Matt Walker was a deep dive into the biology of sleep, tools to improve your sleep, and how specific factors (like caffeine, alcohol, and naps) influence sleep quality. The
+final episode
+concluded with a Q&A session covering the 10 most popular audience questions about sleep. This newsletter is a summary of these questions and answers.
+What are the best practices for managing rumination and negative thoughts when trying to fall asleep?
+If you have racing thoughts or sleep-onset insomnia related to anxiety, use the following strategies:
+Meditation, either guided breathing or guided relaxation. The Waking Up meditation app offers a
+free 30-day trial
+. (Disclosure: Waking Up is a Huberman Lab sponsor.)
+Body scans – where your focus moves progressively from one part of the body to another. (Non-sleep deep rest, or NSDR, typically includes a body scan and can be very effective in helping you fall asleep. Here are scripts for a
+10-minute NSDR
+and a
+20-minute NSDR
+.)
+Breathing techniques, especially those emphasizing long-exhale breathing
+Take a “mental walk” – visualize a familiar route in great detail as though you mentally walk yourself through it
+What is the best position to sleep in?
+Avoid sleeping on your back
+, as it increases the likelihood of
+snoring
+or that your airway could collapse, causing a “hypoxic event.”
+Dr. Walker suggests being curious and determining whether you snore or not. Use an app like
+SnoreLab
+to monitor your breathing throughout the night. In the morning, the app will provide a visual of your snoring distribution. Eight Sleep’s
+Pod Covers
+can now detect snoring as well. (Disclosure: Eight Sleep is a Huberman Lab sponsor.)
+If you get a confirmation of snoring, consult with your doctor; 80% of people who have
+sleep apnea
+are undiagnosed. Sleep apnea negatively affects your health and lifespan. When treated, sleeping through the night will be transformational for your mental and physical health.
+If you consume
+alcohol
+, expect snoring to increase.
+Why do I wake up at 3:30 a.m., no matter what time I go to sleep?
+Waking up at a specific time (like 3:30 a.m.) is likely due to the
+end of a sleep cycle
+and/or due to a learned habit.
+During REM sleep, your body is paralyzed, and upon exiting this phase, the body needs to move and reposition, which often briefly awakens you. Normally, these awakenings are so brief that you don’t remember, but some will wake you up fully.
+Checking the time when you wake up at night can train your brain to continue waking at that time. This is a form of
+learning
+whereby checking the clock strengthens the memory association with that specific time.
+Remove visible clocks from your bedroom to help disrupt this pattern.
+Can we “bank” sleep or catch up on lost sleep?
+“If you don’t snooze, you lose” – is true for certain activities like learning, meaning that if you don’t get good sleep the first night after learning, you lose much of the chance to consolidate (“save”) the new information in your memory. Naps can help offset that somewhat, but it’s best to sleep as well as possible the night after learning something important to you, in order to maximize your chances of retaining the information.
+You can’t accumulate a sleep “debt” and then pay it off later, such as on the weekend. The body can
+only recoup ~25% of the lost hours
+. Frequently sleeping less than the recommended 7 to 8 hours/night (some may need 6, others 9 or even 10 hours!) means you will always be running a sleep debt - predictive of ill health outcomes and early mortality.
+However, if you
+anticipate sleep loss
+, you can proactively increase (or “bank”) your sleep ahead of time to mitigate the impact of the sleep debt you will incur.
+This is particularly useful for those professions requiring irregular hours, like doctors or emergency responders. However, it’s important to note that this doesn’t entirely remove the impact of sleep loss.
+What are some of the best practices for getting back to sleep after waking up in the middle of the night?
+Don’t try too hard!
+Getting back to sleep can be frustrating. Instead of trying hard to fall asleep, which can often be counterproductive, take a more relaxed approach.
+If you are struggling to fall back asleep, just embrace the concept of
+rest
+.
+This will reduce your stress levels and naturally facilitate getting back to sleep.
+Again,
+NSDR scripts
+can be very helpful for falling asleep initially and falling back asleep after waking up in the middle of the night.
+I used to be a great sleeper, but as I’ve gotten older, I wake up much earlier than I did previously and/or difficult for me to get more than six hours of sleep. What do you think is going on, and what are some remedies?
+In older adults, there is a
+significant decline in deep sleep and sleep quality
+. Sleep becomes more fragmented and less efficient with age. Changes in circadian rhythm cause sleep to become more fragile during the second half of the night, leading to a greater probability of waking up early.
+These sleep changes negatively impact health risks and mortality.
+Older adults should consider gradually
+delaying their bedtime
+to address early waking. If you go to sleep at 10 pm, but your body wakes up naturally at 4 am, try pushing your bedtime to 11 pm to encourage the body to sleep later into the morning.
+Cognitive behavioral therapy for insomnia (
+CBTI
+) is also effective for older adults dealing with sleep issues.
+Consider discussing any sleep issues with your physician. Sleep medications, such as doxepin, trazodone, or dual orexin receptor antagonists (DORAs), can be prescribed for older adults who have trouble falling or staying asleep.
+Are there any sleep techniques specific to menopause for getting better sleep?
+Menopause (also premenopause and perimenopause) causes physiological changes that greatly disrupt sleep patterns.
+Hot flashes
+are a frequent symptom of menopause and can significantly disrupt sleep, as the body needs to stay cool to stay asleep.
+To mitigate the effect of hot flashes, keep the
+bedroom cool
+and consider using a
+cooling pad,
+mattress cover
+, or mattress
+. These changes will make the sleep environment more conducive to restful sleep.
+Changes in hormones during menopause are also problematic for sleep.
+Various forms of hormone replacement
+therapy
+(HRT) may provide relief by normalizing some of the hormonal changes that occur during menopause, which in turn can improve sleep quality.
+What does it mean if I cannot remember my dreams? Does this have any reflection on my sleep quality?
+Most people don't recall most of their dreams. Not remembering dreams
+does not indicate problems with your sleep quality
+or REM sleep, nor does it affect the quality of your waking day.
+​
+Lucid dreaming
+is a unique case; the data suggest this type of dreaming might not be conducive to quality, restorative sleep.
+Dr. Walker proposed that even if we can’t consciously remember our dreams, they could still
+implicitly influence
+our behavior. These forgotten dreams might still exist in our minds, impacting us without our conscious awareness or accessibility.
+What are the key supplements for sleep?
+Many people don’t need supplements for sleep, and supplements should never be used as a first-line approach for sleep issues. Adjust your behaviors first: focus on your quality, quantity, regularity, and timing (
+QQRT
+), and optimize
+sunlight/darkness
+,
+temperature
+, and other factors before adding supplementation. These behavioral methods are far more impactful to course-correct your sleep than any supplement.
+When fine-tuning your sleep, you can try the supplements listed below. These are most effective when taken 30-60 minutes before bed.
+Magnesium
+threonate or bisglycinate supplements can induce mild drowsiness. In older adults, magnesium has been shown to increase the total amount of deep sleep.
+Magnesium deficiency is a fairly common problem; these supplements are especially impactful in aiding sleep for these individuals.
+Consider taking magnesium threonate, magnesium bisglycinate, or magnesium chloride.
+“SlowMag” is a coated form of magnesium that is easier on the stomach for individuals who experience gastric distress with magnesium supplementation.
+Apigenin
+(50 mg) is derived from chamomile and helps in reducing anxiety to aid the transition to sleep.
+Theanine
+(100-400 mg) can help you relax and fall asleep. Note: for people who experience vivid dreams that disturb their sleep, theanine can exacerbate this issue.
+Inositol
+(900 mg) is particularly beneficial if you wake up during the night and struggle to fall back asleep, as it can reduce the time needed to return to sleep.
+Glycine
+(1.5-2 g) has shown reliable sleep benefits in randomized controlled trials.
+Phosphatidylserine
+(100 mg) decreases the cortisol response, which can be helpful for individuals with insomnia.
+Always consult with a healthcare provider before beginning any new supplement regimen. Start slowly and use only one supplement at a time before you consider combinations.
+If you could give just one tip for getting better sleep, what would that be?
+Pay attention to your
+sleep regularity and timing
+.
+Keep your sleep schedule regular by keeping your sleeping and waking times consistent (
+even on weekends!
+). This anchors the body's internal circadian clock and will improve overall sleep quality.
+For timing, determine your chronotype and sleep in
+sync with your natural chronotype
+as best you can
+My advice for anyone trying to improve their sleep is to start with the protocols listed here, even if only a few of them, and to listen to the complete guest series with Dr. Matt Walker.
+Episode #1
+discusses the
+biology of sleep
+and the basics (including the QQRT framework) for how to get better sleep.
+Episode #2
+covers practical tools to
+improve sleep
+.
+Episode #3
+explains how
+naps, caffeine
+, food, and alcohol impact sleep.
+Episode #4
+explains the role of sleep in
+learning, memory, and creativity
+.
+Episode #5
+discusses sleep’s impact on
+emotional health
+and mental health. Finally,
+Episode #6
+covers
+dreams
+, nightmares, and lucid dreaming.
+Stay Connected
+New Huberman Lab episodes are released each Monday on
+YouTube
+,
+Apple Podcasts
+,
+Spotify
+, and all
+major podcast platforms
+. Please subscribe to or follow those channels to be notified when we publish new content. I also post additional science and science-based tools on
+Instagram
+,
+X
+,
+Threads
+,
+LinkedIn
+, and
+Facebook
+.
+Thank you for your interest in science!
+Best wishes,
+Andrew

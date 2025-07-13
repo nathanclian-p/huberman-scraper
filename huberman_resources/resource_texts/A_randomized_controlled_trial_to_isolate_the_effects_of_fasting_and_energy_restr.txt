@@ -1,0 +1,17 @@
+Submission history
+Received
+: 13 July 2020
+Resubmitted
+: 22 January 2021
+Accepted
+: 10 May 2021
+Acknowledgments
+We thank all those who volunteered to take part in this research and I. Townsend for collating raw data for archiving.
+Funding:
+This work was funded by the University of Bath and Nottingham Trent University.
+Author contributions:
+I.T., L.G.K., K.T., D.T., and J.A.B. contributed to conceptualization. I.T., H.A.S., Y.-C.C., and J.A.B. curated data. I.T., H.A.S., E.C., Y.-C.C., A.H., R.S., D.C., I.V., S.R., A.W., J.-P.W., and J.A.B. analyzed data. I.T., D.C., I.V., D.T., and J.A.B. contributed to funding acquisition. I.T., H.A.S., Y.-C.C., H.C., D.J.-.B, J.-P.W., D.T., and J.A.B. conducted the investigation. I.T., E.C., L.G.K., K.T., J.-P.W., J.T.G., D.T., and J.A.B. contributed to methodology. I.T., J.T.G., D.T., and J.A.B. contributed to project administration. J.T.G., D.T., and J.A.B. provided the resources and supervision. J.C. and S.R. provided the software. H.A.S., E.C., R.S., J.-P.W., D.T., and J.A.B. were involved in validation. I.T., H.A.S., J.T.G., and J.A.B. contributed to data visualization. I.T. and J.A.B. wrote the original draft. All authors contributed to review/editing and approved the final submission.
+Competing interests:
+Y.-C.C. has received research funding from Ministry of Science and Technology in Taiwan. H.C. has received research funding from ESRC, European Hydration Institute, and the Esther Olssons stiftelse II and Anna Jönssons Minnesfond; has conducted research for Tate and Lyle; and has received conference, travel, and accommodation fees from Danone Nutritia Research. D.C. has received research funding from the British Nutrition Foundation. K.T. has received research funding from BBSRC, MRC, and Nestlé. S.R. has received research funding from Kellogg’s, the Organix Foundation, and the MRC Newton-Ungku Omar Fund. J.T.G. has received research funding from Arla Foods Ingredients, Lucozade Ribena Suntory, Kenniscentrum Suiker and Voeding, and PepsiCo. D.T. has received research funding from Unilever. L.G.K. is an employee of Nestlé. J.A.B. is a named investigator on research grants funded by BBSRC, MRC, British Heart Foundation, Rare Disease Foundation, EU Hydration Institute, GlaxoSmithKline, Nestlé, Lucozade Ribena Suntory, ARLA Foods, and Kennis Centrum Suiker; has completed paid consultancy for PepsiCo, Kellogg’s and SVGC; receives an annual stipend as Editor-in-Chief of International Journal of Sport Nutrition and Exercise Metabolism; and receives an annual honorarium as a member of the academic advisory board for the International Olympic Committee Diploma in Sports Nutrition.
+Data and materials availability:
+All data associated with this paper is present in the main text or the Supplementary Materials. Primary data are available in data file S1.

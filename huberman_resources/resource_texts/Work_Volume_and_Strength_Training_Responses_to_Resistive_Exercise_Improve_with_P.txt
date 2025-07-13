@@ -1,0 +1,385 @@
+Introduction
+Resistive exercise training is a mainstay of most competitive athletic programs. Success of a resistive exercise training program is often defined by the magnitude of the gains in strength and work volume. One established method for enhancing the strength and work volume training responses is the use of performance-enhancing drugs (PEDs) that are prohibited by most athletic organizations. Despite the risks of substantial penalties for use, PED supplementation during resistive exercise training persists (
+1,5
+). A nonpharmacological method for enhancing training responses to resistive exercise would decrease the allure of PEDs as an ergonomic training aid for athletes competing in organized sports (
+22
+). Previously, we demonstrated the value of core-body cooling on endurance in aerobic exercise and in recovery (
+15,16
+). In this study, we investigated whether a similar noninvasive transient temperature manipulation could augment strength and work volume training responses in resistive exercise conditioning protocols.
+Temperature influences the rates of most biological processes. Mammalian skeletal muscle function is no exception. In vitro, in situ, and in vivo studies have demonstrated that there is an optimal temperature range for maximum muscle performance (
+3,7,9,10,26,29,31,33–35
+). Increasing muscle temperature to the optimal range improves muscle function. However, above the optimal temperature range, the contractile force capacity of skeletal muscle diminishes precipitously. Maintaining muscle temperature within the optimal zone during high-intensity exercise is problematic. During high-intensity exercise, energy consumption and, thus, heat production of active skeletal muscle can increase by 100-fold over the resting state (
+39
+). The primary vehicle for removing heat from active muscle is the circulating blood (
+12,24
+). The heat capacity of the blood and the slow time constant for the heat transport process can result in a transient increase in local muscle temperature during high-intensity exercise. As exercise continues, there is a progressive buildup of heat in the working muscle and the body core because the circulating blood removes heat from the muscle and disperses it through the large mass of body tissue. However, as the temperature of the body increases, it becomes a less effective heat sink and the temperature of the active muscles increases more rapidly.
+Internally generated heat is transported by the circulating blood to the skin where it is lost to the environment. Thermoregulatory-induced vasodilation facilitates heat loss by increasing blood flow to the skin. However, thermoregulatory-related increases in blood flow to the skin are not uniform. Only the glabrous skin regions of the body surface can accommodate large increases in blood flow (
+40
+). The unique vascular structures underlying the glabrous skin regions function as the body's radiators. The cooled venous blood returning to the heart from the glabrous skin regions mixes with warmer venous blood returning from the active tissues. Thus, the effect of local muscle activity on the temperature of the various tissues and organs of the body is determined by (a) the temperature of the mixed arterial blood leaving the heart and (b) the regional distribution of that cardiac output. In the active muscle, the amount of heat that can be removed is determined by the blood flow through that muscle and the temperature differential between the muscle tissue and the blood. Therefore, extracting heat from the circulating blood should increase the capacity of the circulating blood to absorb heat from the active muscles and reduce the rate of local heat accumulation in the active muscles during bouts of high-intensity exercise. If muscle temperature is a performance-limiting factor, such a treatment should enable an increase in performance.
+Direct manipulation of muscle temperatures—by applying a heat sink to the local body region immediately before exercise (e.g., cold water immersion or local application of ice packs to the skin regions overlying the muscles to be used during the exercise)—has been reported to increase work volume of single resistive exercise sessions (
+37,38
+) and to increase strength responses to 5 days of training (
+6
+). Indirect manipulation of muscle temperature—by extracting heat out of the circulating blood via the glabrous skin region of a single hand (palm cooling) between sets of exercise—has been reported to increase work volume of single resistive exercise workout sessions (
+25
+). However, it is yet to be determined whether elevated core temperatures directly impact work volume during resistive exercise or whether palm cooling improves strength and work volume–training responses.
+We investigated the effects of altering core temperature and periodic palm cooling on resistive exercise performance. We asked whether heat stress would directly affect work volume during resistive training and whether brief palm cooling between sets of resistive exercises in a thermoneutral environment would affect work capacity and strength training responses. The hypotheses tested were as follows: (a) elevated core temperatures (i.e., heat stress) diminish work volume during resistive exercise, (b) palm cooling between sets of resistive exercises will increase the work volume training response, and (c) palm cooling between sets of resistive exercise will increase the strength training response.
+Methods
+Experimental Approach to the Problem
+Each of the 3 hypotheses was tested in a series of studies using a variety of resistance training exercise protocols denoted as Protocol 1: Heat stress and fatigue, Protocol 2: Work volume training response, and Protocol 3: Strength training response. All the studies were of a crossover design with the exception of 1 component of protocol 2 that was of a 2-group parallel design. In all the protocols, the dependent variables were resistive exercise performance metrics—either work volume or strength. The independent variables were temperature related.
+Protocol 1—Heat Stress and Fatigue
+This protocol assessed the effects of elevated core temperature on resistive exercise work volume. For this protocol, heat stress was designated at a core temperature of 39.0° C. The independent variable—core temperature—was manipulated using lower body exercise in a hot environment and palm cooling. The dependent variable was work volume of bench press exercises in the hot environment, and this measure was taken as an assessment of the effect of increased core-body temperature on work volume.
+Protocol 2—Work Volume Training Response
+This protocol assessed the effect of heat extraction on the work volume training responses to pull-up or bench press exercise training programs of 3- or 6-week durations. The independent variable was treatment between sets of exercise (3 minutes of rest with palm cooling or 3 minutes of rest only). The dependent variable was work volume. In addition, the pull-up training protocol was applied to both naive and experienced individuals to assess the influence of prior training on the response to palm cooling. Exercise history (≥2 years of prior pull-up training vs. no previous pull-up training) was the independent variable for this comparison.
+Protocol 3—Strength Training Response
+This protocol used a pyramid bench press training program to assess the effect of palm cooling on the strength training response. The independent variable was treatment between sets of bench presses (either 3 minutes of rest with palm cooling or 3 minutes of rest only). The dependent variable was weight lifted during the apex set of the pyramid bench press exercise. The strength training response, as determined by weights lifted in pre and posttraining 1 repetition maximum (1RM) tests (as described in
+[8]
+), were compared with literature values reported for strength training effects associated with PED augmentation of similar training protocols (
+4,32
+). For this comparison, treatment (palm cooling vs. PED supplementation) was the independent variable and mean percentage increase in 1RM was the dependent variable.
+Subjects
+Potential subjects were recruited by word of mouth. Participation in the research was voluntary. Inclusion criteria were as follows: (a) no known medical problems, (b) not under treatment for any medical problem, (c) not on medication, (d) engaged in physical exercise for a duration of ≥30 minutes, minimum 3 times per week for the previous 6 months. The exclusion criterion was participation in another research project. Before inclusion in the study, the subjects responded to a screening questionnaire assessing eligibility for participation. Self-reported training backgrounds (including weight training histories and 1RMs) were a part of the questionnaire. Although enrollment in these studies was open to both men and women, only men volunteered to participate. A total of 67 subjects (age range: 19–23 years, height range: 160–190 cm, weight range: 54–88 kg) participated in these studies. Stanford University has and follows written policies and procedures setting forth the ethical standards and practices of the Human Research Protection Program. The protocols for these studies were approved by a Stanford University Institutional Review Board (IRB). The subjects were informed of the study procedures, and they signed an informed consent document that had been approved by the Stanford University IRB. At the time of obtaining consent, each subject was assigned an alphanumeric identifier that was used thereafter in accordance with the U.S. Department of Health and Human Services Health Insurance Portability and Accountability Act of 1996 guidelines.
+Procedures
+Palm Cooling Equipment
+The custom-built heat extraction device for use on 1 hand consisted of a rigid acrylic cylindrical chamber (20-cm diameter × 21-cm length) into which a hand was inserted through an attached closed cell foam sleeve that formed a flexible airtight seal around the forearm. Inside the chamber, the palm rested on curved stainless steel plate (a 21- × 20-cm section of a 75-cm circumference sphere, 2-mm thickness). Temperature-controlled water was circulated beneath the plate through a series of manifold-linked, substantially-straight 1.0- × 1.0-cm channels milled into the mating surface of an aluminum block configured to abut the underside of the stainless steel plate. Several iterations of these cooling devices have been described (
+14–17,23,25
+).
+The device was tethered to a circulating water bath (e.g., Meditherm III, Gaymar Industries, Orchard Park, NY, USA; Blanketrol II, Cincinnati Sub-Zero Products Inc., Cincinnati, OH, USA; or Neslab RTE 17, Thermo Fisher Scientific Corp., Waltham, MA, USA) via a clear flexible laboratory tubing (e.g., 13-mm OD Tygon R-3603, Saint-Gobain Performance Plastics Corp., Aurora, OH, USA) and nonleak quick disconnect fittings mounted in the acrylic cylinder walls and Tygon tubing (e.g., Panel Mount Hose Barb Couplings and In-Line Hose Barb Inserts, U.S. Plastic Corp., Lima, OH, USA). Water at 15–16° C was circulated through the perfusion system at a rate of 1.0–2.0 L·min
+−1
+. Another quick release port in the rigid acrylic chamber was connected via clear flexible tubing and barbed slip connectors (e.g., Black HDPE Tees, U.S. Plastic Corp.) to an adjustable pressure relief valve (e.g., series 200 Smart Products, Inc., Morgan Hill, CA, USA), a pressure gauge (e.g., model # EW-680023-00, Cole-Parmer, Vernon Hills, IL, USA), and an in-house vacuum system. When activated, the vacuum system created a subatmospheric pressure environment inside the chamber (–40 mm Hg).
+Environments and Exercise Equipment
+Protocol 1 was conducted in a 2.4- × 3.3- × 2.4-m (width, length, height) temperature-controlled environmental chamber maintained at an ambient temperature (
+T
+a
+) of 41.5 ± 0.5° C, 20–35% relative humidity (RH) that housed treadmills (model SC7000, SciFit, Tulsa, OK, USA) and a free-weight bench press station (MegaTuff narrow bench, MegaFitness, Melbourne, FL, USA). Protocols 2 and 3 were conducted in a laboratory (
+T
+a
+= 23 ±1.0° C, 20–30% RH) that housed resistive exercise training stations including a steel bar (4.5 cm diameter, 1.8-m length) mounted 2.2 m off the floor on a rigid steel frame for pull-up exercises and a free-weight bench press station.
+Monitoring Equipment
+Protocol 1—heat stress and fatigue. Esophageal temperature (
+T
+es
+) was measured by a general purpose thermocouple probe (Mon-a-Therm # 503–0028, Mallinckrodt Medical Inc., St. Louis, MO, USA) self-inserted through the nose or mouth to a depth of 38–39 cm. The thermocouple probes were held in place by a loop of surgical tape (Transpore, 3M Corporation, St. Paul, MN, USA) adhered to the skin adjacent to the nostril opening or lower lip. The probes were connected to a laptop-based thermocouple transducer and data collection system (GEC instruments, Gainesville, FL, USA) that recorded temperature data at 1-second intervals. As per the IRB approved protocol, 90% maximum heart rate (determined in pretrial V[Combining Dot Above]O
+2
+max tests) served as a stop criterion for the treadmill exercise and, thus, commercially available heart rate monitors were worn by the subjects during treadmill exercise (model S810, Polar Electro Oy, Kempele, Finland). Hand-noted data logs were also maintained for each trial. Subject identifier, date, treatment, pre and posttrial nude weights, treadmill exercise duration, bench press performance data (weights lifted and numbers of repetitions for each set), and miscellaneous observations were recorded on these data sheets along with temperature and heart rate measurements (during the treadmill exercise phase only) noted at 3- to 4-minute intervals. At the conclusion of each trial, temperature and heart rate data were downloaded to—and the performance data entered into—a spreadsheet (Microsoft Office Excel for Windows 2003, Microsoft Inc., Redmond, WA, USA) for subsequent analysis.
+Protocols 2 and 3—work volume and strength training responses: Performance metrics were recorded in these studies. The data from individual trials were recorded manually. The performance data for the pull-up exercises were the number of repetitions performed in each set and, for the bench press exercises, the number of repetitions and weight lifted in each set. The performance data were entered into a Microsoft Office Excel spreadsheet for subsequent analysis.
+Protocols
+General
+All the trials were conducted during the daylight hours (between 9:00 AM and 6:00 PM Pacific Standard Time). All the trials on an individual subject were conducted at the same time of the day (±1 hour) and were separated by a minimum of 72 hours. To minimize seasonal effects, each protocol was executed during a limited portion of the year. Monitoring the activities of the subjects outside of the laboratory was beyond the scope of this project, but the subjects were encouraged to maintain a consistent life style while participating in the trials (i.e., usual diet regimes, training routines, sleep patterns, and caffeine and alcohol consumption).
+Hydration was not a critical variable in these studies. In protocol 1, the subjects were not allowed to consume fluids during the trials because drinking created artifacts in the
+T
+es
+record, but before leaving the laboratory, each subject consumed a volume of water equivalent to the weight lost (based on preexercise and postexercise nude weights) during the trial. In protocols 2 and 3, the subjects were given ad libitum access to water.
+The experimental manipulation for all the protocols was palm cooling. All the subjects wore warm weather exercise attire during the trials (i.e., light tops, shorts, socks, and athletic shoes).
+Protocol 1—Heat Stress and Fatigue
+These trials were conducted between April and October. Eight subjects participated in these trials. Treadmill exercise with or without palm cooling was used to manipulate
+T
+es
+.
+Pretrial assessment and familiarization. Before the experimental trials, each subject participated in order: (a) a V[Combining Dot Above]O
+2
+max test, (b) a treadmill test in the hot environment, and (c) 4 familiarization sessions in the hot environment. The V[Combining Dot Above]O
+2
+max tests were conducted on a treadmill (model 9800, Nordic Track, ICON, Logan, UT, USA) housed at an ambient temperature of 23 ± 1° C using a respiratory gases/metabolic analysis system (Parvomedics, Salt Lake City, UT, USA). For the V[Combining Dot Above]O
+2
+max tests, the subjects were equipped with the heart rate monitoring equipment, a snorkel mouthpiece and nose plug from the respiratory gas analysis system. Once equipped, the subjects stood on the idle treadmill for 5 minutes. After 5 minutes of baseline data collection, the speed of the treadmill was increased by 3.2 km·h
+−1
+increments at 3-minute intervals until oxygen consumption stabilized for 30 seconds or subjective exhaustion occurred. V[Combining Dot Above]O
+2
+max and maximum heart rate were noted for each subject.
+A Balka protocol continuous treadmill test was used to assess the subjects' functional capacities. The treadmill speed was 5.63 km·h
+−1
+, and the slope of the treadmill was increased by 2% at 3-minute intervals starting from a slope of 0%. The stop criteria for the treadmill tests were a heart rate of 90% of the maximum attained in the prior V[Combining Dot Above]O
+2
+max test or subjective fatigue.
+The familiarization sessions mimicked the experimental trials: a bout of treadmill exercise followed by 4 sets of bench press exercises with 3-minute rests between the bouts of exercise (treadmill and sets of bench press). The treadmill speed was set at 5.63 km·h
+−1
+for all the subjects. The slope of the treadmill was adjusted for each subject. In the first familiarization trial, the treadmill slopes were set at a slope that would result in a work load of approximately 60% V[Combining Dot Above]O
+2
+max. The weights used during the bench press portion of the first familiarization trial were set at 40% of each subject's self-reported 1RM. These self-reported 1RMs served solely as a rough guide for the weights used during the first familiarization trials. During the familiarization trials, the subjects were trained to perform the bench press exercises at a fixed cadence (2 seconds for both the up and down phases of the each repetition with the multiple repetitions executed in a series of continuous cycles). Through the course of the 4 familiarization trials, the treadmill slopes and the bench press weights were adjusted so that each subject reached the target
+T
+es
+(39° C with no palm cooling) with 30–45 minutes of treadmill exercise and could complete 12–15 repetitions in the first set of bench presses.
+Experimental trials. The experimental trials were conducted in the hot environment and consisted of treadmill exercise followed by 4 sets of bench press exercises initiated 3 minutes post treadmill exercise and interspersed with 3-minute rests (interset rest). The treadmill speed was set at 5.63 km·h
+−1
+for all the subjects. The treadmill slopes and bench press weights were individualized for the each subject (as determined in the familiarization trials) and remained constant throughout all the experimental trials. The treadmill slopes ranged from 9 to 11% (10.3 ± 0.7, mean ±
+SD
+). The bench press weights ranged from 47 to 102 kg (74 ± 24 kg, mean ±
+SD
+). Two end of treadmill exercise core temperature conditions were generated: (a) exercise without palm cooling with a stop criterion of
+T
+es
+= 39° C and (b) exercise with palm cooling at the same workload and of the same duration as during exercise without palm cooling. With palm cooling, the stop criterion was treadmill exercise time. Three minutes after the termination of the treadmill exercise, the first set of bench press exercises was initiated. Each subject completed 3 sets of paired palm cooling trials and no cooling trials.
+The timeline for protocol 1 was as follows: Week 1: a V[Combining Dot Above]O
+2
+max test (day 1) and baseline assessment of treadmill performance capacity in the heat (day 3).Weeks 2 and 3: familiarization trials (2 trials per week). Weeks 4–6: paired experimental trials (1 pair of trials each week). The treatment order for the paired treatments was randomized.
+Protocol 2—Work Volume Training Response
+The daily protocol consisted of repeated sets of overhand grip pull-up or bench press exercises separated by 3 minutes of interset rest. Before participation in the studies, the subjects were trained in the proper execution (form and cadence) of the designated exercise. The subjects performed the exercises to muscle failure in each set. Failure manifested as the inability to complete a repetition of the assigned exercise—raising the chin above bar level at the top of a pull-up or locking the elbows at the top of a bench press. The subjects performed 2 trials per week. Treatments were either palm cooling during interset rest or interset rest only.
+Pull-up exercises. In 1 pull-up study, 7 subjects with a minimum of 2 years of prior pull-up training participated in a 6 week series of palm cooling during interset rest trials (12 sequential trials) and either a 2-week series of interset rest only trials (4 sequential trials,
+n
+= 4) or a 6-week series interset rest only trials (12 sequential trials,
+n
+= 3). In 3 subjects, the order was training with interset rest only followed by training with palm cooling during interset rest. The treatment order was reversed in the other 4 subjects. These trials were conducted between October and December. The daily exercise routine consisted of 10 sets of pull-up exercise and rest cycles.
+In a second pull-up study, 11 recreational athletes naive to pull-up exercises served as subjects. These trials were conducted between November and April. Each subject participated in 12 sequential trials with palm cooling during interset rest and 12 sequential trials with interset rest only. The daily exercise routine consisted of 6 sets of pull-up exercise-rest cycles. The daily exercise routine was terminated either after the sixth set or after failure to complete a single pull-up in a set.
+Bench press exercises. This 2-group parallel design study was conducted between January and April. Seventeen recreational athletes participated in a series of 5 bench press workouts. Treatments (palm cooling during interset rest or interset rest only) were randomly assigned to each subject. The bench press weights were set at 50% of each subject's self-reported 1RM weight and remained constant throughout the study. Each workout consisted of 6 sets of bench press exercise-rest cycles.
+Protocol 3—Strength Training Response
+These trials were conducted between October and March. Twenty-four subjects were initially enrolled in this study. Only 10 of the 24 initially enrolled subjects completed the study. Eight subjects exited the study prematurely for personal reasons (e.g., scheduling conflicts or loss of interest), and 6 of the subjects were not at a stable weightlifting plateau during the control phase of the study (see Discussion for an explanation). Each subject performed a pretraining 1RM test and participated in a subsequent 10-week training program (2 weightlifting sessions per week) followed by a posttraining 1RM test. The training sessions consisted of a series of 6 sets of bench presses with 3 minutes of interset rest. The training workouts were of a pyramid design with the weights and number of repetitions for each subject based on the initial 1RM test: set 1, 10 reps at 40% of 1RM; set 2, 7 reps at 60% 1RM; set 3, 4 reps at 80%; set 4, 2 reps at 95% 1RM; set 5, 5 reps at 60% 1RM; set 6, 10 reps at 40% 1RM. Successful completion of 2 reps in set 4 resulted in an increase in the weights used in all 6 sets by 2.7 kg in the subsequent workout. The experimental manipulations were either interset rest only or palm cooling during interset rest. The treatment order was interset rest only for the first eight training sessions (4 weeks) followed by palm cooling during interset rest for the subsequent 12 sessions (6 weeks).
+Statistical Analyses
+Data were analyzed using Microsoft Office Excel for Windows 2003. The data from each protocol were treated in a manner specific for the protocol.
+Data Treatment
+Protocol 1—heat stress and fatigue. The
+T
+es
+at the end of the treadmill exercise and at the end of each set of bench press exercises, weights lifted, and repetitions and sets were tabulated for each trial. The
+T
+es
+s and bench press data (repetitions/set and weight) from each subject were sorted by treatment and averaged before group data analysis. The
+T
+es
+s and total repetitions data were sorted by trial, subject, and treatment.
+Protocol 2—Work Volume Training Response. Total repetitions were tabulated for each trial. The work volume (total repetitions/trial) data were sorted by trial, subject, and treatment. Rates of change in work volume across a treatment phase were determined by tabulating the work volume data from each trial for each subject by trial order and subjecting the tabulated data to a linear regression analysis using Microsoft Office Excel for Windows 2003 data analysis tools. The individual subject results from the regression analysis were then sorted by treatment. Percentage changes in work volume (%ΔWV) during a treatment phase were determined for individual subjects:
+The percentage changes in work volume data were then sorted by treatment.
+Protocol 3—strength training responses. The performance measures (repetitions/set, weights lifted) from each trial were tabulated. The weight lifted during the fourth (apex) set of the training sessions provided a metric for measuring performance changes during the training period. Fourth set weights used on first and last control treatment trial and final cooling trial were tabulated sorted according to subject and order. The 1RM data were sorted by subject and time (pretraining or posttraining).
+Statistical Methods
+All data were summarized using descriptive statistics (mean ±
+SD
+), and all statistical analyses were performed using Microsoft Office Excel for Windows 2003 data analysis tools. The performance measures of each protocol were compared between treatments using paired
+t
+-tests (a
+t
+-test assuming equal variances was used for the 2 group parallel design study). In protocol 1 the
+T
+es
+s were analyzed using a 2 × 4 (treatment [palm cooling, rest]) × time [0, 4, 8, and 12 minutes posttreadmill exercise]) analysis of variance (ANOVA) with repeated measures. In protocol 3, the fourth set weights were analyzed using a 2 × 3 (treatment [palm cooling, rest]) × time [initial control, final control, final treatment]) ANOVA with repeated measures. Where significance was found, post hoc comparisons were conducted using paired
+t
+-tests. For the
+t
+-tests significance was determined at
+p
+≤ 0.05. Post hoc power analyses were used to determine the power of the tests: “SISA-Binomial,” available on line at
+http://www.quantitativeskills.com/sisa/distributions/binomial.htm
+. Alpha was set at 0.05 and the significance was determined at a power level (beta) of 0.8.
+Results
+Protocol 1—Heat Stress and Fatigue
+Palm cooling during the treadmill exercise attenuated the increase in core temperature (end of treadmill exercise
+T
+es
+= 38.4 ± 0.2° C with palm cooling vs. 39.0 ± 0.1° C with no cooling,
+n
+= 8,
+p
+< 0.01, power = 1.0). The differences in
+T
+es
+between the treatment groups persisted throughout the bench press exercise phase of the trials (
+Figure 1
+). Bench press work volume was larger with palm cooling compared with no cooling: total reps/trial: 42 ± 7 reps after palm cooling vs. 36 ± 7 reps after no cooling (
+p
+< 0.001, power = 1.0) (
+Figure 1
+). Because the weights lifted by each subject remained constant throughout the study, changes in the numbers of total repetitions performed in a trial reflected changes in work volumes.
+Figure 1:
+The effect of independent manipulation of core temperature (using fixed time and workload treadmill exercise with and without palm cooling) on subsequent bench press work volume. Treatments: palm cooling (one hand) during treadmill exercise or no cooling during treadmill exercise. Left panel: posttreadmill exercise
+T
+es
+vs. time. The 4-minute intervals approximate the duration of the rest-exercise cycles of the bench press workouts. Right panel: work volume: total number of bench press repetitions in 4 sets with and without prior palm cooling (mean ±
+SD, n
+= 8,
+p
+< 0.001, paired
+t
+-test).
+Protocol 2—Work Volume Training Response
+In
+7 subjects with previous pull-up training
+, work volume improved by 144 ± 83 % over 6 weeks of pull-up training with palm cooling during interset rest compared with 4 ± 11% over 2 weeks of training with interset rest only (
+p
+< 0.01, power = 0.97) (
+Figure 2
+). The total repetitions performed during training with palm cooling went from 134 ± 48 pull-ups (range 70–153 pull-ups) in the initial trials to 298 ± 168 (range 70–616) reps in the final trials (
+p
+< 0.01, power = 1.0). Conversely, there was no change in the total repetitions performed over control treatment phase: the initial control trials 180 ± 66 pull-ups vs. the final control trial, 188 ± 67 pull-ups (NS, power = 1.0). The rates of performance gains over the treatment phases were: 13 ± 8 pull-ups/trial with palm cooling vs. 3 ± 4 pull-ups/trial with no treatment (
+n
+= 7,
+p
+< 0.005, power = 0.96). In the 3 subjects who participated in 6 weeks of interset rest only trials, the rates of performance gains were constant throughout (6 ± 7 pull-ups/trial during the initial 3 weeks vs. 6 ± 4 pull-ups/trial in the final 3 weeks).
+Figure 2:
+The effect of palm cooling on the work volume response to pull-up exercise training in the subjects with prior pull-up training experience. Left panels: individual subject data—total reps/trial vs. trial #. Closed symbols: palm cooling during interset rest, open symbols: interset rest only. For simplicity, only data from the odd numbered trials are presented in this figure. Right panel: regression analysis of pull-up data: rate of change in work volume (pull-ups/set) during the 2 treatment phases (mean ±
+SD, n
+= 7,
+p
+< 0.001, paired
+t
+-tests).
+The
+11 subjects naive to prior pull-up training
+showed a greater rate of improvement with the palm cooling during interset rest than with interset rest only. The total numbers of pull-ups performed in the initial trials were 20 ± 13 with palm cooling during interset rest vs. 21 ± 16 with interset rest only (NS, power = 0.99). The total pull-ups performed in the final sessions were 36 ± 13 with palm cooling during interset rest vs. 25 ± 14 with interset rest only (
+p
+< 0.02, power = 1.0). The rate of performance gains associated with the treatment phases were: 1.7 ± 1.2 pull-ups/trial with palm cooling during interset rest vs. 0.60 ± 0.8 pull-ups/trial with interset rest only (
+p
+< 0.01, power = 0.99) (
+Figure 3
+).
+Figure 3:
+The effect of palm cooling during interset rest on the work volume response to 6 weeks of pull-up exercise training in subjects naive to pull-up exercises. A regression analysis of pull-up data: rate of change in work volume (pull-ups/set) during the 2 treatment phases (mean ±
+SD, n
+= 11,
+p
+< 0.01, paired
+t
+-test).
+Of the 17 subjects participating in the
+bench press trials
+, 8 received palm cooling during interset rest and 9 received interset rest only. The numbers of bench presses performed in the initial trials were 62 ± 13 with palm cooling during interset rest vs. 53 ± 13 with interset rest only (NS, power = 1.0). The numbers of bench presses performed in the final (fifth) trials were 86 ± 10 with palm cooling during interset rest vs. 60 ± 12 with interset rest only (
+p
+< 0.001, power = 1.0). The ratios of final to initial total repetitions were 1.4 ± 0.1 with palm cooling during interset rest vs. 1.1 ± 0.1 with interset rest only (
+p
+< 0.002, power = 0.94) (
+Figure 4
+).
+Figure 4:
+The effect of palm cooling during interset rest on the work volume response to short duration bench press training (5 sequential sessions). Percentage changes in work volume between the initial and final trial of each treatment (mean ±
+SD, p
+< 0.005,
+t
+-test).
+Protocol 3—Strength Training Response
+Palm cooling during interset rest increased the training effect (as determined by the weight used in the fourth set) (
+Figure 5A and B
+). There was a 13.2 ± 3.2 kg increase in the fourth set weights during training with palm cooling during interset rest compared with no change in the fourth set weights during training with interset rest only (palm cooling: initial fourth set weight 97 ± 25 kg, final fourth set weight 110 ± 27 kg; rest only: initial fourth set weight 97 ± 25 kg, final fourth set weight 97 ± 25,
+n
+= 10,
+p
+< 0.001, 2 factor ANOVA). The weights used in the final palm cooling during interset rest session were different from the weights used in both the initial and final interset rest only workouts and initial palm cooling during interset rest workouts (
+p
+< 0.005, power = 1.0). The 1RM tests determined that there was an overall 22 % increase in strength across the 10-week training period—the initial 4 weeks (8 workouts) with interset rest only followed by 6 weeks (12 workouts) with palm cooling during interset rest (97 ± 21 vs.118 ± 29 kg, pretraining vs. posttraining 1RM weights,
+p
+< 0.001, power = 1.0) (
+Figure 5C
+). The mean percentage increases in 1RM observed here are greater than those reported for those reported for PED supplementation of 6 weeks of bench press training and equivalent to those reported for 10 weeks of PED supplemented bench pres s training (
+Figure 6
+) (
+4,32
+).
+Figure 5:
+The effect of palm cooling during interset rest on work volume and strength responses during 6 weeks of pyramid-design bench press training. A, B) Fourth set weights lifted during pyramid style bench press exercise training. A) Individual subject data—fourth set weights (kilograms) vs. trial #. Closed symbols: palm cooling during interset rest, open symbols: interset rest only. Note: This subject participated in an additional series of interset rest only trials after the palm cooling during interset rest phase of the study and posttraining 1RM test. B) group data; fourth set weight (kilograms) lifted during the initial control session, at the treatment transition (last interset rest only and first palm cooling during interset rest sessions) and the final palm cooling during interset rest session. I—initial rest-only session. T—transition between rest only and palm cooling treatment phase. F—final palm cooling session. *Significantly different from I and T (mean ±
+SD, n
+= 10,
+p
+< 0.005, paired
+t
+-tests). C). The strength training response to 10 weeks of bench press training with 6 weeks of palm cooling during interset rest. Weights lifted in pretraining and posttraining 1RM tests (mean ±
+SD, n
+= 10,
+p
+< 0.001, paired
+t
+-test).
+Figure 6:
+Strength training responses (mean percentage increase in 1RM) to 10 weeks of bench press training with 6 weeks of interset palm cooling treatments compared with 3, 6, and 10 weeks of bench press training supplemented with supraphysiological doses of testosterone enanthate (AAS) (3- and 6-week data from Rogerson et al. [32] and 10-week data from Bhasin et al. [4]) Note: Measures of variability for the percentage increases in strength were not provided in the literature reports and, thus, not included in this figure.
+Discussion
+Previous studies have shown that cooling via various methods can extend both aerobic exercise endurance and resistive exercise work volume. We have shown that effective removal of heat from the blood circulating through the palms of the hands delays fatigue onset during aerobic exercise in the heat (
+15,23
+) and speeds recovery from aerobic exercise in the heat (
+16
+). We now show that this mode of cooling is highly effective in extending the work volume capacity during the resistive exercise workouts involved in strength conditioning.
+Common experience and logic support the concept that the generation of internal heat from dynamic, large muscle work can increase the temperature of those muscles and the body as a whole. This increase in body temperatures can be a limiting factor for physical performance. In protocol 1 of this study, we tested those concepts directly. In a warm environment, we used large dynamic muscle activity of the lower body to raise core-body temperature, and then we tested the work capacity of the upper body large dynamic muscles. Our independent variable was palm cooling that decreased the rate of increase and final core temperature over what was seen in the no treatment condition. The total workload and duration of the lower body exercise was held constant. The sensitivity of the work capacity to body temperature was amazingly high. A core-body temperature differential of only 0.6° C at the beginning of the upper body exercise resulted in a 17% change in work volume capacity. It is to be expected that if the capacity of a workout can be increased by this large a percentage, there should be conditioning gains. That is what we tested in protocols 2 and 3.
+Individuals who are dedicated to conditioning commonly reach a plateau. With continued workouts, they show little if any improvement in strength or work volume. We believe that the buildup of heat in the exercising muscles can be a cause of conditioning plateaus. The experiment with subjects that routinely engage in pull-up exercises supports the hypothesis that heat is a cause of muscle fatigue and removal of that heat can extend performance. During the control phase of this experiment, the subjects showed no significant increase in pull-up capacity. However, during the cooling phase, they showed a 144% increase in pull-up capacity. Whether the control phase was before or after the cooling phase, the subjects showed no gain, and therefore appeared to be on a plateau.
+We did not expect to see a differential in the conditioning rates with and without palm cooling of the subjects who were naïve to pull-up training for 2 reasons. We thought that their low performance capacity would not result in significant heat buildup in their muscles, and the beginning of an exercise program usually results in large gains. Nevertheless, palm cooling made a significant difference in the rate of conditioning in this naive group. The cooled subjects showed an 80% increase in work volume, whereas the control group showed only a 20% increase in work volume.
+Palm cooling also resulted in significant increases in work volume in the bench press experiment of protocol 2. The no treatment group showed a 13% increase in work volume, and the palm cooled group showed a 37% increase in work volume. What is remarkable and unique about the results presented here and by Kwon et al (
+25
+) is that substantial performance benefits were derived from the use of a small portable device that interfaces only with the palm of the hand. Adoption of such rapid and efficient periodic cooling during resistive exercise conditioning could replace less desirable methods used for improving strength and conditioning training responses.
+Work volume is not the same as strength, and therefore we undertook protocol 3. In this protocol, we wanted to focus on accomplished lifters who were on a plateau. To clearly confirm they were on a plateau, the control phase of this pyramid bench press routine preceded the palm cooling phase. The critical variable in this experiment was the weight that could be pressed only once in the fourth set. Over the control phase, there was no increase in this weight as would be expected if the subjects were on a plateau. However, over the subsequent palm cooling phase, the group showed a 14% increase in fourth set weights. Over this entire experiment, the increase seen in the 1RM, a measure of strength, was 22%. Unfortunately, we did not measure the 1RM after the control phase, but it is unlikely that an improvement of the 1RM occurred when there was no increase in the ability to have >1 rep in the fourth set. Thus, it is reasonable to speculate that the 22% improvement in strength occurred over the 6 weeks of the palm cooling phase.
+The objective of elite athletic competition is winning. Athletes go to extremes to get a competitive edge. It is commonly acknowledged that use of PEDs—more specifically, anabolic-androgenic steroids (AASs)—can improve the strength and work volume training responses to resistive exercise workouts. There is a concerted effort to curtail the use of PEDs in the athletic community (
+18,22
+). Despite mandatory drug testing programs and penalties for testing positive (e.g., suspensions, fines, and banishment), use of PEDs persists (
+5,13,36
+). Many studies have assessed the effects of use of AASs on resistive exercise training and are reviewed by Hartgens and Kuipers (
+18
+). As noted by these authors, many of the studies on the effects of AASs on performance measures do not meet the quality standards for scientific research. They conclude that, based on the well-designed studies, AAS supplementation of resistive training programs can enhance the training effects by 5–20%. In bench press–based studies of a similar design and duration as reported here, the strength improvements attributed to the use of AAS were proportional to the duration of the treatment, for example; 9% improvement in 3 weeks of training (
+32
+), 15% improvement in 6 weeks (
+32
+), and 22% improvement in 10 weeks (
+4
+) (
+Figure 6
+). Despite minor differences in experimental methods, the bench press 1RM improvements observed in this study (4 weeks of training with interset rest only followed by 6 weeks of training with palm cooling during interset rest) were greater than those attributed to 6 weeks of training with AAS supplementation and equivalent to those attributed to 10 weeks of training with AAS supplementation (
+4,32
+). In an unrelated study, cold water immersion during 5 days of training improved force production during maximal isometric contractions of the hip extensor musculature by 58% compared with 27% with no treatment and 26% with hot water immersion (
+6
+). An obvious assertion, based on a comparison of the effects of cooling and PEDs supplementation on strength training responses, is that appropriate cooling either applied directly to the skin overlying the active muscles or delivered via the circulating blood is an effective nonpharmacological means for improving training responses and provides an alternative to pharmacological-based performance enhancement.
+In our previous studies of aerobic exercise in the heat, a large increase in core-body temperature was evident and, for an individual, the core-body temperature at which fatigue set in was fairly repeatable (
+15
+). Such extreme increases in core-body temperature generally do not occur during resistive exercise training. How heat extraction from the general circulation can improve the work capacity of muscles during resistive exercise training in the absence of a large increase in core-body temperature is unknown. The question is how could temperature exert an effect over the mechanism of fatigue during short bouts of maximal effort resistive exercise? Voluntary muscle contraction is activated via a pathway that starts in the motor cortex and ends with the intracellular contractile mechanism in the peripheral muscle tissues (for reviews see
+[2,11]
+). Processes inside the brain and spinal cord are defined as central, whereas processes in the motor neurons, neuromuscular junctions, and muscle cells are defined as peripheral. Fatigue can potentially arise at many points along this pathway. Kwon et al. (
+25
+) interpret their data to support a central governor model of muscle fatigue (
+27
+). The central governor model proposes that fatigue is controlled by the central nervous system and that an increase in core temperature hastens fatigue by interfering with the generation or transmission of motor commands. However, the
+T
+es
+data from Kwon et al. do not show that palm cooling had an appreciable core temperature effect. Therefore, to fit within the central governor model, the thermal condition of the active skeletal muscles would have to be a potent negative-feedback afferent signal to the central controller during high-intensity resistive exercise. Such a mechanism is not known. Alternatively, the effect of temperature on fatigue during maximal intensity exercise may be mediated peripherally. The various cooling studies conducted under normothermic conditions support the conclusion that fatigue during high-intensity resistive exercise is mediated peripherally at the site of the heat production.
+How local muscle temperature can induce fatigue during resistive exercise is also unknown. One suggested mechanism for temperature modulation of fatigue onset is a mismatch between cardiac output and the aerobic requirements of the muscle (reviews by Nybo
+[28]
+and Racinais and Oksa
+[30]
+). The argument is that accumulation of internal heat reduces cardiac output and therefore reduces the oxygen supply to the muscle. However, cooling delays fatigue onset during resistive exercise under normothermic conditions where, presumably, heat-related reductions in cardiac output to the active muscles are minimal. If cardiac output to the active muscles is not significantly altered, or otherwise affected by treatment, then the effects of temperature on fatigue cannot be explained by impaired oxygen delivery or other circulation mediated factors.
+A temperature-sensitive mechanism within the skeletal muscle cells could explain the observed effects of cooling on fatigue during resistive exercise under normothermic conditions. Recent articles on allosteric regulation of rabbit muscle pyruvate kinase (MPK) suggest a molecular basis for the role of temperature in muscle fatigue (
+19–21
+). The ability to produce adenosine triphosphate (ATP) is critical for muscle cell contractions. Pyruvate kinase is an enzyme in the glycolytic pathway that oxidizes glucose and generates ATP. Allosteric regulation of the MPK enzyme involves transitions of the individual enzyme molecules between an active state and an inactive state. The state transitions result from conformational changes in the 3-dimensional geometry of the protein without affecting of the molecular structure of the protein. Allosteric regulation of the MPK enzyme is complex. However, relevant to this discussion is the fact that the active-inactive state distribution of MPK is temperature dependent: <35° C all MPK is in the active state and above 40° C all MPK is in the inactive state. During exercise, heat is produced locally in the active muscle. As the local cellular temperature increases through the MPK state transition temperature range, ATP production is proportionally diminished, thereby, reducing the work capacity of the muscle cells. The transition temperature for the MPK state change from active to inactive is below the temperature that causes structural damage to the cell. The temperature effect on the MPK state distribution is rapidly reversible so that as the temperature of the muscle cell decreases the MPK population proportionally reactivates. This is an elegant yet simple control mechanism that protects muscle cells from thermal damage during bursts of intense metabolic activity. Although these studies were conducted on proteins harvested from rabbits, it is likely that this fundamental intracellular control mechanism is conserved in all mammals. The authors of these articles emphasize that this allosteric-thermodynamic regulatory mechanism can apply to other proteins. Although central nervous system regulation of physical effort and fatigue is likely a contributing factor in determining work volume during resistive exercise, allosteric regulation of key enzymatic processes is a means to provide a protective hard stop to exercise to prevent permanent thermal damage to the active tissues.
+A criticism of the protocols we followed for the strength training experiment reported here is that it was not of a crossover design nor was there a matching control group. Because an objective of this study was to make a gross comparison of the effect of cooling on the strength training response to that of PEDs supplementation, it was necessary that the subject populations of the studies be of similar weight training status. The subjects used in the PEDs study we targeted for comparison (
+32
+) were reported to be experienced weightlifters at a stable weightlifting plateau. Therefore, a criterion for participation in our study was that the subject be at a stable weightlifting plateau. The initial (control) portion of the study was necessary to document that the subjects were indeed on a performance plateau. It turned out that 6 of the potential subjects were not. A criticism of the work volume–training response protocol is that the study on pull-up experienced subjects lacked an adequate control in all the subjects. Ideally, all of the subjects would have participated in a 6-week series of interset rest only trials. However, 4 of the subjects were intercollegiate scholarship athletes with only limited continuous time availability. Because the primary objective of this protocol was to investigate the effect of intraset palm cooling on the work volume training response, we opted to have these 4 subjects complete 6 weeks of training with palm cooling during interset rest and a 2 weeks series of interset rest only trials. The differences in durations of the training series were accounted for in the data analysis by assessing the rate of change in work volume over the training period (i.e., change in total pull-ups/trial) rather than absolute changes in work volume. The power analysis verified that the abridged interset rest only data set was adequate for evaluating the treatment effect.
+An additional possible concern with experimental design of the current studies is the lack of a sham treatment condition to account for a potential placebo effect associated with the use of palm cooling during resistive exercise training. It is difficult to have a true sham control in these studies because the individual can sense the operational status of the palm cooling device. However, a recent article on palm cooling during bench press exercises that did try to include a sham treatment group demonstrated a significant difference in treatment effect between palm cooling and sham treatment (
+25
+). The endpoint of each set of exercises in both the Kwon et al. (
+25
+) study and the study reported here was muscle failure (as opposed to a subjective measure) which diminished the likelihood of a placebo effect confound.
+Practical Applications
+These studies provide evidence that temperature can be a performance-limiting factor during high-intensity resistive exercise and that appropriately applied palm cooling between sets of high-intensity resistive exercise is a practical means for delaying fatigue onset and improving the training response to high-intensity resistive exercise. The magnitude of the benefits derived from palm cooling during resistance training will be affected by many factors including fitness levels and inherent athletic abilities of the subjects and the types and durations of the training regimes. Nonetheless, palm cooling between sets of resistive exercises can be a useful tool for coaches and athletes interested in maximizing the training effects of resistive exercise programs. The improvements in the strength training effect with palm cooling are similar in magnitude if not greater than those associated with PED supplementation. Palm cooling should be considered as an effective strategy for maximizing the efficacy of resistive training exercise.
+Acknowledgments
+The authors express their gratitude to Grace Hagiwara and Stacy Simms for their feedback during manuscript preparation. This project was supported in part by a grant from the U.S. Department of Defense Defense Advanced Research Projects Agency (DARPA). This document was cleared by DARPA and approved for public release, distribution unlimited. Patents have been issued for the temperature management technology discussed in this manuscript (D. Grahn and H.C. Heller [Inventors]; Stanford University [Assignee]), and Stanford University has entered into a licensing agreement with AVAcore Technologies, Inc., for the commercialization of the technology. Included in the license is a royalty agreement that grants Stanford University a percentage of the net sales of the technology, which will be shared by the University and the inventors. Grahn and Heller are founders of AVAcore Technologies but receive no ongoing compensation from the company. AVAcore Technologies provided no financial support for this research, and no AVAcore Technologies equipment was used in these studies. To assure that potential conflicts of interest do not influence the outcome of the research, Stanford University required that Grahn and Heller have no participation in the recruitment of subjects, the conduct of the experimental trials, or the analysis of the data.
+References
+1. Alaranta A, Alaranta H, Holmila J, Palmu P, Pietila K, Helenius I. Self-reported attitudes of elite athletes towards doping: Differences between type of sport. Int J Sports Med 27: 842–846, 2006.
+2. Allen DG, Lamb GD, Westerblad H. Skeletal muscle fatigue: Cellular mechanisms. Physiol Rev 88: 287–332, 2008.
+3. Bennett AF. Thermal dependence of muscle function. Am J Physiol 247: R217–R229, 1984.
+4. Bhasin S, Storer TW, Berman N, Callegari C, Clevenger B, Phillips J, Bunnell TJ, Tricker R, Shirazi A, Casaburi R. The effects of supraphysiologic doses of testosterone on muscle size and strength in normal men. N Engl J Med 335: 1–7, 1996.
+5. Bojsen-Moller J, Christiansen AV. Use of performance- and image-enhancing substances among recreational athletes: A quantitative analysis of inquiries submitted to the Danish anti-doping authorities. Scand J Med Sci Sports, 20: 861–867, 2009.
+6. Burke DG, MacNeil SA, Holt LE, MacKinnon NC, Rasmussen RL. The effect of hot or cold water immersion on isometric strength training. J Strength Cond Res 14: 21–25, 2000.
+7. Clarke RS, Hellon RF, Lind AR. The duration of sustained contractions of the human forearm at different muscle temperatures. J Physiol 143: 454–473, 1958.
+8. Doan BK, Newton RU, Marsit JL, Triplett-McBride NT, Koziris LP, Fry AC, Kraemer WJ. Effects of increased eccentric loading on bench press 1RM. J Strength Cond Res 16: 9–13, 2002.
+9. Drust B, Rasmussen P, Mohr M, Nielsen B, Nybo L. Elevations in core and muscle temperature impairs repeated sprint performance. Acta Physiol Scand 183: 181–190, 2005.
+10. Edwards RH, Harris RC, Hultman E, Kaijser L, Koh D, Nordesjo LO. Effect of temperature on muscle energy metabolism and endurance during successive isometric contractions, sustained to fatigue, of the quadriceps muscle in man. J Physiol 220: 335–352, 1972.
+11. Gandevia SC. Spinal and supraspinal factors in human muscle fatigue. Physiol Rev 81: 1725–1789, 2001.
+12. Gonzalez-Alonso J, Quistorff B, Krustrup P, Bangsbo J, Saltin B. Heat production in human skeletal muscle at the onset of intense dynamic exercise. J Physiol 524: 603–615, 2000.
+13. Graham MR, Davies B, Grace FM, Kicman A, Baker JS. Anabolic steroid use: Patterns of use and detection of doping. Sports Med 38: 505–525, 2008.
+14. Grahn D, Brock-Utne JG, Watenpaugh DE, Heller HC. Recovery from mild hypothermia can be accelerated by mechanically distending blood vessels in the hand. J Appl Physiol 85: 1643–1648, 1998.
+15. Grahn DA, Cao VH, Heller HC. Heat extraction through the palm of one hand improves aerobic exercise endurance in a hot environment. J Appl Physiol 99: 972–978, 2005.
+16. Grahn DA, Dillon JL, Heller HC. Heat loss through the glabrous skin surfaces of heavily insulated, heat-stressed individuals. J Biomech Eng 131: 071005, 2009.
+17. Grahn DA, Murray JV, Heller HC. Cooling via one hand improves physical performance in heat-sensitive individuals with multiple sclerosis: A preliminary study. BMC Neurol 8: 14, 2008.
+18. Hartgens F, Kuipers H. Effects of androgenic-anabolic steroids in athletes. Sports Med 34: 513–554, 2004.
+19. Herman P, Lee JC. Functional energetic landscape in the allosteric regulation of muscle pyruvate kinase. 1. Calorimetric study. Biochemistry 48: 9448–9455, 2009.
+20. Herman P, Lee JC. Functional energetic landscape in the allosteric regulation of muscle pyruvate kinase. 2. Fluorescence study. Biochemistry 48: 9456–9465, 2009.
+21. Herman P, Lee JC. Functional energetic landscape in the allosteric regulation of muscle pyruvate kinase. 3. Mechanism. Biochemistry 48: 9466–9470, 2009.
+22. Hoffman JR, Kraemer WJ, Bhasin S, Storer T, Ratamess NA, Haff GG, Willoughby DS, Rogol AD. Position stand on androgen and human growth hormone use. J Strength Cond Res 23: S1–S59, 2009.
+23. Hsu AR, Hagobian TA, Jacobs KA, Attallah H, Friedlander AL. Effects of heat removal through the hand on metabolism and performance during cycling exercise in the heat. Can J Appl Physiol 30: 87–104, 2005.
+24. Krustrup P, Gonzalez-Alonso J, Quistorff B, Bangsbo J. Muscle heat production and anaerobic energy turnover during repeated intense dynamic exercise in humans. J Physiol 536: 947–956, 2001.
+25. Kwon YS, Robergs RA, Kravitz LR, Gurney BA, Mermier CM, Schneider SM. Palm cooling delays fatigue during high-intensity bench press exercise. Med Sci Sports Exerc 42: 1557–1565, 2010.
+26. Lannergren J, Westerblad H. The temperature dependence of isometric contractions of single, intact fibres dissected from a mouse foot muscle. J Physiol 390: 285–293, 1987.
+27. Noakes TD, St Clair Gibson A, Lambert EV. From catastrophe to complexity: A novel model of integrative central neural regulation of effort and fatigue during exercise in humans: Summary and conclusions. Br J Sports Med 39: 120–124, 2005.
+28. Nybo L. Hyperthermia and fatigue. J Appl Physiol 104: 871–878, 2008.
+29. Petrofsky JS, Lind AR. The influence of temperature on the isometric characteristics of fast and slow muscle in the cat. Pflugers Arch 389: 149–154, 1981.
+30. Racinais S, Oksa J. Temperature and neuromuscular function. Scand J Med Sci Sports 20 (Suppl. 3): 1–18, 2010.
+31. Ranatunga KW. Force and power generating mechanism(s) in active muscle as revealed from temperature perturbation studies. J Physiol 588: 3657–3670, 2010.
+32. Rogerson S, Weatherby RP, Deakin GB, Meir RA, Coutts RA, Zhou S, Marshall-Gradisnik SM. The effect of short-term use of testosterone enanthate on muscular strength and power in healthy young men. J Strength Cond Res 21: 354–361, 2007.
+33. Roots H, Ball G, Talbot-Ponsonby J, King M, McBeath K, Ranatunga KW. Muscle fatigue examined at different temperatures in experiments on intact mammalian (rat) muscle fibers. J Appl Physiol 106: 378–384, 2009.
+34. Roots H, Ranatunga KW. An analysis of the temperature dependence of force, during steady shortening at different velocities, in (mammalian) fast muscle fibres. J Muscle Res Cell Motil 29: 9–24, 2008.
+35. Segal SS, Faulkner JA, White TP. Skeletal muscle fatigue in vitro is temperature dependent. J Appl Physiol 61: 660–665, 1986.
+36. Sjoqvist F, Garle M, Rane A. Use of doping agents, particularly anabolic steroids, in sports and society. Lancet 371: 1872–1882, 2008.
+37. Verducci FM. Interval cryotherapy decreases fatigue during repeated weight lifting. J Athl Train 35: 422–426, 2000.
+38. Verducci FM. Interval cryotherapy and fatigue in university baseball pitchers. Res Q Exerc Sport 72: 280–287, 2001.
+39. Westerblad H, Allen DG, Lannergren J. Muscle fatigue: Lactic acid or inorganic phosphate the major cause? News Physiol Sci 17: 17–21, 2002.
+40. Yamazaki F. Vasomotor responses in glabrous and nonglabrous skin during sinusoidal exercise. Med Sci Sports Exerc 34: 767–772, 2002; discussion 773.
+View full references list

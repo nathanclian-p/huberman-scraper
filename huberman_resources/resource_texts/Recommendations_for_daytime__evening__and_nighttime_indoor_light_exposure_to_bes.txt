@@ -1,0 +1,944 @@
+Abstract
+Ocular light exposure has important influences on human health and well-being through modulation of circadian rhythms and sleep, as well as neuroendocrine and cognitive functions. Prevailing patterns of light exposure do not optimally engage these actions for many individuals, but advances in our understanding of the underpinning mechanisms and emerging lighting technologies now present opportunities to adjust lighting to promote optimal physical and mental health and performance. A newly developed, international standard provides a SI-compliant way of quantifying the influence of light on the intrinsically photosensitive, melanopsin-expressing, retinal neurons that mediate these effects. The present report provides recommendations for lighting, based on an expert scientific consensus and expressed in an easily measured quantity (melanopic equivalent daylight illuminance (melaponic EDI)) defined within this standard. The recommendations are supported by detailed analysis of the sensitivity of human circadian, neuroendocrine, and alerting responses to ocular light and provide a straightforward framework to inform lighting design and practice.
+Citation:
+Brown TM, Brainard GC, Cajochen C, Czeisler CA, Hanifin JP, Lockley SW, et al.  (2022) Recommendations for daytime, evening, and nighttime indoor light exposure to best support physiology, sleep, and wakefulness in healthy adults. PLoS Biol 20(3):
+           e3001571.
+        
+        https://doi.org/10.1371/journal.pbio.3001571
+Published:
+March 17, 2022
+Copyright:
+© 2022 Brown et al. This is an open access article distributed under the terms of the
+Creative Commons Attribution License
+, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Funding:
+The 2nd International Workshop on Circadian and Neurophysiological Photometry (2019) was funded by the Biotechnology and Biological Sciences Research Council (UK) grant BB/N014901/1 to TMB and RJL, with additional contributions from the University of Manchester Centre for Biological Timing and the Neuroscience and Mental Health Domain. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+Competing interests:
+I have read the journal’s policy and the authors of this manuscript have the following competing interests: GCB was supported, in part, by DOE grant DE- EE0008207, NAS Award #HR 05-23 UNIT 905; NASA grant NNX15AC14G; the NSF ERC LESA Center; BIOS, Toshiba Materials Science, The Nova Institute (The Institute for Integrative Health) and the Philadelphia Section of the Illuminating Engineering Society. GCB reports having issued (USPTO 7,678,140 and 8,366,755) and pending (USPTO 16/252,300, 15/085,522 and 14/273,971) patents related to the photoreceptor system for melatonin regulation. That intellectual property has been licensed by Litebook Company Ltd. He has been a paid consultant by Lutron, Inc., and McCullough Hill LLC. In addition, he and his research program have received financial, material and travel support from a range of federal, industrial, legal and philanthropic organizations in the past and present. CC has received consulting, honoraria, travel, accommodation and/or subsistence fees for invited keynote lectures, conference presentations or teaching from Toshiba Materials, Velux, Firalux, Lighting Europe, Electrosuisse, Novartis, Roche, Elite, Servier, and WIR Bank. CC is a member of the Daylight Academy. CAC reports grants to BWH from FAA, NHLBI, NIA, NIOSH, NASA, and DOD; is/was a paid consultant to AARP (2018), American Academy of Dental Sleep Medicine (2017, 2018), Eisenhower Medical Center (2018), Emory University (2019), Ganésco, Inc. (2017), Inselspital Bern (2019), Institute of Digital Media and Child Development (2017, 2018, 2019), Klarman Family Foundation (2017, 2018, 2019), M. Davis and Co (2018), Physician’s Seal (2019), Samsung (2016), Sleep Research Society Foundation (2019), State of Washington Board of Pilotage Commissioners (2018), Tencent Holdings Ltd (2019), Teva Pharma Australia (2019, 2020), UC San Diego (2018), University of Michigan (2017), University of Washington (2017, 2018), and Vanda Pharmaceuticals Inc (2017, 2018, 2019, 2020), in which CAC also holds an equity interest; received travel support from Annenberg Center for Health Sciences at Eisenhower (2018), Aspen Brain Institute (2018), Bloomage International Investment Group, Inc. (2018, 2019), UK Biotechnology and Biological Sciences Research Council (2019), Bouley Botanical (2017, 2018, 2019), Dr. Stanley Ho Medical Development Foundation (2019), European Biological Rhythms Society (2017, 2019), German National Academy of Sciences (Leopoldina) (2019), Illuminating Engineering Society (2018), National Safety Council (2017, 2018, 2019), National Sleep Foundation (2017, 2018, 2019), Society for Research on Biological Rhythms (2018), Sleep Research Society Foundation (2018), Stanford Medical School Alumni Association (2019), Tencent Holdings Ltd (2019), University of Zurich (2018), and Vanda Pharmaceuticals Inc (2017, 2018, 2019), Ludwig-Maximilians-Universität München (2018), National Highway Transportation Safety Administration (2018), Office of Naval Research (2018), Salk Institute for Biological Studies/Fondation Ipsen (2018), The National Academy of Sciences, Engineering, and Medicine (2017), The Wonderful Company (2017), Department of Defense (2017); receives research/education support through BWH from Cephalon, Mary Ann & Stanley Snider via Combined Jewish Philanthropies, Harmony Biosciences LLC (2019, 2020), Jazz Pharmaceuticals PLC Inc (2017, 2018, 2019, 2020), Johnson & Johnson (2019), NeuroCare, Inc. (2019), Philips Respironics Inc/Philips Homecare Solutions (2017, 2 018, 2019, 2020), Regeneron Pharmaceuticals (2018, 2019, 2020), Regional Home Care (2019), Teva Pharmaceuticals Industries Ltd, Sanofi SA, Optum, ResMed, San Francisco Bar Pilots, Sanofi, Schneider, Simmons, Sysco, Philips, Vanda Pharmaceuticals; is/was an expert witness in legal cases, including those involving Advanced Power Technologies, Aegis Chemical Solutions LLC (2019), Amtrak (2019); Casper Sleep Inc (2019), C&J Energy Services (2019), Complete General Construction Co (2017), Dallas Police Association (2019), Enterprise Rent-A-Car (2019), Espinal Trucking/Eagle Transport Group LLC/Steel Warehouse Inc (2017, 2018, 2019), FedEx, Greyhound Lines Inc/Motor Coach Industries/FirstGroup America (2017, 2018, 2019), Pomerado Hospital/Palomar Health District (2017, 2018), PAR Electrical Contractors Inc (2019), Product & Logistics Services LLC/Schlumberger Technology Corp/Gelco Fleet Trust (2019), Puckett Emergency Medical Services LLC (2019), South Carolina Central Railroad Company LLC (2017, 2018), Union Pacific Railroad (2019), United Parcel Service/UPS Ground Freight Inc (2017, 2018), and Vanda Pharmaceuticals (2019, 2020); serves as the incumbent of an endowed professorship provided to Harvard University by Cephalon, Inc.; and receives royalties from McGraw Hill, and Philips Respironics (2017, 2018, 2019, 2020) for the Actiwatch-2 and Actiwatch Spectrum devices. CACs interests were reviewed and are managed by the Brigham and Women’s Hospital and Mass General Brigham in accordance with their conflict of interest policies. SWL has received consulting fees from Atlanta Falcons, Atlanta Hawks, BHP Billiton, Delos Living LLC, EyeJust Inc., McCullough Hill Leary PS, Noble Insights, OpTerra Energy Services Inc., Pegasus Capital Advisors, Phillips Lytle LLP, Plan LED, Rec Room, Serrado Capital, Slingshot Insights, Stantec and Team C Racing. He has current consulting contracts with Akili Interactive, Apex 2100 Ltd, Consumer Sleep Solutions, Headwaters Inc., Hintsa Performance AG, KBR Wyle Services, Light Cognitive, Lighting Science Group Corporation/HealthE, Look Optic, Mental Workout/Timeshifter, Paul Weiss Rifkind Wharton & Garrison LLP, Six Senses, and View Inc. SWL has received unrestricted equipment gifts from Bionetics Corporation and F.LUX Software LLC; a fellowship gift from Stockgrand Ltd; has equity in iSLEEP, Pty; royalties from Oxford University Press; honoraria plus travel, accommodation and/or meals for invited seminars, conference presentations or teaching from Estée Lauder, Ineos, Informa Exhibitions, MIT, Roxbury Latin School, and Teague; travel, accommodation and/or meals only (no honoraria) for invited seminars, conference presentations, teaching or editorial duties from DIN, Emory University, Lightfair, SLTBR, Solemma and Wiley. SWL has an ongoing investigator-initiated grant from F. Lux Software LLC and a Clinical Research Support Agreement from Vanda Pharmaceuticals Inc. SWL holds a process patent for ‘Systems and methods for determining and/or controlling sleep quality’, which is assigned to the Brigham and Women’s Hospital per Hospital policy, and ‘Method and system for generating and providing notifications for a circadian shift protocol’ held by Mental Workout Inc. SWL has served as a paid expert in legal proceedings related to light, health and work patterns. SWL was the Program Leader for ‘Safety and Productivity Improvements’ in the CRC for Alertness, Safety and Productivity from 2015-2019, through a part-time Adjunct Professor appointment at Monash University, Australia. SWL’s interests are reviewed and managed by Brigham and Women’s Hospital and Partners HealthCare in accordance with their conflict of interest policies. RJL and TMB have received research funding from Signify (formerly Philips Lighting). RJL has received speaker fees from Samsung. RJL, LP, LJMS and MS have served as members of the CIE Joint Technical Committee 9 on the definition of CIE S 026:2018. These were unpaid roles. JPH was supported, in part, by DOE grant DE- EE0008207, NAS Award #HR 05-23 UNIT 905; NASA grant NNX15AC14G; NSF Award #2037357; Rensselaer Polytechnic Institute; BIOS, Toshiba Materials Science, The Institute for Integrative Health; and the Philadelphia Section of the Illuminating Engineering Society. He has been a paid consultant by Lutron, Inc. and McCullough Hill LLC. MM is an unpaid founding member of the Daylight Academy (DLA). SNP reports no conflicting interests. JOH, In addition to paid employment with Public Health England, is Vice-President Standards of the CIE, a member of the Scientific Expert Group of the International Commission on Non-Ionizing Radiation Protection and a number of their Project Groups, Co-Convenor of an ISO committee on Integrative Lighting, a member of two committees of the Illuminating Engineering Society of North America, Convenor of an IEC committee and a member of a Core Group for the World Health Organization, all as unpaid roles. LP served as the CIE reporter to CIE TN 003:2015 on the first Manchester Workshop in 2013, is currently serving as Director and as Secretary of the CIE Division “Photobiology and Photochemistry”, as the CIE reporter on the CIE S 026 Toolbox (
+doi.org/10.25039/S026.2018.TB
+), as a member of CIE Joint Technical Committee 14 (working with ISO Joint Working Group 4) on Integrative Lighting, and as the CIE reporter on the second Manchester Workshop 2019 (attended by all the authors), all as unpaid roles LJMS’s full time position at Eindhoven University has been partially funded by Signify, he is also active in various unpaid roles within the International Commission on Illumination (CIE). DJS is a co-inventor on issued patents (EP1614441A1 and WO2015052207A1), a Founding member of the Daylight Academy and reports receiving research support from BBSRC and EU H2020-SC1-2020-Two-Stage-RTD, ENLIGHTENme, Innovative policies for improving citizens’ health and wellbeing addressing indoor and outdoor lighting (No. 945238). CV is an unpaid member of the Circadian Light Therapy (Inc.) and the Chronsulting Scientific Advisory Boards. In addition, CV’s research and scholarship is funded by the University of Colorado Boulder, the Colorado Clinical and Translational Sciences Institute, the National Institutes of Health, and the Department of Energy. MS is currently an unpaid member of CIE Technical Committee TC 1-98 ("A Roadmap Toward Basing CIE Colorimetry on Cone Fundamentals"). MS was an unpaid advisor to the Division Reportership DR 6-45 of Division 3 ("Publication and maintenance of the CIE S026 Toolbox"). Between 2017 and 2020, MS was elected Chair of the Color Technical Group within the Optical Society. Since 2020, MS is an elected member of the Daylight Academy, an unpaid member of the Board of Advisors of the Center for Environmental Therapeutics, and MS is a member of the Technical Advisory Board of Faurecia IRYStec Inc. Over the past two years (2019-2020), MS has received industrial research support from f.lux software LLC, Ocean Insight, and BIOS Lighting. MS reports funding from the Wellcome Trust, the Royal Society, EPSRC, Bioscientifica Trust, Fight for Sight, Freie Akademische Gesellschaft Basel, and the University of Oxford. PCZ reports funding from National Institutes of Health, Eisai, Philips, Jazz Pharmaceuticals, Technogel, Harmony Biosciences, Apnimed, X – a Division of Alphabet, Inc., Merck and Sanofi. In addition, PCZ has patent applications pending (62/038700; 15/517458). KPW reports during the conduct of the 2nd International Workshop and preparation of this manuscript being a board member of the Sleep Research Society; chair of the American Academy of Sleep Medicine Clinical Practice Guideline for the Treatment of Adults with Shift Work Disorder and Jet Lag Disorder Workgroup; receiving research support from the NIH, the Office of Naval Research, the PAC-12 conference, and consulting for Circadian Therapeutics, LTD., Circadian Biotherapies, Inc. Philips Respironics, U.S. Army Medical Research and Materiel Command-Walter Reed Army Institute of Research outside the submitted work.
+Abbreviations:
+ANSI,
+            American National Standards Institute; CEN,
+            Comité Européen de Normalisation; CIE,
+            Commission Internationale de l’Eclairage; DIN,
+            Deutsches Institut für Normung; EEG,
+            electroencephalogram; ICNIRP,
+            International Commission on Non-Ionizing Radiation Protection; IES,
+            Illuminating Engineering Society; ipRGC,
+            intrinsically photosensitive retinal ganglion cell; ISO,
+            International Organization for Standardization; melanopic DER,
+            melanopic daylight efficacy ratio; melaponic EDI,
+            melanopic equivalent daylight illuminance
+Introduction
+Besides supporting visual perception, ocular light exposure influences many aspects of human physiology and behaviour, including circadian rhythms, sleep, and alertness (both via circadian system–dependent and circadian system–independent routes), mood, neuroendocrine, and cognitive functions (reviewed in [
+1
+–
+4
+]). This array of retinally driven responses to light (collectively termed “non–image-forming” or, as used here for brevity, “nonvisual”) are important determinants of health, well-being, and performance, and some are already clinically relevant, as evidenced by current light therapy for circadian rhythm sleep disorders and various forms of depression [
+5
+–
+7
+]. Industrialisation and urbanisation have progressively and dramatically altered individuals’ light exposures, resulting in less light, including natural light, during the daytime and less darkness during the night, due to spending more time indoors where electric lighting provides the dominant source of illumination. Substantial evidence indicates that such altered light exposure patterns (and associated circadian/sleep disruption) contribute to negative impacts on health, sleep, and productivity, ranging from acute increases in accident risk to increased incidence of cardiometabolic disorders and forms of cancer (reviewed in [
+8
+–
+14
+]). Therefore, there is an urgent need for evidence-led recommendations to help inform the design and application of light emission technologies and human light exposures.
+To date, a key challenge when optimising light exposure for promoting human health, well-being, and performance has been the lack of an accepted scientific framework upon which to quantify the propensity for light to elicit the relevant responses and from which to base recommendations for lighting design and practice. Fortunately, as a result of several decades of scientific advances, research-based recommendations are now possible.
+Building on initial observations that physiological responses to ocular light exposure can persist even in people who are totally visually blind [
+15
+–
+17
+], convergent evidence from studies of humans and animals has shown that such nonvisual responses (including effects on the circadian system, melatonin secretion, sleep/alertness, and pupil constriction) originate via a specialised class of retinal neurons, the intrinsically photosensitive retinal ganglion cells (ipRGCs) [
+18
+–
+26
+]. The light-sensing photopigment within the ipRGCs is melanopsin, which, in humans, is maximally sensitive to photons in a distinct portion of the visible spectrum to the cone photopigments (
+λ
+max
+≈ 480 nm before accounting for filtering through the lens and ocular media) [
+23
+,
+25
+,
+27
+]. As a result, the established photometric quantities used to describe brightness and luminous sensation as perceived by humans do not adequately reflect the spectral sensitivity of any melanopsin-dependent responses to light. Measures such as photopic (il)luminance, which primarily reflect the spectral sensitivity of long and medium wavelength sensitive cones, place substantially greater weight on longer wavelengths than those to which melanopsin is most sensitive. These measures therefore provide an inappropriate surrogate for quantifying the propensity of light to engage ipRGC-driven circadian, neuroendocrine, and neurobehavioural responses (
+Fig 1A
+).
+Fig 1.
+Differences in photopic and melanopic spectral sensitivity formalised in the SI-compliant system for quantifying ipRGC-influenced responses to light.
+Panel
+A
+illustrates the melanopic action spectrum (
+s
+mel
+(
+λ
+) with peak sensitivity at 490 nm, following prereceptoral filtering appropriate for a 32-year-old observer) and the photopic (2° spectral luminous efficiency) function,
+V
+(
+λ
+), superimposed on the spectral power distribution of standard daylight (CIE illuminant D65 [
+142
+]). Spectral sensitivities are plotted in logarithmic coordinates. Panel
+B
+illustrates the weighted spectral power distribution for spectrum in
+A
+multiplied by the photopic and melanopic efficiency functions at 1,000 lux for illuminance (
+E
+v
+) and melanopic EDI (
+). Sensitivity curves in A are plotted from the tabulated values provided in the CIE S026 standard [
+34
+], with weighted irradiance (plots in B and associated calculations) derived using the procedures described in detail therein. CIE, Commission Internationale de l’Eclairage; ipRGC, intrinsically photosensitive retinal ganglion cell; melaponic EDI, melanopic equivalent daylight illuminance.
+https://doi.org/10.1371/journal.pbio.3001571.g001
+While the potential value of a melanopsin-based photometric quantity has been recognised for some time, there has also been uncertainty as to whether this provides a sufficiently detailed model of the spectral sensitivity of human ipRGC-driven responses to ocular light exposure [
+28
+]. Hence, while the spectral sensitivity of physiological responses to light in visually blind people and animals matches that expected for melanopsin [
+20
+,
+23
+,
+25
+,
+29
+], in the fully intact retina, ipRGCs can also receive signals originating from rods and/or cones [
+26
+]. Moreover, available data indicate that the relative contributions of melanopsin and rod/cone photoreception to nonvisual ocular light responses, and consequently their apparent sensitivity, may vary as a function of exposure duration, light intensity, and perhaps time of day and/or prior light exposure [
+25
+,
+28
+,
+30
+–
+33
+].
+As an initial response to the absence of a suitable metric for quantifying ipRGC-dependent ocular light responses, in 2013, an expert working group proposed a system that weighted irradiance according to the effective in vivo spectral sensitivity of the 5 known human retinal opsin proteins (melanopsin, rhodopsin, S-, M-, and L-cone opsin) [
+28
+]. This framework has now been formalised into an international standard with a SI-compliant system of metrology for ipRGC-influenced responses to light (Commission Internationale de l’Eclairage (CIE) S 026 [
+34
+]). Within this system, the effective rates of photon capture for each of the human retinal opsins under a given light condition are equated to the photopic properties (e.g., illuminance) of a standard 6500 K (D65) daylight spectrum that would produce the same rate of photon capture. This approach defines, for each opsin class, the α-opic equivalent daylight illuminance (EDI; where α-opic denotes one of the 5 human opsin classes that can contribute to ipRGC-influenced responses, e.g., melanopic;
+Fig 1B
+). Despite the significant advance provided by this new light measurement standard, to date, explicit scientific consensus guidance on the relationship between the 5 α-opic quantities and the magnitude of practically relevant ipRGC-dependent responses is lacking. For example, how should signals from melanopsin, cones, and rods be weighted? Do these weightings change with light exposure duration and history? What levels of α-opic EDI are appropriate in a given time of day and setting?
+Importantly, as originally envisaged [
+28
+], adoption of the new measurement approach has facilitated a number of large-scale retrospective evaluations of historical data [
+35
+–
+39
+] and informed new hypothesis-driven investigations [
+40
+–
+43
+] on the photoreceptive physiology for circadian, neuroendocrine, and neurobehavioural responses in humans. In total, the evidence from such studies [
+35
+–
+43
+] supports the view that, under most practically relevant situations (extended exposures to polychromatic light in the absence of pharmacological pupil dilation), light sensitivity of human physiological responses can be reliably approximated by the α-opic irradiance for melanopsin or the corresponding EDI (melanopic EDI). Moreover, based on the consistency of melanopic irradiance–response relationships across studies [
+38
+], it is now possible to define realistic, evidence-based recommendations for light exposures that target nonvisual responses (
+Fig 2
+). Alongside the emergence of freely available tools to calculate the relevant metrics [
+44
+,
+45
+], there now exists an easily measured and internationally accepted SI-compliant system of metrology [
+34
+] to inform lighting design and associated policy.
+Fig 2.
+Recommendations for melanopic light exposures in relation to the sensitivity of melatonin suppression, circadian phase resetting, and subjective alerting responses.
+Data are derived from laboratory studies (in humans without the use of pupil dilators) investigating the impact of long exposures (>2 hours) to primarily broadband light sources on melatonin suppression [
+69
+,
+88
+,
+95
+,
+143
+,
+144
+] (
+A
+), circadian phase resetting [
+83
+,
+89
+,
+143
+,
+144
+] (
+B
+), and subjective alerting responses [
+86
+] (
+C
+), as analysed in [
+38
+]. Group data (round symbols) are presented as mean ± SD; otherwise, data for individual subjects are presented (square symbols). Shading represents the 95% confidence limits of an unconstrained 4-parameter sigmoid fit to the data. For comparison across different response types (
+D
+), data sets from
+A
+–
+C
+were normalised relative to the range of the curve fit for that response type. Shaded areas in
+D
+reflect the consensus recommendations of the Second International Workshop on Circadian and Neurophysiological Photometry for sleep, evening, and indoor daytime environments. Recommendations are intended to provide realistic targets that minimise inappropriate nonvisual responses in the sleep environment (melanopic EDI <1 lux) and reduce these so far as is practically possible presleep (3 hours before habitual sleep; melanopic EDI <10 lux) while maximising relevant effects across the intervening daytime hours (melanopic EDI >250 lux). The nonshaded region indicates the range of melanopic EDI that should, where possible, be avoided during evening and nighttime and are considered suboptimal for daytime environments. EDI, equivalent daylight illuminance.
+https://doi.org/10.1371/journal.pbio.3001571.g002
+Here, we describe expert consensus-based recommendations for daytime, evening, and nighttime light exposure, considerations associated with their applicability, the supporting scientific evidence, and any caveats associated with the recommendations as they stand.
+Methodology
+The Second International Workshop on Circadian and Neurophysiological Photometry in 2019 brought together experts in lighting, neurophysiological photometry and sleep, and circadian research (all workshop participants are included as authors of this manuscript). The workshop was chaired by Brown and Wright who invited participants based on professional and/or academic qualifications and on reputation of being a leading expert in the field, including being an author of key scientific publications and/or international standards on the topic. Workshop participants were provided goals and key questions to address prior to a structured face-to-face meeting. The primary focus of the meeting was to develop expert consensus recommendations for healthy daytime and evening/nighttime light environments tentatively based on the new SI-compliant measurement system (CIE S 026:2018) [
+34
+]. Initial questions for review and discussion were the following:
+What range of melanopic EDI can be reasonably considered to provide minimal and maximal impacts on nonvisual ocular light responses in humans?
+Do signals from rods and/or cones also play a major role, and, if so, what relevant guideline levels could be recommended to account for such actions?
+Do the answers to (1) and/or (2) vary across different nonvisual forming responses (e.g., circadian entrainment/resetting, sleep/arousal, effects on hormone secretion, and mood) and, if so, what is the most appropriate general recommendation that can be provided?
+Participants were also asked to consider if recommended light exposures would vary depending on which specific biological effects one is trying to achieve and/or on the target population (e.g., shift workers, specific clinical applications, etc.) and to include empirical literature supporting their views. In the face-to-face meeting, the morning of the first day was devoted to detailed presentations and discussion of the relevant scientific literature, and the afternoon was devoted to breakout sessions for discussion of questions 1 to 3 noted above. The second day was devoted to further discussion with sufficient time to address all opinions, ideas, and concerns. Voting to determine the expert consensus recommendations occurred via an iterative process; voting was limited to workshop participants and, where consensus could not be initially reached, discussion and review of the relevant literature resumed until participants were in agreement. Following the establishment of the expert consensus recommendations, a writing plan was formulated to produce the current paper. Subgroups of workshop participants initially drafted sections of the manuscript most relevant to their specialist expertise, including providing accounts of the scientific evidence from laboratory and field studies, relevance to other existing visual standards, and other special considerations associated with application of the recommendations. The workshop chairs (Brown and Wright) then integrated the expert content into a complete draft manuscript, including the recommendations formalised during the meeting. Workshop participants reviewed, edited, and approved both the draft (available as a preprint [
+46
+]), and this final version, which provides additional rationale supporting the recommendations and their practical application. The recommendations and associated considerations described herein are therefore the product of a workshop involving the authors. We are aware that such a workshop can rarely be exhaustive with respect to expertise and/or views across all potential stakeholders.
+Expert consensus-based recommendations
+The recommendations, described below, are intended to provide realistic targets that will result in appropriate circadian, neuroendocrine, and neurobehavioural responses to ocular light exposure in humans.
+Daytime light recommendations for indoor environments
+Throughout the daytime, the recommended minimum melanopic EDI is 250 lux at the eye measured in the vertical plane at approximately 1.2 m height (i.e., vertical illuminance at eye level when seated). If available, daylight should be used in the first instance to meet these levels. If additional electric lighting is required, the polychromatic white light should ideally have a spectrum that, like natural daylight, is enriched in shorter wavelengths close to the peak of the melanopic action spectrum (
+Fig 1A
+).
+Evening light recommendations for residential and other indoor environments
+During the evening, starting at least 3 hours before bedtime, the recommended maximum melanopic EDI is 10 lux measured at the eye in the vertical plane approximately 1.2 m height. To help achieve this, where possible, the white light should have a spectrum depleted in short wavelengths close to the peak of the melanopic action spectrum.
+Nighttime light recommendations for the sleep environment
+The sleep environment should be as dark as possible. The recommended maximum ambient melanopic EDI is 1 lux measured at the eye.
+In case certain activities during the nighttime require vision, the recommended maximum melanopic EDI is 10 lux measured at the eye in the vertical plane at approximately 1.2 m height.
+Additional considerations
+Exposure to a stable and regular daily light–dark cycle is also likely to reinforce good alignment of circadian rhythms, which may further benefit sleep, cognition, and health. These recommendations should therefore be applied at the same time each day, so far as possible.
+These recommendations are not intended to supersede existing guidelines relating to visual function and safety. The nonvisual ocular light responses covered here should be an additional level of consideration provided that relevant visual standards can still be met.
+These recommendations are derived based on data from (and intended to apply to) healthy adults (aged 18 to 55) with regular daytime schedules. Special considerations may apply to specific populations (e.g., children, older people, shift workers, or other individuals whose light sensitivity deviates substantially from an “average” healthy adult) as discussed later in this publication (see “Special cases and exceptions”).
+Relationship to existing standards
+There are several national and international standards that are relevant to indoor light exposure in the built environment, which have been developed under rigorous due processes, consensus, and other criteria. In terms of biological safety, there is a recent recommended practice for photobiological safety that provides guidance on ocular and dermal health relative to light exposure from all varieties of indoor lamps and lamp systems (American National Standards Institute/Illuminating Engineering Society (ANSI/IES) RP-27-20) [
+47
+]. The International Commission on Non-Ionizing Radiation Protection (ICNIRP) has also released a recent statement concerning photobiological safety, specifically of light exposure from LEDs [
+48
+]. Other existing guidelines, codes, and specifications for lighting installations in indoor places primarily concentrate on visual function, including visual comfort, visual performance, and seeing safely for people with normal, or corrected to normal, vision.
+Current specifications within lighting practice are based on illuminance and several additional qualitative and quantitative needs concerning glare, colour rendering, flicker and temporal light modulation, luminance distribution, and the directionality and variability (of both colour and level) of light. These specifications are crafted to enable people to perform their visual tasks accurately and efficiently, even for difficult circumstances or extended durations (e.g., Deutsches Institut für Normung (DIN) SPEC 67600 [
+49
+]; ANSI/IES RP-28-16 [
+50
+]; and EN 12464–1 [
+51
+]). Together with the focus on energy saving, the existing guidelines restrict the illuminance indoors to levels that are typically at least 1 order of magnitude below the natural light environment outdoors. Moreover, the electrical light sources in most common use, while optimised for their visual qualities, are typically substantially less efficient at stimulating melanopsin than natural daylight of equivalent illuminance, i.e., the light they provide has a low ratio of melanopic EDI to photopic illuminance (quantified by the melanopic daylight efficacy ratio (melanopic DER) [
+34
+,
+52
+]; see
+Fig 3
+). This leaves us with an indoor light environment that is potentially suboptimal for supporting human health, performance, and well-being [
+9
+–
+12
+,
+53
+]. For example, Comité Européen de Normalisation (CEN) guidelines specify a minimum task plane photopic illuminance of 500 lux for writing, typing, reading, and data processing tasks. When just meeting this illuminance threshold with regular lighting (i.e., melanopic DER well below 1;
+Fig 3A and 3B
+), typical (vertical) melanopic EDIs encountered across the working day will fall below 200 lux (e.g., [
+54
+–
+56
+]). Moreover, specified illuminance levels for other settings, where visual demands are lower (e.g., corridors, rest rooms, etc.), will typically be substantially lower than the above (melanopic EDI <200 lux; [
+51
+]).
+Fig 3.
+Impact of divergent spectral composition of electrical white light sources on melanopic efficiency.
+Panels
+A
+and
+B
+illustrate spectral power distributions (yellow) for commonly encountered fluorescent (A) and LED-based (B) white light sources. Panels
+C
+and
+D
+represent high melanopic content LED source of similar (
+C
+) and cooler (higher) correlated colour temperature (
+D
+) achievable with current technologies. Spectra in
+A
+and
+B
+represent CIE standard illuminants F11 and LED-B1, plotted from tabulated source data [
+142
+], spectra in
+C
+and
+D
+were modelled by combining weighted combinations of spectra from commercially available broad and narrowband LED sources. Melanopic (blue;
+V
+(
+λ
+)) and photopic (green;
+V
+(
+λ
+)) spectral efficiency functions are shown for reference. Photopic illuminance (
+E
+v
+) and melanopic equivalent daylight (D65) illuminance (
+) for each spectrum is provided above, along with the melanopic efficiency for that light source (melanopic daylight (D65) efficacy ratio; melanopic DER, defined as the ratio of melanopic irradiances for this source to that for a D65 light source at the same photopic illuminance [
+34
+,
+52
+]). Note, in this example, all sources provide a photopic illuminance of 300 lux, but vary in melanopic EDI, due to the relatively low melanopic DER of commonly used white light sources. CIE, Commission Internationale de l’Eclairage; melanopic DER, melanopic daylight efficacy ratio; melaponic EDI, melanopic equivalent daylight illuminance.
+https://doi.org/10.1371/journal.pbio.3001571.g003
+This publication is centrally based on an internationally balloted standard from the CIE [
+34
+], which now provides an accepted framework upon which to derive lighting specifications that optimise visual, circadian, neuroendocrine, and neurobehavioural responses to light. The corresponding expert-led consensus recommendations for biologically appropriate lighting are reflected in general melanopic EDI thresholds for various times of day/night. The recommendations presented here are intended to be widely achievable within the constraints of other relevant lighting guidelines (e.g., via lighting of appropriate spectral composition;
+Fig 3C and 3D
+) and to provide a sound scientific basis for the formal development of recommended practices in light and lighting from national and international standards organisations (e.g., ANSI, CIE, DIN, IES, and the International Organization for Standardization; ISO).
+In closing this section, we note that a number of other recommendations relevant to physiological and neurobehavioural effects of light have been proposed in recent years, including some guidelines and specifications by commercial (for-profit) entities (reviewed in [
+57
+]). Unlike these previous suggestions, the present recommendations are both built around an SI-complaint, internationally accepted and validated measurement system and are supported by expert scientific consensus, features recognised as critical by established industry regulatory and standardisation bodies [
+58
+,
+59
+].
+Practical considerations
+As noted above, while the recommendations detailed here are expected to be widely achievable, implementing these in any real-world setting necessitates care not to compromise other important regulations and/or considerations (e.g., visual appearance, glare, thermal comfort, safety, and energy efficiency). For example, an important consideration in achieving our recommendations for daytime settings is whether this would necessitate higher overall light levels and therefore increase energy expenditure and/or the risk of visual discomfort (e.g., glare). Notably, there is a range of approaches that (individually or in combination) could allow these recommendations to be met while avoiding such issues, including increasing the availability and accessibility of natural daylight (e.g., [
+56
+]), engineering the spectral content of electric lighting to increase melanopic DER, adjusting finishes and furnishings to optimise surface reflectances, and adjusting the placement, angular dispersion and size of accessible luminous surfaces to enhance vertical illuminances and/or minimise glare [
+60
+–
+64
+].
+As an illustration of the above, a recent study modelling common office and educational settings found a combination of adjustments in surface finishes and spectral composition of lighting could readily produce 2- to 3-fold changes in vertical melanopsin-weighted light exposure [
+62
+]. For the conditions assessed there, where relevant national standards specified horizontal illuminances of 300 to 400 lux, achieving an average melanopic EDI of 250 lux in the vertical plane required an approximately 50% increase in horizontal illuminance and energy output when using an ‘off-the shelf’ tuneable white LED (6,500 K; melanopic DER = 0.83). With appropriate design, however, colour mixed LEDs can allow much higher melanopic DERs, even when maintaining warmer colour temperatures (e.g., up to 1.4 for 4,000 K sources [
+61
+]). Moreover, engineered LED luminaires that balance less extreme increases in melanopic DER with a good fidelity colour rendition index and slightly cooler white light [
+65
+] can facilitate meeting our daytime recommendations without significantly compromising energy expenditure or visual qualities (e.g.,
+Fig 3D
+). Further, the energy efficiency of colour-mixed LED sources is rapidly approaching that typical of standard phosphor-converted LEDs and is scheduled to exceed this over the next decade [
+66
+]. Thus, while optimising building and lighting design to maximise energy efficiency and minimise visual discomfort remain important goals, these should not ultimately prove impediments to implementing our recommendations in most settings.
+By contrast, increased energy expenditure is not a concern with respect to our evening/nighttime recommendations, where the significant practical consideration is rather ensuring that there is sufficient light to comfortably and safely perform visually guided activities. For the sleep environment, it is already natural to greatly minimise light exposure (by turning off lights, covering windows, and the like). There is likely still a fair proportion of individuals for whom the sleep environment is currently slightly above a melanopic EDI of 1 lux (e.g., [
+67
+68
+]), although we would not envisage any significant barriers to reducing this where required (e.g., via use of blackout blinds and the installation of orientation lighting where needed). Outside of the sleep environment, however, ensuring sufficient light is available for vision is of course essential.
+From existing ambulatory field assessments, evening (photopic) illuminance is commonly reported in the order of 30 lux [
+69
+–
+73
+]. Although certain rooms (e.g., kitchens) may be more brightly lit, this value of 30 lux corresponds to vertical illuminances typically measured in most indoor domestic environments in the evening [
+74
+]. In such cases, meeting the threshold melanopic EDI of 10 lux need not require any significant change in overall illuminance. Hence, many commonly used domestic warm white (2,700 to 3,000 K) LEDs already have a melanopic DER sufficiently low (<0.35 [
+52
+]) to meet our target while maintaining an illuminance of approximately 30 lux. Consistent with this view, a recent study that assessed evening light exposure in home settings via wearable spectrophotometers found that in nearly 50% of occasions melanopic EDI was already at or below 10 lux [
+75
+]. Moreover, many cases where evening light exposure was above this level involved lighting enriched in shorter wavelengths and could, in principle, been brought in line with our recommendations simply by using lower melanopic DER light sources. Further, the use of appropriate task lighting and/or lighting specifically engineered to minimise melanopic output (e.g., [
+69
+]) may further support activities that benefit from illuminances above 30 lux while maintaining an overall environment where melanopic EDI at the eyes remains below 10 lux (although the latter ultra-low melanopic DER sources will likely come at the expense of reduced colour discrimination). A particular challenge, however, comes from indoor environments outside the home (e.g., spaces shared by individuals with radically different daily/work schedules), where existing visual standards will often specify illuminance levels (>100 lux) that cannot be achieved while maintaining a vertical melanopic EDI <10 lux and optimal colour discrimination. Nonetheless, while meeting our evening target may not be achievable in all instances, it should be broadly achievable in most domestic settings with currently available lighting technology and, therefore, for those with the regular daytime work schedules for which it is intended to apply.
+A final point for consideration relates to the likely benefits of implementing our recommendations that may have to be weighed up to justify any associated costs (e.g., due to upgrading workplace lighting). As discussed in detail below, there is certainly evidence that increased daytime light can improve subjective or objective measures of performance, sleep, alertness, and/or mood and that decreased evening and nighttime exposures can reduce adverse effects of light on sleep, circadian rhythms, and long-term health (see “Evidence from real-world settings”). Directly quantifying the benefits that might be expected associated with implementing our recommendations is far more challenging. In the future, large-scale longitudinal studies that combine data on objectively measured performance (e.g., sick days, productivity, and incidence of accidents), health outcomes, and appropriately measured (personal) light exposure may provide such information. In the interim, it is worth noting that, even ignoring possible impacts on the incidence of common and costly health complications associated with circadian disruption (e.g., cardiovascular disease, diabetes, and cancer), benefits associated with improved sleep alone could potentially be substantial [
+76
+]. Indeed, insufficient sleep is estimated to cost the United States 2.4% GDP, due absenteeism, accidents, reduced productivity, etc. [
+76
+,
+77
+]. Moreover, even comparatively modest improvements for those with poor sleep (<6 hours sleep/night increased to 6 to 7 hours/night) are predicted to increase US GDP in the order 1.7% or approximately 300 billion USD/year [
+77
+].
+Scientific rationale
+Evidence from laboratory studies
+The rationale for basing these recommendations upon melanopic EDI is, in the first instance, provided by a comprehensive analysis of data aggregated from controlled laboratory studies (performed in healthy adults aged 18 to 55) that have evaluated the 2 best understood neuroendocrine and circadian light responses in humans: acute suppression of nocturnal pineal melatonin production and circadian phase resetting by evening or nighttime light exposure [
+36
+–
+39
+]. Those data indicate that, for a wide range of monochromatic, narrowband and broadband light sources and exposure durations, such ocular light responses are better predicted by melanopic irradiance than by photopic illuminance or other existing metrics. Additional contributions from photoreceptors other than melanopsin are expected based on known ipRGC biology [
+26
+,
+28
+], and evidence for such contributions has been observed under certain circumstances [
+30
+,
+78
+,
+79
+]. Importantly, however, the sum of empirical human data suggest that any such influences are sufficiently limited that, under most practically relevant circumstances, the spectral sensitivity of circadian and neuroendocrine and, by extension, other related nonvisual responses to ocular light exposure, can be well approximated by melanopic EDI.
+The clearest evidence for contributions from photoreceptors other than melanopsin has so far come from evaluations of melatonin suppression in short (<1 hour) time windows following exposures to monochromatic light in participants with dilated pupils (to remove indirect effects of pupil constriction on apparent sensitivity). Data from 2 such studies are compatible with the possibilities that S-cones [
+78
+] or the photopic system [
+30
+] may contribute alongside melanopsin (see also reanalysis in [
+79
+]). Importantly, however, a large body of data with and without use of pupil dilation indicates that for exposures of an hour or more, melatonin suppression can be reliably predicted by melanopic EDI [
+37
+,
+38
+,
+80
+,
+81
+]. This conclusion is further strengthened by findings from recent studies that have employed photoreceptor isolating stimuli to confirm that melanopsin-selective changes in irradiance modulate melatonin production [
+40
+,
+41
+] but failed to find any effect of large variations in irradiance selectively targeting S-cones [
+42
+]. Further evidence consistent with a dominant role for melanopsin comes from earlier observations that totally blind humans (where remaining light responses match the spectral sensitivity expected for melanopsin) [
+23
+,
+25
+] can display near-full melatonin suppression [
+15
+,
+17
+,
+23
+], as do individuals with colour vision deficiencies [
+82
+].
+In line with the data discussed above, totally blind individuals can also display circadian phase resetting responses to bright white light of comparable magnitude to sighted individuals [
+16
+]. Findings from one study in sighted individuals with pharmacologically dilated pupils are suggestive of cone contributions to circadian phase resetting following long (6.5 hours) exposures to dim monochromatic light [
+30
+]. However, an equivalent effect is not readily apparent across data from studies performed on participants with undilated pupils [
+38
+,
+83
+,
+84
+]. Thus, laboratory data collected under conditions that are more relevant to the real world, where pupils are freely light responsive, indicate that the influence of cones is sufficiently small that melanopic irradiance can provide a reliable approximation of the spectral sensitivity of circadian phase resetting.
+By contrast to the circadian and neuroendocrine responses discussed above, other relevant effects of light that are of importance but mechanistically less well understood, such as acute light effects on alertness, have not yet received the same degree of analytic and parametric study. Nonetheless, light-dependent changes in subjective alertness have commonly been reported (reviewed in [
+2
+,
+85
+]) and, where performed, functional studies employing electroencephalogram (EEG) or magnetic resonance imaging approaches reveal clear neurophysiological correlates of such subjectively measured alertness changes (e.g., [
+43
+,
+86
+,
+87
+]).
+With respect to the conditions under which such alerting effects occur, a recent comprehensive meta-analysis reveals that self-reported alerting responses to white light are commonly observable within a similar range of light intensities to those associated with effects on the circadian system (irrespective of time of day) [
+2
+]. Many of the original studies contributing to the latter analysis predate the discovery of melanopsin. It is possible, however, to obtain reasonable approximations of melanopic EDI from the photopic illuminance reported by earlier studies, by reference to the typical ratio of these 2 parameters expected for the relevant light sources (i.e., melanopic DER). For example, a recent meta-analysis [
+2
+] notes a significant subjective alerting effect of bright white light in almost 80% of studies (15 of 19) where the “dim” light condition was below 80 lux and the “bright” condition >500 lux (values that correspond to melanopic EDI of <50 lux and >250 lux, using a conservative melanopic DER of 0.6 and 0.5, respectively). Further, the published irradiance response data for subjective (and objective) alerting responses to nocturnal broadband white light exposure [
+86
+] align very well with the relationship between melanopic EDI and circadian-related responses determined from other studies that did not employ pupil dilation [
+38
+,
+88
+,
+89
+] (
+Fig 2
+).
+The recent meta-analysis discussed above [
+2
+], which could not reach definitive conclusions regarding spectral sensitivity of alerting responses, did not assess the extent to which the magnitude of alerting responses were predictable based on melanopic EDI. Nonetheless, the most informative studies included in that analysis [
+69
+,
+90
+–
+94
+] and other relevant studies and meta-analyses [
+36
+,
+38
+,
+39
+,
+69
+,
+95
+] indicate that alerting effects produced by light of varying spectral composition are certainly better predicted by melanopic irradiance than other available metrics. Moreover, recent studies provide evidence that selectively increasing melanopic irradiance, in the absence of changes in either illuminance or colour, can promote self-reported alertness during both day [
+43
+] and evening [
+40
+]. The former study also confirmed EEG correlates of enhanced daytime alertness via alpha attenuation test [
+43
+]. Collectively, these data do not exclude the possibility that cone signals might exert a greater influence over acute alerting responses to light than is apparent for circadian and neuroendocrine effects. Nonetheless, the bulk of available evidence supports the view that melanopic EDI is the best currently existing predictor of alerting responses to light and is relevant for both day and evening/nighttime scenarios. The currently available data do not provide any definitive evidence that the sensitivity of such alerting responses differs substantially relative to other melanopsin-driven responses to evening/nighttime light exposure (
+Fig 2
+) or between night and day (reviewed in [
+2
+,
+85
+]). Accordingly, in the absence of new information, the sensitivity range defined for the more comprehensively studied circadian and neuroendocrine responses can be used as a sensible predictor of propensity of light to modulate alertness, regardless of time of day.
+In sum, most of the available laboratory data suggest that melanopic EDI is a reliable index that provides a good approximation of the apparent spectral sensitivity of human circadian and acute nonvisual responses to ocular light exposure. In particular, for the extended exposures to polychromatic light that are relevant to everyday living environments, existing evidence indicates that any additional contributions from cones (or rods; whose spectral sensitivity is close to melanopsin [
+34
+,
+96
+,
+97
+]) do not compromise the predictive value of melanopic EDI.
+As befitting a system evolved to optimise physiology and behaviour in anticipation of day–night transitions driven by the Earth’s rotation relative to the sun, the operating range of human circadian, neuroendocrine, and alerting responses to ocular light exposure spans the range of light intensities typically encountered between civil twilight and sunrise/sunset (i.e., melanopic EDI of approximately 1 to 1,000 lux;
+Fig 2
+). The recommendations indicated above are therefore intended to ensure that the sleeping environment is kept at a limit below which any appreciable nonvisual responses of this nature are elicited and to minimise negative effects of the light environment during sleep and presleep hours [
+98
+]. Similarly, recommendations for daytime and evening light exposure are intended, so far as practically possible, to respectively maximise and minimise any associated effects on sleep, alertness and the circadian system. By providing an appropriately marked day–night signal and reducing potential disruptive effects of evening light, collectively, these recommendations are expected to promote robust and appropriately timed circadian functions in most individuals [
+99
+], as well as to promote alertness throughout the day and support healthy sleep.
+Also worthy of note here, a number of studies have provided evidence that undesirable effects of evening/nighttime light can be mitigated by brighter light exposure earlier in the day (e.g., [
+31
+,
+33
+,
+100
+–
+104
+]). While opposing actions of light exposure during morning/daytime and evening are a well-understood feature of circadian function [
+105
+,
+106
+], these modulatory effects also extend to more acute actions of evening light, such as its ability to suppress melatonin production. At present, the physiology responsible for such actions are not well understood, nor does currently available data enable a detailed assessment of the intensity and/or time range across which such effects operate. What is clear, however, is that modulatory effects of prior light exposure are certainly not limited to earlier parts of the day [
+33
+,
+104
+]. Accordingly, such observations suggest a further potential benefit of maintaining high melanopic light exposure throughout the day. The visual requirements necessary or desirable for some activities during later parts of the evening (e.g., relating to illuminance and/or colour) place a limit on the extent to which disruptive effects of white light can be entirely avoided simply by reducing melanopic EDI (e.g., using lighting with a lower melanopic DER). Higher levels of daytime light exposure may therefore help mitigate any disruptive effects associated with unavoidable light exposure in later parts of the evening.
+Evidence from real-world settings
+While our current understanding of the spectral sensitivity and dynamic range of circadian, neuroendocrine, and neurobehavioural light responses in humans is most directly informed by laboratory studies, our recommendations are also supported by field evaluations of the impact of environmental lighting.
+Access to electric lighting is associated with reduced daytime and increased nighttime light exposure and altered sleep timing [
+107
+–
+110
+], with many individuals in modern society routinely experiencing melanopic EDI <250 lux during the day, especially those with delayed sleep schedules [
+72
+,
+73
+]. Accordingly, there have been a number of real-world studies implementing daytime high melanopic lighting interventions in workplaces, schools, and care homes that provide practical corroboration for the recommendation outlined above [
+111
+]. Such practically focused investigations were not designed to evaluate melanopsin contributions per se (with increases in melanopic EDI usually being accompanied by increases in colour temperature and/or illuminance), but such studies do provide valuable insight in likely real-world benefits associated with meeting our recommendations.
+In offices, increasing the melanopic output of architectural lighting (approximately 2-fold) via short wavelength-enriched lamps (17,000 K; melanopic DER ≈1, versus 3,000 to 4,000 K; melanopic DER<0.6) had beneficial effects on self-reported alertness, performance, mood, and sleep quality [
+54
+,
+55
+]. Similarly, enhancing daytime melanopic exposure by increased access to natural daylight in the workplace improved sleep and objectively measured cognitive performance (higher-order decision-making) in office workers [
+56
+]. In these studies [
+54
+–
+56
+], the average melanopic EDI in the control working environment was <150 lux (standard 3,000 to 4,000 K fluorescent lighting;
+Fig 3A
+), with the experimental “active” conditions increasing melanopic EDI to approximately 170 to 290 lux. Hence, modest and readily achievable adjustments to increase light exposure can be associated with measurable benefits, without any observable detrimental effects.
+In schools, findings from a series of studies employing fluorescent lighting with various intensities and spectra indicate that settings with a higher melanopic output (melanopic EDI >500 lux) can improve measures of concentration and reading comprehension compared to current standard lighting (typically providing melanopic EDI <200 lux; [
+112
+–
+115
+]). Similar benefits of short wavelength-enriched (17,000 K) versus standard 4000 K fluorescent light on reducing sleepiness have also been shown in college-aged students during afternoon lectures [
+116
+]. Further, building on seminal work showing the benefits of increased daytime light levels for the elderly [
+117
+], several clinical trials have shown the benefits of enhanced melanopic light exposure during daytime hours on care home residents [
+118
+–
+120
+]. There is evidence of reduced circadian sensitivity/responsiveness to light in older adults (see “Special cases and exceptions”), including changes in lens transmission that could reduce effective retinal dose corresponding to a given melanopic EDI by approximately 50% relative to the (young) standard observer on which calculations are based [
+44
+]. Nonetheless, in these studies, compared to control conditions (typical daytime melanopic EDI <150 lux), implementation of higher melanopic, short-wavelength enriched, polychromatic lighting (5,500 to 17,000 K, providing melanopic EDI >250 lx) led to a range of improvements including reduced depression, agitation, and anxiety, better daytime activity and, in some studies, improved sleep quality.
+Collectively, increasing melanopic light exposure during the day in line with our recommendations has been shown to benefit alertness, performance, and sleep in a wide range of real-world settings, even in the presence of daylight or stimulants such as caffeine or for younger or older age groups. Further, there is minimal evidence for negative effects of increased daytime melanopic light exposures. One care home study [
+120
+], where the brightest daytime light intervention was examined (bright 17,000 K lighting providing melanopic EDI approximately 900 lux), reported a reduction in sleep efficiency and quality when compared to standard 4000 K lighting (melanopic EDI approximately 100 lux). Further, in an office study of dayworkers where the melanopic EDI of control condition was already high (approximately 400 lux) further increases (melanopic EDI approximately 750 lux) associated with the use of an 8000 K lighting system appeared to prevent the normal seasonal advance in sleep timing [
+121
+]. While the latter could be considered beneficial, as it enhances circadian alignment to the working day, long-term effects of decoupling from seasonal environmental rhythms is, to date, unclear. Given these data, future research is warranted to identify the potential beneficial and adverse effects on human physiology, cognition, behaviour, and health of electric lighting that greatly exceeds our intensity recommendations.
+In addition to reduced daytime light exposure, increased exposure to electric light in the evening and night is commonly considered to exert adverse effects on sleep, circadian rhythms, and health outcomes [
+8
+–
+11
+,
+67
+,
+68
+,
+122
+]. Indeed, even relatively low levels of light in the sleep environment (conservatively, melanopic EDI >3 lux) have been associated with impaired sleep and increased incidence of diabetes in large cohort studies [
+67
+,
+68
+]. Further, typical evening light levels often fall within the range where significant nonvisual responses would be predicted from laboratory studies [
+75
+]. For example, a significant source of evening light exposure is from visual displays, which in the absence of any other illumination, can provide melanopic EDI of >60 lux [
+52
+,
+123
+,
+124
+] (above the typical level of exposure required to produce half-maximal subjective alerting, melatonin suppressing, and circadian phase shifting responses in laboratory studies;
+Fig 2
+). Indeed, several studies have shown that light from modern visual displays is sufficient to reduce the evening rise in melatonin, impair sleepiness, and/or increase subjectively or objectively measured alertness [
+123
+–
+126
+]. Moreover, manipulations that reduce exposure to short wavelength light from such displays has, in some laboratory studies, been found to lessen these effects [
+125
+,
+126
+] as have selective reductions in melanopic output [
+40
+]. There have not yet been large-scale longitudinal field studies on how effective such manipulations might be, although it is noteworthy that the reductions in melanopic radiance achievable simply by adjusting the spectral content of current visual displays are modest (approximately 50% decrease). As such, we expect that such approaches will be most beneficial when combined with other strategies to minimise evening illumination (e.g., dimming of screens and low melanopic ambient lighting). In addition, the potential protective role of adequate daytime light exposure to attenuate adverse effects of evening and nighttime light exposure on circadian physiology requires future research.
+Special cases and exceptions
+While the current recommendations are intended to be widely applicable, the scientific underpinnings primarily derive from studies of neuroendocrine, circadian, sleep, and alerting responses to ocular light exposure in healthy young adults. Even among this group, findings from a recent laboratory study show significant (>10-fold) interindividual variations in sensitivity to white light–induced suppression of the evening rise in melatonin [
+88
+]. The physiology underlying this variability is currently unknown. Importantly, however, assuming such variability is indicative of that for the healthy adult populations contributing across the range of lab studies discussed above, it is inherently incorporated into our recommendations. Hence, targets for daytime and nighttime exposures are based on light intensities found to produce near maximal or minimal responses across the test population. With respect to the recommendation for evening settings, there may be more significant variability in the relative magnitude of circadian, neuroendocrine, and associated neurophysiological responses, based on the intraindividual differences noted above [
+88
+]. In the absence of any ready means for predicting individual differences in sensitivity, the present recommendation of a maximum melanopic EDI of 10 lux is intended to appropriately minimise undesirable effects of evening light for the “average” healthy adult while allowing for sufficient light for common evening activities (see “Practical considerations” for further discussion). As it stands, where the evening light environment currently results in a melanopic EDI above 10 lux, reducing exposure in line with our recommendations is certainly still expected to be beneficial, regardless of individual differences in sensitivity, although future developments may make it possible to refine recommendations for specific individuals.
+The magnitude of circadian and neuroendocrine responses to light also depends on age, with those in young children being larger and those in older adults tending to be smaller when compared to young adults [
+127
+–
+131
+]. These observations may, in part, reflect age-related differences in the amount of light reaching the retina (due to changes in pupil size and lens transmittance), although more direct changes in sensitivity or amplitude may also be involved. Certainly, one previous study that investigated the impact of age-related changes in lens transmittance did not find that this was associated with the expected reduction in light induced melatonin suppression in older adults [
+132
+]. Changes in light exposure in line with the current recommendations are still expected to be of general benefit to both young [
+112
+–
+115
+,
+124
+,
+126
+] and older individuals [
+67
+,
+68
+,
+118
+–
+120
+] (where their current daytime light exposure falls below, or evening/nighttime exposure above, the relevant targets). Select groups, however, may further benefit from higher daytime (e.g., older people) and/or lower evening exposures (e.g., children) than indicated in the recommendations. Similarly, disruptions to sleep and circadian rhythms are commonly associated with many disorders and disease states [
+8
+,
+133
+]. While adjusting light exposure may be of benefit in some or all of these conditions, further research will be required to determine whether alterations to the recommended thresholds will be required for such individuals.
+In addition to the points above, a particular challenge in optimising light exposure to benefit health and performance relates to shift workers. Current light exposure advice for night shift workers is still not mature [
+134
+], and we want to stress that the present recommendations are not intended for this purpose. There is certainly evidence that increasing melanopic light levels in the work environment can improve subjective and/or objectively measured alertness and performance in shift workers [
+135
+–
+138
+]. Important benefits such as these do, however, need to be weighed in the context of potential disruptions to circadian alignment and chronic effects on health [
+8
+–
+14
+]. Addressing these important questions remains a key area for future investigation and shift work–related consensus guidance on best practice.
+As discussed above, it is also essential that any changes to light exposure intended to adjust melanopsin-dependent physiological responses do not compromise visual requirements. For example, the elderly may need brighter lighting than recommended above to move safely between the bedroom and bathroom at night [
+12
+]. In many cases, such issues may be addressed by using lighting with an appropriate spectral composition (i.e., by using lighting with a low melanopic DER) and/or lighting designs that avoid direct illumination of the eyes. Nonetheless, there may be some instances where meeting the requirements for visual performance, visual comfort, and safety are incompatible with our recommendations regarding nonvisual responses, in which case the former must take precedence. Finally, while it is possible to comply with the recommended melanopic EDI thresholds specified here solely via exposure to electric light, there are a number of known and suspected benefits of exposure to broad-spectrum, outdoor, daylight [
+53
+,
+139
+–
+141
+].
+Future directions
+The recommendations outlined here are derived from a synthesis of several decades of research into the biology regulating circadian, sleep, physiological and cognitive responses to light and their practical implications. There is, without question, evidence that the use of melanopic irradiance as a model for the spectral sensitivity of such responses represents a simplification of the underlying biology. Although, as an aside, we note that this is true also for the established and widely used, photometric quantities (luminance and illuminance) that are currently applied to quantify conventional “brightness.” Nevertheless, we leave open the possibility that a deeper understanding of rod and/or cone contributions to physiological responses will reveal multiphotoreceptor models of spectral sensitivity that may allow a more accurate prediction of circadian, sleep, neuroendocrine, and/or cognitive responses. The contribution of rods to such responses is an interesting topic for research in its own right. Nonetheless, including a rod component in any such future metrics is unlikely to substantially improve the accuracy with which they recreate the spectral sensitivity of the relevant response(s), since the very similar spectral sensitivity profiles of rods and melanopsin render effective irradiance for these 2 opsins highly correlated [
+97
+]. Conversely, cone spectral sensitivity is quite distinct from melanopsin and has the potential to substantially refine metrics for circadian and neurophysiological responses. In particular, future work may reveal specific lighting conditions that maximise cone influence to produce practically relevant modulations in nonvisual responses to light (e.g., on the circadian system, neuroendocrine function, sleep physiology, and/or and alerting responses). At present, however, existing evidence indicates that the use of melanopic irradiance/EDI would not lead one to substantially over- or underestimate biological and behavioural effects for the types of light exposure that are typically encountered across daily life [
+35
+–
+38
+,
+40
+–
+43
+].
+Further research into the factors influencing individual differences in the sensitivity of melanopsin-mediated responses to light exposure may make it possible to tailor guidelines to specific groups or even individuals. For the time being, our recommendations are derived from group data that must incorporate much of this variability. As such, it is expected that the recommendations for daytime and the sleep environment should be broadly applicable and strongly engage relevant circadian and neurophysiological responses for the vast majority of healthy adults. Known, age-related sources of variability are already at least partly accounted for by the inclusion of corrections for changes in lens transmission described in the nonnormative appendices of the existing standard [
+34
+]. Recommendations may, however, be modified in the future for certain groups such as children, older adults, or patient groups whose sensitivity to light may differ from the healthy adult population on which the present recommendations are based.
+The current recommendations are intended to inform lighting design considerations for typical, real-world environments such as offices and other workplaces, schools, and colleges, residences, care homes, and in- and outpatient settings. As noted above, application of our recommendations across such settings is facilitated by the free availability of tools for calculating melanopic EDI (and also estimating this given known illuminance and type of lighting) [
+44
+,
+45
+]. Nonetheless, the emergence of low-cost commercial sensors for direct measurement of melanopic EDI (akin to conventional “lux meters”) is expected to further increase the ease with which the recommendations can be adopted.
+A final point for consideration relates to applications of light therapy for clinical conditions like affective and circadian rhythm sleep disorders or for purposes such as improving circadian regulation and alertness in night and shift workers or transmeridian travellers experiencing jet lag. The current recommendations are not directly formulated for such uses, but the existing applications of ocular light therapy likely involve the same or similar biological underpinnings as discussed above. Given existing evidence for benefits of bright light therapy [
+5
+–
+7
+], perhaps widespread adoption of the recommendations described here will contribute to a reduction in the prevalence of affective and sleep disorders. More significantly, however, we expect the scientific framework that informs these recommendations to provide a concrete basis upon which to generate hypotheses to test for the subsequent establishment of optimal light treatment recommendations for clinical and travel applications.
+References
+1.
+Paul S, Brown T. Direct effects of the light environment on daily neuroendocrine control. J Endocrinol. 2019;243:R1–R18.  pmid:31394505
+2.
+Souman JL, Tinga AM, Te Pas SF, van Ee R, Vlaskamp BNS. Acute alerting effects of light: A systematic literature review. Behav Brain Res. 2018;337:228–39.  pmid:28912014
+3.
+Santhi N, Ball DM. Applications in sleep: How light affects sleep. Prog Brain Res. 2020;253:17–24.  pmid:32771123
+4.
+Fisk AS, Tam SKE, Brown LA, Vyazovskiy VV, Bannerman DM, Peirson SN. Light and Cognition: Roles for Circadian Rhythms, Sleep, and Arousal Front Neurol 2018;9:56. Epub 2018/02/09.  pmid:29479335
+5.
+Penders TM, Stanciu CN, Schoemann AM, Ninan PT, Bloch R, Saeed SA. Bright Light Therapy as Augmentation of Pharmacotherapy for Treatment of Depression A Systematic Review and Meta-Analysis Prim Care Companion CNS Disord. 2016;18(5).  pmid:27835725
+6.
+Perera S, Eisen R, Bhatt M, Bhatnagar N, de Souza R, Thabane L, et al. Light therapy for non-seasonal depression: systematic review and meta-analysis. BJPsych Open. 2016;2(2):116–26.  pmid:27703764
+7.
+Duffy JF, Abbott SM, Burgess HJ, Crowley SJ, Emens JS, Epstein LJ, et al. Workshop report. Circadian rhythm sleep-wake disorders: gaps and opportunities. Sleep. 2021;44(5).  pmid:33582815
+8.
+Stevens RG, Brainard GC, Blask DE, Lockley SW, Motta ME. Breast cancer and circadian disruption from electric lighting in the modern world. CA Cancer J Clin. 2014;64(3):207–18.  pmid:24604162
+9.
+Ritchie HK, Stothard ER, Wright KP. Entrainment of the Human Circadian Clock to the Light-Dark Cycle and its Impact on Patients in the ICU and Nursing Home Settings. Curr Pharm Des. 2015;21(24):3438–42.  pmid:26144935
+10.
+Lunn RM, Blask DE, Coogan AN, Figueiro MG, Gorman MR, Hall JE, et al. Health consequences of electric lighting practices in the modern world: A report on the National Toxicology Program’s workshop on shift work at night, artificial light at night, and circadian disruption. Sci Total Environ. 2017;607–608:1073–84.  pmid:28724246
+11.
+Mason IC, Boubekri M, Figueiro MG, Hasler BP, Hattar S, Hill SM, et al. Circadian Health and Light: A Report on the National Heart, Lung, and Blood Institute’s Workshop. J Biol Rhythm. 2018;33(5):451–7.  pmid:30033850
+12.
+Boyce PR. Light, lighting and human health. Light Res Technol 2021;EPUB.
+13.
+Chellappa SL, Vujovic N, Williams JS, Scheer F. Impact of Circadian Disruption on Cardiovascular Function and Disease. Trends Endocrinol Metab. 2019;30(10):767–79.  pmid:31427142
+14.
+Parameswaran G, Ray DW. Sleep, circadian rhythms, and type 2 diabetes mellitus. Clin Endocrinol. 2021.  pmid:34637144
+15.
+Czeisler CA, Shanahan TL, Klerman EB, Martens H, Brotman DJ, Emens JS, et al. Suppression of melatonin secretion in some blind patients by exposure to bright light. N Engl J Med. 1995;332(1):6–11.  pmid:7990870
+16.
+Klerman EB, Shanahan TL, Brotman DJ, Rimmer DW, Emens JS, Rizzo JF III, et al. Photic resetting of the human circadian pacemaker in the absence of conscious vision. J Biol Rhythm. 2002;17(6):548–55.  pmid:12465888
+17.
+Hull JT, Czeisler CA, Lockley SW. Suppression of Melatonin Secretion in Totally Visually Blind People by Ocular Exposure to White Light: Clinical Characteristics. Ophthalmology. 2018;125(8):1160–71.  pmid:29625838
+18.
+Freedman MS, Lucas RJ, Soni B, von Schantz M, Munoz M, David-Gray Z, et al. Regulation of mammalian circadian behavior by non-rod, non-cone, ocular photoreceptors. Science. 1999;284(5413):502–4.  pmid:10205061
+19.
+Lucas RJ, Freedman MS, Munoz M, Garcia-Fernandez JM, Foster RG. Regulation of the mammalian pineal by non-rod, non-cone, ocular photoreceptors. Science. 1999;284(5413):505–7.  pmid:10205062
+20.
+Lucas RJ, Douglas RH, Foster RG. Characterization of an ocular photopigment capable of driving pupillary constriction in mice. Nat Neurosci. 2001;4(6):621–6.  pmid:11369943
+21.
+Berson DM, Dunn FA, Takao M. Phototransduction by retinal ganglion cells that set the circadian clock. Science. 2002;295(5557):1070–3.  pmid:11834835
+22.
+Hattar S, Liao HW, Takao M, Berson DM, Yau KW. Melanopsin-containing retinal ganglion cells: architecture, projections, and intrinsic photosensitivity. Science. 2002;295(5557):1065–70.  pmid:11834834
+23.
+Zaidi FH, Hull JT, Peirson SN, Wulff K, Aeschbach D, Gooley JJ, et al. Short-wavelength light sensitivity of circadian, pupillary, and visual awareness in humans lacking an outer retina. Curr Biol. 2007;17(24):2122–8.  pmid:18082405
+24.
+Guler AD, Ecker JL, Lall GS, Haq S, Altimus CM, Liao HW, et al. Melanopsin cells are the principal conduits for rod-cone input to non-image-forming vision. Nature. 2008;453(7191):102–5.  pmid:18432195
+25.
+Gooley JJ, Ho Mien I, St Hilaire MA, Yeo SC, Chua EC, van Reen E, et al. Melanopsin and rod-cone photoreceptors play different roles in mediating pupillary light responses during exposure to continuous light in humans. J Neurosci. 2012;32(41):14242–53.  pmid:23055493
+26.
+Do MTH. Melanopsin and the Intrinsically Photosensitive Retinal Ganglion Cells: Biophysics to Behavior. Neuron. 2019;104(2):205–26.  pmid:31647894
+27.
+Bailes HJ, Lucas RJ. Human melanopsin forms a pigment maximally sensitive to blue light (λmax ≈ 479 nm) supporting activation of G(q/11) and G(i/o) signalling cascades. Proc Biol Sci Roy Soc. 2013;280(1759):20122987.  pmid:23554393
+28.
+Lucas RJ, Peirson SN, Berson DM, Brown TM, Cooper HM, Czeisler CA, et al. Measuring and using light in the melanopsin age. Trends Neurosci. 2014;37(1):1–9.  pmid:24287308
+29.
+Vandewalle G, Collignon O, Hull JT, Daneault V, Albouy G, Lepore F, et al. Blue light stimulates cognitive brain activity in visually blind individuals. J Cogn Neurosci. 2013;25(12):2072–85.  pmid:23859643
+30.
+Gooley JJ, Rajaratnam SM, Brainard GC, Kronauer RE, Czeisler CA, Lockley SW. Spectral responses of the human circadian system depend on the irradiance and duration of exposure to light. Sci Transl Med 2010;2(31):31ra3.  pmid:20463367
+31.
+Chang AM, Scheer FA, Czeisler CA. The human circadian system adapts to prior photic history. J Physiol. 2011;589(Pt 5):1095–102.  pmid:21224217
+32.
+Zeitzer JM, Friedman L, Yesavage JA. Effectiveness of evening phototherapy for insomnia is reduced by bright daytime light exposure. Sleep Med. 2011;12(8):805–7.  pmid:21855408
+33.
+Te Kulve M, Schlangen LJM, van Marken Lichtenbelt WD. Early evening light mitigates sleep compromising physiological and alerting responses to subsequent late evening light. Sci Rep. 2019;9(1):16064.  pmid:31690740
+34.
+CIE. S 026/E:2018. CIE System for Metrology of Optical Radiation for ipRGC-Influenced Responses to Light. Vienna: CIE Central Bureau; 2018.
+https://doi.org/10.25039/S026.2018
+35.
+Spitschan M. Photoreceptor inputs to pupil control. J Vis. 2019;19(9):5.  pmid:31415056
+36.
+Nowozin C, Wahnschaffe A, Rodenbeck A, de Zeeuw J, Hadel S, Kozakov R, et al. Applying Melanopic Lux to Measure Biological Light Effects on Melatonin Suppression and Subjective Sleepiness. Curr Alzheimer Res. 2017;14(10):1042–52.  pmid:28545361
+37.
+Prayag AS, Najjar RP, Gronfier C. Melatonin suppression is exquisitely sensitive to light and primarily driven by melanopsin in humans. J Pineal Res. 2019;66(4):e12562.  pmid:30697806
+38.
+Brown TM. Melanopic illuminance defines the magnitude of human circadian light responses under a wide range of conditions. J Pineal Res. 2020;69(1):e12655.  pmid:32248548
+39.
+Gimenez M, Schlangen L, Lang D, Beersma DG, Novotny P, Plischke H, et al. D3.7 Report on metric to quantify biological light exposure doses: Accelerate SSL Innovation For Europe; 2016.
+40.
+Allen AE, Hazelhoff EM, Martial FP, Cajochen C, Lucas RJ. Exploiting metamerism to regulate the impact of a visual display on alertness and melatonin suppression independent of visual appearance. Sleep. 2018;41(8).  pmid:29788219
+41.
+Souman JL, Borra T, de Goijer I, Schlangen LJM, Vlaskamp BNS, Lucassen MP. Spectral Tuning of White Light Allows for Strong Reduction in Melatonin Suppression without Changing Illumination Level or Color Temperature. J Biol Rhythm. 2018;33(4):420–31.  pmid:29984614
+42.
+Spitschan M, Lazar R, Yetik E, Cajochen C. No evidence for an S cone contribution to acute neuroendocrine and alerting responses to light. Curr Biol. 2019;29(24):R1297–R8.  pmid:31846672
+43.
+de Zeeuw J, Papakonstantinou A, Nowozin C, Stotz S, Zaleska M, Hadel S, et al. Living in Biological Darkness: Objective Sleepiness and the Pupillary Light Responses Are Affected by Different Metameric Lighting Conditions during Daytime. J Biol Rhythm. 2019;34(4):410–31.  pmid:31156018
+44.
+CIE. S 026 a-oic toolbox. Vienna: CIE Central Bureau, 2020.
+https://doi.org/10.25039/S026.2018
+45.
+Spitschan M, Mead J, Roos C, Lowis C, Griffiths B, Mucur P, et al. luox: novel open-access and open-source web platform for calculating and sharing physiologically relevant quantities for light and lighting. Wellcome Open Res. 2021;6:69.  pmid:34017925
+46.
+Brown TM, Brainard GC, Cajochen C, Czeisler CA, Hanifin JP, Lockley SW, et al. Recommendations for Healthy Daytime, Evening, and Night-Time Indoor Light Exposure. preprints. 2020.
+47.
+ANSI/IES. RP-27-20. Eecommended Practice: Photobiological safety for lighting systems: Illuminating Engineering Society; 2020.
+48.
+International Commission on Non-Ionizing Radiation P. Light-Emitting Diodes (LEDS): Implications for Safety. Health Phys. 2020;118(5):549–61.  pmid:32251083
+49.
+DIN. SPEC 67600:2013–4 Biologically effective illumination—Design guidelines Deutsches Institut für Normung; 2013.
+50.
+ANSI/IES. RP-28-16. Lighting And The Visual Environment For Seniors And The Low Vision Population: Illuminating Engineering Society; 2016.
+51.
+CEN. EN 12464–1. Light and Lighting—Lighting of work places–Part1: Indoor work places: Comité Européen de Normalisation; 2021.
+52.
+Schlangen LJM, Price LLA. The Lighting Environment, Its Metrology, and Non-visual Responses. Front Neurol. 2021;12:624861.  pmid:33746879
+53.
+Münch M, Wirz-Justice A, Brown SA, Kantermann T, Martinv K, Stefani O, et al. The Role of Daylight for Humans: Gaps in Current Knowledge. Clocks & Sleep. 2020;2:61–85.  pmid:33089192
+54.
+Mills PR, Tomkins SC, Schlangen LJ. The effect of high correlated colour temperature office lighting on employee wellbeing and work performance. J Circadian Rhythms. 2007;5:2.  pmid:17217543
+55.
+Viola AU, James LM, Schlangen LJ, Dijk DJ. Blue-enriched white light in the workplace improves self-reported alertness, performance and sleep quality. Scand J Work Environ Health. 2008;34(4):297–306.  pmid:18815716
+56.
+Boubekri M, Lee J, MacNaughton P, Woo M, Schuyler L, Tinianov B, et al. The Impact of Optimized Daylight and Views on the Sleep Duration and Cognitive Performance of Office Workers. Int J Environ Res Public Health. 2020;17(9).  pmid:32384634
+57.
+Stefani O, Cajochen C. Should We Re-think Regulations and Standards for Lighting at Workplaces? A Practice Review on Existing Lighting Recommendations. Front Psych. 2021;12:652161.  pmid:34054611
+58.
+IES. PS-12-19: IES Position On UL RP 24480 Regarding Light and Circadian Entrainment. New York: Illuminating Engineering Society, 2020.
+59.
+CIE. CIE Position Statement on Non-Visual Effects of Light: Reccommending Proper Light at the Proper Time, 2nd ed. Vienna: CIE Cenral Bureau, 2019.
+60.
+Houser KW, Boyce PR, Zeitzer JM, Herf M. Human-centric lighting: Myth, magic or metaphor? Light Res Technol. 2021;53:97–118.
+61.
+Soler R, Voss E. Biologically Relevant Lighting: An Industry Perspective. Front Neurosci. 2021;15:637221.  pmid:34163318
+62.
+Safranek S, Collier JM, Wilkerson A, Davis RG. Energy impact of human health and wellness lighting recommendations for office and classroom applications. Energy & Buildings. 2020;110365.
+63.
+Geerdinck L, Van Gheluwe J, Vissenberg M. Discomfort glare perception of non-uniform light sources in an office setting. J Environ Psychol. 2014;39:5–13.
+64.
+Vetter C, Pattison PM, Houser K, Herf M, Phillips AJK, Wright KP, et al. A Review of Human Physiological Responses to Light: Implications for the Development of Integrative Lighting Solutions. Leukos 2021;EPUB.
+65.
+Zandi B, Stefani O, Herzog A, Schlangen LJM, Trinh QV, Khanh TQ. Optimising metameric spectra for integrative lighting to modulate the circadian system without affecting visual appearance. Sci Rep. 2021;11(1):23188.  pmid:34848762
+66.
+Pattison PM, Tsao JY, Brainard GC, Bugbee B. LEDs for photons, physiology and food. Nature. 2018;563(7732):493–500.  pmid:30464269
+67.
+Obayashi K, Yamagami Y, Kurumatani N, Saeki K. Bedroom lighting environment and incident diabetes mellitus: a longitudinal study of the HEIJO-KYO cohort. Sleep Med. 2020;65:1–3.  pmid:31704511
+68.
+Obayashi K, Yamagami Y, Kurumatani N, Saeki K. Pre-awake light exposure and sleep disturbances: findings from the HEIJO-KYO cohort. Sleep Med. 2019;54:121–5.  pmid:30554055
+69.
+Santhi N, Thorne HC, van der Veen DR, Johnsen S, Mills SL, Hommes V, et al. The spectral composition of evening light and individual differences in the suppression of melatonin and delay of sleep in humans. J Pineal Res. 2012;53(1):47–59.  pmid:22017511
+70.
+Thorne HC, Jones KH, Peters SP, Archer SN, Dijk DJ. Daily and seasonal variation in the spectral composition of light exposure in humans. Chronobiol Int. 2009;26(5):854–66.  pmid:19637047
+71.
+Santhi N, Groeger JA, Archer SN, Gimenez M, Schlangen LJ, Dijk DJ. Morning sleep inertia in alertness and performance: effect of cognitive domain and white light conditions. PLoS ONE. 2013;8(11):e79688.  pmid:24260280
+72.
+Van der Maren S, Moderie C, Duclos C, Paquet J, Daneault V, Dumont M. Daily Profiles of Light Exposure and Evening Use of Light-emitting Devices in Young Adults Complaining of a Delayed Sleep Schedule. J Biol Rhythm. 2018;33(2):192–202.  pmid:29463186
+73.
+Goulet G, Mongrain V, Desrosiers C, Paquet J, Dumont M. Daily light exposure in morning-type and evening-type individuals. J Biol Rhythm. 2007;22(2):151–8.  pmid:17440216
+74.
+Miller N, Kinzey B. Home Nighttime Light Exposures: How much are we really getting? Lighting Design + Application. 2018;1(July).
+75.
+Cain SW, McGlashan EM, Vidafar P, Mustafovska J, Curran SPN, Wang X, et al. Evening home lighting adversely impacts the circadian system and sleep. Sci Rep. 2020;10(1):19110.  pmid:33154450
+76.
+Koritala BSC, Cakmakli S. The human circadian clock from health to economics. Psychiatry J. 2018;7(4):176–96.  pmid:30456783
+77.
+Hafner M, Stepanek M, Taylor J, Troxel WM, van Stolk C. Why sleep matters-the economic costs of insufficient sleep: A cross-country comparative analysis. Rand Health Q. 2016;6(11).
+78.
+Thapan K, Arendt J, Skene DJ. An action spectrum for melatonin suppression: evidence for a novel non-rod, non-cone photoreceptor system in humans. J Physiol. 2001;535(Pt 1):261–7.  pmid:11507175
+79.
+Brown TM, Thapan K, Arendt J, Revell VL, Skene DJ. S-cone contribution to the acute melatonin suppression response in humans. J Pineal Res. 2021;71(1):e12719.  pmid:33512714
+80.
+Brainard GC, Hanifin JP, Greeson JM, Byrne B, Glickman G, Gerner E, et al. Action spectrum for melatonin regulation in humans: evidence for a novel circadian photoreceptor. J Neurosci. 2001;21(16):6405–12.  pmid:11487664
+81.
+Brainard GC, Sliney D, Hanifin JP, Glickman G, Byrne B, Greeson JM, et al. Sensitivity of the human circadian system to short-wavelength (420-nm) light. J Biol Rhythm. 2008;23(5):379–86.  pmid:18838601
+82.
+Ruberg FL, Skene DJ, Hanifin JP, Rollag MD, English J, Arendt J, et al. Melatonin regulation in humans with color vision deficiencies. J Clin Endocrinol Metab. 1996;81(8):2980–5.  pmid:8768862
+83.
+Wright HR, Lack LC. Effect of light wavelength on suppression and phase delay of the melatonin rhythm. Chronobiol Int. 2001;18(5):801–8.  pmid:11763987
+84.
+Wright HR, Lack LC, Kennaway DJ. Differential effects of light wavelength in phase advancing the melatonin rhythm. J Pineal Res. 2004;36(2):140–4.  pmid:14962066
+85.
+Lok R, Smolders K, Beersma DGM, de Kort YAW. Light, Alertness, and Alerting Effects of White Light: A Literature Overview. J Biol Rhythm. 2018;33(6):589–601.  pmid:30191746
+86.
+Cajochen C, Zeitzer JM, Czeisler CA, Dijk DJ. Dose-response relationship for light intensity and ocular and electroencephalographic correlates of human alertness. Behav Brain Res. 2000;115(1):75–83.  pmid:10996410
+87.
+Vandewalle G, Balteau E, Phillips C, Degueldre C, Moreau V, Sterpenich V, et al. Daytime light exposure dynamically enhances brain responses. Curr Biol. 2006;16(16):1616–21.  pmid:16920622
+88.
+Phillips AJK, Vidafar P, Burns AC, McGlashan EM, Anderson C, Rajaratnam SMW, et al. High sensitivity and interindividual variability in the response of the human circadian system to evening light. Proc Natl Acad Sci U S A. 2019;116(24):12019–24.  pmid:31138694
+89.
+Zeitzer JM, Dijk DJ, Kronauer R, Brown E, Czeisler C. Sensitivity of the human circadian pacemaker to nocturnal light: melatonin phase resetting and suppression. J Physiol. 2000;526(Pt 3):695–702.  pmid:10922269
+90.
+Cajochen C, Münch M, Kobialka S, Kräuchi K, Steiner R, Oelhafen P, et al. High sensitivity of human melatonin, alertness, thermoregulation, and heart rate to short wavelength light. J Clin Endocrinol Metab. 2005;90(3):1311–6.  pmid:15585546
+91.
+Lockley SW, Evans EE, Scheer FA, Brainard GC, Czeisler CA, Aeschbach D. Short-wavelength sensitivity for the direct effects of light on alertness, vigilance, and the waking electroencephalogram in humans. Sleep. 2006;29(2):161–8. pmid:16494083
+92.
+Revell VL, Barrett DC, Schlangen LJ, Skene DJ. Predicting human nocturnal nonvisual responses to monochromatic and polychromatic light with a melanopsin photosensitivity function. Chronobiol Int. 2010;27(9–10):1762–77.  pmid:20969522
+93.
+Rahman SA, Flynn-Evans EE, Aeschbach D, Brainard GC, Czeisler CA, Lockley SW. Diurnal spectral sensitivity of the acute alerting effects of light. Sleep. 2014;37(2):271–81.  pmid:24501435
+94.
+Chellappa SL, Steiner R, Blattner P, Oelhafen P, Gotz T, Cajochen C. Non-visual effects of light on melatonin, alertness and cognitive performance: can blue-enriched light keep us alert? PLoS ONE. 2011;6(1):e16429.  pmid:21298068
+95.
+Rahman SA, St Hilaire MA, Lockley SW. The effects of spectral tuning of evening ambient light on melatonin suppression, alertness and sleep. Physiol Behav. 2017;177:221–9.  pmid:28472667
+96.
+Price LL, Lyachev A, Khazova M. Optical performance characterization of light-logging actigraphy dosimeters. J Opt Soc Am A Opt Image Sci Vis. 2017;34(4):545–57.  pmid:28375324
+97.
+Spitschan M, Garbazza C, Kohl S, Cajochen C. Sleep and circadian phenotype in people without cone-mediated vision: a case series of five CNGB3 and two CNGA3 patients. Brain Commun 2021;3(3):fcab159.  pmid:34447932
+98.
+Chellappa SL, Steiner R, Oelhafen P, Lang D, Götz T, Krebs J, et al. Acute exposure to evening blue-enriched light impacts on human sleep. J Sleep Res. 2013;22(5):573–80.  pmid:23509952
+99.
+Wright KP Jr, Gronfier C, Duffy JF, Czeisler CA. Intrinsic period and light intensity determine the phase relationship between melatonin and sleep in humans. J Biol Rhythm. 2005;20(2):168–77.  pmid:15834113
+100.
+Munch M, Nowozin C, Regente J, Bes F, De Zeeuw J, Hadel S, et al. Blue-Enriched Morning Light as a Countermeasure to Light at the Wrong Time: Effects on Cognition, Sleepiness, Sleep, and Circadian Phase. Neuropsychobiology. 2016;74(4):207–18.  pmid:28637029
+101.
+Hebert M, Martin SK, Lee C, Eastman CI. The effects of prior light history on the suppression of melatonin by light in humans. J Pineal Res. 2002;33(4):198–203.  pmid:12390501
+102.
+Smith KA, Schoen MW, Czeisler CA. Adaptation of human pineal melatonin suppression by recent photic history. J Clin Endocrinol Metab. 2004;89(7):3610–4.  pmid:15240654
+103.
+Chang AM, Scheer FA, Czeisler CA, Aeschbach D. Direct effects of light on alertness, vigilance, and the waking electroencephalogram in humans depend on prior light history. Sleep. 2013;36(8):1239–46.  pmid:23904684
+104.
+Jasser SA, Hanifin JP, Rollag MD, Brainard GC. Dim light adaptation attenuates acute melatonin suppression in humans. J Biol Rhythm. 2006;21(5):394–404.  pmid:16998159
+105.
+Khalsa SB, Jewett ME, Cajochen C, Czeisler CA. A phase response curve to single bright light pulses in human subjects. J Physiol. 2003;549(Pt 3):945–52.  pmid:12717008
+106.
+St Hilaire MA, Gooley JJ, Khalsa SB, Kronauer RE, Czeisler CA, Lockley SW. Human phase response curve to a 1 h pulse of bright white light. J Physiol. 2012;590(13):3035–45.  pmid:22547633
+107.
+Stothard ER, McHill AW, Depner CM, Birks BR, Moehlman TM, Ritchie HK, et al. Circadian Entrainment to the Natural Light-Dark Cycle across Seasons and the Weekend. Curr Biol. 2017;27(4):508–13.  pmid:28162893
+108.
+Wright KP, McHill AW, Birks BR, Griffin BR, Rusterholz T, Chinoy ED. Entrainment of the human circadian clock to the natural light-dark cycle. Curr Biol. 2013;23(16):1554–8.  pmid:23910656
+109.
+de la Iglesia HO, Fernandez-Duque E, Golombek DA, Lanza N, Duffy JF, Czeisler CA, et al. Access to Electric Light Is Associated with Shorter Sleep Duration in a Traditionally Hunter-Gatherer Community. J Biol Rhythm. 2015;30(4):342–50.  pmid:26092820
+110.
+Moreno CR, Vasconcelos S, Marqueze EC, Lowden A, Middleton B, Fischer FM, et al. Sleep patterns in Amazon rubber tappers with and without electric light at home. Sci Rep. 2015;5:14074.  pmid:26361226
+111.
+Schlangen L, Lang D, Novotny P, Plischke H, Smolders K, Beersma DG, et al. Lighting for Health & Well-Being in Education, Work Places, Nursing Homes, Domestic Applications and Smart Cities: Accelerate SSL Innovation For Europe; 2014.
+112.
+Barkmann C, Wessolowski N, Schulte-Markwort M. Applicability and efficacy of variable light in schools. Physiol Behav. 2012;105(3):621–7.  pmid:22001491
+113.
+Mott MS, Robinson DH, Walden A, Burnette J, Rutherford AS. Illuminating the Effects of Dynamic Lighting on Student Learning. SAGE Open. 2012;2:1–9.
+114.
+Sleegers PJC, Moolenaar NM, Galetzka M, Pruyn A, Sarroukh BE, van der Zande B. Lighting affects students’ concentration positively: Findings from three Dutch studies. Light Res Technol. 2013;45:159–75.
+115.
+Keis O, Helbig H, Streb J, Hille K. Influence of blue-enriched classroom lighting on students’ cognitive performance. Trends Neurosci Edu. 2014;3:86–92.
+116.
+Rautkyla E, Puolakka M, Tetri E, Halonen L. Effects of correlated colour Temperature and Timing of Light Exposure on Daytime Alertness in Lecture Environmnets. J Light Vis Environ. 2010;34:59–68.
+117.
+Riemersma-van der Lek RF, Swaab DF, Twisk J, Hol EM, Hoogendijk WJ, Van Someren EJ. Effect of bright light and melatonin on cognitive and noncognitive function in elderly residents of group care facilities: a randomized controlled trial. JAMA. 2008;299(22):2642–55.  pmid:18544724
+118.
+Figueiro MG, Plitnick BA, Lok A, Jones GE, Higgins P, Hornick TR, et al. Tailored lighting intervention improves measures of sleep, depression, and agitation in persons with Alzheimer’s disease and related dementia living in long-term care facilities. Clin Interv Aging. 2014;9:1527–37.  pmid:25246779
+119.
+Figueiro MG, Plitnick B, Roohan C, Sahin L, Kalsher M, Rea MS. Effects of a Tailored Lighting Intervention on Sleep Quality, Rest-Activity, Mood, and Behavior in Older Adults With Alzheimer Disease and Related Dementias: A Randomized Clinical Trial. J Clin Sleep Med. 2019;15(12):1757–67.  pmid:31855161
+120.
+Hopkins S, Morgan PL, Schlangen LJM, Williams P, Skene DJ, Middleton B. Blue-Enriched Lighting for Older People Living in Care Homes: Effect on Activity, Actigraphic Sleep. Mood and Alertness Curr Alzheimer Res. 2017;14(10):1053–62.  pmid:28595523
+121.
+Vetter C, Juda M, Lang D, Wojtysiak A, Roenneberg T. Blue-enriched office light competes with natural light as a zeitgeber. Scand J Work Environ Health. 2011;37(5):437–45.  pmid:21246176
+122.
+Cho JR, Joo EY, Koo DL, Hong SB. Let there be no light: the effect of bedside light on sleep quality and background electroencephalographic rhythms. Sleep Med. 2013;14(12):1422–5.  pmid:24210607
+123.
+Nagare R, Plitnick B, Figueiro MG. Does the iPad Night Shift mode reduce melatonin suppression? Light Res Technol. 2019;51(3):373–83.  pmid:31191118
+124.
+Heath M, Sutherland C, Bartel K, Gradisar M, Williamson P, Lovato N, et al. Does one hour of bright or short-wavelength filtered tablet screenlight have a meaningful effect on adolescents’ pre-bedtime alertness, sleep, and daytime functioning? Chronobiol Int. 2014;31(4):496–505.  pmid:24397302
+125.
+Cajochen C, Frey S, Anders D, Späti J, Bues M, Pross A, et al. Evening exposure to a light-emitting diodes (LED)-backlit computer screen affects circadian physiology and cognitive performance. J Appl Physiol (1985). 2011;110(5):1432–8.  pmid:21415172
+126.
+van der Lely S, Frey S, Garbazza C, Wirz-Justice A, Jenni OG, Steiner R, et al. Blue blocker glasses as a countermeasure for alerting effects of evening light-emitting diode screen exposure in male teenagers. J Adolesc Health. 2015;56(1):113–9.  pmid:25287985
+127.
+Klerman EB, Duffy JF, Dijk DJ, Czeisler CA. Circadian phase resetting in older people by ocular bright light exposure. J Investig Med. 2001;49(1):30–40.  pmid:11217145
+128.
+Sletten TL, Revell VL, Middleton B, Lederle KA, Skene DJ. Age-related changes in acute and phase-advancing responses to monochromatic light. J Biol Rhythm. 2009;24(1):73–84.  pmid:19227580
+129.
+Crowley SJ, Cain SW, Burns AC, Acebo C, Carskadon MA. Increased Sensitivity of the Circadian System to Light in Early/Mid-Puberty. J Clin Endocrinol Metab. 2015;100(11):4067–73.  pmid:26301944
+130.
+Gabel V, Reichert CF, Maire M, Schmidt C, Schlangen LJM, Kolodyazhniy V, et al. Differential impact in young and older individuals of blue-enriched white light on circadian physiology and alertness during sustained wakefulness. Sci Rep. 2017;7(1):7620.  pmid:28790405
+131.
+Lee SI, Matsumori K, Nishimura K, Nishimura Y, Ikeda Y, Eto T, et al. Melatonin suppression and sleepiness in children exposed to blue-enriched white LED lighting at night. Physiol Rep. 2018;6(24):e13942.  pmid:30556352
+132.
+Najjar RP, Chiquet C, Teikari P, Cornut PL, Claustrat B, Denis P, et al. Aging of non-visual spectral sensitivity to light in humans: compensatory mechanisms? PLoS ONE. 2014;9(1):e85837.  pmid:24465738
+133.
+Abbott SM, Malkani RG, Zee PC. Circadian disruption and human health: A bidirectional relationship. Eur J Neurosci. 2020;51(1):567–83.  pmid:30549337
+134.
+Price LLA, Udovicic L, Behrens T, van Drongelen A, Garde AH, Hogenelst K, et al. Linking the non-visual effects of light exposure with occupational health. Int J Epidemiol. 2019;48(5):1393–7.  pmid:31257447
+135.
+Lowden A, Akerstedt T. Assessment of a new dynamic light regimen in a nuclear power control room without windows on quickly rotating shiftworkers—effects on health, wakefulness, and circadian alignment: a pilot study. Chronobiol Int 2012;29(5):641–9.  pmid:22621361
+136.
+Sletten TL, Ftouni S, Nicholas CL, Magee M, Grunstein RR, Ferguson S, et al. Randomised controlled trial of the efficacy of a blue-enriched light intervention to improve alertness and performance in night shift workers. Occup Environ Med. 2017;74(11):792–801.  pmid:28630378
+137.
+Motamedzadeh M, Golmohammadi R, Kazemi R, Heidarimoghadam R. The effect of blue-enriched white light on cognitive performances and sleepiness of night-shift workers: A field study. Physiol Behav. 2017;177:208–14.  pmid:28495465
+138.
+Sunde E, Pedersen T, Mrdalj J, Thun E, Gronli J, Harris A, et al. Blue-Enriched White Light Improves Performance but Not Subjective Alertness and Circadian Adaptation During Three Consecutive Simulated Night Shifts. Front Psychol. 2020;11:2172.  pmid:33013558
+139.
+Sherwin JC, Reacher MH, Keogh RH, Khawaja AP, Mackey DA, Foster PJ. The association between time spent outdoors and myopia in children and adolescents: a systematic review and meta-analysis. Ophthalmology. 2012;119(10):2141–51.  pmid:22809757
+140.
+Cooney GM, Dwan K, Greig CA, Lawlor DA, Rimer J, Waugh FR, et al. Exercise for depression. Cochrane Database Syst Rev 2013;(9):CD004366.  pmid:24026850
+141.
+Webb AR. Who, what, where and when-influences on cutaneous vitamin D synthesis. Prog Biophys Mol Biol. 2006;92(1):17–25.  pmid:16766240
+142.
+CIE. 015:2018. Colorimetry 4th Edition. Vienna: CIE Central Bureau; 2018.
+143.
+Hanifin JP, Lockley SW, Cecil K, West K, Jablonski M, Warfield B, et al. Randomized trial of polychromatic blue-enriched light for circadian phase shifting, melatonin suppression, and alerting responses. Physiol Behav. 2019;198:57–66.  pmid:30296404
+144.
+Ho Mien I, Chua EC, Lau P, Tan LC, Lee IT, Yeo SC, et al. Effects of exposure to intermittent versus continuous red light on human circadian rhythms, melatonin suppression, and pupillary constriction. PLoS ONE. 2014;9(5):e96532.  pmid:24797245

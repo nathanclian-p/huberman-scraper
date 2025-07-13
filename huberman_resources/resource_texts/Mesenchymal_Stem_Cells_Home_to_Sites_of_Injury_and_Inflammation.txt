@@ -1,0 +1,349 @@
+Abstract
+Background
+Mesenchymal stem cells (MSCs) have shown significant therapeutic potential in preclinical animal models of wound healing. However, the translation of MSC-based therapeutics to clinical practice has been delayed by questions including the mechanisms of MSC homing, engraftment, and ultimate function.
+The Problem
+Experimental models of MSC-based wound therapies often involve intravenous injection of cells followed by sacrifice of animals at various time points and detection of MSCs in wounds by histological methods. However, this methodology is limited by its sampling of only specific tissue at a single time point and provides no information about how exogenously transplanted MSCs home to the wound environment.
+Basic/Clinical Science Advances
+Most systemically injected MSCs initially become entrapped within the lungs before migrating out to the liver and spleen in the normal state. When an injury is present, after the initial lung entrapment, MSCs migrate in response to inflammatory mediators and home to sites of wounding.
+Clinical Care Relevance
+As MSC-based wound therapies continue to advance toward clinical trials, the availability of noninvasive methods to track cells after injection into patients affords the opportunity to monitor stem cell behavior post-transplantation.
+Conclusion
+MSCs have demonstrated great promise as an emerging therapeutic for wound management. However, further preclinical studies will be needed to elucidate the reparative mechanisms of these cells and to determine how to optimize their regenerative potential.
+Geoffrey C. Gurtner
+Background
+M
+esenchymal stem cells
+(MSCs) are a heterogenous population of adult multipotent stem cells that can be isolated from most tissues in the body, most commonly from bone marrow and adipose tissue.
+1
+MSCs derived from the bone marrow represent a relatively rare population of cells, only 0.001%–0.01% of total bone marrow cells.
+2
+However, these cells can be relatively easily harvested and expanded
+ex vivo
+to appropriate numbers before therapeutic delivery. MSCs have demonstrated a tremendous capacity to repair and regenerate injured tissues both through transdifferentiation to tissue-specific cell types and via the paracrine secretion of key wound healing cytokines.
+2
+,
+3
+MSCs can be therapeutically delivered via systemic infusion and appear capable of homing to sites of injury and inflammation.
+4
+,
+5
+However, the dynamics and molecular mechanisms of MSCs trafficking to sites of injury have not been fully elucidated. These unanswered experimental questions remain a significant barrier to clinical translation of MSC-based wound therapies. Current laboratory methodologies for tracking systemically injected cells in animal models require harvesting of tissues at specific time points and are thus subject to sampling errors. The development of technologies to serially and noninvasively monitor the behavior of MSCs would not only provide valuable dynamic information about the basic science of MSC trafficking but would also benefit MSC-based therapeutics by providing targets to improve homing and survival.
+Target Articles.
+1. Kidd S, Spaeth E, Dembinski JL, Dietrich M, Watson K, Klopp A, Battula VL, Weil M, Andreeff M, and Marini FC: Direct evidence of mesenchymal stem cell tropism for tumor and wounding microenvironments using
+in vivo
+bioluminescent imaging. Stem Cells 2009;
+27:
+2614.
+Clinical Problem Addressed
+Chronic wounds affect approximately 6.5 million U.S. patients, and this number is expected to rapidly rise because of the aging of the population and the increased incidence of diabetes and obesity.
+6
+A wide array of surgical and nonsurgical management options are currently used with variable success culminating in over $25 billion spent on treatment of chronic wounds in the United States.
+7
+Cellular therapies have become an emerging treatment option in the form of tissue-engineered skin products.
+8
+The capacity of MSCs to significantly improve wound healing in preclinical studies suggests that stem cell-based therapeutics may follow as the future of biologic wound products.
+Relevant Basic Science Context
+The role of bone marrow-derived cells in contributing to wound repair has been well acknowledged for many years but has been traditionally limited to the migration of inflammatory cells to the wound bed. Over the past decade, discovery of the significant part that bone marrow-derived MSCs normally play in wound healing has greatly expanded our knowledge of the reparative response to injury.
+9
+,
+10
+Whether we can harness the body's innate mechanisms for wound repair by harvesting these MSCs, expanding them
+ex vivo
+, and then therapeutically delivering them to treat chronic wounds has been of much interest to both clinicians and scientists.
+The therapeutic delivery of MSCs can be performed via systemic injection followed by MSC homing to and engraftment within sites of injury.
+4
+,
+11
+Although it is clear that MSCs have a reparative effect on injured tissue, the mechanisms of action of MSC-related improvements in healing have not been fully described and may be related to both local and systemic effects. The contribution of MSC transdifferentiation into wound cell types is thought to be relatively minor as engraftment of exogenous MSCs is extremely low. MSCs have been shown to enhance the angiogenic response after wounding likely through the release of proangiogenic factors.
+12
+,
+13
+In addition, intravenously injected MSCs have been shown to exert systemic anti-inflammatory effects by releasing several anti-inflammatory proteins including tumor necrosis factor-α–induced protein 6.
+14
+Experimental evaluation of MSC trafficking to wounds can be a labor- and time-intensive process as standard methods to track cells including immunohistochemistry, immunofluorescence, and polymerase chain reaction (PCR) require sampling of multiple tissue types at multiple time points. Histological methods are also subject to artifacts that may skew analyses, and PCR techniques are limited by higher thresholds of detection. The development of protocols using noninvasive imaging modalities to track the biodistribution and trafficking of MSCs to sites of injury in other organ systems has proven beneficial for serial monitoring of MSC behavior.
+15
+Experimental Model or Material: Advantages and Limitations
+The authors investigate trafficking of systemically infused MSCs to two models of cutaneous injury: a linear incision and a needlestick injury. These models do provide proof-of-concept of MSC homing to sites of injury and inflammation; however, the degree of wounding performed in this study is relatively minor. The extent of MSC trafficking to more clinically relevant wounds including larger excisional wounds, burns, and ischemic and/or infected wounds remains to be investigated. Further, the target article demonstrates the dynamic path taken by exogenous MSCs in a normal animal model. Many patients who would most benefit from MSC-based wound therapeutics are elderly or diabetic and thus are known to have impairments in stem cell trafficking. Whether systemic infusion of MSCs is an effective therapeutic option in aged or diabetic animal models is not addressed in this study.
+Bioluminescence imaging, a commonly employed imaging modality in basic science research, is used in this article to track cells postinfusion. Although this imaging tool cannot be used on human subjects, the authors provide evidence that commonly used noninvasive imaging methods such as positron emission tomography (PET) and magnetic resonance imaging (MRI) could be used to track MSC behavior postimplantation.
+Discussion of Findings and Relevant Literature
+In a nonwounded homeostatic host, intravenously injected MSCs are rapidly cleared from the circulation and initially become entrapped within the lungs.
+4
+,
+14
+In animal models where xenogeneic MSCs are transplanted into immunodeficient mice or where allogeneic MSCs are used, after 1–5 days postinjection, MSCs begin to exit the lungs and are found within the liver, spleen, kidneys, and bone marrow.
+4
+,
+15
+MSCs are no longer detected by bioluminescence imaging in the lungs by 10 days postinjection and in the liver by 14 days postinjection.
+4
+When syngeneic MSCs are injected into a homeostatic host, the same dynamic path is taken by the injected cells, but the time frame during which the changes in biodistribution occurs is markedly shortened. In the homeostatic syngeneic model, MSCs exit from the lungs a few hours postinjection, and the bioluminescence signal is no longer detectable in the lungs after only 18 h.
+4
+After systemic administration of MSCs in a wounded animal, MSCs become entrapped within the lungs as in a homeostatic host, but approximately 1–3 days postinjection MSCs can be found at the wound site.
+4
+Additionally, a small percentage of MSCs that home to the wound engraft within the newly formed tissue and can be found there at 2 weeks postinjection. However, the number of engrafted MSCs is consistently low across multiple studies. The reported engraftment efficiency of MSCs into wounds at day 14 postwounding ranges from <0.01% when MSCs were intravenously injected to 3.5% in a study where MSCs were locally injected.
+5
+,
+12
+Take-Home Messages.
+Basic science advances
+• The use of bioluminescence imaging to study MSC trafficking in preclinical studies allows for the collection of dynamic information and obviates the sacrifice of a large number of animals.
+• Systemically administered MSCs traverse a dynamic path after injection that begins with a period of entrapment within the lungs. In the absence of wounding, MSCs will eventually exit the lungs and can be found in the liver, spleen, bone marrow, kidneys, and other organs. When a cutaneous wound is present, MSCs home to the site of injury after the initial lung entrapment.
+• MSC trafficking occurs in response to chemotactic gradients involving multiple growth factors and chemokines. The migratory response of MSCs to these gradients can be further stimulated by cytokines locally released within wounds.
+• In a homeostatic, nonwounded host, systemically injected MSCs are no longer detectable after 2–3 weeks. In a wounded host, a small number of MSCs engraft at the wound site, become incorporated within the newly formed tissue, and contribute to the wound repair process through the secretion of various cytokines and transdifferentiation into tissue-specific cell types.
+Clinical science advances
+• MSCs can be administered to a patient with a chronic wound relatively noninvasively via intravenous infusion as MSCs are capable of homing from the circulation to sites of injury and inflammation.
+• The biodistribution and behavior of MSCs systemically injected can be serially monitored using noninvasive imaging techniques such as PET and MRI.
+Relevance to clinical care
+• As the U.S. population ages and the incidence of diabetes continues to rise, new and more effective strategies to manage chronic wounds are needed.
+• MSCs have shown substantial potential for treating wounds in preclinical studies and will likely emerge as a future treatment option for wound management. Notably, MSCs have a propensity for enhancing neovascularization and thus may be especially useful in the treatment of wounds with impaired angiogenesis.
+• However, before MSC-based therapeutics can be translated to the clinic, further studies must be done to ensure the safety of systemically administered stem cell treatments. Further, continued work is needed to determine how to optimize the reparative and regenerative potential of MSCs.
+The trafficking of therapeutically injected MSCs from the circulation to sites of injury involves myriad cytokines and growth factors. MSC migration has been demonstrated along chemotactic gradients of the growth factors platelet-derived growth factor-AB, insulin-like growth factor-1, epidermal growth factor, and hepatoctye growth factor.
+16
+Similarly, the chemokines RANTES, macrophage-derived chemokine, and stromal-derived factor-1 have shown significant capacity to induce chemotactic migration of MSCs. Interestingly, inflammatory cytokines have been shown to prime MSCs for chemotaxis likely through the upregulation of receptors for chemotactic factors.
+16
+Thus, the mechanisms involved in MSC homing to sites of injury likely involve both local and systemic inflammatory signals that act in concert to direct stem cells toward areas of wounding.
+Once at the site of injury, MSCs play an active role in the reparative process. One of their primary contributions is the secretion of a large number of paracrine factors that are known to be critical to wound healing. In a murine excisional wound healing model, the treatment of wounds with MSC-conditioned media alone lead to a significant acceleration of wound closure.
+13
+MSCs are known specifically to secrete large amounts of proangiogenic cytokines including angiopoietin 1 and vascular endothelial growth factor, which contribute to the significantly enhanced neovascularization seen in MSC-treated wounds.
+12
+The transdifferentiation of MSCs into various cell types within the wound has also been described.
+2
+,
+5
+In one study of intravenously injected GFP+ MSCs, keratinocytes, endothelial cells, pericytes, and macrophages within the healed wound were found to be GFP+, suggesting they were derived from donor MSCs.
+5
+Other groups have shown that MSCs contribute to more regenerative healing through the restoration of skin appendages including hair follicles and sebaceous glands.
+12
+However, given that the number of MSCs engrafting within wounds is extremely small, the role that MSC transdifferentiation plays in wound healing is likely secondary to that of their paracrine effects.
+Innovation
+The target article demonstrates an innovative, noninvasive method to track MSCs after injection, which has implications for both basic science and prospective clinical use of MSC-based treatments. First, the traditional means of assessing cell trafficking experimentally is expensive and time intensive as it requires the sacrifice of many animals over many time points. Bioluminescence imaging has been previously used primarily in cancer research, but this imaging modality serves as an ideal method for monitoring the dynamic behavior of transplanted cells. Second, this study demonstrates the feasibility of using currently practiced, noninvasive imaging methods for monitoring MSCs in patients once these stem cell-based treatments begin to move to clinical trials.
+Summary Illustration
+The dynamic path taken by injected MSCs to sites of injury is shown. The ability of endogenous MSCs to contribute to cutaneous wound healing can be harnessed by isolating these cells, expanding them to an appropriate therapeutic dose and infusing them systemically. After an initial entrapment in the lungs, MSCs home to sites of injury and inflammation where they secrete cytokines and can transdifferentiate into various wound cell types.
+Caution, Critical Remarks, and Recommendations
+Some caution must be taken as the same mechanisms driving MSC homing to wounds are also seen in MSC tropism for tumors. The authors of the target article additionally investigated the biodistribution of systemically injected MSCs in various animal tumor models and demonstrated that MSCs also traffic to inflammatory tumor microenvironments.
+4
+These findings raise an important question about the safety of MSC infusions in the setting of malignancy. This issue has been preliminarily addressed in a recent study suggesting that adipose-derived stem cells locally delivered to a wound do not contribute to tumor progression at a distant site.
+17
+However, the safety of systemic administration of MSCs in the setting of malignancy remains a lingering question that will require further investigation.
+Further investigations of the potential of MSC-based treatments for wound healing must also explore the effects of various delivery methods. Despite the capacity of systemically injected MSCs to home to sites of injury, it would seem likely that more localized delivery of stem cells may improve cell engraftment and thus provide superior therapeutic efficacy.
+Future Development of Interest
+Although the delivery of MSCs into the systemic circulation has proven beneficial for wound healing through the homing mechanisms discussed here, the number of injected cells that engraft within a wound is extremely small. The development of strategies to optimize MSC engraftment within wounds will likely allow for the full regenerative potential of MSC-based therapeutics to be realized. Enhanced engraftment of bone marrow-derived stem cells has been demonstrated with upregulation of the chemotactic factor monocyte chemoattractant protein-1 at the injury site.
+18
+Genetic engineering of MSCs to overexpress the prosurvival gene Akt has also been shown to improve MSC engraftment efficiency.
+19
+Alternatively, tissue engineering paradigms involving the combination of stem/progenitor cells, a scaffold for cell delivery, and appropriate small molecules have shown great promise in other tissue injury models and would likely prove useful in the development of MSC-based wound healing therapeutics.
+20
+Abbreviations and Acronyms
+MRI
+magnetic resonance imaging
+MSC
+mesenchymal stem cell
+PCR
+polymerase chain reaction
+PET
+positron emission tomography
+Acknowledgments And Funding Sources
+Research on MSC-based therapeutic strategies in G.C.G.'s laboratory was funded by the National Institutes of Health (NIH/NIBIB R01#EB005718) and the Armed Forces Institute of Regenerative Medicine (AFIRM #W81XWH-08-2-0032).
+Author Disclosure and Ghostwriting
+The authors have no relevant disclosures. No ghostwriter has been used to write this chapter.
+References
+1.
+Stappenbeck TS. Miyoshi H. The role of stromal stem cells in tissue regeneration and wound repair. Science. 2009;324:1666. doi: 10.1126/science.1172687.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+2.
+Wu Y. Zhao RC. Tredget EE. Concise review: bone marrow-derived stem/progenitor cells in cutaneous repair and regeneration. Stem Cells. 2010;28:905. doi: 10.1002/stem.420.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+3.
+Phinney DG. Prockop DJ. Concise review: mesenchymal stem/multipotent stromal cells: the state of transdifferentiation and modes of tissue repair—current views. Stem Cells. 2007;25:2896. doi: 10.1634/stemcells.2007-0637.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+4.
+Kidd S. Spaeth E. Dembinski JL. Dietrich M. Watson K. Klopp A. Battula VL. Weil M. Andreeff M. Marini FC. Direct evidence of mesenchymal stem cell tropism for tumor and wounding microenvironments using in vivo bioluminescent imaging. Stem Cells. 2009;27:2614. doi: 10.1002/stem.187.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+5.
+Sasaki M. Abe R. Fujita Y. Ando S. Inokuma D. Shimizu H. Mesenchymal stem cells are recruited into wounded skin and contribute to wound repair by transdifferentiation into multiple skin cell type. J Immunol. 2008;180:2581. doi: 10.4049/jimmunol.180.4.2581.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+6.
+Sen CK. Gordillo GM. Roy S. Kirsner R. Lambert L. Hunt TK. Gottrup F. Gurtner GC. Longaker MT. Human skin wounds: a major and snowballing threat to public health and the economy. Wound Repair Regen. 2009;17:763. doi: 10.1111/j.1524-475X.2009.00543.x.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+7.
+Brem H. Stojadinovic O. Diegelmann RF. Entero H. Lee B. Pastar I. Golinko M. Rosenberg H. Tomic-Canic M. Molecular markers in patients with chronic wounds to guide surgical debridement. Mol Med. 2007;13:30. doi: 10.2119/2006-00054.Brem.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+8.
+Ehrenreich M. Ruszczak Z. Update on tissue-engineered biological dressings. Tissue Eng. 2006;12:2407. doi: 10.1089/ten.2006.12.2407.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+9.
+Badiavas EV. Abedi M. Butmarc J. Falanga V. Quesenberry P. Participation of bone marrow derived cells in cutaneous wound healing. J Cell Physiol. 2003;196:245. doi: 10.1002/jcp.10260.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+10.
+Fathke C. Wilson L. Hutter J. Kapoor V. Smith A. Hocking A. Isik F. Contribution of bone marrow-derived cells to skin: collagen deposition and wound repair. Stem Cells. 2004;22:812. doi: 10.1634/stemcells.22-5-812.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+11.
+McFarlin K. Gao X. Liu YB. Dulchavsky DS. Kwon D. Arbab AS. Bansal M. Li Y. Chopp M. Dulchavsky SA. Gautam SC. Bone marrow-derived mesenchymal stromal cells accelerate wound healing in the rat. Wound Repair and Regeneration: Official Publication of the Wound Healing Society [and] the European Tissue Repair Society. 2006;14:471. doi: 10.1111/j.1743-6109.2006.00153.x.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+12.
+Wu Y. Chen L. Scott PG. Tredget EE. Mesenchymal stem cells enhance wound healing through differentiation and angiogenesis. Stem Cells. 2007;25:2648. doi: 10.1634/stemcells.2007-0226.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+13.
+Chen L. Tredget EE. Wu PY. Wu Y. Paracrine factors of mesenchymal stem cells recruit macrophages and endothelial lineage cells and enhance wound healing. PLoS One. 2008;3:e1886. doi: 10.1371/journal.pone.0001886.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+14.
+Lee RH. Pulin AA. Seo MJ. Kota DJ. Ylostalo J. Larson BL. Semprun-Prieto L. Delafontaine P. Prockop DJ. Intravenous hMSCs improve myocardial infarction in mice because cells embolized in lung are activated to secrete the anti-inflammatory protein TSG-6. Cell Stem Cell. 2009;5:54. doi: 10.1016/j.stem.2009.05.003.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+15.
+Kraitchman DL. Tatsumi M. Gilson WD. Ishimori T. Kedziorek D. Walczak P. Segars WP. Chen HH. Fritzges D. Izbudak I. Young RG. Marcelino M. Pittenger MF. Solaiyappan M. Boston RC. Tsui BM. Wahl RL. Bulte JW. Dynamic imaging of allogeneic mesenchymal stem cells trafficking to myocardial infarction. Circulation. 2005;112:1451. doi: 10.1161/CIRCULATIONAHA.105.537480.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+16.
+Ponte AL. Marais E. Gallay N. Langonne A. Delorme B. Herault O. Charbord P. Domenech J. The in vitro migration capacity of human bone marrow mesenchymal stem cells: comparison of chemokine and growth factor chemotactic activities. Stem Cells. 2007;25:1737. doi: 10.1634/stemcells.2007-0054.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+17.
+Altman AM. Prantl L. Muehlberg FL. Song YH. Seidensticker M. Butler CE. Alt EU. Wound microenvironment sequesters adipose-derived stem cells in a murine model of reconstructive surgery in the setting of concurrent distant malignancy. Plastic and reconstructive surgery. 2011;127:1467. doi: 10.1097/PRS.0b013e31820a6400.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+18.
+Belema-Bedada F. Uchida S. Martire A. Kostin S. Braun T. Efficient homing of multipotent adult mesenchymal stem cells depends on FROUNT-mediated clustering of CCR2. Cell Stem Cell. 2008;2:566. doi: 10.1016/j.stem.2008.03.003.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+19.
+Mangi AA. Noiseux N. Kong D. He H. Rezvani M. Ingwall JS. Dzau VJ. Mesenchymal stem cells modified with Akt prevent remodeling and restore performance of infarcted hearts. Nat Med. 2003;9:1195. doi: 10.1038/nm912.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+20.
+Silva EA. Kim ES. Kong HJ. Mooney DJ. Material-based deployment enhances efficacy of endothelial progenitor cells. Proc Natl Acad Sci USA. 2008;105:14347. doi: 10.1073/pnas.0803873105.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+Articles from Advances in Wound Care are provided here courtesy of
+Mary Ann Liebert, Inc.

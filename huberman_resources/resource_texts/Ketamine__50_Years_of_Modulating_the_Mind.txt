@@ -1,0 +1,1669 @@
+Introduction
+Fifty years ago,
+Corssen and Domino (1966)
+published the first clinical study of ketamine as a human anesthetic. Ketamine produces an unusual state, sometimes referred to as “dissociative anesthesia”, which was a term coined by
+Domino’s (2010)
+wife. During this dissociative state, patients might appear awake with preserved airway reflexes and respiratory drive, but they are unable to respond to sensory input (
+Domino et al., 1965
+). Ketamine additionally provides excellent analgesia with an impressive safety profile, making it a popular anesthetic induction agent in a variety of patient populations and settings.
+Although initially developed as an anesthetic, over the past several decades ketamine has been revealed to have greater potential in the field of medicine. A growing body of literature has demonstrated the clinical value of ketamine across diverse settings, with emerging roles in pain medicine and treatment-resistant depression. Concurrently, efforts to uncover the mechanisms underlying ketamine’s actions are providing researchers with new insights into the relationship between consciousness and anesthesia.
+Since the first clinical report in 1966, ketamine has become arguably the most unique anesthetic agent used today and also one of the most promising and exciting in terms of its potential. The purpose of this article is to provide an overview of ketamine’s history, pharmacology, putative mechanisms and clinical applications.
+History
+Ketamine’s history begins with phencyclidine, which was first synthesized in 1956 by chemists at Parke Davis Company (
+Maddox et al., 1965
+) who discovered ketamine’s unique and fascinating pharmacology. Phencyclidine was capable of causing the appearance of drunkenness in rodents, delirium in dogs, cataleptoid states in pigeons and anesthesia in monkeys (
+Domino and Luby, 2012
+). Although demonstrated to be a safe and reliable anesthetic in humans, it also caused an intense, prolonged emergence delirium that ultimately made it undesirable for human use (
+Greifenstein et al., 1958
+;
+Johnstone et al., 1959
+;
+Domino and Luby, 2012
+).
+Efforts were subsequently redirected towards synthesizing shorter-acting analogs of phencyclidine that would have similar anesthetic potential but cause less emergence delirium. Ketamine, then identified as CI-581, was one such agent developed by Parke Davis consultant and organic chemist Calvin Stevens in 1962 (
+Domino, 1980
+). A structural analog at one-tenth the potency of its parent drug phencyclidine, ketamine was subsequently selected for human trials, and the first human anesthetic dose was administered on August 3, 1964 by two University of Michigan professors: Dr. Edward Domino of Pharmacology (Figure
+1
+) and Dr. Guenter Corssen of Anesthesiology. In their initial pharmacological study of ketamine in 20 humans, Domino and Corssen found evidence that the drug could be safe and effective for clinical anesthetic use (
+Domino et al., 1965
+). In 1966, they published findings from the first clinical experiences with ketamine, reporting its anesthetic effects in 130 patients, aged 6 weeks to 86 years, undergoing a total of 133 surgical procedures (
+Corssen and Domino, 1966
+). They found that ketamine could rapidly produce profound analgesia with a unique state of altered consciousness and a limited duration of effect that could be safely prolonged with repeated administration. They also reported minimal side effects and a lack of severe emergence delirium compared to phencyclidine (
+Corssen and Domino, 1966
+).
+Ketalar (1970)
+became the first preparation of ketamine approved by the food and drug administration (FDA) for human use.
+Figure 1. Dr. Edward Domino as a young faculty at the University of Michigan.
+Dr. Domino is now in his 90s, an Emeritus Professor, and still active as a scientist in the field of neuropharmacology. Photograph provided courtesy of the University of Michigan Bentley Historical Library.
+Pharmacology
+Structure
+Ketamine is an arylcycloalkylamine that exists as S(+) and R(−) isomers and is commonly marketed as a racemic mixture of the two (Figure
+2
+). Isolated S(+) ketamine, which is not currently available in the United States but marketed in other parts of the world, has a higher affinity to the binding site on N-methyl-D-aspartate (NMDA)-receptors and produces 3–4 times greater anesthetic potency than the R(−) isomer (
+White et al., 1985
+). When used intraoperatively, the S(+) isomer is associated with less cardiac stimulation, less spontaneous motor activity, better analgesia, more rapid recovery, fewer psychotomimetic side effects, and a decreased incidence of emergence delirium (
+White et al., 1980
+,
+1985
+). In the more recent use of ketamine as an antidepressant, mouse studies have shown the R(−) isomer to be more potent and with less side effects than the S(+) isomer (
+Zhang et al., 2014
+).
+Figure 2. Structure of Ketamine
+.
+Pharmacokinetics and Pharmacodynamics
+Administration and Bioavailability
+Soluble in both water and lipids, ketamine can be safely administered through multiple routes: intravenous (IV), intramuscular (IM), oral, nasal, rectal, subcutaneous and epidural. IV administration is 100% bioavailable and considered the ideal route of administration. However, in certain settings such as emergencies or with uncooperative patients, IM ketamine is commonly used and has only a slightly lower bioavailability of 93% (
+Clements et al., 1982
+). A summary of ketamine’s common routes of administration and their respective pharmacologic profiles is provided in Table
+1
+.
+Table 1. Basic pharmacologic profiles of ketamine
+.
+Other routes of administration are less commonly used but exist as feasible options nonetheless. Intraosseous ketamine, for instance, has slightly slower anesthetic onset compared to IV administration (71.3 s and 56.3 s, respectively;
+Aliman et al., 2011
+) but may be used in emergency settings. Ketamine can also be administered intranasally, though it has a lower bioavailability of approximately 45% (
+Yanagihara et al., 2003
+) and can vary depending on the amount absorbed through nasal mucosa and the amount swallowed. Due to ketamine’s extensive first-pass metabolism, rectal and oral formulations have limited bioavailability with relatively high concentrations of the active (but less-potent) metabolite norketamine (
+Malinovsky et al., 1996
+;
+Chong et al., 2009
+;
+Rolan et al., 2014
+). Historically, these routes are used infrequently in humans, though increasing efforts are being made to develop suitable oral and sublingual formulations given the recent move towards using low-dose ketamine for pain and depression in the outpatient setting (
+Chong et al., 2009
+;
+Rolan et al., 2014
+).
+Distribution, Metabolism and Excretion
+Due to ketamine’s high lipid solubility and relatively limited protein binding, it is rapidly taken up by the brain and redistributed, with a distribution half-life of only 10–15 min (
+Wieber et al., 1975
+;
+Domino et al., 1984
+). Ketamine has a large volume of distribution of nearly 3 L/kg (
+Clements and Nimmo, 1981
+). Once in the body, ketamine undergoes liver metabolism to several metabolites (
+Clements and Nimmo, 1981
+). Of note, metabolism through cytochrome systems forms the active metabolite norketamine, which retains anesthetic activity but at one-third the potency of ketamine (
+Cohen and Trevor, 1974
+;
+Domino et al., 1984
+). Inactive ketamine conjugates and metabolites are renally excreted (
+Wieber et al., 1975
+), and elimination half-life is 2–3 h (
+Domino et al., 1984
+).
+Dosing
+Ketamine’s wide therapeutic range makes it one of the safest anesthetics available. General anesthesia can be induced with both IV and IM routes (Table
+1
+) and maintained with repeated doses of 0.5–1 mg/kg (
+Domino et al., 1984
+). Good analgesia and sedation can also be achieved at subanesthetic doses (e.g., 0.2–0.8 mg/kg IV, 2–4 mg/kg IM), and infusions at subanesthetic doses (e.g., 0.5 mg/kg/h) may also provide continuous sedation and analgesia (
+Allen and Macias, 2005
+;
+Miller et al., 2011
+).
+Systemic Effects
+Cardiovascular
+At both subanesthetic and anesthetic doses, ketamine is predominantly a sympathomimetic, producing increased arterial pressures and heart rate (
+Corssen and Domino, 1966
+) through direct stimulation of central nervous system structures (
+Traber et al., 1970
+). At higher doses (e.g., 20 mg/kg), however, ketamine also acts as direct myocardial depressant (
+Traber et al., 1968
+), and in the setting of compromised autonomic control (e.g., spinal cord transection, catecholamine depletion), these depressive effects may be unmasked. Ketamine also causes direct relaxation of vascular smooth muscle, though due to its sympathetically-mediated vasoconstriction, it has a relatively stable net effect on systemic vascular resistance (
+Diaz et al., 1976
+;
+Akata et al., 2001
+;
+Jung and Jung, 2012
+).
+Pulmonary
+Ketamine does not cause clinically significant respiratory depression in patients (
+Corssen and Domino, 1966
+), though arterial hypoxemia following rapid IV infusion of ketamine has been reported (
+Zsigmond et al., 1976
+). In fact, low-dose ketamine may actually stimulate respiration and is observed to produce higher flow-rates, respiratory rates and duty-cycle (inspiratory time divided by total respiratory cycle time) in animal models (
+Eikermann et al., 2012
+). Ketamine is also unique in its ability to preserve upper airway reflexes during anesthesia, uncoupling the loss of consciousness with the loss of upper airway dilator muscle activity (
+Eikermann et al., 2012
+). Ketamine further increases genioglossus muscle activity (
+Eikermann et al., 2012
+); this elevates and pushes the tongue forward, increasing upper airway diameter to further prevent its collapse (
+Oliven et al., 2003
+).
+Despite the fact that a patent airway is usually maintained during exposure to ketamine, attention to airway protection remains essential, as partial obstruction and aspiration are still possible. Ketamine may increase salivary secretions (
+Corssen and Domino, 1966
+) and potentially increase the risk of laryngospasm, but this is rarely reported (
+Green et al., 2010
+). Other respiratory effects of ketamine include bronchodilation, likely through vagolytic and other neurally mediated mechanisms (
+Brown and Wagner, 1999
+). At high doses, ketamine may also directly affect airway smooth muscle, but this effect is unlikely to be of clinical importance (
+Brown and Wagner, 1999
+).
+Neurological
+Because ketamine increases cerebral metabolism, it can potentially increase intracranial pressure (ICP) and has been used cautiously in patients with space-occupying cerebral lesions brain injury (
+Gardner et al., 1971
+;
+Shaprio et al., 1972
+;
+Wyte et al., 1972
+). However, when used in combination with propofol or midazolam, effects on cerebral perfusion are comparable to other commonly used, opioid-based combinations (
+Bourgoin et al., 2003
+,
+2005
+;
+Wang et al., 2014
+). Ketamine has also been safely used in patients with elevated ICP while helping to maintain optimal hemodynamic profiles (
+Bourgoin et al., 2003
+;
+Schmittner et al., 2007
+). In fact, in some cases, ketamine’s cerebral effects may be neuroprotective and potentially beneficial for brain trauma patients (
+Albanèse et al., 1997
+;
+Bar-Joseph et al., 2009
+). This includes ketamine’s inhibition of spreading cortical depolarizations after traumatic brain injury (TBI), an effect that may attenuate the extension of ischemic damage to healthier peri-ischemic tissue (
+Hertle et al., 2012
+).
+Side Effects, Toxicities, Interactions and Abuse
+Ketamine has multiple dose-dependent side effects, though most of which are self-resolving. Adverse effects include hypersalivation, hyperreflexia and transient clonus (
+Corssen and Domino, 1966
+). Ketamine may also cause vestibular-type symptoms including dizziness, nausea and vomiting. Cardiopulmonary toxicity is rare, with effects limited to those caused by the transient sympathetic activation such as tachycardia, hypertension and palpitations (
+Weiner et al., 2000
+;
+Strayer and Nelson, 2008
+). Given ketamine’s wide therapeutic range, death by overdose is rare and usually involves other intoxicants or in the setting of trauma (
+Moore et al., 1997
+;
+Gill and Stajic, 2000
+).
+The psychoactive properties associated with ketamine limit widespread clinical use. Even at subanesthetic doses (i.e., 0.1–0.4 mg/kg;
+Krystal et al., 1994
+), patients may experience perturbing dissociative symptoms. One study described ketamine at such doses producing four main psychological effects (
+Pomarol-Clotet et al., 2006
+): (1) a feeling of intoxication, comparable to the effects of other anesthetics and sedatives; (2) perceptual alterations in visual, auditory and somatosensory domains concomitant with symptoms of depersonalization or derealization; (3) referential ideas and delusions, often of misinterpretation and thought disorder; and (4) negative symptoms such as poverty of speech.
+More recently, cystitis and various lower urinary tract pathologies (e.g., detrusor over-activity) have also been reported in long-term ketamine users (
+Chu et al., 2008
+;
+Tsai et al., 2009
+). Ketamine abuse is also associated with gastrointestinal symptoms, including biliary dysfunction, epigastric pain and hepatic injury (
+Poon et al., 2010
+;
+Lo et al., 2011
+;
+Wong et al., 2014
+;
+Yu et al., 2014
+), though these adverse effects may be reversible with abstinence (
+Zhou J. et al., 2013
+;
+Wong et al., 2014
+;
+Yu et al., 2014
+).
+While ketamine’s psychedelic effects limit clinical use, they have made ketamine a popular recreational drug. At lower doses, stimulant effects predominate, and users experience mild dissociation with hallucinations and a distortion of time and space. Higher doses induce more severe, schizophrenia-like symptoms and perceptions that are completely separate from reality (
+Wolff and Winstock, 2006
+;
+Niesters et al., 2014
+). Although these effects resolve approximately 2 h after acute ketamine use, long-term use can cause more pronounced and persistent neuropsychiatric symptoms, including schizophrenia-like symptoms, cognitive impairment and poor psychological well-being (
+Morgan et al., 2009
+,
+2010
+;
+Liu et al., 2016
+).
+Finally, given its CNS modulatory activity, ketamine should be used cautiously with other drugs that alter mood and perception, including alcohol, opioids, benzodiazepines and cannabis. Ketamine metabolism involves cytochrome P450 enzymes (
+Hijazi and Boulieu, 2002
+), and thus, concomitant use with drugs that inhibit cytochrome P450 metabolism may lead to inhibited ketamine metabolism and supratherapeutic toxicity.
+Proposed Mechanisms of Actions
+Molecular Targets
+Unlike the IV and inhaled anesthetics in common clinical use, ketamine is not thought to act primarily through the potentiation of gamma-aminobutyric acid (GABA) transmission. Early work on the mechanisms of ketamine found that it reduced neuronal excitation by NMDA, the agonist for which the glutamatergic receptor type is named (
+Anis et al., 1983
+). Ketamine was found to block excitatory postsynaptic potentials in rat cortical pyramidal cells (
+Thomson et al., 1985
+) and frog spinal cord neurons (
+Martin and Lodge, 1985
+) in a manner consistent with NMDA antagonism; these data were supported by studies in the central nervous system of the lamprey (
+Yamamura et al., 1990
+). Subsequently, mouse models with altered NMDA receptor subunits showed attenuated responses to ketamine (
+Petrenko et al., 2004
+;
+Sato et al., 2004
+). In fact, ketamine-mediated NMDA receptor antagonism of GABAergic inhibitory interneurons is a postulated mechanism of disinhibition and psychosis (
+Homayoun and Moghaddam, 2007
+;
+Brown et al., 2011
+).
+Ketamine non-competitively antagonizes the NMDA receptor by at least two distinct mechanisms: as an open-channel blocker, binding to a site within the channel pore to occlude the channel and reduce mean open time, and through an allosteric mechanism to decrease channel opening frequency (
+Orser et al., 1997
+). Ketamine also has a slow off-rate (86% trapping) and is an example of a high-trapping antagonist of the NMDA receptor, similar to MK-801 (dizocilpine, nearly 100% trapping). Thus, even after glutamate dissociates from the NMDA receptor, ketamine remains trapped in the closed ion channel and causes continued blockade. Conversely, NMDA receptor antagonists with a fast off-rate (low-trapping), such as memantine, (50–70% trapped) escape the channel before it closes, producing less blockade of physiological NMDA function. This results in fewer side effects (e.g., sedative or psychotomimetic) and an NMDA antagonist without “appreciable anesthetic effects” (
+Sleigh et al., 2014
+).
+In addition to NMDA-antagonism, ketamine acts on a wide-range of other targets, contributing to its unique effects and uses (Table
+2
+). For instance, ketamine’s relaxant effect on airway smooth muscle has been attributed to its inhibition of L-type voltage-dependent Ca
+2+
+channels (
+Yamakage et al., 1995
+). Inhibition of calcium channels may also contribute to observed psychodysleptic effects such as dysphoria, psychosis, altered perception and impaired verbal fluency (
+Baum and Tecson, 1991
+). A block on monoamine transport systems is also thought to contribute to psychotomimetic and sympathomimetic effects (
+Nishimura et al., 1998
+), and recently, a compelling case has been made that hyperpolarization-activated cyclic nucleotide (HCN) channels—sometimes referred to as neuronal pacemaker channels—significantly contribute to ketamine-induced hypnosis (
+Chen et al., 2009
+;
+Zhou C. et al., 2013
+). These channels may mediate the hypnotic effects of volatile anesthetics as well (
+Zhou et al., 2015
+). Although ketamine appears to play a role in opioid potentiation (
+Finck and Ngai, 1982
+;
+Smith et al., 1987
+;
+Pacheco et al., 2014
+), antinociceptive effects mediated by opioid receptors may vary based on receptor subtype (
+Mikkelsen et al., 1999
+;
+Pacheco et al., 2014
+). Inhibition of serotonin reuptake is another suggested as a mechanism by which ketamine may confer analgesic effects (
+Martin et al., 1982
+), and ketamine’s block of large-conductance
+K
+Ca
+channels (BK channels) preferentially suppresses spinal microglia hyperactivation after nerve injury and may explain its potent effects on neuropathic pain (
+Hayashi et al., 2011
+). More recently, a novel mechanism for activation of α-amino-3-hydroxy-5-methyl-4-isoxazole propionic acid (AMPA) receptors by the (R,S)-ketamine metabolite (2S,6S;2R,6R)-hydroxynorketamine has been implicated in the rapid, antidepressant-like properties observed with ketamine (
+Zanos et al., 2016
+). Gonadal hormones, such as estrogen and progesterone, may also potentiate the rapidity and potency of ketamine’s antidepressant effects, as demonstrated in preclinical models (
+Carrier and Kabbaj, 2013
+;
+Franceschelli et al., 2015
+;
+Hashimoto, 2016
+). Lastly, ketamine interaction with GABA receptors has been implicated in various clinical pathologies, including obsessive-compulsive disorder (
+Rodriguez et al., 2015
+), depression (
+Perrine et al., 2014
+) and learning disabilities following chronic exposure (
+Tan et al., 2011
+).
+Table 2. Receptor and channel targets of ketamine and related clinical effects
+.
+Not surprisingly, ketamine’s immediate effects on its various targets cause altered downstream processes. Ketamine’s block of Ca
+2+
+influx through NMDA antagonism may, for instance, lower the activity of protein kinase C (PKC) and other intracellular signals, which could then induce altered protein phosphorylation or signaling. In rodent models, systemic ketamine administration suppresses immediate early gene expression (zif/268, c-fos, junB, fosB, c-jun, junD) in the cortex and hippocampal dentate gyrus after mechanical brain injury (
+Belluardo et al., 1995
+). It also decreases NMDA receptor 1 phosphorylation (
+Mei et al., 2010
+) and affects mRNA expression implicated in rodent models of hyperalgesia (
+Ohnesorge et al., 2013
+). Ketamine acutely increases hippocampal proteins brain-derived neurotrophic factor (BDNF;
+Garcia et al., 2008
+;
+Yang et al., 2013
+) and mammalian target of rapamycin (mTOR;
+Yang et al., 2013
+), which may also help to explain the mechanism for its rapid antidepressant effects. Indeed, investigation into ketamine’s antidepressant effects have led to several reports that ketamine may affect various brain regions through epigenetic mechanisms, such as histone deacetylase modulation (
+Reus et al., 2013
+;
+Choi et al., 2015
+) and increased BDNF mRNA expression (
+Duman and Voleti, 2012
+).
+Systems Neuroscience
+At the systems neuroscience level, ketamine’s mechanisms are markedly distinct from drugs such as propofol or the halogenated ethers. Unlike most anesthetics, ketamine does not appear to activate the sleep-promoting ventrolateral preoptic nucleus of the hypothalamus; rather, ketamine activates subcortical wake-promoting nuclei (
+Lu et al., 2008
+). This is paralleled in ketamine’s unique neurochemistry. Unlike most other inhaled and IV anesthetics, ketamine increases levels of the arousal-promoting neurotransmitter acetylcholine in the cortex (
+Pal et al., 2015
+) and it depends, in part, on noradrenergic transmission for its full effect (
+Kushikata et al., 2011
+). Ketamine is the only sedative-hypnotic that maintains or increases thalamic metabolism (
+Langsjo et al., 2005
+). Neurophysiologically, ketamine—unlike propofol and sevoflurane—increases electroencephalographic activity around 40 Hz (
+Lee et al., 2013
+), but—like other anesthetics—suppresses high gamma activity (
+Pal et al., 2015
+) and increases delta power (
+Lee et al., 2013
+).
+Ketamine is also known to alter neuromodulation of various neurotransmitter systems. It reduces cholinergic neurotransmission by acting as a non-competitive and voltage-dependent inhibitor of nicotinic acetylcholine ion channel receptors, particularly in β1 subunit-containing receptors (
+Yamakura et al., 2000
+). It appears to reduce acetylcholine release in the medial pontine reticular formation (mPRF), which may in part explain its ability to alter arousal and breathing (
+Lydic and Baghdoyan, 2002
+). Unique to most other anesthetics, ketamine produces stimulatory effects on noradrenergic neurons in the medial prefrontal cortex (mPFC;
+Kubota et al., 1999
+), and more recently, it has also been shown to raise ACh levels in the PFC during anesthetic dosing (
+Pal et al., 2015
+). Despite increased cholinergic tone in the PFC, however, high-frequency gamma activity and cortical coherence were both suppressed, suggesting that ketamine-induced unconsciousness is characterized by dissociation of cholinergic tone and cortical activation, possibly mediated by suppression of the NMDA receptors on both pyramidal and inhibitory neurons. Thus, with preserved activation of subcortical arousal nuclei and increased cholinergic tone, ketamine-induced loss of consciousness may occur via higher-level mechanisms, as evidenced by fragmented cortical coherence and attention of high-frequency gamma activity (
+Pal et al., 2015
+). Disrupted cortical communication and information transfer may in fact be a common mechanism of loss of consciousness across diverse pharmacological classes of anesthetics (
+Lee et al., 2013
+), as will be discussed further below.
+Network Connectivity
+Despite the differences of ketamine’s actions at the molecular and systems neuroscience levels, there appears to be a common network-level effect that might explain the common functional outcome of lost responsiveness induced by ketamine and the primarily GABAergic anesthetics. Ketamine has been found to functionally disrupt corticocortical connectivity with anesthetic dosing, and this pattern seems to follow a frontal-to-posterior direction (Figure
+3
+;
+Lee et al., 2013
+;
+Blain-Moraes et al., 2014
+;
+Schroeder et al., 2016
+). This frontal-to-posterior disrupted cortical connectivity has been proposed as a mechanism of general anesthesia, having been demonstrated across a broad range of anesthetic drug classes during loss of consciousness (
+Lee et al., 2013
+). Previous electroencephalographic studies have used indirect, surrogate measures of information transfer—such as transfer entropy and phase lag index—to demonstrate disrupted connectivity during anesthetic-induced loss of consciousness (
+Lee et al., 2013
+;
+Blain-Moraes et al., 2014
+).
+Bonhomme et al. (2016)
+presented functional MRI data from human volunteers whereby ketamine disrupted cortical connectivity between frontal and posterior cortices, while auditory and visual network integrity was maintained. A recent study used intracranial recordings to demonstrate direct, structural interruption of corticocortical sensory information transfer during ketamine-induced anesthesia in macaque monkeys (
+Schroeder et al., 2016
+). During anesthesia, somatosensory information transfer was maintained through thalamocortical pathways, though corticocortical information transfer was inhibited. This study showed direct evidence of inhibited information transfer along structurally connected cortical pathways. Thus, collectively, there is accumulating evidence that ketamine disrupts corticocortical information transfer in the frontal-to-posterior direction while preserving sensory network function during anesthesia. These findings contribute to a higher-order, network-level understanding of the neural correlates of consciousness and also shed further insight into the “dissociative” anesthetic nature of ketamine.
+Figure 3. Measures of directed connectivity after induction with Ketamine, adapted from
+Blain-Moraes et al. (2014)
+.
+Graphical depiction of dominant feedback connectivity in the waking state that is neutralized after ketamine induction. Please see original article (
+Blain-Moraes et al., 2014
+) for additional information.
+Subanesthetic ketamine administration has recently been shown to alter functional connectivity patterns as well, with possible mechanistic implications for depression.
+Wong et al. (2016)
+found that subanesthetic ketamine administration disrupted functional connectivity between the subgenual anterior cingulate cortex, which is involved with the modulation of mood (
+Davey et al., 2012
+), and a network cluster involving the thalamus, hippocampus and the retrosplenial cortex. Using a ketamine infusion dose often used for the treatment of depression,
+Muthukumaraswamy et al. (2015)
+demonstrated reduced functional connectivity in frontoparietal networks concomitant with an increase in blissful feelings. Thus, modulation of brain connectivity patterns might also provide a network-level mechanism for ketamine’s effects on depression. As patients in these studies were not reported to lose consciousness, there may be a dose-dependent component to the disruption of functional connectivity.
+Clinical Uses in Medicine
+Ketamine has enjoyed expanded clinical relevance since its early development and is now being actively used or explored in a number of clinical fields (Table
+3
+).
+Table 3. Summary of clinical uses for ketamine
+.
+Anesthesia
+Ketamine’s rapid onset, safety, and hemodynamic stability have made it a useful anesthetic induction agent, especially in certain patient populations or settings where its characteristics are particularly advantageous.
+Hemodynamic Instability
+Ketamine’s effects of sympathetic activation may make it beneficial for use in hemodynamically unstable patients (e.g., traumatic injury, septic shock). In septic patients requiring emergency intubation, ketamine may also be a safer alternative to etomidate, which may cause adrenal insufficiency and is associated with higher in-hospital morbidity in such patient populations (
+Jabre et al., 2009
+). However, caution should still be observed, as the cardiac depressant effects may hasten cardiovascular compromise in catecholamine-depleted states (
+Waxman et al., 1980
+;
+Dewhirst et al., 2013
+).
+Pediatrics
+The ability to administer ketamine intramuscularly has made it advantageous for patients in which IV administration may be difficult, including neonates, infants and young children. Together with the ease of administration, efficacy and safety profile in children, ketamine has become one of the most commonly used drugs for procedural sedation and analgesia for children in emergency departments (ED;
+Haley-Andrews, 2006
+;
+Bhargava and Young, 2007
+). However, anecdotal observations suggest a higher risk of airway complications with ketamine in infants less than 3 months of age (
+Green and Johnson, 1990
+;
+Green et al., 2011
+), likely due to infant-specific differences in airway reactivity and anatomy rather than ketamine itself. Furthermore, although emergence reactions in children and teenagers are rare and typically mild, risk factors for recovery agitation have emerged. Two clinically pertinent risk factors are: (1) low IM ketamine dosing (<3.0 mg/kg), which may not provide suitable analgesia but still increases agitation; and (2) unusually high IV ketamine dosing (>2.5 mg/kg), which increases the risk of airway complications and emesis (
+Green et al., 2009
+). Finally, the use of ketamine as an opioid-sparing agent in children has recently been challenged by a large meta-analysis (
+Michelet et al., 2016
+), though this may have been from lack of power given the studies available. Further investigation into ketamine’s effects in children is certainly warranted.
+Traumatic Brain Injury (TBI)
+Despite historic concerns that ketamine may cause harmful increases in ICP, recent reports have challenged this with evidence that ketamine can be safely and effectively used in patients with head injuries or risk of intracranial hypertension (
+Bourgoin et al., 2003
+,
+2005
+;
+Wang et al., 2014
+). In fact, ketamine may have beneficial effects, including protection against seizures, cerebral ischemia or secondary brain injury related to hypotension (
+Albanèse et al., 1997
+;
+Bar-Joseph et al., 2009
+).
+Bronchospasm
+Ketamine’s bronchodilating properties make it an attractive anesthetic induction agent for patients with active bronchospasm. Of note, however, ketamine may predispose patients to laryngospasm through its stimulation of copious secretions, but the incidence of this appears to be relatively rare (
+Green et al., 2010
+).
+Trauma Medicine
+Upon being marketed as a human anesthetic in the 1970s, ketamine quickly became a popular battlefield anesthetic and continues to be used in military conflict (
+Mercer, 2009
+). Its pharmacological properties and ease of administration allow it to be a safe and effective option for anesthetic use in pre-hospital settings, including mass casualty events (
+Ashkenazi et al., 2005
+). Moreover, ketamine’s emerging role in affective disorders may have the potential to protect patients in these settings from developing stress-induced disorders (
+Brachman et al., 2016
+).
+Analgesia and Sedation
+Unlike most other agents, ketamine offers the important advantage of being able to provide both profound analgesia and adequate sedation without significantly compromising airway reflexes or respiratory function (
+Corssen and Domino, 1966
+). It is thus often used in acute clinical settings, though there is a growing interest in its role as a chronic therapeutic agent as well.
+Acute Setting
+Procedural sedation
+Ketamine is frequently used in the ED for procedural sedation. IM administration has made it an especially popular choice for sedation in children who may otherwise be uncooperative. Although not as frequently used in adults for this purpose due to an increased likelihood of emergence delirium (1–2% in children vs. 10–20% in adults;
+Strayer and Nelson, 2008
+), this can effectively be reduced with benzodiazepine administration (
+Dundee and Lilburn, 1978
+;
+Perumal et al., 2015
+) or with the co-administration of propofol (
+Willman and Andolfatto, 2007
+;
+Andolfatto and Willman, 2010
+).
+Burn medicine
+Historically, ketamine has played a prominent role in burn care protocols, providing effective analgesia and sedation for burn patients who must undergo debridements, grafts, and repeated dressing changes (
+Demling et al., 1978
+;
+Hondorp, 1987
+;
+Canpolat et al., 2012
+;
+Kundra et al., 2013
+) without compromising the airway or respiratory function. Furthermore, the ability to administer ketamine intramuscularly and even orally provides an additional advantage in burn patients who have extensive scarring that might make IV administration challenging.
+Acute agitation
+Ketamine is also used to treat acutely agitated and violent patients in the ED. Even among agitated patients who are intoxicated, ketamine does not appear to have any major adverse effects on physiological stability (
+Hopper et al., 2015
+). However, additional pharmacological treatment is often required in these patients, suggesting that ketamine may be useful only for initial control of severe agitation in this setting (
+Hopper et al., 2015
+).
+Acute pain
+More recently, low-dose ketamine infusions have been advocated to provide pain relief in the ED. Administering a 15 mg bolus of IV ketamine followed immediately by a continuous infusion at 20 mg/h for 1 h may significantly improve pain scores while maintaining stable vital signs and high patient satisfaction (
+Ahern et al., 2015
+).
+Postoperative pain
+The use of ketamine infusions has been shown to be an opiate-sparing technique in managing post-operative pain following a variety of surgeries, including abdominal (
+Guillou et al., 2003
+;
+Webb et al., 2007
+;
+Zakine et al., 2008
+;
+Kaur et al., 2015
+), thoracic (
+Michelet et al., 2007
+;
+Nesher et al., 2008
+,
+2009
+;
+Chazan et al., 2010
+), orthopedic (
+Adam et al., 2005
+;
+Kollender et al., 2008
+;
+Cha et al., 2012
+;
+Akhavanakbari et al., 2014
+), spinal (
+Kim et al., 2013
+) and gynecological (
+Sen et al., 2009
+;
+Suppa et al., 2012
+). However, others have not observed ketamine to have significant clinical benefits or opioid-sparing effects in postoperative pain management (
+Jensen et al., 2008
+;
+Sveticic et al., 2008
+;
+Reza et al., 2010
+;
+Yeom et al., 2012
+). These discrepant results may be explained by variation in dosing strategies, patient profiles and other co-administered analgesics.
+Chronic Setting
+Cancer pain
+Ketamine’s potentiation of opioid analgesia and opioid-sparing effect may be useful in cancer patients who otherwise require a high-dose of opioids, although as stated above, there is currently conflicting evidence surrounding ketamine’s effects on opioid requirements. While ketamine’s use as an adjunct analgesic has been demonstrated by randomized control trials (
+Yang et al., 1996
+;
+Mercadante et al., 2000
+) and smaller studies and case reports (
+Fine, 1999
+;
+Tarumi et al., 2000
+;
+Kannan et al., 2002
+;
+Amin et al., 2014
+), the evidence remains inconclusive, as others have not found any net clinical benefit by using ketamine as a part of the analgesic regimen in cancer pain (
+Hardy et al., 2012
+;
+Salas et al., 2012
+). As above with postoperative pain, inconsistent findings may result from variations in study design.
+Non-cancer pain
+Ketamine is increasingly used as an adjunct in treating chronic pain states and appears to provide analgesia through its direct NMDA-receptor antagonism as well as modulation of descending inhibitory paths of pain often implicated in chronic pain states (
+Niesters et al., 2013
+). For example, ketamine has been used as an analgesic in patients with complex regional pain syndrome (CPRS:
+Correll et al., 2004
+;
+Finch et al., 2009
+;
+Schwartzman et al., 2009
+;
+Sigtermans et al., 2009
+). IV and oral ketamine have also been reported to alleviate symptoms of phantom limb pain (
+Shanthanna et al., 2010
+;
+Mitra and Kazal, 2015
+), though one case report demonstrated exacerbation of pain after IV ketamine, possibly due to ketamine-induced hallucinations (
+Sakai and Sumikawa, 2014
+). Ketamine can also attenuate key mechanisms in fibromyalgia patients, such as muscle and referred pain (
+Graven-Nielsen et al., 2000
+); however, these infusions may only provide short-term analgesic relief (
+Noppers et al., 2011
+). Ketamine is also an effective analgesic in a variety of chronic pain cases, such as ischemic pain (
+Liman et al., 2015
+), migraine with aura (
+Afridi et al., 2013
+), breakthrough pain in chronic pain states (
+Carr et al., 2004
+), and in patients with developed opioid tolerance or previous opiate abuse (
+Chazan et al., 2008
+;
+Dahi-Taleghani et al., 2014
+).
+Psychiatric Uses
+Depression
+There has been surging interest in the use of ketamine as a potential therapeutic agent for affective disorders, particularly depression. Even a single-dose of ketamine may cause rapid antidepressant effects in otherwise treatment-resistant cases of bipolar (
+DiazGranados et al., 2010b
+;
+Ibrahim et al., 2011
+;
+Kantrowitz et al., 2015
+) and major depression (
+Zarate et al., 2006
+;
+Murrough et al., 2013
+). Remarkably, this also includes the acute reduction of suicidal ideation (
+DiazGranados et al., 2010a
+;
+Larkin and Beautrais, 2011
+;
+Zigman and Blier, 2013
+;
+Murrough et al., 2015
+). Recent neuroimaging studies support potential anti-anhedonic and anti-depressant effects, demonstrating its ability to alter glucose metabolism in regions implicated in mood disorders (
+Lally et al., 2014
+,
+2015
+;
+Nugent et al., 2014
+). Repeated ketamine doses may improve depressive symptoms comparable to—and perhaps even more rapidly than—electroconvulsive therapy (ECT;
+Ghasemi et al., 2014
+), and it may even be successful in treating ECT-resistant depression (
+Ibrahim et al., 2011
+). Despite its observed promising antidepressant effects, however, more rigorous investigation is needed to establish its clinical use as an antidepressant. The current evidence is limited by bias, small sample sizes, and limited data on important cofounding variables. In fact, a recent Cochrane Review determined that the efficacy of ketamine as an antidepressant may be limited beyond 1 week (
+McCloud et al., 2015
+).
+Post-Traumatic Stress Disorder (PTSD)
+One of the newer applications of ketamine is its role as a potential treatment for Post-Traumatic Stress Disorder (PTSD), although studies examining this remain limited (
+Feder et al., 2014
+;
+Donoghue et al., 2015
+). For instance,
+Feder et al. (2014)
+found that ketamine may reduce symptom severity of PTSD more rapidly than midazolam; however, they did not exclude previously depressed patients, and the observed results may have been due—in part—to ketamine’s known antidepressive effects. A case reported by
+Donoghue et al. (2015)
+describing ketamine-induced remission of PTSD and disruptive symptoms in a child similarly provides inconclusive evidence for effects of ketamine specific to PTSD. While it is postulated that ketamine may be useful in preventing the development of PTSD through the induction of stress resilience (
+Brachman et al., 2016
+), more research is clearly needed to better define ketamine’s effects on PTSD.
+Models of Schizophrenia
+Since its discovery, ketamine has been observed to produce symptoms similar to those of schizophrenia. As a result, researchers have used these drugs extensively as models to study schizophrenia. While it now appears that overlaps in symptoms and even receptor effects are insufficient to explain the complex neuropathology of schizophrenia, ketamine and has undoubtedly facilitated and stimulated research efforts into understanding schizophrenia (
+Domino and Luby, 2012
+).
+Conclusions and Future Directions
+When the first clinical use of ketamine was reported in 1966 in Anesthesia and Analgesia, it quickly became a popular induction agent among anesthesiologists. Now, 50 years later, ketamine is increasingly being used beyond the operating room, demonstrating clinical utility in the fields of emergency medicine, critical care medicine, pain medicine and psychiatry.
+The growing interest of ketamine in a range of settings and patient populations may reflect an impressive benefit-to-risk ratio. Unique compared to other anesthetic agents, ketamine produces potent anesthesia, sedation and analgesia while maintaining cardiopulmonary stability and airway patency. Ketamine offers flexible options for administration, and the adverse psychological effects are often transient and either prevented by or alleviated with premedication or combined use with other agents. Nonetheless, the psychoactive effects often remain the limiting factor for its expanded clinical use, and just as ketamine was originally developed to reduce the emergence delirium that prevented phencyclidine’s use in humans, researchers have now moved towards developing shorter acting analogs of ketamine to further reduce the psychogenic effects (
+Harvey et al., 2015
+).
+Scientifically, investigators have taken advantage of ketamine’s complex molecular and neurophysiological mechanisms of action to gain further insights into the neural correlates of consciousness. Ketamine appears to inhibit information transfer in cortical networks (
+Bonhomme et al., 2016
+;
+Schroeder et al., 2016
+), which may be a shared mechanism by which diverse anesthetics induce unconsciousness (
+Lee et al., 2013
+). Perturbations in cortical network connectivity also correlate with pathological brain states, such as depression (
+Muthukumaraswamy et al., 2015
+;
+Nugent et al., 2016
+), and ketamine-induced alterations in connectivity patterns may subserve its antidepressant effects (
+Muthukumaraswamy et al., 2015
+;
+Nugent et al., 2016
+). Indeed, ketamine is being used as a tool for probing the mind to further inform our neurobiological framework of consciousness and altered brain states, and lines of investigation are actively ongoing (
+Mashour, 2016
+).
+Over the past 50 years, countless patients have benefited greatly from ketamine. We anticipate many more exciting discoveries in the next 50 years of investigating its clinical applications and mechanisms of modulating the mind.
+Author Contributions
+Both authors contributed to the writing of the manuscript, approved the final version to be published, and are accountable for manuscript accuracy and integrity. LL: conception, design and drafting of the initial manuscript. PEV: critical manuscript review and revision of all final content.
+Funding
+PEV is supported by the National Institutes of Health, Bethesda, MD, USA, Grant T32GM103730. Funding also provided by the Department of Anesthesiology, University of Michigan Medical School.
+Conflict of Interest Statement
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+Acknowledgments
+The authors would like to acknowledge support from the Department of Anesthesiology at the University of Michigan Medical School. Additionally, the authors would like to thank Dr. George Mashour for expert consultation throughout the manuscript writing process.
+References
+Adam, F., Chauvin, M., Du Manoir, B., Langlois, M., Sessler, D. I., and Fletcher, D. (2005). Small-dose ketamine infusion improves postoperative analgesia and rehabilitation after total knee arthroplasty.
+Anesth. Analg.
+100, 475–480. doi:
+10.1213/01.ane.0000142117.82241.dc
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Albanèse, J., Arnaud, S., Rey, M., Thomachot, L., Alliez, B., and Martin, C. (1997). Ketamine decreases intracranial pressure and electroencephalographic activity in traumatic brain injury patients during propofol sedation.
+Anesthesiology
+87, 1328–1334. doi:
+10.1097/00000542-199712000-00011
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Aliman, A. C., Piccioni, M. A., Piccioni, J. L., Oliva, J. L., and Auler Júnior, J. O. (2011). Intraosseous anesthesia in hemodynamic studies in children with cardiopathy.
+Rev. Bras. Anestesiol.
+61, 41–49. doi:
+10.1016/s0034-7094(11)70005-8
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Andolfatto, G., Willman, E., Joo, D., Miller, P., Wong, W. B., Koehn, M., et al. (2013). Intranasal ketamine for analgesia in the emergency department: a prospective observational series.
+Acad. Emerg. Med.
+20, 1050–1054. doi:
+10.1111/acem.12229
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Anis, N. A., Berry, S. C., Burton, N. R., and Lodge, D. (1983). The dissociative anaesthetics, ketamine and phencyclidine, selectively reduce excitation of central mammalian neurones by N-methyl-aspartate.
+Br. J. Pharmacol.
+79, 565–575. doi:
+10.1111/j.1476-5381.1983.tb11031.x
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Ashkenazi, I., Isakovich, B., Kluger, Y., Alfici, R., Kessel, B., and Better, O. S. (2005). Prehospital management of earthquake casualties buried under rubble.
+Prehosp. Disaster Med.
+20, 122–133. doi:
+10.1017/s1049023x00002302
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Belluardo, N., Mudò, G., Dell’Albani, P., Jiang, X. H., and Condorelli, D. F. (1995). NMDA receptor-dependent and -independent immediate early gene expression induced by focal mechanical brain injury.
+Neurochem. Int.
+26, 443–453. doi:
+10.1016/0197-0186(94)00155-n
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Blain-Moraes, S., Lee, U., Ku, S., Noh, G., and Mashour, G. A. (2014). Electroencephalographic effects of ketamine on power, cross-frequency coupling and connectivity in the alpha bandwidth.
+Front. Syst. Neurosci.
+8:114. doi:
+10.3389/fnsys.2014.00114
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Bonhomme, V., Vanhaudenhuyse, A., Demertzi, A., Bruno, M. A., Jaquet, O., Bahri, M. A., et al. (2016). Resting-state network-specific breakdown of functional connectivity during ketamine alteration of consciousness in volunteers.
+Anesthesiology
+125, 873–888. doi:
+10.1097/aln.0000000000001275
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Bourgoin, A., Albanèse, J., Léone, M., Sampol-Manos, E., Viviand, X., and Martin, C. (2005). Effects of sufentanil or ketamine administered in target-controlled infusion on the cerebral hemodynamics of severely brain-injured patients.
+Crit. Care Med.
+33, 1109–1113. doi:
+10.1097/01.ccm.0000162491.26292.98
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Bourgoin, A., Albanèse, J., Wereszczynski, N., Charbit, M., Vialet, R., and Martin, C. (2003). Safety of sedation with ketamine in severe head injury patients: comparison with sufentanil.
+Crit. Care Med.
+31, 711–717. doi:
+10.1097/01.ccm.0000044505.24727.16
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Brachman, R. A., McGowan, J. C., Perusini, J. N., Lim, S. C., Pham, T. H., Faye, C., et al. (2016). Ketamine as a prophylactic against stress-induced depressive-like behavior.
+Biol. Psychiatry
+79, 776–786. doi:
+10.1016/j.biopsych.2015.04.022
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Canpolat, D. G., Esmaoglu, A., Tosun, Z., Akn, A., Boyaci, A., and Coruh, A. (2012). Ketamine-propofol vs. ketamine-dexmedetomidine combinations in pediatric patients undergoing burn dressing changes.
+J. Burn Care Res.
+33, 718–722. doi:
+10.1097/BCR.0b013e3182504316
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Carr, D. B., Goudas, L. C., Denman, W. T., Brookoff, D., Staats, P. S., Brennen, L., et al. (2004). Safety and efficacy of intranasal ketamine for the treatment of breakthrough pain in patients with chronic pain: a randomized, double-blind, placebo-controlled, crossover study.
+Pain
+108, 17–27. doi:
+10.1016/j.pain.2003.07.001
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Cha, M. H., Eom, J. H., Lee, Y. S., Kim, W. Y., Park, Y. C., Min, S. H., et al. (2012). Beneficial effects of adding ketamine to intravenous patient-controlled analgesia with fentanyl after the Nuss procedure in pediatric patients.
+Yonsei Med. J.
+53, 427–432. doi:
+10.3349/ymj.2012.53.2.427
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Chazan, S., Buda, I., Nesher, N., Paz, J., and Weinbroum, A. A. (2010). Low-dose ketamine via intravenous patient-controlled analgesia device after various transthoracic procedures improves analgesia and patient and family satisfaction.
+Pain Manag. Nurs.
+11, 169–176. doi:
+10.1016/j.pmn.2009.06.003
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Chazan, S., Ekstein, M. P., Marouani, N., and Weinbroum, A. A. (2008). Ketamine for acute and subacute pain in opioid-tolerant patients.
+J. Opioid Manag.
+4, 173–180.
+PubMed Abstract
+|
+Google Scholar
+Choi, M., Lee, S. H., Wang, S. E., Ko, S. Y., Song, M., Choi, J. S., et al. (2015). Ketamine produces antidepressant-like effects through phosphorylation-dependent nuclear export of histone deacetylase 5 (HDAC5) in rats.
+Proc. Natl. Acad. Sci. U S A
+112, 15755–15760. doi:
+10.1073/pnas.1513913112
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Chong, C., Schug, S. A., Page-Sharp, M., Jenkins, B., and Ilett, K. F. (2009). Development of a sublingual/oral formulation of ketamine for use in neuropathic pain: preliminary findings from a three-way randomized, crossover study.
+Clin. Drug Investig.
+29, 317–324. doi:
+10.2165/00044011-200929050-00004
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Chu, P. S., Ma, W. K., Wong, S. C., Chu, R. W., Cheng, C. H., Wong, S., et al. (2008). The destruction of the lower urinary tract by ketamine abuse: a new syndrome?
+BJU Int.
+102, 1616–1622. doi:
+10.1111/j.1464-410X.2008.07920.x
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Cohen, M. L., and Trevor, A. J. (1974). On the cerebral accumulation of ketamine and the relationship between metabolism of the drug and its pharmacological effects.
+J. Pharmacol. Exp. Ther.
+189, 351–358.
+PubMed Abstract
+|
+Google Scholar
+Correll, G. E., Maleki, J., Gracely, E. J., Muir, J. J., and Harbut, R. E. (2004). Subanesthetic ketamine infusion therapy: a retrospective analysis of a novel therapeutic approach to complex regional pain syndrome.
+Pain Med.
+5, 263–275. doi:
+10.1111/j.1526-4637.2004.04043.x
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Dewhirst, E., Frazier, W. J., Leder, M., Fraser, D. D., and Tobias, J. D. (2013). Cardiac arrest following ketamine administration for rapid sequence intubation.
+J. Intensive Care Med.
+28, 375–379. doi:
+10.1177/0885066612448732
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Diaz, F. A., Bianco, J. A., Bello, A., Beer, N., Velarde, H., Izquierdo, J. P., et al. (1976). Effects of ketamine on canine cardiovascular function.
+Br. J. Anaesth.
+48, 941–946. doi:
+10.1093/bja/48.10.941
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+DiazGranados, N., Ibrahim, L. A., Brutsche, N. E., Ameli, R., Henter, I. D., Luckenbaugh, D. A., et al. (2010a). Rapid resolution of suicidal ideation after a single infusion of an N-methyl-D-aspartate antagonist in patients with treatment-resistant major depressive disorder.
+J. Clin. Psychiatry
+71, 1605–1611. doi:
+10.4088/jcp.09m05327blu
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+DiazGranados, N., Ibrahim, L., Brutsche, N. E., Newberg, A., Kronstein, P., Khalife, S., et al. (2010b). A randomized add-on trial of an N-methyl-D-aspartate antagonist in treatment-resistant bipolar depression.
+Arch. Gen. Psychiatry
+67, 793–802. doi:
+10.1001/archgenpsychiatry.2010.90
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Domino, E. F., Domino, S. E., Smith, R. E., Domino, L. E., Goulet, J. R., Domino, K. E., et al. (1984). Ketamine kinetics in unmedicated and diazepam-premedicated subjects.
+Clin. Pharmacol. Ther.
+36, 645–653. doi:
+10.1038/clpt.1984.235
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Eikermann, M., Grosse-Sundrup, M., Zaremba, S., Henry, M. E., Bittner, E. A., Hoffmann, U., et al. (2012). Ketamine activates breathing and abolishes the coupling between loss of consciousness and upper airway dilator muscle dysfunction.
+Anesthesiology
+116, 35–46. doi:
+10.1097/aln.0b013e31823d010a
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Feder, A., Parides, M. K., Murrough, J. W., Perez, A. M., Morgan, J. E., Saxena, S., et al. (2014). Efficacy of intravenous ketamine for treatment of chronic posttraumatic stress disorder: a randomized clinical trial.
+JAMA Psychiatry
+71, 681–688. doi:
+10.1001/jamapsychiatry.2014.62
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Franceschelli, A., Sens, J., Herchick, S., Thelen, C., and Pitychoutis, P. M. (2015). Sex differences in the rapid and the sustained antidepressant-like effects of ketamine in stress-naive and “depressed” mice exposed to chronic mild stress.
+Neuroscience
+290, 49–60. doi:
+10.1016/j.neuroscience.2015.01.008
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Garcia, L. S., Comim, C. M., Valvassori, S. S., Réus, G. Z., Barbosa, L. M., Andreazza, A. C., et al. (2008). Acute administration of ketamine induces antidepressant-like effects in the forced swimming test and increases BDNF levels in the rat hippocampus.
+Prog. Neuropsychopharmacol. Biol. Psychiatry
+32, 140–144. doi:
+10.1016/j.pnpbp.2007.07.027
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Ghasemi, M., Kazemi, M. H., Yoosefi, A., Ghasemi, A., Paragomi, P., Amini, H., et al. (2014). Rapid antidepressant effects of repeated doses of ketamine compared with electroconvulsive therapy in hospitalized patients with major depressive disorder.
+Psychiatry Res.
+215, 355–361. doi:
+10.1016/j.psychres.2013.12.008
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Graven-Nielsen, T., Aspegren Kendall, S., Henriksson, K. G., Bengtsson, M., Sörensen, J., Johnson, A., et al. (2000). Ketamine reduces muscle pain, temporal summation and referred pain in fibromyalgia patients.
+Pain
+85, 483–491. doi:
+10.1016/s0304-3959(99)00308-5
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Green, S. M., Roback, M. G., Krauss, B., Brown, L., McGlone, R. G., Agrawal, D., et al. (2009). Predictors of emesis and recovery agitation with emergency department ketamine sedation: an individual-patient data meta-analysis of 8,282 children.
+Ann. Emerg. Med.
+54, 171.e4–180.e4. doi:
+10.1016/j.annemergmed.2009.04.004
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Guillou, N., Tanguy, M., Seguin, P., Branger, B., Campion, J. P., and Malledant, Y. (2003). The effects of small-dose ketamine on morphine consumption in surgical intensive care unit patients after major abdominal surgery.
+Anesth. Analg.
+97, 843–847. doi:
+10.1213/01.ane.0000075837.67275.36
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Haeseler, G., Tetzlaff, D., Bufler, J., Dengler, R., Münte, S., Hecker, H., et al. (2003). Blockade of voltage-operated neuronal and skeletal muscle sodium channels by S+- and R--ketamine.
+Anesth. Analg.
+96, 1019–1026. doi:
+10.1213/01.ane.0000052513.91900.d5
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Hardy, J., Quinn, S., Fazekas, B., Plummer, J., Eckermann, S., Agar, M., et al. (2012). Randomized, double-blind, placebo-controlled study to assess the efficacy and toxicity of subcutaneous ketamine in the management of cancer pain.
+J. Clin. Oncol.
+30, 3611–3617. doi:
+10.1200/JCO.2012.42.1081
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Harvey, M., Sleigh, J., Voss, L., Jose, J., Gamage, S., Pruijn, F., et al. (2015). Development of rapidly metabolized and ultra-short-acting ketamine analogs.
+Anesth. Analg.
+121, 925–933. doi:
+10.1213/ANE.0000000000000719
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Hayashi, Y., Kawaji, K., Sun, L., Zhang, X., Koyano, K., Yokoyama, T., et al. (2011). Microglial Ca2+-activated K+ channels are possible molecular targets for the analgesic effects of S-ketamine on neuropathic pain.
+J. Neurosci.
+31, 17370–17382. doi:
+10.1523/JNEUROSCI.4152-11.2011
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Hertle, D. N., Dreier, J. P., Woitzik, J., Hartings, J. A., Bullock, R., Okonkwo, D. O., et al. (2012). Effect of analgesics and sedatives on the occurrence of spreading depolarizations accompanying acute brain injury.
+Brain
+135, 2390–2398. doi:
+10.1093/brain/aws152
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Hopper, A. B., Vilke, G. M., Castillo, E. M., Campillo, A., Davie, T., and Wilson, M. P. (2015). Ketamine use for acute agitation in the emergency department.
+J. Emerg. Med.
+48, 712–719. doi:
+10.1016/j.jemermed.2015.02.019
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Huge, V., Lauchart, M., Magerl, W., Schelling, G., Beyer, A., Thieme, D., et al. (2010). Effects of low-dose intranasal (S)-ketamine in patients with neuropathic pain.
+Eur. J. Pain
+14, 387–394. doi:
+10.1016/j.ejpain.2009.08.002
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Ibrahim, L., Diazgranados, N., Luckenbaugh, D. A., Machado-Vieira, R., Baumann, J., Mallinger, A. G., et al. (2011). Rapid decrease in depressive symptoms with an N-methyl-d-aspartate antagonist in ECT-resistant major depression.
+Prog. Neuropsychopharmacol. Biol. Psychiatry
+35, 1155–1159. doi:
+10.1016/j.pnpbp.2011.03.019
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Irifune, M., Sato, T., Kamata, Y., Nishikawa, T., Dohi, T., and Kawahara, M. (2000). Evidence for GABA(A) receptor agonistic properties of ketamine: convulsive and anesthetic behavioral models in mice.
+Anesth. Analg.
+91, 230–236. doi:
+10.1097/00000539-200007000-00043
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Irnaten, M., Wang, J., Chang, K. S., Andresen, M. C., and Mendelowitz, D. (2002). Ketamine inhibits sodium currents in identified cardiac parasympathetic neurons in nucleus ambiguus.
+Anesthesiology
+96, 659–666. doi:
+10.1097/00000542-200203000-00023
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Jabre, P., Combes, X., Lapostolle, F., Dhaouadi, M., Ricard-Hibon, A., Vivien, B., et al. (2009). Etomidate versus ketamine for rapid sequence intubation in acutely ill patients: a multicentre randomised controlled trial.
+Lancet
+374, 293–300. doi:
+10.1016/S0140-6736(09)60949-1
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Jensen, L. L., Handberg, G., Helbo-Hansen, H. S., Skaarup, I., Lohse, T., Munk, T., et al. (2008). No morphine sparing effect of ketamine added to morphine for patient-controlled intravenous analgesia after uterine artery embolization.
+Acta Anaesthesiol. Scand.
+52, 479–486. doi:
+10.1111/j.1399-6576.2008.01602.x
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Kim, S. H., Kim, S. I., Ok, S. Y., Park, S. Y., Kim, M. G., Lee, S. J., et al. (2013). Opioid sparing effect of low dose ketamine in patients with intravenous patient-controlled analgesia using fentanyl after lumbar spinal fusion surgery.
+Korean J. Anesthesiol.
+64, 524–528. doi:
+10.4097/kjae.2013.64.6.524
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Kollender, Y., Bickels, J., Stocki, D., Maruoani, N., Chazan, S., Nirkin, A., et al. (2008). Subanaesthetic ketamine spares postoperative morphine and controls pain better than standard morphine does alone in orthopaedic-oncological patients.
+Eur. J. Cancer
+44, 954–962. doi:
+10.1016/j.ejca.2008.02.021
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Krystal, J. H., Karper, L. P., Seibyl, J. P., Freeman, G. K., Delaney, R., Bremner, J. D., et al. (1994). Subanesthetic effects of the noncompetitive NMDA antagonist, ketamine, in humans. Psychotomimetic, perceptual, cognitive and neuroendocrine responses.
+Arch. Gen. Psychiatry
+51, 199–214. doi:
+10.1001/archpsyc.1994.03950030035004
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Kubota, T., Anzawa, N., Hirota, K., Yoshida, H., Kushikata, T., and Matsuki, A. (1999). Effects of ketamine and pentobarbital on noradrenaline release from the medial prefrontal cortex in rats.
+Can. J. Anaesth.
+46, 388–392. doi:
+10.1007/bf03013235
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Kushikata, T., Yoshida, H., Kudo, M., Kudo, T., Kudo, T., and Hirota, K. (2011). Role of coerulean noradrenergic neurones in general anaesthesia in rats.
+Br. J. Anaesth.
+107, 924–929. doi:
+10.1093/bja/aer303
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Lally, N., Nugent, A. C., Luckenbaugh, D. A., Ameli, R., Roiser, J. P., and Zarate, C. A. (2014). Anti-anhedonic effect of ketamine and its neural correlates in treatment-resistant bipolar depression.
+Transl Psychiatry
+4:e469. doi:
+10.1038/tp.2014.105
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Lally, N., Nugent, A. C., Luckenbaugh, D. A., Niciu, M. J., Roiser, J. P., and Zarate, C. A. Jr. (2015). Neural correlates of change in major depressive disorder anhedonia following open-label ketamine.
+J. Psychopharmacol.
+29, 596–607. doi:
+10.1177/0269881114568041
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Langsjo, J. W., Maksimow, A., Salmi, E., Kaisti, K., Aalto, S., Oikonen, V., et al. (2005). S-ketamine anesthesia increases cerebral blood flow in excess of the metabolic needs in humans.
+Anesthesiology
+103, 258–268. doi:
+10.1097/00000542-200508000-00008
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Lee, U., Ku, S., Noh, G., Baek, S., Choi, B., and Mashour, G. A. (2013). Disruption of frontal–parietal communication by ketamine, propofol and sevoflurane.
+Anesthesiology
+118, 1264–1275. doi:
+10.1097/ALN.0b013e31829103f5
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Liman, S., Cheung, C. W., Wong, K. L., Tai, W., Qiu, Q., Ng, K. F., et al. (2015). Preventive treatment with ketamine attenuates the ischaemia-reperfusion response in a chronic postischaemia pain model.
+Oxid. Med. Cell. Longev.
+2015:380403. doi:
+10.1155/2015/380403
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Lo, R. S., Krishnamoorthy, R., Freeman, J. G., and Austin, A. S. (2011). Cholestasis and biliary dilatation associated with chronic ketamine abuse: a case series.
+Singapore Med. J.
+52, e52–e55.
+PubMed Abstract
+|
+Google Scholar
+Lu, J., Nelson, L. E., Franks, N., Maze, M., Chamberlin, N. L., and Saper, C. B. (2008). Role of endogenous sleep-wake and analgesic systems in anesthesia.
+J. Comp. Neurol.
+508, 648–662. doi:
+10.1002/cne.21685
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Lydic, R., and Baghdoyan, H. A. (2002). Ketamine and MK-801 decrease acetylcholine release in the pontine reticular formation, slow breathing and disrupt sleep.
+Sleep
+25, 617–622.
+PubMed Abstract
+|
+Google Scholar
+Malinovsky, J. M., Servin, F., Cozian, A., Lepage, J. Y., and Pinaud, M. (1996). Ketamine and norketamine plasma concentrations after i.v., nasal and rectal administration in children.
+Br. J. Anaesth.
+77, 203–207. doi:
+10.1093/bja/77.2.203
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Mei, X. P., Wang, W., Wang, W., Zhu, C., Chen, L., Zhang, T., et al. (2010). Combining ketamine with astrocytic inhibitor as a potential analgesic strategy for neuropathic pain ketamine, astrocytic inhibitor and pain.
+Mol. Pain
+6:50. doi:
+10.1186/1744-8069-6-50
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Mercadante, S., Arcuri, E., Tirelli, W., and Casuccio, A. (2000). Analgesic effect of intravenous ketamine in cancer patients on morphine therapy: a randomized, controlled, double-blind, crossover, double-dose study.
+J. Pain Symptom. Manage.
+20, 246–252. doi:
+10.1016/S0885-3924(00)00194-9
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Mercer, S. J. (2009). ‘The drug of war’–a historical review of the use of Ketamine in military conflicts.
+J. R. Nav. Med. Serv.
+95, 145–150.
+PubMed Abstract
+|
+Google Scholar
+McCloud, T. L., Caddy, C., Jochim, J., Rendell, J. M., Diamond, P.R., Shuttleworth, C., et al. (2015). Ketamine and other glutamate receptor modulators for depression in adults.
+Cochrane Database Syst. Rev.
+9:CD011612. doi:
+10.1002/14651858.CD011611.pub2
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Michelet, P., Guervilly, C., Hélaine, A., Avaro, J. P., Blayac, D., Gaillat, F., et al. (2007). Adding ketamine to morphine for patient-controlled analgesia after thoracic surgery: influence on morphine consumption, respiratory function and nocturnal desaturation.
+Br. J. Anaesth.
+99, 396–403. doi:
+10.1093/bja/aem168
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Michelet, D., Hilly, J., Skhiri, A., Abdat, R., Diallo, T., Brasher, C., et al. (2016). Opioid-sparing effect of ketamine in children: a meta-analysis and trial sequential analysis of published studies.
+Paediatr. Drugs
+doi:
+10.1007/s40272-016-0196-y
+[Epub ahead of print].
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Mikkelsen, S., Ilkjaer, S., Brennum, J., Borgbjerg, F. M., and Dahl, J. B. (1999). The effect of naloxone on ketamine-induced effects on hyperalgesia and ketamine-induced side effects in humans.
+Anesthesiology
+90, 1539–1545. doi:
+10.1097/00000542-199906000-00007
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Miller, A. C., Jamin, C. T., and Elamin, E. M. (2011). Continuous intravenous infusion of ketamine for maintenance sedation.
+Minerva Anestesiol.
+77, 812–820.
+PubMed Abstract
+|
+Google Scholar
+Moore, K. A., Kilbane, E. M., Jones, R., Kunsman, G. W., Levine, B., and Smith, M. (1997). Tissue distribution of ketamine in a mixed drug fatality.
+J. Forensic Sci.
+42, 1183–1185. doi:
+10.1520/jfs14283j
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Murrough, J. W., Iosifescu, D. V., Chang, L. C., Al Jurdi, R. K., Green, C. E., Perez, A. M., et al. (2013). Antidepressant efficacy of ketamine in treatment-resistant major depression: a two-site randomized controlled trial.
+Am. J. Psychiatry
+170, 1134–1142. doi:
+10.1176/appi.ajp.2013.13030392
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Murrough, J. W., Soleimani, L., DeWilde, K. E., Collins, K. A., Lapidus, K. A., Iacoviello, B. M., et al. (2015). Ketamine for rapid reduction of suicidal ideation: a randomized controlled trial.
+Psychol. Med.
+45, 3571–3580. doi:
+10.1017/S0033291715001506
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Muthukumaraswamy, S. D., Shaw, A. D., Jackson, L. E., Hall, J., Moran, R., and Saxena, N. (2015). Evidence that subanesthetic doses of ketamine cause sustained disruptions of NMDA and AMPA-mediated frontoparietal connectivity in humans.
+J. Neurosci.
+35, 11694–11706. doi:
+10.1523/JNEUROSCI.0903-15.2015
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Nesher, N., Ekstein, M. P., Paz, Y., Marouani, N., Chazan, S., and Weinbroum, A. A. (2009). Morphine with adjuvant ketamine vs. higher dose of morphine alone for immediate postthoracotomy analgesia.
+Chest
+136, 245–252. doi:
+10.1378/chest.08-0246
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Nesher, N., Serovian, I., Marouani, N., Chazan, S., and Weinbroum, A. A. (2008). Ketamine spares morphine consumption after transthoracic lung and heart surgery without adverse hemodynamic effects.
+Pharmacol. Res.
+58, 38–44. doi:
+10.1016/j.phrs.2008.06.003
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Niesters, M., Aarts, L., Sarton, E., and Dahan, A. (2013). Influence of ketamine and morphine on descending pain modulation in chronic pain patients: a randomized placebo-controlled cross-over proof-of-concept study.
+Br. J. Anaesth.
+110, 1010–1016. doi:
+10.1093/bja/aes578
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Nishimura, M., Sato, K., Okada, T., Yoshiya, I., Schloss, P., Shimada, S., et al. (1998). Ketamine inhibits monoamine transporters expressed in human embryonic kidney 293 cells.
+Anesthesiology
+88, 768–774. doi:
+10.1097/00000542-199803000-00029
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Noppers, I., Niesters, M., Swartjes, M., Bauer, M., Aarts, L., Geleijnse, N., et al. (2011). Absence of long-term analgesic effect from a short-term S-ketamine infusion on fibromyalgia pain: a randomized, prospective, double blind, active placebo-controlled trial.
+Eur. J. Pain
+15, 942–949. doi:
+10.1016/j.ejpain.2011.03.008
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Nugent, A. C., Diazgranados, N., Carlson, P. J., Ibrahim, L., Luckenbaugh, D. A., Brutsche, N., et al. (2014). Neural correlates of rapid antidepressant response to ketamine in bipolar disorder.
+Bipolar Disord.
+16, 119–128. doi:
+10.1111/bdi.12118
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Ohnesorge, H., Feng, Z., Zitta, K., Steinfath, M., Albrecht, M., and Bein, B. (2013). Influence of clonidine and ketamine on m-RNA expression in a model of opioid-induced hyperalgesia in mice.
+PLoS One
+8:e79567. doi:
+10.1371/journal.pone.0079567
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Oliven, A., O’Hearn, D. J., Boudewyns, A., Odeh, M., De Backer, W., van de, P., et al. (2003). Upper airway response to electrical stimulation of the genioglossus in obstructive sleep apnea.
+J. Appl. Physiol. (1985)
+95, 2023–2029. doi:
+10.1152/japplphysiol.00203.2003
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Oye, I., Paulsen, O., and Maurset, A. (1992). Effects of ketamine on sensory perception: evidence for a role of N-methyl-D-aspartate receptors.
+J. Pharmacol. Exp. Ther.
+260, 1209–1213.
+PubMed Abstract
+|
+Google Scholar
+Pedraz, J. L., Calvo, M. B., Lanao, J. M., Muriel, C., Santos Lamas, J., and Domínguez-Gil, A. (1989). Pharmacokinetics of rectal ketamine in children.
+Br. J. Anaesth.
+63, 671–674. doi:
+10.1093/bja/63.6.671
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Perrine, S. A., Ghoddoussi, F., Michaels, M. S., Sheikh, I. S., McKelvey, G., and Galloway, M. P. (2014). Ketamine reverses stress-induced depression-like behavior and increased GABA levels in the anterior cingulate: an 11.7 T 1H-MRS study in rats.
+Prog. Neuropsychopharmacol. Biol. Psychiatry
+51, 9–15. doi:
+10.1016/j.pnpbp.2013.11.003
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Perumal, D. K., Adhimoolam, M., Selvaraj, N., Lazarus, S. P., and Mohammed, M. A. (2015). Midazolam premedication for Ketamine-induced emergence phenomenon: a prospective observational study.
+J. Res. Pharm. Pract.
+4, 89–93. doi:
+10.4103/2279-042X.155758
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Petrenko, A. B., Yamakura, T., Fujiwara, N., Askalany, A. R., Baba, H., and Sakimura, K. (2004). Reduced sensitivity to ketamine and pentobarbital in mice lacking the N-methyl-D-aspartate receptor GluRepsilon1 subunit.
+Anesth. Analg.
+99, 1136–1140. doi:
+10.1213/01.ane.0000131729.54986.30
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Pomarol-Clotet, E., Honey, G. D., Murray, G. K., Corlett, P. R., Absalom, A. R., Lee, M., et al. (2006). Psychological effects of ketamine in healthy volunteers. Phenomenological study.
+Br. J. Psychiatry
+189, 173–179. doi:
+10.1192/bjp.bp.105.015263
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Poon, T. L., Wong, K. F., Chan, M. Y., Fung, K. W., Chu, S. K., Man, C. W., et al. (2010). Upper gastrointestinal problems in inhalational ketamine abusers.
+J. Dig. Dis.
+11, 106–110. doi:
+10.1111/j.1751-2980.2010.00424.x
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Reus, G. Z., Abelaira, H. M., dos Santos, M. A., Carlessi, A. S., Tomaz, D. B., Neotti, M. V., et al. (2013). Ketamine and imipramine in the nucleus accumbens regulate histone deacetylation induced by maternal deprivation and are critical for associated behaviors.
+Behav. Brain Res.
+256, 451–456. doi:
+10.1016/j.bbr.2013.08.041
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Rodriguez, C. I., Kegeles, L. S., Levinson, A., Ogden, R. T., Mao, X., Milak, M. S., et al. (2015).
+In vivo
+effects of ketamine on glutamate-glutamine and gamma-aminobutyric acid in obsessive-compulsive disorder: proof of concept.
+Psychiatry Res.
+233, 141–147. doi:
+10.1016/j.pscychresns.2015.06.001
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Rolan, P., Lim, S., Sunderland, V., Liu, Y., and Molnar, V. (2014). The absolute bioavailability of racemic ketamine from a novel sublingual formulation.
+Br. J. Clin. Pharmacol.
+77, 1011–1016. doi:
+10.1111/bcp.12264
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Salas, S., Frasca, M., Planchet-Barraud, B., Burucoa, B., Pascal, M., Lapiana, J. M., et al. (2012). Ketamine analgesic effect by continuous intravenous infusion in refractory cancer pain: considerations about the clinical research in palliative care.
+J. Palliat. Med.
+15, 287–293. doi:
+10.1089/jpm.2011.0353
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Sato, Y., Kobayashi, E., Hakamata, Y., Kobahashi, M., Wainai, T., Murayama, T., et al. (2004). Chronopharmacological studies of ketamine in normal and NMDA epsilon1 receptor knockout mice.
+Br. J. Anaesth.
+92, 859–864. doi:
+10.1093/bja/aeh144
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Schmittner, M. D., Vajkoczy, S. L., Horn, P., Bertsch, T., Quintel, M., Vajkoczy, P., et al. (2007). Effects of fentanyl and S(+)-ketamine on cerebral hemodynamics, gastrointestinal motility and need of vasopressors in patients with intracranial pathologies: a pilot study.
+J. Neurosurg. Anesthesiol.
+19, 257–262. doi:
+10.1097/ana.0b013e31811f3feb
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Schroeder, K. E., Irwin, Z. T., Gaidica, M., Bentley, J. N., Patil, P. G., Mashour, G. A., et al. (2016). Disruption of corticocortical information transfer during ketamine anesthesia in the primate brain.
+Neuroimage
+134, 459–465. doi:
+10.1016/j.neuroimage.2016.04.039
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Schwartzman, R. J., Alexander, G. M., Grothusen, J. R., Paylor, T., Reichenberger, E., and Perreault, M. (2009). Outpatient intravenous ketamine for the treatment of complex regional pain syndrome: a double-blind placebo controlled study.
+Pain
+147, 107–115. doi:
+10.1016/j.pain.2009.08.015
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Sen, H., Sizlan, A., Yanarates, O., Emirkadi, H., Ozkan, S., Dagli, G., et al. (2009). A comparison of gabapentin and ketamine in acute and chronic pain after hysterectomy.
+Anesth. Analg.
+109, 1645–1650. doi:
+10.1213/ANE.0b013e3181b65ea0
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Sigtermans, M. J., van Hilten, J. J., Bauer, M. C., Arbous, M. S., Marinus, J., Sarton, E. Y., et al. (2009). Ketamine produces effective and long-term pain relief in patients with complex regional pain syndrome type 1.
+Pain
+145, 304–311. doi:
+10.1016/j.pain.2009.06.023
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Smith, D. J., Bouchal, R. L., DeSanctis, C. A., Monroe, P. J., Amedro, J. B., Perrotti, J. M., et al. (1987). Properties of the interaction between ketamine and opiate binding sites
+in vivo
+and
+in vitro
+.
+Neuropharmacology
+26, 1253–1260. doi:
+10.1016/0028-3908(87)90084-0
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Suppa, E., Valente, A., Catarci, S., Zanfini, B. A., and Draisci, G. (2012). A study of low-dose S-ketamine infusion as “preventive” pain treatment for cesarean section with spinal anesthesia: benefits and side effects.
+Minerva Anestesiol.
+78, 774–781.
+PubMed Abstract
+|
+Google Scholar
+Sveticic, G., Farzanegan, F., Zmoos, P., Zmoos, S., Eichenberger, U., and Curatolo, M. (2008). Is the combination of morphine with ketamine better than morphine alone for postoperative intravenous patient-controlled analgesia?
+Anesth. Analg.
+106, 287–293. doi:
+10.1213/01.ane.0000289637.11065.8f
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Tsai, T.-H., Cha, T.-L., Lin, C.-M., Tsao, C.-W., Tang, S.-H., Chuang, F.-P., et al. (2009). Ketamine-associated bladder dysfunction.
+Int. J. Urol.
+16, 826–829. doi:
+10.1111/j.1442-2042.2009.02361.x
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Wang, X., Ding, X., Tong, Y., Zong, J., Zhao, X., Ren, H., et al. (2014). Ketamine does not increase intracranial pressure compared with opioids: meta-analysis of randomized controlled trials.
+J. Anesth.
+28, 821–827. doi:
+10.1007/s00540-014-1845-3
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Webb, A. R., Skinner, B. S., Leong, S., Kolawole, H., Crofts, T., Taverner, M., et al. (2007). The addition of a small-dose ketamine infusion to tramadol for postoperative analgesia: a double-blinded, placebo-controlled, randomized trial after abdominal surgery.
+Anesth. Analg.
+104, 912–917. doi:
+10.1213/01.ane.0000256961.01813.da
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+White, P. F., Schuttler, J., Shafer, A., Stanski, D. R., Horai, Y., and Trevor, A. J. (1985). Comparative pharmacology of the ketamine isomers. Studies in volunteers.
+Br. J. Anaesth.
+57, 197–203. doi:
+10.1093/bja/57.2.197
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Wieber, J., Gugler, R., Hengstmann, J. H., and Dengler, H. J. (1975). Pharmacokinetics of ketamine in man.
+Anaesthesist
+24, 260–263.
+PubMed Abstract
+|
+Google Scholar
+Wong, G. L., Tam, Y. H., Ng, C. F., Chan, A. W., Choi, P. C., Chu, W. C., et al. (2014). Liver injury is common among chronic abusers of ketamine.
+Clin. Gastroenterol. Hepatol.
+12, 1759.e1–1762.e1. doi:
+10.1016/j.cgh.2014.01.041
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Yanagihara, Y., Ohtani, M., Kariya, S., Uchino, K., Hiraishi, T., Ashizawa, N., et al. (2003). Plasma concentration profiles of ketamine and norketamine after administration of various ketamine preparations to healthy Japanese volunteers.
+Biopharm. Drug Dispos.
+24, 37–43. doi:
+10.1002/bdd.336
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Yang, C., Hu, Y. M., Zhou, Z. Q., Zhang, G. F., and Yang, J. J. (2013). Acute administration of ketamine in rats increases hippocampal BDNF and mTOR levels during forced swimming test.
+Ups. J. Med. Sci.
+118, 3–8. doi:
+10.3109/03009734.2012.724118
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Yeaman, F., Meek, R., Egerton-Warburton, D., Rosengarten, P., and Graudins, A. (2014). Sub-dissociative-dose intranasal ketamine for moderate to severe pain in adult emergency department patients.
+Emerg. Med. Australas
+26, 237–242. doi:
+10.1111/1742-6723.12173
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Yeom, J. H., Chon, M. S., Jeon, W. J., and Shim, J. H. (2012). Peri-operative ketamine with the ambulatory elastometric infusion pump as an adjuvant to manage acute postoperative pain after spinal fusion in adults: a prospective randomized trial.
+Korean J. Anesthesiol.
+63, 54–58. doi:
+10.4097/kjae.2012.63.1.54
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Yu, W. L., Cho, C. C., Lung, P. F., Hung, E. H., Hui, J. W., Chau, H. H., et al. (2014). Ketamine-related cholangiopathy: a retrospective study on clinical and imaging findings.
+Abdom. Imaging
+39, 1241–1246. doi:
+10.1007/s00261-014-0173-2
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Zakine, J., Samarcq, D., Lorne, E., Moubarak, M., Montravers, P., Beloucif, S., et al. (2008). Postoperative ketamine administration decreases morphine consumption in major abdominal surgery: a prospective, randomized, double-blind, controlled study.
+Anesth. Analg.
+106, 1856–1861. doi:
+10.1213/ane.0b013e3181732776
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Zanos, P., Moaddel, R., Morris, P. J., Georgiou, P., Fischell, J., Elmer, G. I., et al. (2016). NMDAR inhibition-independent antidepressant actions of ketamine metabolites.
+Nature
+533, 481–486. doi:
+10.1038/nature17998
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Zarate, C. A. Jr., Singh, J. B., Carlson, P. J., Brutsche, N. E., Ameli, R., Luckenbaugh, D. A., et al. (2006). A randomized trial of an N-methyl-D-aspartate antagonist in treatment-resistant major depression.
+Arch. Gen. Psychiatry
+63, 856–864. doi:
+10.1001/archpsyc.63.8.856
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Zhou, C., Douglas, J. E., Kumar, N. N., Shu, S., Bayliss, D. A., and Chen, X. (2013). Forebrain HCN1 channels contribute to hypnotic actions of ketamine.
+Anesthesiology
+118, 785–795. doi:
+10.1097/ALN.0b013e318287b7c8
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar
+Zhou, C., Liang, P., Liu, J., Ke, B., Wang, X., Li, F., et al. (2015). HCN1 channels contribute to the effects of amnesia and hypnosis but not immobility of volatile anesthetics.
+Anesth. Analg.
+121, 661–666. doi:
+10.1213/ANE.0000000000000830
+PubMed Abstract
+|
+CrossRef Full Text
+|
+Google Scholar

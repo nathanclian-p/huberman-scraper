@@ -1,0 +1,143 @@
+Whether from a finger prick or drawn from the arm, blood is our window into health. A few drops of it can reveal if someone is at risk for developing diabetes, pregnant, or has early signs of cancer. Until recently, clinicians and researchers have ignored a blood sample that doesn’t require a needle or a doctor’s visit to obtain. In fact, much of the population has been throwing it away every month for millennia.
+Menstrual blood — just like the blood that flows through the miles-long networks of veins and capillaries throughout the body — is blood. But for years, scientists never considered the diagnostic potential of this monthly blood sample. Most thought of it as simply a waste product.
+From “the literature, you would have thought  everything in menstrual blood was dead, but it's just not true. There are a lot of live cells there,” said Christine Metz, an endometriosis researcher at Feinstein Institutes for Medical Research at Northwell Health. “It's amazing how much you can learn about a biologic sample that we just ignored for — I don't want to say how many years.”
+Along with blood, the fluid that the body sheds during menstruation — often called menstrual effluent — contains endometrial tissue with viable cells, immune cells, nucleic acids, proteins, and even microorganisms from the vaginal microbiome. There are more than
+300 unique proteins
+in menstrual blood that are not found in peripheral blood, along with a specific composition of
+immune cells
+(1-2).
+Unlike a typical needle draw, collecting menstrual blood is a non-invasive process. The menstruating public uses at least one of the many menstrual products available such as menstrual cups, period underwear, tampons, and pads. Because people can collect menstrual blood using these passive methods, it is a blood sample that can be collected and analyzed from the same person at multiple time points during one menstrual cycle and regularly every month, giving clinicians more precise insight into a patient’s health.
+Scientists are now demonstrating that they can use menstrual blood to monitor health conditions like diabetes and thyroid disease as well as to help diagnose disorders such as endometriosis, recurrent miscarriage, and cancer. With the development of non-invasive and easy-to-use collection methods, scientists hope that monitoring menstrual blood will increase access to preventative and reproductive healthcare and allow for the earlier diagnosis and treatment of often difficult-to-diagnose health conditions.
+Preventative care in a pad
+Analyzing a person’s blood during routine physical exams once every year gives clinicians a snapshot of health, but a lot of things change in a year. Catching detrimental health changes early is often key to preventing poor outcomes. As a medical student, Sara Naseri, now the CEO of the women’s health company Qvin, knew that collecting health data conveniently and non-invasively would improve preventative medicine.
+“[Blood] is the bodily fluid that is used for diagnostics and health monitoring most often,” she said. “I don't think a doctor would want to poke you with a needle in the arm unless there’s a really good reason for it. Then one day, it just sort of hit me that, wait a minute, women bleed every month. Why is nobody using that?”
+Naseri joined forces with Paul Blumenthal, an obstetrics and gynecology researcher and clinician at Stanford University to investigate the diagnostic potential of menstrual blood. As a proof of concept, they tested whether they could detect common biomarkers that clinicians often assess in routine blood samples such as cholesterol, creatinine, and triglyceride levels among others. Women enrolled in Naseri and Blumenthal’s study submitted a sample of menstrual blood that they had collected in a menstrual cup and went into the clinic for a blood draw on the same day.
+When it came time for the clinical lab to analyze the menstrual blood samples, Naseri and Blumenthal hit some unexpected resistance.
+“The director of the lab on campus was not going to let us process the samples because he didn't like the idea of menstrual blood,” said Naseri. She and Blumenthal went back and forth with the lab, answering their questions about menstrual blood as a blood sample. They explained that a dried blood spot of menstrual blood could be analyzed in the same way as any other dried blood spot.
+Menstrual blood contains blood, endometrial cells, immune cells, genetic material, and even bacteria.
+CREDIT: THE FEINSTEIN INSTITUTES
+“When it came down to it, the guy was like, 'that’s kind of a little bit gross,'” Naseri said. “It was surprising that somebody who's a clinician and in a place that is supposed to be the most innovative place in the world would be so against something that could be such a huge opportunity for women's health… I’m rarely very sad, but I was very sad that day.”
+Naseri and her team eventually found a lab in Southern California that would run their menstrual blood samples. With their samples finally analyzed, they reported that multiple biomarkers in systemic blood correlated well with biomarkers in
+menstrual blood
+(3).
+Since that study, Naseri co-founded the company Qvin (from the Danish word “kvinde” meaning woman) and developed an easy-to-use menstrual collection device called a Q-pad. The Q-pad functions like a regular menstrual pad, but once used, people can pull on a small tab that removes a tiny blood collection strip. They then place the strip in a box provided by Qvin and mail it to Qvin’s lab for analysis.
+Naseri and Blumenthal have since shown that menstrual blood collected via the Q-pad can be used to measure glycated hemoglobin, an indicator of blood glucose level, in people with diabetes. Typically, people with diabetes go to a doctor’s office every three to six months to check their glycated hemoglobin levels. Naseri’s team found that the levels of glycated hemoglobin in menstrual blood were
+not significantly different
+from the levels in systemic blood (4).
+While Naseri is excited about the potential of using menstrual blood to monitor different general health markers, she explained that due to menstrual blood’s origin in the reproductive tract, it can also serve as an important sample for better understanding reproductive health.
+“There's not a lot of information about how [menstrual blood] uniquely can tell us about pathologies in the reproductive organs for women. There's just so much to be done,” she said. “We don't know everything at all.”
+Endometrial cells shed light on endometriosis
+In endometriosis, tissue that normally lines the inside of the uterus begins to grow outside of it as lesions, often on the ovaries, fallopian tubes, or intestines. It is a very painful condition that affects 10% of women worldwide. The only treatment that alters the course of the disease is surgery, which many women need to have multiple times. Hormone treatment can help, but many people with endometriosis find that the hormones are either ineffective or lead to side effects that are worse than endometriosis itself.
+Currently, doctors can only diagnose endometriosis via laparoscopic surgery. For this reason, and because their pain is often not taken seriously by healthcare providers, patients often suffer with endometriosis symptoms for years before getting diagnosed.
+Metz and her colleague Peter Gregersen, an endometriosis researcher at Feinstein Institutes for Medical Research at Northwell Health, reasoned that because menstrual blood sometimes moves back into the fallopian tubes and the abdominal cavity before being shed, it might hold clues into the pathogenesis of endometriosis.
+Peter Gregersen (left) and Christine Metz (right) study endometrial cells sloughed off in menstrual blood to develop new ways to diagnose and treat endometriosis.
+CREDIT: THE FEINSTEIN INSTITUTES
+“We targeted using menstrual effluent to learn more about the disease of endometriosis and to think about developing new non-invasive diagnostic methods and new therapies,” said Metz. “The lesions are made of the same material that is found in the endometrium, which is sloughed off every single month, so it seemed obvious to us that that would be a great place to start.”
+With their colleagues at the Feinstein Institutes for Medical Research, Metz and Gregersen initiated the Research OutSmarts Endometriosis (ROSE) clinical study. They enroll healthy people, people diagnosed with endometriosis, and people who are symptomatic for endometriosis but not yet diagnosed.
+The ROSE study is ongoing, but the team recently reported that immune cells from menstrual blood of people with endometriosis
+differ in number and gene expression
+when compared to immune cells from the menstrual blood of healthy controls (5). There were fewer specific T helper 17 cells in the menstrual blood of endometriosis patients, and the differentially expressed genes associated with specific T helper cell and macrophage signaling, suggesting that these immune pathways could be involved in the pathogenesis of endometriosis.
+Focusing in further on the mechanism behind endometriosis, Metz, Gregersen, and their colleagues recently performed the first single cell analysis of cells from menstrual blood.
+They reported in a preprint
+that there was a surprising deficiency of uterine natural killer (NK) cells, a type of immune cell, but enrichment of pro-inflammatory immune cells in menstrual blood from endometriosis patients compared to that of healthy people (6).
+While they don’t plan to use single cell sequencing as a diagnostic for endometriosis, Metz and Gregersen will use these results to develop a series of quantitative PCR-based tests to analyze the presence of certain biomarkers and cell types in menstrual blood for diagnosing endometriosis.
+The team also recently started enrolling teens between the ages of 12 and 18 into the ROSE trial because endometriosis symptoms often first appear during adolescence.
+“Pain and discomfort with menstruation is not uncommon in adolescence, but if that pain is really disruptive and you miss school and you need to take pain meds and so forth, it is very strongly associated with the ultimate presence of endometriosis,” said Gregersen.
+Metz and Gregersen noted that a non-invasive test to determine whether a diagnostic surgery is necessary would be especially helpful for younger patients because parents are often hesitant to have their children undergo surgery solely for a diagnosis.
+“Our vision would be to have a menstrual effluent evaluation as part of an annual GYN visit just like a pap smear,” said Metz. “There are things that we don't know about the endometrium that we will learn from menstrual effluent, and there are plenty of uterine health conditions that menstrual effluent could be helpful for.”
+One such condition is the main function of the uterus: pregnancy.
+Uterine immune cells and pregnancy
+According to a pregnant person’s immune system, a fetus looks a little suspicious. Half of it looks like “self” but the other half is foreign. To maintain a healthy pregnancy, the immune system must strike a tight balance between inflammation and immunosuppression.
+While spontaneous pregnancy loss is common, only one to two percent of people experience the loss of three or more consecutive pregnancies in the first half of their pregnancy, a condition called recurrent miscarriage. A person’s genetics, anatomy, autoimmune function, or endocrine function can contribute to recurrent pregnancy loss, but 40% of cases cannot be attributed to these explanations.
+Renate van der Molen, a medical immunologist at Radboud University Medical Center, hypothesizes that some of these cases of recurrent miscarriages may be due to an unbalanced immune response in the uterus during the time that a fertilized egg implants in the endometrium or during placental development. Indeed, prior studies of peripheral blood samples have implicated immune dysregulation in recurrent pregnancy loss, and researchers reported altered levels of
+NK cells
+in menstrual blood from patients with recurrent miscarriage (7).
+“We need to know what the biomarkers are that we can actually measure to know that the immune system is actually in the right state,” said van der Molen.
+Using machine learning, van der Molen and her colleagues
+recently reported
+that six markers in menstrual blood plus age could discriminate between patients with recurrent miscarriages and healthy controls (8).
+The researchers noticed that patients who suffered from recurrent miscarriages were a somewhat heterogeneous group. Some had decreased numbers of immunoregulatory NK cells but had increased levels of cytotoxic NK cells. Other patients had an increased number of B cells, which van der Molen hypothesized might indicate the presence of an infection or immune reaction against the fetus.
+She and her team are currently performing a validation study and are investigating the mechanism underlying these immune cell changes with the hope to develop new therapies for recurrent miscarriages. She is eager to investigate the diagnostic potential of menstrual blood further.
+“I think it's the future for reproductive medicine,” said van der Molen.
+From cervical to ovarian cancer
+Coming directly from the human reproductive tract, menstrual blood may also hold the key to diagnosing gynecologic cancers. Typically, a gynecologic cancer diagnosis requires invasive procedures such as a pap smear or a biopsy. In places where reproductive care is limited and where sterile conditions for these types of procedures are unavailable, many people are not diagnosed until their cancer has progressed to advanced stages. If caught early, however, many reproductive cancers are treatable.
+Cervical cancer is often caused by certain strains of the human papilloma virus (HPV), but vaccination against high-risk HPV strains can prevent it. When pathologists at Stanford University discussed how to identify high-risk HPV strains for a vaccination effort in rural Zimbabwe where pap smears were not possible, Naseri suggested that menstrual blood, which flows through the cervix might be useful.
+“Not very long after, I was in Zimbabwe and helping out with this trial,” Naseri said. Initially she and her colleagues were concerned that because most of the community health workers distributing Q-pads to collect the menstrual blood were men, the women might feel uncomfortable discussing their periods with them.
+Sara Naseri, co-founder of Qvin, uses menstrual blood collected on modified menstrual pads to monitor routine health conditions and a range of disorders, including cervical cancer.
+CREDIT: IDA TIETGEN HØYRUP
+“But it was very clear that that was just not a concern at all,” said Naseri. “Women were so desperate to get screened that they were more than happy to use the Q-pad.”
+From that initial study, Naseri and her colleagues found that they could detect high-risk HPV strains from menstrual blood, which spurred them to perform a similar study at Stanford University. Naseri and her team reported in a
+conference abstract
+that for 107 women who used the Q-pad and underwent pap smears, there was a 95-100% concordance between the Q-pad and the pap smears for detecting high-risk HPV strains (9). The researchers have just started a multi-site follow up study across the United States.
+Naseri wants “to really make cervical cancer screening as accessible and convenient as it can be. It's one of those cancers that is preventable if we screen and detect it early,” she said. “This should not be something that women die from today.”
+Anna Villarreal, founder of LifeStory Health and a cancer survivor, also sees the diagnostic power of menstrual blood for cancer. When Villarreal was first diagnosed with cancer, she noticed that she had some abnormal uterine bleeding and wondered if clinicians could use menstrual blood as a diagnostic source. She decided to start LifeStory Health to find out.
+“There's been a lot of advances in medicine, but one area that remains an unmet need is women's health,” she said.
+To collect a menstrual sample for analysis by LifeStory Health, people use a small pipette to collect blood that has pooled at the base of the vagina. They then place their menstrual blood sample on a piece of filter paper the size of a credit card, which can be mailed to LifeStory Health.
+Working with scientists, Villarreal and her team identified differences in the proteins present in menstrual versus peripheral blood and many different protein modifications only found on proteins from menstrual blood. They recently developed a PCR-based test to identify biomarkers in menstrual blood that they hope will help diagnose certain cancers, including ovarian cancer, which is difficult to diagnose at early stages.
+“There's a large body of evidence that it starts 10 to 20 years earlier than when you actually are able to see the signs and symptoms. So, obviously being able to test it earlier would be hugely beneficial,” she said. “We're looking at a couple of proteins that could be indicative of early-stage ovarian cancer.”
+Villarreal envisions people submitting a menstrual blood sample to be screened for ovarian cancer at every annual OBGYN visit. If clinicians test for the presence, absence, or levels of different ovarian cancer markers, patients could undergo additional screening to confirm a diagnosis.
+The LifeStory Health team has also initiated clinical studies investigating the potential for menstrual blood to help diagnose breast, lung, and endometrial cancer. They hope to publish the results soon.
+“The opportunity to be able to give medical professionals what I just felt like was an extra set of tools in their toolbox in order to better treat and diagnose women's health diseases — that's super exciting,” said Villarreal.
+Mapping the menstrualome
+Proteins are just one type of health indicator in menstrual blood. The cells shed every month from the lining of the uterus are unique to the reproductive tract and also contain a treasure trove of information from specific gene expression changes to altered epigenetic marks.
+Spurred by her desire to learn more about her own reproductive health on a molecular level, Ridhi Tariyal, the co-founder of the reproductive health company NextGen Jane, set out to sequence what she calls the “menstrualome” from menstrual blood collected on a tampon.
+“What we're building is a translation engine to understand what your body's always been trying to communicate with the world and to you by doing genomic sequencing of the cells that we find on the tampon,” said Tariyal.
+Tariyal and her team at NextGen Jane perform what she called “ambitious and agnostic sequencing.” They analyze the transcriptomes, small RNA sequences, and methylomes of the cells in menstrual blood and perform 16S sequencing and strain analysis of the microbes present in the sample.
+At NextGen Jane, Ridhi Tariyal (left) and her co-founder Stephen Gire (right) perform high-throughput sequencing on cells present in menstrual blood, which they call the “menstrualome.”
+CREDIT: RIDHI TARIYAL
+“If you're going through the trouble of actually acquiring the sample, you should generate terabytes of data — as much data as possible about these samples. You don't know what genomic platform is going to be the most specific for a particular disease state,” she said. “In some cases, methylation patterns are much more indicative of disease than anything else. In some cases, you might find gene expression assays are the most interesting.”
+As a collection tool, tampons have the advantage over pads and menstrual cups in that people can wear one even when not on their period. For example, the team at NextGen Jane found that if people wear a tampon during ovulation, they can find cells from the ovaries, fallopian tubes, and cervix on the tampon. Currently, researchers at NextGen Jane are running clinical studies using blood and cells collected on tampons to diagnose endometriosis, heavy menstrual bleeding, and pregnancy-associated conditions.
+“For both heavy menstrual bleeding and for endometriosis, we have really interesting early data,” said Tariyal. The team has just started an NIH-funded validation study of their endometriosis diagnostic, and they’re currently recruiting more participants to the study.
+Tariyal hopes that with a better understanding of the underlying mechanisms driving these different reproductive health disorders, scientists will be able to develop more targeted treatments.
+“We now think about cancer in this very molecularly driven, precise way. That's what I think is most exciting about the menstrualome — even beyond precise and easy diagnostics, which we need — is precision medicine from a treatment perspective coming into these disease areas.”
+With multiple menstrual blood-based diagnostics in development, it’s only a matter of time until collecting a menstrual blood sample and sending it in for testing will be routine, allowing for greater access to reproductive care for people all over the world.
+There is unfortunately still a stigma associated with menstruation in certain communities, but Blumenthal said, “if we can show that it actually has clinical value and that it's a potentially health informing resource, then maybe some of that stigma will go away.”
+Menstrual blood may be a waste product, but it’s also potentially the key to better diagnoses and new treatments for conditions that affect a major portion of the globe’s population.
+References
+Yang, H.
+et al.
+Proteomic Analysis of Menstrual Blood.
+MCP
+11
+, 1024-35 (2012).
+van der Molen, R.G.
+et al.
+Menstrual blood closely resembles the uterine immune micro-environment and is clearly distinct from peripheral blood.
+Hum Rep
+29
+, 303-314 (2014).
+Naseri, S., Lerma, K., & Blumenthal, P.D. Comparative Assessment of Serum versus Menstrual Blood for Diagnostic Purposes: A Pilot Study.
+J Clin Lab Med
+4
+, 1-4 (2019).
+Naseri, S., Brewster, R.C.L., Blumenthal, P.D. Novel use of menstrual blood for monitoring glycaemic control in patients with diabetes: a proof-of-concept study.
+BMJ Sexual & Reproductive Health
+48
+, 123-127 (2022).
+Miller, J.E.
+et al.
+TH17 axis and endometrial macrophage disruption in menstrual effluent provides potential insights into the pathogenesis of endometriosis.
+F&S Science
+(2022).
+Shih, A.J.
+et al.
+Single cell analysis of menstrual endometrial tissues defines phenotypes associated with endometriosis. Preprint:
+https://www.medrxiv.org/content/10.1101/2022.02.10.22270810v2
+Hosseini, S.
+et al.
+Comparative analysis of NK cell subsets in menstrual and peripheral blood of patients with unexplained recurrent spontaneous abortion and fertile subjects.
+J Reprod Immunol
+103
+, 9-17 (2014).
+Benner, M.
+et al.
+A combination of immune cell types identified through ensemble machine learning strategy detects altered profile in recurrent pregnancy loss: a pilot study.
+F&S Science
+3
+, 166-173 (2022).
+Naseri, S.
+et al.
+Screening for High Risk Human Papillomavirus Using Passively Self-Collected Menstrual Blood [A91].
+Obstetrics & Gynecology
+139
+, 27S (2022).

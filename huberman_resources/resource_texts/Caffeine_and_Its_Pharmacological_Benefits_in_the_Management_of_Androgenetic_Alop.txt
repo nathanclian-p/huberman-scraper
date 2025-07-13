@@ -1,0 +1,107 @@
+Studies investigating the effects of caffeine on the skin have shown that caffeine is beneficial for the barrier function in male skin [
+75
+], has antiviral activity as it is comparable to topical acyclovir for treating herpes simplex virus skin infections at concentrations >1 mg/mL, even in herpes virus resistant to acyclovir [
+76‒78
+], and has a positive impact on apoptosis in UVB-treated skin when topically applied at 0.062 mmol/mL and therefore has the potential to lower the risk for skin cancer [
+75
+,
+79‒81
+]. It is conceivable that hair follicles may play a role in these findings, as there is a close relation between the epidermis and the hair follicle [
+47
+]. The dermal papilla, for example, controls the size of the hair while cells from the follicle (outer root sheath) can migrate and regenerate the epidermis after injury or loss [
+47
+]. The hair follicles also assist in wound healing and skin repigmentation and interact closely with the immune and neuroendocrine systems of the skin, supporting immunosurveillance against pathogens and aiding sensory perception [
+82
+].
+Based on the observation from in vitro studies that caffeine might counteract AGA progression, and the results of the skin penetration studies showing that caffeine can efficiently penetrate into the hair follicle and is retained for >24 h, the effect of caffeine-containing formulations on hair loss has been investigated in several in vivo studies [
+83‒86
+]. For the evaluation of hair loss, several diagnostic techniques are available, covering noninvasive, semi-invasive, and invasive methods, as briefly described in the following: both the hair pluck and hair pull tests have been employed in the assessment of caffeine and caffeine-containing shampoos. With the hair pluck test, also known as trichogram, the ratio of anagen to telogen hair follicles can be determined [
+87, 88
+]. From a specified site, 60–80 hair shafts including their roots are removed (plucked). The hair bulbs are then immediately placed with their roots on a glass slide in an embedding medium for microscopic evaluation. Last shampoo application is required to be 5 days prior to testing. The hair pluck test is employed in diagnosis and also for treatment monitoring [
+89
+]. The hair pull test on the other hand assesses the severity and location of hair loss [
+87
+]. A bundle comprising approximately 20–60 hair shafts is grasped between the thumb, index, and middle fingers from the base of the hairs near the scalp and firmly, but not forcefully, tugged away from the scalp. The percentage of hair shafts pulled that come loose determines the test result. A recent update on the guidelines for the hair pull test recommends to reduce the threshold for the number of pulled hair shafts that constitutes a positive pull test result, indicating active hair shedding, from 10 to <5%, i.e., 2 hair shafts or fewer pulled from a bundle of 60 hairs [
+90
+]. While recommendations regarding shampooing prior to a hair pull test varied between 1 and 5 days [
+87, 88
+], the recent update on the guidelines provides evidence that hair loss values are uninfluenced by the time since last hair wash and advocates that the 5-day restriction on hair washing prior to the test should be reconsidered to minimize unnecessary inconvenience to patients [
+90
+]. A sensitive in situ method to monitor hair loss and treatment response by combining epiluminescence microscopy with an automatic digital image analysis is trichoScan. This optical and noninvasive method is able to determine the amount of hairs, the hair density, and the hair cycle phase (anagen or telogen) [
+91
+]. Although other methods for the diagnosis of hair disorders or more preciously for the measurement of hair growth variables exist, including the phototrichogram, the use of the trichogram remains a basic diagnostic tool with widespread use in hair consultation. For an overview of further hair evaluation methods, the reader is referred to review articles [
+87, 88
+].
+Further characteristics of hair loss are commonly assessed by investigators and self-reported by subjects. As hair loss is known to negatively affect the quality of life and can even give rise to conditions such as depression and anxiety [
+41
+] as discussed above, the subjective impact of hair loss on quality of life is frequently assessed with questionnaires. These questionnaires, which are generally easy to comprehend and record, are used in clinical trials for the assessment of therapeutic response [
+42, 87
+].
+Several studies on caffeine-containing formulations for hair loss have been conducted to date, including single-arm studies, parallel trials, and randomized controlled trials, with placebo and drug-based treatments used as comparators. Caffeine-containing formulations have been studied in men and women with AGA and women with telogen effluvium, a hair-loss condition in which anagen-phase hair follicles prematurely transition to the telogen phase.
+A caffeine-containing shampoo (10 mg/mL caffeine) was assessed in females with telogen effluvium (
+n
+= 30) using the hair pull test to evaluate hair loss as well as investigator and subject questionnaires to evaluate the quality of life [
+83
+]. After 6 months of daily application on the scalp with 2 min contact time, a decrease in hair loss was noted in more than half of the participants. In addition, a good cosmetic efficacy was reported including an improvement in the strength of the hair (
+p
+< 0.001), a decrease in the extent of hairs falling out (
+p
+< 0.001), and a decrease in the progression of the balding (
+p
+= 0.100) assessed by the investigator’s questionnaire. In females with AGA, a randomized double-blind parallel trial (
+n
+= 140) compared the efficacy of a caffeine-containing shampoo to a control shampoo without caffeine [
+84
+]. The study was conducted in accordance with the International Conference on Harmonisation (ICH) guidelines on Good Clinical Practice for conducting clinical trials for drugs. Last shampoo application was at least 48 h before application of the test products. Hair loss was evaluated based on the results of a hair pull test and also with subject and investigator questionnaires. The study results showed beneficial effects related to inclusion of caffeine in the shampoo: Fewer hairs were pulled out after 6 months in the hair pull test (
+p
+< 0.001), hair loss intensity was reduced (
+p
+< 0.001), and there was a trend to an increase in hair strength (
+p
+= 0.138) compared to the control shampoo assessed by the investigator’s questionnaire. No adverse events were reported for the caffeine-containing shampoo or for the control shampoo, indicating that the addition of caffeine does not change the safety profile of the formulation.
+A randomized, controlled, double-blind, parallel group study of a caffeine-containing shampoo was conducted in males with AGA (
+n
+= 66) [
+85
+]. The contentment was significantly higher for the caffeine-containing shampoo compared to a caffeine free control (
+p
+< 0.001). Further parameters assessed by the subjects themselves as well as from the investigators were also improved significant differences in favor of the caffeine-containing shampoo were observed for the reduction in the intensity of hair loss (
+p
+= 0.002), the decrease in/normalization of the hair loss (
+p
+< 0.001), the decrease in the number of hairs in the basin (
+p
+= 0.002), and the improvement of hair strength and thickness (
+p
+< 0.001).
+More recently, results of a randomized, open-label, multicenter noninferiority study in males with AGA (
+n
+= 210) were published, reporting on the effects of a caffeine-containing lotion (2 mg/mL) compared to a drug-based approach (50 mg/mL minoxidil solution) [
+86
+]. Minoxidil is one of only 2 drugs in use worldwide for the treatment of hair loss, the other being finasteride [
+64
+]. However, topical minoxidil solution has been associated with adverse effects [
+92
+], including contact dermatitis [
+93
+] and hypertrichosis [
+94, 95
+]. On the other hand, caffeine is the most studied natural ingredient with the potential to be a topical multibenefit solution to hair loss and is not known to show any undesired effects in vivo [
+39
+]. The primary end point within the noninferiority study was the change in the proportion of anagen hair follicles as assessed by trichogram. Secondary end points were the dermatological assessment and a subject questionnaire. This study showed a similar improvement in the proportion of anagen hair follicles for the caffeine-containing lotion compared to the minoxidil solution (
+p
+= 0.574). Hence, the results obtained with the caffeine-containing lotion indicate that it was noninferior to the minoxidil solution. No significant differences were observed in the increase from baseline in the proportion of anagen hair follicles after 6 months using either the frontal trichogram or the occipital trichogram alone. The change from baseline in the number of subjects with an increase in anagen hair (and accordingly a decrease in telogen hair) using a frontal or occipital trichogram after 3 and 6 months of application was also similar between groups. Results for the investigator assessment of hair strength, balding progression, and extent of hair loss and the subjective assessment of intensity of hair loss, the number of hair shafts falling out while combing, hair thickness, and treatment satisfaction were all comparable between the caffeine-containing lotion and minoxidil. Furthermore, no safety concerns were observed for the caffeine-containing lotion. In conclusion, this study showed that the caffeine-containing lotion is as effective as an FDA-approved drug in males with hair loss.
+Additionally, two further studies have been conducted with topically applied caffeine in combination with conventional hair loss treatments [
+96, 97
+]. Within a randomized, double-blind, controlled clinical trial, the topical solution consisting of 25 mg/mL caffeine with 25 mg/mL minoxidil was more effective for male and female patients suffering from AGA than the 25 mg/mL minoxidil alone in terms of patients’ satisfaction (58.33% in combined treatment vs. 41.37% in minoxidil alone control group) after 150 days of treatment. Another combined treatment with 10 mg/mL caffeine, 50 mg/mL minoxidil, and 15 mg/mL azelaic acid on male AGA patients showed a higher efficacy for hair regrowth and against hair shedding, evaluated via wash test (hair shedding) as well as patient and dermatologist assessment (hair regrowth), in comparison to minoxidil alone or the placebo after 32 weeks. Both studies emphasize that the combined solutions with caffeine were more effective on male patients with AGA compared to the corresponding control group, further illustrating the efficacy of caffeine on AGA management [
+98
+].
+The range of studies conducted on the effects of caffeine on hair follicles and caffeine-containing treatments for hair loss closely mirrors the studies performed during development and testing of drugs, even though these products are not pharmaceuticals and hence not subject to the regulatory requirements for drug approval. The current version of the S3 guideline for the treatment of AGA in women and men published in 2017 acknowledges the promising results of caffeine from in vitro experiments [
+64
+]. However, the results of the noninferiority study comparing a caffeine-containing lotion with minoxidil in males with AGA as well as the randomized double-blind parallel trial comparing the caffeine-containing shampoo to a control shampoo without caffeine in females with AGA have not been considered by the current guideline, as they were not published at that time. It can be anticipated that these results will be included in the next update of the S3 guidelines. Considering the results from the noninferiority study, one may question whether a drug-based treatment remains appropriate for alleviating a non-life-threatening condition like AGA. The negative impacts of AGA are mainly limited to psychological concerns primarily due to the effects of hair loss on the cosmetic appearance [
+40
+]. Hence, special consideration needs to be given to the risk-benefit profile when choosing a suitable treatment option. In particular, the long-term safety aspects need to be considered, since the underlying genetic predisposition entails a lifelong daily administration. While the currently available drug-based approaches minoxidil and finasteride seem to be accompanied by side effects and adverse effects [
+64
+], caffeine appears to be an ideal compound for topical treatment, as it is a nontoxic, inexpensive substance that easily penetrates across the skin barrier [
+75
+].

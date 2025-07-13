@@ -1,0 +1,290 @@
+1. Introduction
+Despite evidence that up to 35% of cancers are preventable by adherence to a healthy diet, maintaining a healthy weight and regular physical activity [
+1
+], the prevalence of these modifiable risk factors is high [
+2
+,
+3
+,
+4
+]. The World Cancer Research Fund/American Institute for Cancer Research (WCRF/AICR) recommend a healthy diet that is rich in vegetables, fruit, whole grains, and pulses; contains low amounts of red meat (i.e., meat that is red before being cooked (beef, veal, pork, mutton, lamb, horse, or goat) [
+5
+] and does not contain processed meats (ham, bacon, sausages, or meat that is transformed through curing, smoking, drying or other processes to improve the flavor or the quality, and may contain poultry, offal, or meat by-products) [
+6
+] as priorities for cancer prevention [
+1
+]. The inclusion of meat into the WCRF/AICR recommendations has sparked a debate regarding epidemiological evidence that implicates red and processed meat in carcinogenesis [
+7
+]. Potential mechanisms underlying the carcinogenesis of red and processed meat include
+N
+-nitroso compounds (NOC), heterocyclic amines (HCA), and polycyclic aromatic hydrocarbons (PAH), which are the mutagenic compounds formed during high-temperature cooking (frying, grilling, and barbecuing) and processing (curing and smoking) [
+8
+,
+9
+,
+10
+]. Following a review of scientific literature, the International Agency for Research on Cancer (IARC) later classified the consumption of red meat as probably carcinogenic and of processed meat as convincingly carcinogenic to humans [
+6
+,
+11
+]. The existing evidence focused on isolating the effect of individual food items and food constituents (i.e., red or processed meat) on cancer risk. Yet, it is being increasingly recognized that foods or nutrients are not consumed in isolation and may act synergistically to produce the effect from a combination of influences on several pathways involved in carcinogenesis [
+12
+]. In order to better capture the cancer risk associated with meat intake, there is a need to consider the role of potential synergies between the key food items and food constituents recommended for cancer prevention as part of a healthy diet. We examined the co-consumption of adverse intakes of red and processed meat, vegetables and fruit, whole grains, and fiber and its impact on cancer incidence and time-to-cancer occurrence in a prospective cohort study that follows a general provincial sample of Canadian adults.
+2. Materials and Methods
+Between 2001 and 2009, Alberta’s Tomorrow Project (ATP) recruited 31,072 adults through a two-stage probability sample of non-institutionalized individuals aged 35–69 years living in the province of Alberta, Canada, that were randomly selected in 8 waves of telephone-based random digit dialing (RDD) within regional health authority boundaries in Alberta as the sampling frame. Individuals that completed a Health and Lifestyle Questionnaire (HLQ) and signed a consent form were enrolled (49% of those contacted by RDD). Participants were excluded if they did not meet one of the following four criteria at enrollment: (i) aged 35–69 years; (ii) no prior personal history of cancer, other than non-melanoma skin cancer; (iii) plans to reside in Alberta for at least 1 year; and (iv) able to complete written questionnaires in English. Detailed protocols which describe all data collection procedures have been previously published [
+13
+,
+14
+].
+For 30,431 (99%) participants that provided personal health numbers (PHN) at enrollment and consented to data linkage with administrative health databases, ATP data are linked on a regular basis (2 times/year) with the Alberta Cancer Registry (ACR) to determine the incidence of all types of cancer except non-melanoma skin cancer. The ACR is gold certified with the North American Association of Central Cancer Registries based on completeness and accuracy of the data [
+15
+]. All ATP records with valid PHN (100%) have been successfully linked. Cancer case ascertainment within ATP is high considering that very few participants (0.6%) have moved out of province since enrollment. There have been 2535 incident primary malignant all-cause cancers, excluding non-melanoma skin cancer, recorded up to December 2018 (average follow-up 13.5 years). Of these, 2208 cases were for 15 cancers with possible links to red and processed meat intake, including colorectal (CRC), stomach, pancreas, prostate, breast, bronchus/lung, esophagus, kidney, bladder, ovary, endometrium, non-Hodgkin lymphoma, liver and intrahepatic bile ducts, leukemia, and other (thyroid, gallbladder and biliary tract, testis, and brain) [
+11
+]. ATP data are also linked with the Vital Statistics to ascertain mortality from any cause. ATP study procedures and data linkage to the ACR and Vital Statistics (HREBA.CC-17–0461) and current analyses (HREBA.CC-17–0099) were approved by the Health Research Ethics Board of Alberta (HREBA)—Cancer Committee.
+Dietary intake of red meat (g/day), processed meat (g/day), non-starchy vegetables and fruit excluding juices (servings/day), whole grains (servings/day), and fiber (g/day) was assessed by the Canadian Diet History Questionnaire I (CDHQ-I) that was administered 3 months after enrollment. The CDHQ-I is a 124-item past-year food frequency questionnaire (FFQ) of foods, beverages, and dietary supplements. The CDHQ-I is based on the Diet History Questionnaire (DHQ) developed by the US National Cancer Institute [
+16
+] and adapted for use in Canada to reflect food availability, brand names, nutrient composition, and food fortification [
+17
+,
+18
+]. The CDHQ-I food list has been shown to be representative of the foods commonly consumed by Canadian adults [
+17
+]. Responses to the CDHQ-I were analyzed using Diet*Calc (version 1.4.3, National Cancer Institute, Bethesda, MD, USA) with a nutrient database modified for the CDHQ-I, resulting in daily intake data for foods, food groups, energy, 66 nutrients, and supplements. The intakes were categorized into low, moderate, and high intake tertiles. The tertile cut-off values for vegetables and fruit and whole grains approximated established gender-specific dietary recommendations [
+19
+,
+20
+,
+21
+] and those for red and processed meat approximated the recommendations by the 2015 Global Burden Disease (GBD) [
+22
+] and WCRF/AICR [
+1
+].
+Data analyses controlled for known confounders [
+12
+,
+23
+,
+24
+], including gender (men vs. women), smoking status (current smoker, former smoker, and never smoked based on the number of cigarettes smoked occasionally and daily for the past 30 days), alcohol use (number of drinks per day), first degree family (father, mother, and siblings) history of cancer (yes/no self-reported physician diagnosis), and personal history of chronic disease (yes/no self-reported physician diagnosis). Rural or urban residence at the time of enrollment was determined by postal reported weight divided by self-reported height squared and weight status categories (normal weight, overweight, and obese) were defined according to the WHO and Health Canada guidelines as BMI <25 code. Body Mass Index (BMI) was derived as self- ≥25 and ≥30 kg/m
+2
+, respectively. Underweight participants (0.7%) with BMI <18.5 kg/m
+2
+were collapsed with the normal weight category to maximize sample size. Moderate and vigorous intensity recreational physical activity over the past year was assessed using a validated Past Year Total Physical Activity Questionnaire (PYTPAQ) [
+25
+]. Total minutes per week performing leisure activities at moderate (3–6 metabolic equivalent of tasks (METs)) and vigorous (>6 METs) intensities were calculated based on reported activities. Participants reported the highest level of education completed and the range of total gross household income. Analyses also adjusted for total energy intake (kcal per day) as recommended for analyses of FFQ data [
+26
+].
+3. Data Analyses
+Of 26,788 participants that completed the CDHQ-I, we excluded those who were recruited as “second in household” (
+n
+= 342), reported having a history of cancer prior to enrollment (
+n
+= 71), and did not give consent for linkage to the Alberta Cancer Registry (
+n
+= 180), resulting in 26,218 participants available for analysis (
+n
+= 23 met multiple exclusion criteria). To assess the effect of co-consumption of red and processed meat with varying levels of vegetables and fruit, whole grains, and fiber on the likelihood of developing cancer, we fitted competing risk Cox Proportional Hazard (PH) models to estimate the hazard ratios (HR) and 95% confidence intervals (95% CI) of cancer incidence for different combinations of low, moderate, and high intakes of dietary factors, using all-cause mortality as a competing risk [
+27
+,
+28
+,
+29
+]. The PH assumption was verified using a time interaction model and a modified Schoenfeld residual test. To account for the possibility that older participants had healthier diets at baseline and that analyses using Cox PH models may underestimate the effect of diet on cancer risk [
+30
+,
+31
+], we considered the survival times to be left-truncated at the age of enrollment. We also fitted Accelerated Failure Time (AFT) models to estimate the impact of a given combination of dietary factors on the median age of cancer occurrence [
+32
+]. The AFT is a powerful parametric method that can accommodate the non-PH assumption while taking into account differences in the age at enrollment. The AFT models’ goodness of fit was premised on the lognormal distribution of the error term and was evaluated using the Cox-Snell residuals plots, Q-Q plots, and AIC values [
+33
+,
+34
+,
+35
+].
+All Cox PH models were adjusted for total energy intake, family history of cancer, personal history of chronic disease, rural/urban residence, smoking status, alcohol use, BMI, physical activity, and education. The AFT models were further adjusted for age at enrollment. The models were fitted separately for all-cause cancers and 15 cancers that have been linked to red and processed meat intake. Further, all analyses were stratified by gender since not all cancers affect both males and females (e.g., prostate cancer and ovarian cancer). To illustrate the synergistic role of different combinations of dietary factors, we adopted a novel post-estimation approach to present results as a matrix of nine
+pairwise
+linear combinations of coefficients for low, moderate, and high intakes, using the group with the healthiest diet as a reference (i.e., high intake of non-starchy vegetables and fruit, whole grains, or fiber with low intake of red meat or processed meat) [
+36
+].
+Sensitivity analyses included models that additionally adjusted for total fat intake, dairy food or calcium intake, plant food or folate intake, and sodium, which have been shown to have protective effects in cancer etiology [
+12
+]. Sensitivity analyses also included models that (a) censored observations following diagnoses of other cancers (i.e., other than 15 cancers) [
+37
+], (b) excluded participants with extreme or unrealistic energy intakes (i.e., <500 and >5000 kcal per day) [
+26
+], (c) excluded participants diagnosed with any type of cancer in the first 2 years of follow-up as recommended for analyses of cancer cohort data [
+38
+,
+39
+], and (d) adjusted models with fiber intake for non-starchy vegetables and fruit. Finally, all models were repeated using gender-specific tertiles of dietary intakes without regard for established recommendations (
+Supplementary Tables S1 and S2
+). Since results remained robust in all sensitivity analyses, we present results from the most parsimonious models. Analyses were performed using SAS 9.4 and R 3.4.2, packages of cmprsk and survival.
+4. Results
+Participants were on average 50.4 (±9.2) years old, 59.9% were women, and 76.5% lived in urban areas (). Over half (52.5%) reported family history of cancer, almost half (46.8%) reported personal history of at least one chronic disease, 55.1% were either current or former smokers, and 65.7% were overweight and obese. Participants reported a wide range of household income and educational attainment, with nearly three-quarters (72.1%) having completed some postsecondary education. In terms of cancer incidence, 9.7% were diagnosed with cancer during follow-up, including 8.4% of 15 cancers, 1.5% of GI cancers, and 1.0% of CRC.
+Table 1.
+Baseline characteristics of Alberta’s Tomorrow Project participants by gender (
+n
+= 26,218).
+Men with low intake of vegetables and fruit combined with high intake of processed meat were 1.9 times as likely to develop cancer and 1.8 times as likely to develop one of 15 cancers during follow-up, compared to men with high intake of vegetables and fruit combined with low intake of processed meat (). The corresponding risk for women was 1.4 for all-cause cancers and 1.5 for 15 cancers (). Adherence to a diet high in vegetables and fruit and low in processed meat was associated with younger median age of all-cause cancers and 15 cancers for men by approximately 6.5 and 7.1 years (: 77.5 vs. 71.0 and 80.4 vs. 73.3), respectively. These differences in the estimated median age for women were 5.6 years for all-cause cancers and 6.3 years for 15 cancers (: 76.8 vs. 71.2 and 79.3 vs. 72.9).
+Table 2.
+Estimated hazard ratios
+a
+and confidence intervals for all-cause and 15 cancer incidence for different combinations of intake levels of red and processed meat with vegetables and fruit, whole grains, and fiber among men, Alberta’s Tomorrow Project (
+n
+= 9825).
+Table 3.
+Estimated hazard ratios
+a
+and confidence intervals for all-cause and 15 cancer incidence for different combinations of intake levels of red and processed meat with vegetables and fruit, whole grains, and fiber among women, Alberta’s Tomorrow Project (
+n
+= 16,393).
+Table 4.
+Estimated median ages
+a
+and confidence intervals for all-cause and 15 cancer incidence for different combinations of intake levels of red and processed meat with vegetables and fruit, whole grains, and fiber among men, Alberta’s Tomorrow Project (
+n
+= 9825).
+Table 5.
+Estimated median ages
+a
+and 95% confidence intervals for all-cause and 15 cancer incidence for different combinations of intake levels of red and processed meat with vegetables and fruit, whole grains, and fiber among women, Alberta’s Tomorrow Project (
+n
+= 9825).
+Slightly weaker modification of cancer risk and time-to-cancer occurrence associated with processed meat intake was observed for fiber and whole grains. Weaker and less consistent modification of cancer incidence and time-to-cancer occurrence was observed for co-consumption of red meat with healthful dietary factors.
+5. Discussion
+In this prospective cohort study of a general provincial sample of Canadian adults, we examined the co-consumption of adverse intakes of red and processed meat, non-starchy vegetables and fruit, whole grains, and fiber, and its impact on cancer risk and time-to-cancer occurrence. Overall, low intake of vegetables and fruit was associated with higher incidence of all-cause and 15 cancers and accelerated time-to-cancer occurrence at any level of processed meat intake among both men and women. Results demonstrate that the carcinogenic effect of processed meat may be mitigated by following a healthy diet rich in non-starchy vegetables and fruit, particularly at low and moderate levels of processed meat intake. The consumption of these food items and food constituents varied between men and women, with men having substantially higher intakes of meat (both red and processed) and lower intakes of healthful food items and food constituents (vegetables and fruit, whole grains, and fiber). Men with adverse intakes of processed meat, vegetables and fruit, whole grains, and fiber were almost twice as likely to develop all-cause and 15 cancers compared to men with the healthiest intakes of these food items and food constituents, and cancer occurred 7 years earlier. Although the findings for red meat did not attain significance, they demonstrated a similar pattern.
+Red meat serves as an important source of protein in Western diets and contains micronutrients (iron, selenium, zinc, omega-3 fatty acids, and vitamins B6, B12, A, D, and folic acid) and other bioactive components (e.g., taurine, creatine, carnosine, and glutathione) that are essential for human health [
+40
+]. Although earlier studies reported lower incidence of cancer for vegetarians compared to meat eaters [
+41
+], later studies demonstrated that low levels of meat consumption do not confer increased cancer risk [
+42
+,
+43
+], highlighting the importance of consuming meat as part of a varied and balanced diet. However, meat consumption in many North American and Western countries is very high [
+44
+] and well above the current WCRF/AICR recommendations [
+1
+]. For example, nationally representative data from the 2013–2014 and 2015–2016 National Health and Nutrition Examination Survey (NHANES) show that consumption of red meat among the US adults aged 20 years and older was, on average, 1.47 (SD = 0.43) servings per
+day
+compared to the optimal intake of 1.0 (SD = 0.1) serving per
+week
+recommended by WCRF/AICR, whereas consumption of processed meat was, on average, 0.87 (SD = 0.39) servings per day compared to no intake recommended by WCRF/AICR [
+45
+]. Similarly, Canada has one of the highest per capita meat consumption in the world at levels that are well above the WCRF/AICR recommendations [
+44
+] and 96% of Canadians consume meat as part of their diets [
+46
+]. Globally, the average per capita meat consumption has almost doubled from about 23 kg in 1961 to 43 kg in 2014, with consumption in high-income countries either static or declining [
+47
+,
+48
+]. Indeed, unprocessed red meat consumption in the US declined between 1999 and 2016, while consumption of processed red meat remained the same [
+49
+]. Similarly, the CCHS 24-h dietary recall data from 2004 to 2015 revealed that the intake of processed meat remained the same in all age groups [
+50
+]. The high intakes of meat, and processed meat in particular, may underlie the increasing trends in obesity-related cancers (notably, CRC, pancreas, endometrium, kidney, liver, prostate, thyroid, and ureter) in the past few decades, with increasing incidence observed in younger generations and age groups [
+51
+,
+52
+,
+53
+].
+We observed strong associations for processed meat, however, the findings for red meat did not attain significance. This seems consistent with the existing evidence. Based on the strength of the epidemiological evidence, international expert reviews
+convincingly
+implicate processed meat consumption in cancer incidence, particularly diet- and hormone-related, while the role of red meat intake in carcinogenesis is graded as
+probable
+[
+1
+,
+6
+,
+11
+]. Indeed, published studies find stronger evidence for processed meat (CRC and stomach) vs. unprocessed red meat (CRC, pancreatic, and prostate) [
+43
+,
+54
+,
+55
+,
+56
+,
+57
+], and in North American vs. European studies [
+6
+,
+23
+,
+24
+], with the strongest evidence for CRC [
+58
+]. The evidence comes predominantly from case-control studies which are prone to recall bias (arising from retrospective collection of dietary exposures after the diagnosis) and selection bias (arising from inappropriate selection of controls), while the methodologically stronger prospective cohort studies in the general population are less consistent [
+6
+,
+59
+]. Although significant, the magnitude of risk associated with red and processed meat intake is generally weak (less than 20–30%). For example, meta-analyses estimate that the risk of CRC increases 12% for every 100 g of daily red meat intake and 17% for every 50 g of daily processed meat intake [
+24
+,
+60
+]. It has been suggested that the weak associations between red and processed meat consumption and cancer risk observed in prior studies may be confounded by other dietary factors [
+61
+,
+62
+,
+63
+], however, a few studies have considered the impact of co-consumption of dietary factors on cancer risk.
+Nutritional epidemiology has traditionally focused on isolating the effect of a single food or nutrient on cancer risk. Yet, dietary factors are usually interrelated, and individuals consuming higher intakes of red and processed meat may also consume less fiber, vegetables, and fruit. Conversely, consumption of red or processed meat in combination with other foods rich in fiber, antioxidants, phytochemicals, calcium, and other nutrients, found in vegetables and fruit, whole grains, and pulses, may mitigate the carcinogenic effects of meat consumption [
+12
+]. Previous studies have adopted the dietary pattern approach, which considers the potential interaction between different dietary exposures. Several Canadian studies demonstrated that the Western dietary pattern (characterized by higher intakes of red and processed meat, highly processed and refined foods, salt, and sugar) is associated with higher cancer occurrence, recurrence, and mortality, compared to the “prudent” plant-based pattern [
+64
+,
+65
+,
+66
+]. However, the patterns are empirically derived using principal component factor analysis (PCFA) and therefore cannot delineate the effects of specific food items or food constituents recommended for cancer prevention as part of a healthy diet (e.g., red and processed meat, vegetables and fruit, and fiber) or be generalizable to other populations. In this study, we take a novel approach to consider the impact of co-consumption of adverse intakes of red and processed meat, vegetables and fruit, whole grains, and fiber on cancer risk. Our findings demonstrate that consumption of foods rich in fiber, antioxidants, phytochemicals, calcium, and other nutrients, found in vegetables and fruit, whole grains, and pulses, may have the potential to mitigate the carcinogenic effects of red and processed meat, particularly at lower and moderate—but not at higher—levels of meat intake. As the steepest increases in the risk of colorectal adenomas were reported at the lower levels of red and processed meat intake [
+23
+], these findings are pertinent to optimizing cancer prevention recommendations.
+Although the substantial risk (OR = 2.0) for diet-related cancers (CRC, stomach, esophageal, and pancreatic) associated with low vegetables and fruit intake reported by early case-control studies was weaker in prospective cohort studies, the evidence continues to support a role of vegetables and fruit in carcinogenesis [
+60
+,
+67
+]. The protective effects of dietary fiber and whole grains are well established [
+68
+], explained by an increase in fecal bulk and decrease in intestinal transit time, thereby diluting carcinogens and reducing their absorption [
+69
+]. The associations between the intake of whole grains and cancer risk were less consistent in a systematic review of 20 longitudinal studies, with 6 studies reporting 6–47% reduction in cancer risk (CRC, upper digestive tract, renal, and head and neck cancers), while most studies (14 of 20) reported a null association between whole grains and cancer [
+69
+]. Our results for vegetables and fruit, whole grains, and fiber seem consistent with this evidence. While the associations of isolated dietary factors with cancer risk are valuable, previous studies did not examine the cumulative effect of several dietary factors recommended for cancer prevention simultaneously. As food items and food constituents are not consumed in isolation, research demonstrating the concurrent associations of co-consumption of adverse intakes of red and processed meat, vegetables and fruit, whole grains, and fiber with cancer risk is particularly pertinent. Our study makes a novel contribution to the literature by demonstrating a substantially higher risk associated with co-consumption of multiple adverse intakes of dietary food items and food constituents recommended for cancer prevention, likely suggesting that the carcinogenic effect may be cumulative.
+We observed differences in the observed associations between men and women. According to the 2004 Canadian Community Health Survey (CCHS) based on the 24-h dietary recall from a nationally representative sample of 35,107 Canadians, men and women aged 19 years and older consumed, on average, 702 and 386 g per week of red meat (both unprocessed and processed), of which 193 and 106 g per week, respectively, is processed [
+70
+]. In addition, considerably more Canadian men than women (25% vs. 14%) consume 500 or more grams of red and processed meat weekly [
+71
+]. Although a few studies reported sex patterning in the associations of red and processed meat consumption with cancer risk [
+67
+], the incidence and population attributable fractions of diet-related cancers are higher among men than women [
+45
+]. Our findings demonstrate that men are at a greater risk of all-cause and 15 cancers compared to women, and cancer occurs earlier in men than in women.
+The large sample of the general adult population of Alberta with a diverse range of demographic and behavioral characteristics, the nearly complete linkage with administrative databases, and little missing data due to rigorous quality control measures are major strengths. Several limitations warrant consideration. Dietary intake data were collected through self-report FFQ, which are prone to measurement error and may not accurately capture the absolute level of food intake. However, FFQ is the most commonly used and feasible method of dietary assessment in cohort studies of cancer risk [
+72
+,
+73
+]. We adjusted for total energy intake to take into account the absolute level of food intake [
+26
+]. Dietary intake reported at enrollment may not be a reliable estimation of habitual diet over the course of follow-up. However, prior cohort studies suggest that dietary habits remain relatively stable during adulthood [
+74
+,
+75
+]. Data on important confounders (smoking and alcohol use) were collected through self-report and residual confounding may persist despite adjustment. However, the validity of self-report smoking is consistently high in population-based studies [
+76
+]. Another limitation is related to the ascertainment of incident cases in administrative data that can be affected by delays along the cancer diagnostic pathway, including patient (e.g., poor recognition of early symptoms), doctor (e.g., the lack of recognition, investigation, and referral for suspicious symptoms), and system (e.g., delays in initiating treatment) factors [
+77
+]. Lastly, the small number of incident cases precluded assessment of the associations separately for CRC and gastrointestinal cancers.
+Researchers have only recently begun to examine the presence of interactions between different food items and their relation to cancer risk [
+78
+]. The recommendation to limit the intake of red meat and avoid processed meat has high relevance for public health, given high levels of meat consumption in Western countries [
+44
+] and the high cancer burden attributable to red and processed meat consumption in Canada [
+79
+]. The results from this study provide new knowledge about the potential synergies of dietary intakes of red and processed meat, vegetables and fruit, whole grains, and fiber for the development of cancer risk and time-to-cancer occurrence. Results underscore the benefits of non-starchy vegetables and fruit on mitigating cancer risk and decelerating time-to-cancer occurrence. The findings inform existing recommendations to optimize the intake and combination of foods in the general adult population and provide direction for future prevention efforts to focus on promoting the intake of non-starchy vegetables and fruit when consuming meat.

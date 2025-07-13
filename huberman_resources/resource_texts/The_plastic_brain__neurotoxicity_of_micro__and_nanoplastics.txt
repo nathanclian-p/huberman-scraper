@@ -1,0 +1,601 @@
+Over the years, the environment has been contaminated with millions of tons of plastic. There are numerous different types of plastics, which are often produced for single use. The most predominant plastics are polyethylene, polypropylene, polystyrene, poly-vinyl-chloride, polyamide and polyethylene terephthalate (better known as PET). In recent years, the annual production of plastic has increased from 250 million tons in 2009 [
+1
+] to 299 million tons in 2013 [
+2
+] and 335 million tons in 2016 [
+1
+]. Approximately 10% of all annually produced plastic ends up as debris in the marine environment [
+3
+]. It is estimated that over 5 trillion pieces of plastic, ranging in size from nanoplastics to bulk plastics and weighing over 250.000 tons, are afloat at sea alone, even excluding the amount of plastic debris in fresh surface water, on terrestrial areas and on the ocean floor [
+4
+].
+While plastics are very persistent, marine bulk plastics such as packaging, fishing nets and car tires are subject to fragmentation through photodegradation and erosion by wave action, contact with animals, abrasion with sand and by the water itself [
+4
+,
+5
+]. Breakdown of these fragments contributes to the continuously increasing amount of so-called secondary microplastics (defined as particles with a diameter 0.1 μm to 5 mm) and secondary nanoplastics (defined as particles with a diameter below 100 nm). Primary micro- and nanoplastics are deliberately produced in ultra-small sizes to serve as components in cosmetics, paints, personal care products or fabrics [
+1
+,
+5
+,
+6
+].
+Micro- and nanoplastics are found in all aquatic ecosystems [
+7
+,
+8
+,
+9
+], although it is still debated exactly how hazardous these materials are. Besides the potential adverse effects induced by the physical presence of micro- and nanoplastics, they can act as carrier for various (chemical) contaminants, including metals, persistent organic pollutants (POP), antibiotics and (pathogenic) micro-organisms [
+10
+,
+11
+,
+12
+,
+13
+,
+14
+].
+In the aquatic food chain, bioaccumulation of micro- and nanoplastics occurs after ingestions by aquatic organisms, including fish and marine mammals, and subsequent transfer of engulfed particles through trophic levels [
+15
+,
+16
+]. For nanoparticles, uptake via the gills provides an additional exposure route [
+17
+,
+18
+]. Micro- and nanoplastics can transfer from the digestive tract and/or gills into the circulatory system [
+1
+,
+18
+], although the exact translocation mechanisms (e.g. paracellular translocation through the tight junctions of the gut wall epithelium or transcellular via endocytosis, phagocytosis or micropinocytosis) are yet unclear. The presence of small plastic particles has subsequently been observed in organs and tissues of zooplankton [
+19
+], mussels [
+20
+], crustaceans [
+21
+] and fish [
+17
+], including the brain of fish [
+22
+], although the reported uptake is usually at low levels in aquatic species (30–50 particles in zooplankton and mussels, respectively [
+19
+,
+20
+]).
+Humans are exposed to micro- and nanoplastics via consumption of contaminated (marine) animals and other food and consumer products such as toothpaste, beer, honey, salt and sugar [
+14
+,
+23
+,
+24
+,
+25
+]. Additional human oral exposure results from drinking water and from mineral water bottled in plastics and cartons [
+26
+,
+27
+]. Additional inhalation exposure results from micro- and nanoplastics released from textiles, synthetic rubber tires and plastic covers [
+14
+,
+18
+,
+24
+,
+25
+,
+28
+].
+Uptake of micro- and nanoplastics (≤0.3 μm) and subsequent translocation to the liver, spleen and lymphatic systems of rodents has been reported decades ago [
+29
+], albeit at low levels [
+30
+]. Similarly, in humans, micro-sized plastic fibers have been detected in lung tissue, indicating possible translocation of micro- and nanoplastics into the human body via particle inhalation [
+31
+]. Additionally, limited gastrointestinal uptake of biodegradable polymeric microparticles has been reported [
+32
+]. Although these combined studies highlight the possibility of uptake and translocation of micro- and nanoplastics into the human body following oral and inhalation exposure [
+33
+], there is an overall scarcity of studies that conscientiously and systematically investigated the extent of particle translocation to different organs in relation to particle dose and particle size. Moreover, the potential health risks resulting from micro- and nanoplastics exposure, uptake and translocation is poorly investigated and is an important matter of ongoing debate [
+14
+,
+18
+,
+34
+,
+35
+,
+36
+].
+Main text
+Neurotoxicity of chemically inert metal(oxide) nanoparticles
+In contrast to micro- and nanoplastics, metal(oxide) nanoparticles have been relatively well studied. Metal(oxide) nanoparticles are extensively used in food production, cosmetics, personal care products and as biomedical therapeutic agents for drug delivery and gene therapy [
+37
+,
+38
+,
+39
+].
+Earlier studies identified the (central) nervous system as an important target for the toxic effects of metal and metal-oxide nanoparticles [
+39
+,
+40
+,
+41
+]. Metal and metal-oxide nanoparticles can enter the brain by crossing the blood-brain-barrier (BBB) or can surpass this barrier via retrograde transport through olfactory nerve endings [
+38
+,
+42
+,
+43
+,
+44
+].
+The numerous types of metal and metal-oxide nanoparticles differ in their physicochemical properties, and some of these compounds resemble the characteristics of plastic particles. Some metal nanoparticles are quite reactive and know for the ability to induce oxidative stress and subsequent damage, like iron oxide [
+45
+,
+46
+], silver [
+47
+,
+48
+] or copper oxide [
+49
+,
+50
+]. However, gold (Au) and titanium dioxide (TiO
+2
+) nanoparticles approach the definition of chemically inert, which is an important characteristic for comparison of metal and metal-oxide nanoparticles to plastic micro- and nanoparticles [
+23
+,
+28
+,
+51
+].
+Au-nanoparticles have been shown to translocate to brain tissue of zebrafish and adult rats, where they can induce oxidative stress, alterations of energy/mitochondrial metabolism and acetylcholinesterase (AChE) activity, and neurobehavioral effects [
+52
+,
+53
+,
+54
+]. Similarly, the more extensively investigated TiO
+2
+-nanoparticles also translocate to the brains of fish, where they can induce alterations in oxidative damage and cell death, neurotransmitter levels, locomotor behavior and spatial recognition memory [
+55
+,
+56
+,
+57
+,
+58
+]. In rodents, oral, intranasal or intratracheal exposure to TiO
+2
+-nanoparticles (size range 5–100 nm) resulted in oxidative stress and neuroinflammation [
+59
+,
+60
+], dysregulation of the glutamatergic signaling and alterations in neurotransmitter levels [
+59
+,
+61
+,
+62
+], changes in AChE activity [
+60
+,
+61
+], impaired motor function [
+63
+], reduction of long-term potentiation, and impairment of learning and memory [
+61
+,
+64
+]. Additional in vitro studies confirmed the ability of TiO
+2
+-nanoparticles to induce oxidative stress and neuroinflammation [
+65
+,
+66
+,
+67
+,
+68
+]. See supplementary Tables
+1
+and
+2
+for details on exposure route and dose, particle size and type, and for an overview of additional studies on the neurotoxicity of Au- and TiO
+2
+-nanoparticles.
+While some of the effects of Au-and TiO
+2
+-nanoparticles were observed only following exposure to high levels and/or artificial exposure route (e.g. injection), Au-and TiO2-nanoparticles can reach the brain and exert a wide range of neurotoxic effects. The extent to which these effects are also applicable to micro- and nanoplastics is however largely unknown. Given the abundance of micro- and nanoplastics and the clear neurotoxic effects of similarly sized, chemically inert Au-and TiO
+2
+-nanoparticles, this review examines the neurotoxic potential of micro- and nanoplastics.
+Literature search
+To review the neurotoxic potential of plastic micro- and nanoparticles, a literature search was conducted to cover articles in Pubmed up to December 1, 2019 using the following combinations of search words: Neurotox* AND Microplastic* (17 hits); Neurotox* AND Nanoplastic* (4 hits); Neurotox* AND plastic particles (15 hits). In total twenty-eight papers were selected. Three additional papers were found via the bibliography of other papers. A paper was not included when the research concerned a review or when the experimental design did not include neurotoxic endpoints.
+Fish and Mollusca were the most frequently researched organism groups, seventeen and six times respectively. Two studies performed research on crustaceans, two on nematodes and two on rodents, while three studies used in vitro cell cultures with various mouse and human derived neuronal cells. Sixteen studies used polystyrene plastic particles, nine studies used polyethylene particles, two studies used both polystyrene and polyethylene particles, whereas four studies used microplastics of undefined polymeric substance. Of these thirty-one studies, three studies used modified plastic particles (amino-modified, carboxylated, PEGylated). Fourteen studies investigated the (neuro) toxicity of micro or nanoplastics co-exposed with other substances; pyrene (3 times), mercury (2 times), 17-α-ethinylestradiol (EE2), Bisphenol-A (BPA), cadmium, carbamazepine, Cefalexin, chromium, Florfenicol, gold nanoparticles, Roxithromycin (ROX).
+Neurotoxic effects of micro- and nanoplastics in (marine) invertebrates
+Several studies investigated the (neurotoxic) effects of polystyrene and polyethylene micro- and nanoplastics in invertebrates such as nematodes, bivalves and crustaceans, either in the presence or absence of co-exposure to other compounds. Exposure of the nematode
+Caenorhabditis elegans
+to five different sizes of spherical polystyrene microplastics (0.1 to 5 μm) via the culture medium (1 mg/L) resulted in excitatory toxicity on locomotor behavior, reduced survival rate and reduced average lifespan, particularly following exposure to 1.0 μm polystyrene particles. Furthermore, expression of various neuronal genes was down-regulated, which coincided with impairment of cholinergic and GABAergic neurons and oxidative stress. Unfortunately, there was no proof provided of actual uptake of the spherical polystyrene microplastics by
+C. elegans
+[
+69
+].
+Exposure of earthworms (
+Eisenia fetida
+) for up to 28 days to artificial soil with low-density polyethylene particles (100–200 μm; 0.1–1.5 g/kg soil) resulted in skin damage following exposure to 1.5 g/kg soil. Particle ingestion (following 14–28 days exposure to 1.5 g/kg soil) was confirmed by extraction and counting of polyethylene particles, although the distribution of the particles within the earthworms is unknown. Exposure for 28 days to polyethylene particles at 1.0 g/kg soil, but not at 1.5 g/kg soil, resulted in increased catalase activity and malondialdehyde levels, suggesting the animals showed signs of oxidative stress. Additionally, exposure to 1.0 g/kg and 1.5 g/kg soil for respectively 21 and 28 days, increased AChE activity [
+70
+].
+Exposure of freshwater zebra mussel (
+Dreissena polymorpha
+) to a mixture of two different sizes (1 μm and 10 μm) of virgin polystyrene microbeads at 1 and 4 × 10
+6
+MPs/L for 6 days resulted in concentration of the particles in the gut lumen and subsequent transfer into tissues and hemolymph, as shown using confocal microscopy. The polystyrene microbead mixtures did not induce genotoxicity. Although both mixtures increased dopamine levels, exposure did not change the levels of serotonin and glutamate or the activity of monoamine oxidase and AChE. The low dose mixture was able to increase catalase activity and to decrease glutathione peroxidase, suggestive for (modest) cellular stress [
+71
+].
+In bivalves of the species
+Scrobicularia plana
+, exposure to polystyrene microplastics (20 μm, 1 mg/L) resulted in the presence of particles in the hemolymph, the gills and digestive gland, as detected by optical microscopy and by infrared spectroscopy. In the gills, from 7 days exposure onwards, polystyrene microplastics induced a consistent increase in superoxide dismutase (SOD) activity as well as an increase in glutathione-S-transferase (GST) activity at the end of the exposure period, suggestive of oxidative stress. At 3–14 days of exposure as well as following depuration, AChE and lipid peroxidation (LPO) activity in the gills was also decreased. In the digestive gland from day 14 onwards, SOD activity was increased, whereas catalase activity decreased [
+72
+].
+Exposure of Mediterranean mussel (
+Myetilus galloprovincialis
+) to polystyrene microplastics (0.11 μm, 0.005–50 mg/L) for 96 h resulted in significant alterations in expression of genes associated with biotransformation, cell-stress-response and innate immunity in the gills (
+hsp70
+, at 50 mg/L) and digestive gland (
+cyp11
+, at 0.5 mg/L;
+cyp32
+, at 5 mg/L;
+cat
+, at 0.05 and 0.5 mg/L;
+lys
+, at 5 mg/L). While these changes do not show a clear dose-dependence, mean value of DNA damage score was increased following exposure to 0.05-50 mg/L. Cholinesterase activity in hemolymph was decreased at 0.05–0.5 mg/L, but no other signs of neurotoxicity were observed. Unfortunately, there was no proof provided of actual uptake of the polystyrene microplastics [
+73
+].
+Exposure of Mediterranean mussels (
+Myetilus galloprovincialis
+) to virgin and pyrene-contaminated polyethylene and polystyrene microplastics (100 μm, 1.5 g/L) for 7 days resulted in the presence of plastic particles in hemolymph, gills and gut, as detected by polarized light microscopy. Polyethylene and polystyrene microplastics induced nuclear alterations and DNA damage in addition to a reduction of AChE activity in the gills, but not the hemolymph, of the clams. The inhibition of AChE activity was not exacerbated by contamination with pyrene [
+74
+].
+Exposure of Asian freshwater clams (
+Corbicula fluminea
+) for 96 h to Red Fluorescent Polymer Microspheres (undisclosed composition; 1–5 μm, 0.2 or 0.7 mg/L) resulted in the presence of plastic particles in the gut, digestive gland lumen, connective tissue, hemolymphatic sinuses, and gills surface as detected by both light and fluorescence microscopy. Exposure to 0.2 but not to 0.7 mg/L polymer microspheres significantly inhibited cholinesterase activity, which was further exacerbated by co-exposure to florfenicol [
+75
+]. In a comparable study, Asian freshwater clams were exposed for 8 days to Red Fluorescent Polymer Microspheres (1–5 μm, 0.13 mg/L), resulting in particle presence in the digestive tract and gills. Exposure to the polymer microspheres reduced cholinesterase activity and increased LPO levels suggestive for oxidative damage. These effects were only partly reversible following six days of recovery. Surprisingly, the observed effects were alleviated by co-exposure to mercury [
+76
+].
+Exposure of larvae of the Striped barnacle (
+Amphibalanu ampitrite
+) and Brine shrimp (
+Artemia fransiscana)
+to 0.1 μm fluorescent polystyrene microparticles (0.001–10 mg/L) for 24 and 48 h resulted in the presence of plastic particles in the gut, as detected by fluorescence microscopy. It is however unclear if the particles were able to reach the surrounding tissues. Microplastic exposure (≥1 mg/L) for 48 h induced alterations in the swimming speed. Moreover, microplastic exposure resulted in miscellaneous effects on enzyme activity. Catalase activity was mainly increased, in particular at the high dose (1 mg/L), whereas effects on cholinesterase (acetylcholinesterase and propionylcholinesterase) appeared more random without a clear dose-dependency [
+77
+].
+Exposure of larvae of the Brine shrimp (
+Artemia fransiscana)
+to amino-modified polystyrene nanoparticles (50 nm, 0.1–10 μg/mL) for 48 h or 14 days resulted in decreased GST and catalase activity, suggestive for oxidative stress, as well as carboxylesterase and ChE inhibition at 1 μg/mL. Unfortunately, there was no proof of actual uptake of the polystyrene nanoplastics [
+78
+].
+Neurotoxic effects of micro- and nanoplastics in fish
+Several articles reported on the neurotoxicity of polystyrene and polyethylene micro- and nanoplastics in fish in the absence of co-exposure to other compounds. Exposure of adult Japanese rice fish (
+Oryzias latipes
+) to fluorescent polystyrene nanoplastics (40 nm, 10 mg/L) for 7 days showed the presence of particles primarily in the gills and intestine but also in testis, liver, and blood, as detected by fluorescence microscopy. Notably, particles were also detected in the brain, indicating that nanoplastics have the innate capacity to cross the BBB. While particle concentrations were determined in blood, amounting to 16.5 and 10.5 ng/mg blood protein for respectively males and females, particle concentrations have unfortunately not been determined in brain (or other tissues) [
+79
+].
+Furthermore, presence of fluorescent polystyrene particles (0.1 μm, 1–100 μg/L) was observed using fluorescence spectrophotometry in lyophilized gut, gills, liver and brain tissue of adult tilapia fish (
+Oreochromis niloticus
+) following 1–14 days of exposure. The presence of polystyrene microparticles was paralleled by an inhibition of AChE activity as well as by induction of SOD [
+80
+].
+Exposure of Crucian carp (
+Carassius carassius
+) to amino-modified polystyrene micro- and nanoparticles (53 nm and 180 nm, 100 mg/L), via trophic transfer in the aquatic food chain for 64 days, resulted in the presence of polystyrene particles in the fish brain as detected using hyperspectral microscopy. Nanoparticles had a higher presence in the brain than the microparticles. The presence of polystyrene micro- and nanoparticles in the brain coincided with alterations in behavioral patterns, decreased brain mass and morphological changes in the cerebral gyri, which was most profound for the nanoparticles [
+22
+].
+In contrast, juvenile surgeonfish (
+Acanthurus triostegus
+) exposed to polystyrene microplastics (90 μm, 5 × 10
+3
+particles/L (~ 0.81 mg/L)) for up to 8 days did not show alterations in (foraging) behavior, body weight or susceptibility to predation, although ingestion was confirmed using microscopy analysis [
+81
+]. However, animal species, exposure duration, particle number and particle size as are all very different between these studies, so it remains to be elucidated which factor(s) determine the neurotoxic hazard.
+Comparable contradictions are observed following exposure to polyethylene microplastics. Following exposure of zebrafish larvae (
+Danio rerio
+) to low-density polyethylene microplastics (10 μm, 5–500 μg/L, for 10–20 days), particle presence was observed using bright-field microscopy only in the intestine, but not in the brain. The exposure however had minimal effects on growth or gene expression, including the gene for AChE [
+82
+]. Another study using adult zebrafish showed that exposure to high-density, fluorescent polyethylene microplastics (size range 10–22 μm up to 500–600 μm; 11–1100 particles/L) resulted in particle ingestion and presence in gills and intestine as shown using fluorescence microscopy. Importantly, exposure (≥110 particles/L) resulted in changes in locomotory behavior and even induced seizures (1100 particles/L) [
+83
+].
+Exposure of discus fish (
+Symphysodon aequifasciatus)
+for up to 30 days to fluorescent polyethylene microplastics (70–88 μm, 200 μg/L) also showed particle presence in the body, although the exact location is unknown as particle detection was performed using fluorescence spectrometer recordings following lyophilization of the exposed fish. Particle exposure coincided with reduced activity of AChE and changes in some digestive enzymes. Notably, the particle concentration was higher in fish exposed at 31 °C compared to fish exposed at 28 °C, although the difference in exposure temperature did not affect AChE inhibition [
+84
+].
+Other studies investigated the effects of exposure to micro- and nanoplastics in the presence of other (environmental) toxicants. Exposure of zebrafish larvae to polystyrene nano- and microplastics (47 nm and 41 μm, 1 mg/L) for 5 days, in the presence or absence of 17-α-ethynylestradiol (2 and 20 μg/L), resulted in particle presence in the body, although the exact location is unknown as particle detection was performed using fluorescence recordings following lyophilization of the exposed fish. Fish co-exposed to a high concentration of 17-α-ethynylestradiol showed less particle presence. Exposure to microplastics alone did not evoke major effects, although exposure to nanoplastics alone reduced body length and inhibited locomotion and AChE activity. Co-exposure to 17-α-ethynylestradiol did not exacerbate the effects of micro- and nanoplastics, rather plastics alleviated the effects of 17-α-ethynylestradiol, likely by decreasing the concentration of freely dissolved 17-α-ethynylestradiol [
+85
+].
+In adult zebrafish exposed to fluorescent polystyrene nanoplastics (50 nm, 1 mg/L) for 1–3 days, plastic particles were observed in the brain, gills and muscle using fluorescence spectrometer measurements of lyophilized tissues. Co-exposure to polystyrene nanoplastics with Bisphenol A (BPA, 1 μg/L) increased the concentration of BPA in the brain compared to BPA alone, confirming that micro- and nanoplastics can act as carrier for BPA. Exposure to BPA alone or polystyrene nanoparticles alone led to inhibition of AChE, whereas the inhibition of AChE was attenuated following co-exposure to nanoparticles with BPA. In contrast, Bisphenol A (BPA, 1 μg/L) alone or polystyrene nanoparticles alone did not affect dopamine levels, whereas co-exposure resulted in a ~ 2-fold increase in dopamine levels on the first day of exposure only [
+86
+].
+In juvenile barramundi fish, no changes in movement and predatory behavior were observed after exposure to polystyrene microplastics (97 μm, 100 particles/L). Unfortunately, there was no proof of actual uptake of the polystyrene nanoplastics. Combined exposure of microplastics with pyrene (100 nM) resulted in decreased swimming movement, although this effect was minor compared to the effect of pyrene alone [
+87
+].
+Exposure of red tilapia to roxithromycin (ROX, 50 μg/L) alone resulted in decreased AChE, which was attenuated in combination with fluorescent polystyrene microplastics (0.1 μm, 1–100 μg/L), suggesting a decrease in neurotoxicity or more likely in the bioavailability of ROX in the presence of polystyrene microplastics. The presence of microplastics was confirmed in the gut, gills and to a lesser extent also brain and liver using fluorescence microscopy. However, the study unfortunately did not include an group exposed to microplastics in the absence of ROX, making it difficult to draw any conclusions regarding the neurotoxicity of microplastics [
+88
+].
+Exposure of Sea bass to microplastics (1–5 μm, 0.69 mg/L) resulted in inhibition of AChE activity in the brain, but not of ChE in muscle. Additionally, an increase in LPO was found in the brain and muscle of the fish following exposure to microplastics alone. Both effects were exacerbated by co-exposure to mercury (10 and 16 μg/L), although there was no clear dose-dependence. Unfortunately, there was no proof provided of actual uptake of the microplastics [
+16
+].
+In juveniles of the common goby (
+Pomatochistus microps
+) exposure to fluorescent polyethylene microplastics (1–5 μm, 0.216 mg/L) also resulted in inhibition of AChE activity, which was exacerbated by co-exposure to chromium (5.6–28.4 mg/L) [
+89
+]. Contrary, co-exposure of polyethylene microplastics (1–5 μm, 0.18 mg/L MPs) with cadmium (3–50 mg/L, [
+90
+]) or pyrene (200 μg/L, [
+91
+]) did not exacerbate AChE inhibition. Unfortunately, there was no proof provided of actual uptake of the polyethylene microplastics [
+89
+,
+90
+,
+91
+].
+The inhibition of AChE by fluorescent polyethylene microplastics (1–5 μm, 0.18 mg/L MPs) may be temperature-dependent, at least in some species, as exposure to microplastics alone at 20 °C did not alter AChE activity, whereas exposure at 25 °C induced a mild increase in LPO and inhibition of AChE activity [
+92
+]. A similar temperature-dependence was observed for effects of fluorescent polyethylene microplastics (1–5 μm, 0.18 mg/L MPs) on predatory behavior, LPO and AChE inhibition. At 25 °C, exposure to microplastics alone decreased predatory behavior and AChE inhibition and increased mortality and LPO significantly compared to fish living in water of 20 °C [
+93
+]. Unfortunately, there was no proof provided of actual uptake of the polyethylene microplastics [
+92
+,
+93
+].
+Most of these studies that used co-exposures used only one dose of nano- or microplastic and/or one dose of chemical, making it difficult to assess the contribution of the plastic particles to the observed effect(s). Additionally, the presence of plastic particles likely alters the free concentration of the co-exposed chemical, further hampering interpretation of the results.
+See Table
+1
+for details.
+Table 1 Overview of the literature investigating neurotoxic effects of micro- and nanoplastics. The particle concentration is only mentioned for micro- and nanoplastics or for mixtures containing micro- and nanoplastics. The reported particle size reflects the diameter of primary particles. Every study included a control group that was not exposed to micro- and nanoplastics or any other substance, or measurements were taken at timepoint 0, before exposure
+Neurotoxic effects of micro- and nanoplastics in rodents
+In striking contrast to the relative wealth of available rodent in vivo studies with metal(oxide) nanoparticles, there are only two studies that investigated the neurotoxicity of micro- and nanoplastics in rodents. This is particularly striking given the observed neurotoxic effects of exposure to micro- and nanoplastics in fish and (marine) invertebrates. In the only published in vivo mice study, adult mice were chronically (30 days) exposed to polystyrene microplastics (5 and 20 μm, 0.01–0.5 mg/day (~ 0.5–25 mg/kg body weight/day)) via oral gavage. Exposure to polystyrene microplastics resulted in uptake and particle presence in the gut, liver and kidneys of the mice, as determined using fluorescence spectrometer measurements of lyophilized tissues. Particle concentrations in tissues increased rapidly during the first week of exposure and plateaued at ~ 0.2, 1.0 and 1.4 mg/g for 5 μm particles in liver, kidney and gut respectively. Particle concentration was much more uniform for 20 μm particles, which plateaued at ~ 0.8 for liver, kidney and gut. Examination of the liver indicated dose-dependent changes in energy metabolism (decreased ATP levels, increased LDH activity) and oxidative stress (increased GSH-Px and SOD, decreased CAT). Interestingly, AChE activity in liver increased, whereas metabolomic alterations also suggested potential changes in neurotransmitter levels. Notably, there was limited difference in effect size between 5 μm and 20 μm particles (mass-based). Unfortunately, brain tissue was not investigated [
+94
+].
+The other in vivo study involved chronic (5 weeks) exposure of male rats to high doses of polystyrene nanoplastics (40 nm, 1–10 mg/kg body weight/day). However, exposure did not result in behavioral alterations or changes in body weight gain. Unfortunately, there was no proof provided of actual uptake of the polystyrene nanoplastics [
+95
+].
+See Table
+1
+for details.
+Neurotoxic effects of micro- and nanoplastics in vitro
+Comparable to rodent in vivo studies, there is a striking scarcity of mechanistic in vitro studies into the potential neurotoxic effects of exposure to micro- and nanoplastics. To date, only three studies investigated the neurotoxicity of micro- and nanoplastics exposure in vitro. See Table
+1
+for details.
+Human T98G cerebral cells and human epithelial HeLa cells both show increased production of reactive oxygen species (ROS) upon exposure (24 h) to polystyrene microplastics (10 μm, 0.05–10 mg/L), but only at the highest concentration tested. Exposure to polyethylene microplastics (3–16 μm, 0.05–10 mg/L) did not result in increased ROS production [
+96
+].
+An earlier study investigated the effects of exposure of five murine neuronal cell types to core-labeled polystyrene nanoplastics (55 nm, 7.8–250 mg/L) and showed that nanoplastics can affect mitochondrial activity and LDH leakage of neuronal cells, although only at very high concentrations (250 mg/L). This study also indicated that toxicity of polystyrene nanoplastics increased for ‘aged’ particles (stored for > 6 months) compared to ‘fresh’ particles, possibly due to particle aggregation and/or adsorption of bioactive compounds. Moreover, the study revealed using confocal fluorescence microscopy that microglial cells were able to internalize carboxylated polystyrene nanoparticles by phagocytosis, suggesting the potential for neuroinflammation, as also observed following exposure to metal(oxide) nanoparticles. Interestingly, in contrast to carboxylated nanoparticles, PEGylated nanoparticles were hardly internalized by microglial cells [
+97
+].
+Internalization of particles has also been shown for polyethylene nanoplastics (33 nm) in human dopaminergic neurons and developing neurospheres following respectively semi-acute (48 h, 22.5–1440 mg/L) and chronic (18 days, 22.5–360 mg/L) exposure. Internalization of polyethylene nanoplastics, as detected using fluorescence imaging and flow cytometry, coincided with altered gene expression and increased malondialdehyde (MDA) levels, suggestive of oxidative stress. At high doses (≥180 mg/L), exposure resulted in decreased cell viability [
+98
+].
+General toxicity of micro- and nanoplastics
+Besides these findings on the neurotoxicity of micro- and nanoplastics, a wide range of toxic effects in diverse species have been reported. These can be summarized as alterations in gene expression [
+69
+,
+71
+,
+74
+,
+78
+,
+85
+,
+86
+,
+92
+], inflammation of gut, gills, liver, kidney and/or muscle [
+16
+,
+72
+], particle accumulation in tissues of gills, intestine, liver, kidneys, gallbladder and/or gonads [
+72
+,
+79
+,
+80
+,
+86
+], (lipid) oxidative damage in body/organs [
+16
+,
+72
+,
+76
+,
+77
+,
+78
+,
+85
+,
+94
+], disturbed metabolism [
+74
+,
+94
+,
+99
+], alterations in motility and behavior [
+22
+,
+69
+,
+77
+,
+89
+], alterations in intestinal barrier function and gut microbiome [
+99
+], reduction of overall fitness [
+76
+] and increased mortality [
+78
+,
+89
+]. For additional reviews on the additional non-neurotoxic effects of micro- and nanoplastics see [
+34
+,
+100
+,
+101
+].
+Factors influencing neurotoxic potential of micro- and nanoplastics
+Various factors can be identified that could affect the neurotoxicity of micro- and nanoplastics. Obviously, the magnitude to which organisms are exposed to particles is an important factor influencing the potential neurotoxicity of plastic particles [
+102
+]. However, current exposure levels are much lower than those used in experimental settings. On the other hand, the exposure duration in experimental settings is often much shorter than relevant for realistic (human) exposure, even though some studies indicate that the neurotoxic effects of micro- and nanoplastics depend on the exposure duration [
+78
+,
+80
+,
+88
+]. Next to exposure concentration and duration, exposure temperature may also affect the neurotoxicity of micro- and nanoplastics, at least in fish, with increased toxicity at higher temperatures [
+92
+,
+93
+].
+In addition to the abovementioned exposure characteristics, neurotoxicity of micro- and nanoplastics may also be strongly affected by particle characteristics. Particle size is assumed to be among the most crucial characteristics. Generally, nanoparticles are more easily taken up and have a higher toxic potential than microparticles [
+20
+,
+102
+]. With respect to plastic particles, there is only fragmentary data to support the notion that smaller sized particles exert more toxicity (e.g., [
+22
+,
+94
+], but also see [
+69
+].
+Also the hydrodynamic diameter of particles, or secondary particle size, may be of importance with respect to particle neurotoxicity. While smaller particles may seem more neurotoxic, they are also more likely to cluster together and form aggregates. While aggregation increases (secondary) particle size and would theoretically lower the neurotoxic potential, this is hardly studied. One study even showed that six months aged nanoplastics increased size from 65 nm to more than 1300 nm and induced more toxic effects than the original particles, suggesting that aggregated particles may actually have a higher neurotoxic potential [
+97
+].
+The degree of aggregation depends on particle surface charge and the suspension medium [
+57
+,
+65
+,
+66
+,
+77
+,
+78
+]. However, particle surface charge may also directly influence biological activity and neurotoxic potential of micro- and nanoplastics [
+28
+,
+51
+]. For example for Au-nanoparticles it has been shown that a negative surface charge is associated with higher cellular internalization [
+103
+], while positive surface charge increases the disruption of plasma membranes and causes more mitochondrial damage [
+104
+]. Unfortunately, only few studies analyzed the surface charge of the micro- and nanoplastics used (with zeta-potentials ranging from + 40 mV to − 50 mV) and assessing the effect of surface charge on the neurotoxicity of micro- and nanoplastics is still in its infancy.
+For metal(oxide) particles, the toxicity of the particles depends to some degree on the type of metal. Similarly, it is likely that the chemical composition of the micro- and nanoplastics will affect the neurotoxic potential. Although a direct comparison is currently lacking, the shape of the plastic particles may also be of comparable importance as the different shapes (spheres, fibers and rods) also differ considerably in for example surface area and internalization potential [
+51
+].
+Confirmation of the above-mentioned notions thus requires extensive research that is focused on a direct comparison of the neurotoxic effects of different types of differently sized and shaped particles, also taking into account aggregation, using a range of in vivo and in vitro model systems. An additional complicating factor is the potential of micro- and nanoplastics to act as a vector for chemicals and pathogens. Although not fully elucidated, micro- and nanoplastics may adsorb environmental chemicals [
+12
+] and even pathogens [
+105
+]. As such, micro- and nanoplastics may facilitate exposure to these potential harmful agents, indirectly exacerbating (neuro)toxicity.
+Reflections on and potential implications of neurotoxicity induced by micro- and nanoplastics
+Still only limited data on the neurotoxic effects of micro- and nanoplastics are available and often the effects of micro- and nanoplastics have been assessed with co-exposure to other (environmental) contaminants. The studies that investigated co-exposures are often difficult to interpret as often only one dose of nano- or microplastic and/or one dose of chemical is used, whereas effects of plastic particles on the free concentration of the co-exposed chemical are not assessed.
+Information regarding levels of small plastic particles in the environment, (drinking) water and food chain are still scarce and often only limited quality criteria are reported. More and improved data on the occurrence of small plastics particles in the different environmental matrices is needed to reliably estimate human exposure and aid hazard and risk assessment, and current efforts aim at harmonizing monitoring methods and quality criteria [
+106
+,
+107
+,
+108
+].
+The concentrations of micro- and nanoplastics used in experimental studies are often (much) higher than those currently found in the (aquatic) environment. In the described experiments, concentrations ranged from 1 μg/L (~ 1.8 × 10
+9
+particles/L) [
+80
+] to 250 mg/L (~ 10 × 10
+15
+particles/L) [
+97
+]. Unfortunately, the dose is often expressed as weight/volume, without info on particle density. Consequently, information regarding particle numbers is often unknown. Although exact details on human intake of micro- and nanoplastics are often also unknown, these are likely to be much lower. For example, annual human intake of microplastics via (shell) fish is expected to be around 11.000 particles per person for Europeans who often consume seafood, whereas the annual plastic particle intake via salt is approximated at 37 particles per individual [
+109
+]. Atmospheric exposure appears also modest with 0.4 to 60 plastic microparticles/m
+3
+indoor and 0.3 to 1.5 microparticles/m
+3
+outdoors [
+28
+]. Notably, while some information is available on (human) intake, the information regarding uptake and translocation in animals or human is even more scarce. Few of the studies published so far made serious efforts to quantify particle uptake and translocation, so it is often unclear whether or not the particles actually made it to the tissues/systemic circulation, whether or not particles can subsequently be excreted/eliminated, and how uptake and distribution relate to the observed (neurotoxic) effect.
+Another challenge for assessing the neurotoxic hazard of plastic particles relates to the facts that most studies used manufactured, spherical polystyrene particles to assess (neuro) toxicity, while polypropylene, polyester and polyamide (irregular shaped) particles and fibers were more frequently discovered in organisms collected in the field than polystyrene [
+3
+,
+9
+]. Also, most studies involved (pristine) microplastics (≥0.1 μm), and mostly fluorescent to ease detection, although such particles may be less relevant for neurotoxic hazard characterisation.
+The detection of small plastic particles is a challenge on its own. Microplastics, especially those that are fluorescent and/or larger (1 μm), can be detected using patience and microscopy approaches, including confocal, bright-field, polarized light and/or fluorescence imaging. These approaches can provide information on particle number and location (in e.g. tissue slices), but lack throughput. For alternative approaches, such as flow cytometry and fluorescent spectrometry, organisms/tissues first need to be lyophilized. Consequently, information regarding the exact location of the particles is lost. Reliable detection and localization of nanoplastics, especially if these are not labeled, will prove even more troublesome and this is likely the challenge for the field for the coming years.
+Despite these limitations and the often observed absence of a clear dose-dependence of the effects (in particular for gene expression studies), there seem to be several consistent effects. Several studies reported the accumulation of micro- and nanoplastics in brain tissue of fish and indications that micro- and nanoplastics can cross the blood-brain barrier [
+22
+,
+79
+,
+80
+,
+86
+]. This is confirmed by additional literature observing blood-brain barrier permeability for polystyrene nanoparticles in vivo [
+110
+] and internalization in neuronal cells in vitro [
+97
+,
+98
+,
+111
+,
+112
+]. Overall, these findings highlight that (human) exposure to micro- and nanoplastics can result in systemic uptake and/or accumulation in the brain.
+An increase of LPO levels is a reliable indicator for oxidative stress. Several studies demonstrated increased LPO levels in marine invertebrates, in the brain of fish and in neuronal cells in vitro following exposure to (different types of) micro- and nanoplastics, indicating that exposure to plastic particles induces oxidative stress (Table
+1
+). This is confirmed by the increase in ROS in vitro after 24 h [
+96
+]. Overall, these results suggest that micro- and nanoplastics, just like metal(oxide) nanoparticles (Supplementary Tables S
+1
+and S
+2
+), have the potential to induce oxidative stress in cells of the nervous system. This is of considerable concern as uncontrolled ROS can affect various (intra) cellular processes, such as protein oxidation, nuclear DNA damage, LPO levels, cell membrane destabilization, damage to mitochondrial proteins, endoplasmic reticulum stress and subsequent cellular damage including cell death and neuroinflammation [
+113
+]. Notably, oxidative stress and inflammation in the (central) nervous system have been linked to various neurodegenerative diseases, such as Alzheimer’s Disease, Parkinson’s Disease, Huntington’s Disease and Amyotrophic Lateral Sclerosis [
+113
+,
+114
+], highlighting the possibility that exposure to micro- and nanoplastics may contribute to the onset or aggravation of neurodegenerative diseases.
+Furthermore, inhibition of (A)ChE activity is among the most reported neurotoxic effects following exposure of bivalves, crustaceans and fish to micro- and nanoplastics (Table
+1
+). Inhibition of (A)ChE activity is considered a reliable indicator for neuro (muscular) toxicity and is considered to disrupt (cholinergic) nervous system function once activity is inhibited by > 30% [
+115
+,
+116
+]. Although there are some discrepancies and there is a general scarcity of in vivo mammalian data, most studies reported inhibition of (A)ChE of more than 30%, indicating a clear neurotoxic potential of micro- and nanoplastics. Importantly, inhibition of AChE has also been implicated in non-cholinergic functions related to neurite growth, synaptogenesis, cell migration, proliferation and apoptosis [
+116
+,
+117
+]. However, whether or not exposure to micro- and nanoplastics affects these non-cholinergic functions remains to be determined.
+Additional indications for the neurotoxic potential arise from the reported changes in dopamine levels in bivalves [
+71
+] and fish [
+86
+] after exposure to microplastics. Moreover, behavioral changes following exposure to microplastics have been reported for nematodes [
+69
+], crustaceans [
+77
+] and fish [
+22
+,
+83
+,
+85
+], although it should be noted that there are obviously considerable differences between the most-used species (such as fish and bivalves) and mammals including human with respect to physiology and routes of exposure (exposure via water (gills) vs. oral uptake (gut) or inhalation (lung)). Such differences in exposure routes may also affect uptake and/or distribution, thus hampering translation of effects observed in aquatic species to mammalian neurotoxic hazard characterization.

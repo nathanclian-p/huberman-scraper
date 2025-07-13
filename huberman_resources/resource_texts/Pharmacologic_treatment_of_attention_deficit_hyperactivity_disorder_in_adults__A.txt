@@ -1,0 +1,591 @@
+Both NMAs and MAs were performed for both patient- and clinician-reported clinical response using data reported by studies with a treatment duration of 12 weeks or longer. These analyses were based on clinical response as measured on a continuous scale and as a dichotomous measure (treatment response yes versus no). MAs were performed for quality of life (≥ 12-week data only), executive function (all treatment durations), and all harms outcomes (
+Table 2
+). A summary of findings is presented in
+Table 3
+.
+Benefits.
+Patient-reported clinical response
+. Among RCTs with a treatment duration of at least 12 weeks, nine trials (n = 1462) [
+28
+,
+36
+,
+44
+,
+54
+,
+59
+,
+62
+,
+66
+,
+70
+,
+80
+] assessed patient-reported clinical response by use of a continuous scale, and four trials (n = 322) [
+28
+,
+58
+,
+59
+,
+70
+] assessed the outcome as a dichotomous measure (treatment response yes versus no) (
+Table 2
+). Only one [
+59
+] of the four trials contributing data to the analysis of patient-reported clinical response as a dichotomous measure was judged to be of low ROB for blinding compared to three of nine (33%) trials [
+44
+,
+59
+,
+62
+] contributing data to the analysis of continuous data for this outcome. None of the studies that reported this outcome were at low risk of bias across all domains. Additional information is contained within
+Appendix I in
+S2 File
+.
+The results of pairwise MA showed that, compared with placebo, treatment with any ADHD pharmacotherapy was associated with a small but statistically significant improvement in patient-reported clinical response (MD –4.34, 95% CI –6.34 to –2.23) (
+Fig 3A
+); with no statistically significant difference in the number of clinical responders (RR 1.38, 95% CI 0.73 to 2.59;
+Fig 3B
+). Moderate to high heterogeneity was noted for both continuous and dichotomous measures of clinical response (
+I
+2
+= 52% and 76%, respectively).
+Fig 3.
+Patient-reported clinical response.
+Clinical response among patients who received any ADHD pharmacotherapy (versus placebo) in trials with a treatment duration of at least 12 weeks. (A) Continuous measure of response. (B) Dichotomous (treatment response: yes versus no).
+https://doi.org/10.1371/journal.pone.0240584.g003
+The evidence network for patient-reported clinical response as measured by a continuous scale included nine RCTs (eight two-arm, one three-arm) [
+28
+,
+36
+,
+44
+,
+54
+,
+59
+,
+62
+,
+70
+,
+80
+,
+102
+] and 1462 participants randomized to six pharmacotherapies, placebo, or no treatment (
+Fig 4A
+), while the network for clinical response assessed as a dichotomous variable included four RCTs (three two-arm, one three-arm) [
+28
+,
+58
+,
+59
+,
+70
+] and involved 322 participants (
+Fig 4B
+). Consistency could not be formally evaluated for either NMA because of a lack of closed loops informed by more than one RCT [
+19
+].
+Fig 4.
+Network diagrams for patient-reported clinical response.
+Treatment nodes are proportional to the number of patients who took the corresponding treatment, while the width of each edge is proportional to the number of trials included in the comparison. Intervention abbreviations: ATX = atomoxetine, BUP-SR = sustained release bupropion, HD = high dose, MPH = methylphenidate, OROS = osmotic-release oral system, STD = standard dose, SMD = standardized mean difference, SR = sustained release. (A) Continuous measure of response. (B) Dichotomous (treatment response: yes versus no).
+https://doi.org/10.1371/journal.pone.0240584.g004
+When clinical response to individual ADHD pharmacotherapies was assessed as a continuous measure, only standard-dose atomoxetine resulted in moderate significant improvements versus placebo (MD –5.9, 95% CrI –12.6 to –0.4). There were no significant differences in patient-reported continuous response between any of the ADHD pharmacotherapies (
+Table 4A
+). When assessed as a dichotomous outcome, clinical response with standard-dose atomoxetine and high-dose osmotic-release oral-system methylphenidate were significantly better than placebo at improving the number of patients who reported a clinical response (RR 3.34, 95% CrI 1.88 to 5.85 and RR 2.40, 95% CrI 1.10 to 4.06, respectively).
+Among the other treatments, use of standard-dose sustained-release bupropion resulted in significantly fewer responders compared with standard-dose atomoxetine (RR 0.33, 95% CrI 0.11, 0.78). High- and standard-dose sustained-release methylphenidate also resulted in significantly fewer responders compared to standard-dose atomoxetine (RR 0.21 and 0.24, respectively). High-dose osmotic-release oral system methylphenidate was significantly better than both standard- and high-dose sustained-release methylphenidate at improving the number of clinical responders (
+Table 4B
+).
+Clinician-reported clinical response
+. Among RCTs with a treatment duration of at least 12 weeks, clinical response was assessed by a clinician as a continuous measure in 15 RCTs (n = 3365) [
+25
+,
+26
+,
+32
+,
+35
+,
+36
+,
+43
+,
+44
+,
+54
+,
+58
+,
+60
+,
+62
+,
+66
+,
+69
+,
+70
+,
+80
+] and as a dichotomous measure in eight RCTs (n = 1902) [
+25
+,
+26
+,
+32
+,
+44
+,
+58
+,
+59
+,
+69
+,
+70
+] (
+Table 2
+). Only half [
+25
+,
+26
+,
+44
+,
+59
+] of the trials contributing data to the analysis of clinician- reported clinical response as a dichotomous measure were judged to be at low ROB for blinding compared to 40% of studies contributing data to the analysis of continuous data for this outcome. Further, only one study [
+26
+] was at low risk of bias across all ROB domains, reporting a significant improvement in clinician-reported clinical response among men (n = 25) who received 16 weeks of methylphenidate treatment but not among those who received placebo (n = 24).
+The results of pairwise MA showed that, compared with placebo, the number of patients who showed a clinical response was significantly higher among those using any ADHD pharmacotherapy (RR 1.32, 95% CI 1.05 to 1.66,
+I
+2
+= 58%). Further, the use of any ADHD pharmacotherapy revealed a significant moderate improvement in clinical response compared to placebo on the CAARS-O-SV scale (MD –3.89, 95%CI –4.49 to –2.76), although the
+I
+2
+value associated with this analysis was 78%, which indicates a considerable amount of heterogeneity between studies (
+Fig 5
+).
+Fig 5.
+Clinician-reported clinical response.
+Clinical response among patients who received any ADHD pharmacotherapy (versus placebo) in trials with a treatment duration of at least 12 weeks. (A) Continuous measure of response. (B) Dichotomous (treatment response: yes versus no).
+https://doi.org/10.1371/journal.pone.0240584.g005
+The evidence network for the effect of individual ADHD pharmacotherapies on clinician-reported clinical response (continuous) included 15 RCTs (15 two-arm trials) [
+25
+,
+26
+,
+32
+,
+35
+,
+36
+,
+43
+,
+44
+,
+54
+,
+58
+,
+60
+,
+62
+,
+66
+,
+69
+,
+70
+,
+80
+] involving 3365 participants who were randomized to seven pharmacotherapies, placebo, or no treatment (
+Fig 6A
+). The network for the number of responders (dichotomous) included 1902 participants randomized to seven pharmacotherapies, placebo, or no treatment in eight RCTs (seven 2-arm, one 3-arm) (
+Fig 6B
+) [
+25
+,
+32
+,
+44
+,
+58
+,
+59
+,
+69
+,
+70
+]. Consistency could not be formally evaluated for any NMA conducted because of a lack of closed loops informed by more than one RCT [
+19
+]. Additional information is contained within
+Appendix I in
+S2 File
+.
+Fig 6.
+Network diagrams for patient-reported clinical response.
+Treatment nodes are proportional to the number of patients who took the corresponding treatment, while the width of each edge is proportional to the number of trials included in the comparison. Intervention abbreviations: ATX = atomoxetine, GUAN = guanfacine, HD = high dose, MAS-XR = mixed amphetamine salts, MPH = methylphenidate, OROS = osmotic-release oral system, ER = extended release, SR = sustained release, STD = standard dose. (A) Continuous measure of response. (B) Dichotomous (treatment response: yes versus no).
+https://doi.org/10.1371/journal.pone.0240584.g006
+Relative to placebo, we found that low-dose methylphenidate was significantly better at improving clinical response, as measured by clinicians, by both continuous and dichotomous measures (
+Table 5
+). Standard-dose atomoxetine, standard-dose sustained-release methylphenidate, and low-dose methylphenidate were significantly better than placebo at improving clinical response by continuous assessment, with no significant difference in the number of responders. Compared with patients on placebo and those on high-dose sustained release methylphenidate, the number of clinical responders was significantly higher in the low-dose methylphenidate group. Caution is urged when interpreting these results, however, given that all estimates for low-dose methylphenidate were informed by a single study [
+26
+] and the wide credible interval associated with the effect estimate for this treatment compared to its high-dose sustained-release counterpart (RR 8.43, 95% Crl 1.04 to 118.40) reflects a high level of uncertainty. No other significant differences relative to placebo or among the pharmacotherapies were detected.
+Executive function
+. No studies with a treatment duration of 12 weeks or longer assessed executive function. Data from 12 RCTs (n = 3024) that assessed executive function on a continuous scale after treatment for 2–10 weeks (
+Table 2
+) [
+27
+,
+30
+,
+33
+,
+48
+–
+50
+,
+52
+,
+63
+,
+67
+,
+73
+,
+74
+,
+100
+] were analyzed by pair-wise MA. Just over half (58%) of these trials [
+30
+,
+33
+,
+48
+–
+50
+,
+52
+,
+100
+] were judged to be at low ROB for blinding. Compared with placebo, we found that the use of any ADHD pharmacotherapy was associated with a moderate statistically significant improvement in executive function (MD on BRIEF-A –5.72, 95% CI –7.15 to –4.29;
+I
+2
+= 58%) (
+Appendix J in
+S2 File
+).
+Quality of life
+. In total, quality of life was assessed in five RCTs with a treatment duration of 12 weeks or longer [
+25
+,
+34
+–
+36
+,
+70
+]. Of these, all involved the use of standard-dose atomoxetine compared with placebo or no treatment (n = 1862) (
+Table 2
+). Only one trial [
+25
+] was judged to be at low ROB for blinding; two others [
+34
+,
+70
+] were judged to be at high ROB, and the remaining two [
+35
+,
+36
+] were judged as unclear. Pair-wise MA showed that atomoxetine was associated with a small favourable improvement response when compared to placebo (MD on AAQoL scale 4.21, 95% CI 2.04 to 6.38) (
+Appendix K in
+S2 File
+).
+Driving behaviour
+. Five studies evaluated driving behavior among participants with ADHD [
+23
+,
+25
+,
+34
+,
+70
+,
+84
+] (
+Appendix L in
+S2 File
+). Of these, three studies reported no significant difference in self-assessed driving behaviour following treatment with atomoxetine [
+25
+,
+34
+,
+70
+]. One study reported no self-assessed difference in driving anger following treatment with atomoxetine [
+84
+]. Two studies reported improved self-reported driving following treatment (lisdexamfetamine, atomoxetine) [
+23
+,
+84
+].
+Two studies reported no change in clinician-reported driving behaviour following treatment with atomoxetine [
+25
+,
+84
+], while one study reported improved driving following treatment with atomoxetine [
+34
+]. Of note, the study that reported an improvement had a longer treatment duration (six months) compared to the studies that reported no difference (four or 12 weeks).
+Harms.
+Network meta-analyses for harms were not robust owing to the large number of zero-event counts in the networks for each of these outcomes. As such, only pair-wise MAs were performed for serious adverse events, withdrawals due to adverse events, and treatment discontinuations. Hospitalizations and cardiovascular adverse events are summarized narratively. No studies reported on emergency room visits during the study period.
+Serious adverse events
+. In total 33 studies reported serious adverse events; of these, five involved a treatment duration of at least 12 weeks. Among RCTs involving treatment for at least 12 weeks, three [
+32
+,
+35
+,
+44
+] reported the occurrence of serious adverse events during the treatment period, while two additional RCTs [
+26
+,
+80
+] reported that no serious adverse events had occurred during the study (Table
+2
+). Compared with placebo, there was no significant difference in the risk of a serious adverse event with use of an ADHD pharmacotherapy (RR 1.46, 95% CI 0.52 to 4.09;
+I
+2
+= 0%) (
+Appendix M in
+S2 File
+). A total of 16 RCTs with any treatment duration reported the occurrence of serious adverse events [
+32
+,
+34
+,
+35
+,
+44
+,
+47
+,
+49
+,
+50
+,
+52
+,
+56
+,
+63
+,
+68
+,
+72
+,
+73
+,
+75
+,
+78
+,
+82
+], while an additional 17 RCTs reported that no serious adverse events had occurred during the study [
+21
+,
+26
+,
+31
+,
+33
+,
+40
+,
+41
+,
+48
+,
+53
+,
+76
+–
+78
+,
+80
+,
+81
+,
+88
+,
+93
+,
+101
+,
+103
+]. Compared with placebo, there was no significant difference in the risk of a serious adverse event with use of an ADHD pharmacotherapy (RR 1.21, 95% CI 0.67 to 2.18;
+I
+2
+= 0%).
+Withdrawals due to adverse events
+. Seventeen RCTs with a treatment duration of at least 12 weeks reported withdrawals due to adverse events (n = 3650) [
+25
+,
+26
+,
+28
+,
+32
+,
+34
+–
+36
+,
+44
+,
+58
+–
+60
+,
+62
+,
+69
+,
+70
+,
+79
+,
+80
+,
+102
+]. Compared with placebo, there was a significant increase in withdrawals due to adverse events among participants who received an ADHD medication, with moderate heterogeneity between trials (RR 2.30, 95% CI 1.62 to 3.25;
+I
+2
+= 37%) (
+Appendix N in
+S2 File
+). Among the 52 RCTs (n = 10,726) of any treatment duration [
+21
+–
+23
+,
+25
+,
+26
+,
+28
+,
+31
+–
+36
+,
+39
+–
+41
+,
+44
+,
+47
+–
+50
+,
+52
+,
+53
+,
+55
+,
+56
+,
+58
+,
+59
+,
+62
+,
+63
+,
+65
+,
+67
+–
+73
+,
+75
+,
+76
+,
+78
+–
+82
+,
+89
+,
+94
+,
+95
+,
+102
+] reporting on withdrawals, use of an ADHD pharmacotherapy was associated with a higher risk of withdrawal due to an adverse event (RR 2.54, 95% CI 2.14 to 3.03;
+I
+2
+= 0%) compared with placebo.
+Treatment discontinuation
+. Sixteen RCTs with a treatment duration of at least 12 weeks reported treatment discontinuations (n = 3568) [
+25
+,
+26
+,
+28
+,
+32
+,
+34
+–
+36
+,
+44
+,
+58
+–
+60
+,
+62
+,
+69
+,
+70
+,
+79
+,
+80
+]. Compared with placebo, there was no significant difference in the number of discontinuations between participants who received an ADHD pharmacotherapy and those who received placebo with moderate heterogeneity between trials (RR 1.04, 95% CI 0.91 to 1.20;
+I
+2
+= 63%) (
+Appendix O in
+S2 File
+). The effect estimate was similar among 52 RCTs (n = 9959) with any treatment duration (RR 1.10, 95% CI 1.00 to 1.21;
+I
+2
+= 46%).
+Hospitalization
+. Three studies reported hospitalizations during the study period [
+60
+,
+72
+,
+73
+]. In their 2007 study, Spencer et al. [
+72
+] reported that two patients randomized to treatment with extended-release methylphenidate each experienced a serious adverse event that required hospitalization (ulcerative colitis/hypovolemic shock, fever/loss of consciousness). Neither patient was withdrawn from the study. In their 2008 study [
+73
+], Spencer et al. also reported that one patient assigned to treatment with mixed amphetamine salt group was admitted to hospital with a possible transient ischemic attack. The patient was discharged the following day, with a diagnosis of Tourette syndrome with vocal tic. The investigator disagreed with this diagnosis and felt that transient ischemic attack could not be ruled out.
+Levin and colleagues [
+60
+] reported that two participants, both in the placebo group, experienced serious adverse events requiring admission to hospital (sexual assault, pneumothorax). Neither of these events was considered by the investigators to be study-related.
+Cardiovascular events
+. No studies reported myocardial infarction during the study period. One study [
+73
+] reported that one patient experienced a possible transient ischemic attack during the study period, as previously described. No studies reported on cardiovascular death during the treatment period.

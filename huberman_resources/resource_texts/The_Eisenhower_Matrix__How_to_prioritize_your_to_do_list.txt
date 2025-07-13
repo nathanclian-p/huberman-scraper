@@ -1,0 +1,103 @@
+Summary
+The Eisenhower Matrix is a task management tool that helps you organize and prioritize tasks by urgency and importance. Using the tool, you’ll divide your tasks into four boxes based on the tasks you’ll do first, the tasks you’ll schedule for later, the tasks you’ll delegate, and the tasks you’ll delete. In this piece, we’ll explain how to set up an Eisenhower Matrix and provide tips for task prioritization.
+Making a to-do list
+is the first step toward getting work done. But how do you determine what to tackle first when you don’t have enough time to do everything in one day? With effective prioritization, you can
+increase your productivity
+and ensure that your most urgent tasks get immediate attention.
+The Eisenhower Matrix is a task management tool that helps you distinguish between urgent and important tasks so you can establish an efficient workflow. In this article, we’ll explain how to set up an Eisenhower Matrix and provide tips for
+task prioritization
+.
+What is the Eisenhower Matrix?
+The Eisenhower Matrix is a way to organize tasks by urgency and importance, so you can effectively prioritize your most important work.
+Dwight D. Eisenhower—the 34th President of the United States and a five-star general during World War II—presented the idea that would later lead to the Eisenhower Matrix. In a 1954 speech, Eisenhower quoted an unnamed university president when he said, “I have two kinds of problems, the urgent and the important. The urgent are not important, and the important are never urgent.”
+Stephen Covey, author of
+The 7 Habits of Highly Effective People
+, took Eisenhower’s words and used them to develop the now-popular task management tool known as the Eisenhower Matrix.
+The Eisenhower Matrix is also known as the time management matrix, the Eisenhower Box, and the urgent-important matrix. This tool helps you divide your tasks into four categories: the tasks you’ll do first, the tasks you’ll schedule for later, the tasks you’ll delegate, and the tasks you’ll delete.
+Create an Eisenhower matrix template
+How to distinguish between urgent and important tasks
+Urgent and important may seem like similar words, but when analyzing them in terms of the Eisenhower principle, the difference between the two is crucial. Differentiating between urgent and important within the Eisenhower Matrix can help you identify which tasks you should jump on and which tasks might be better handled by other team members.
+Urgent tasks
+require your immediate attention. When something is urgent, it must be done now, and there are clear consequences if you don’t complete these tasks within a certain timeline. These are tasks you can’t avoid, and the longer you delay these tasks, the more stress you’ll likely experience, which can lead to
+burnout
+.
+Examples of urgent tasks may include:
+Finishing a project with a last-minute due date
+Handling an urgent client request
+Fixing a busted pipe in your apartment
+Important tasks
+may not require immediate attention, but these tasks help you achieve your
+long-term goals
+. Just because these tasks are less urgent doesn’t mean they don’t matter. You’ll need to thoughtfully plan for these tasks so you can use your resources efficiently.
+Examples of important tasks may include:
+Planning a long-term project
+Professional networking to build a client base
+Regular chores and maintenance projects
+Once you know how to distinguish between urgent and important tasks, you can begin separating your tasks into the four quadrants of the Eisenhower Matrix.
+Create an Eisenhower matrix template
+The four quadrants of the Eisenhower Matrix
+A long to-do list of tasks can feel overwhelming, but the goal of the Eisenhower Matrix is to go through these tasks one by one and separate them by quadrant. Once you can see your tasks in their designated categories, you’ll be able to schedule them  and accomplish your most important work.
+Quadrant 1: Do
+Quadrant one is the “do” quadrant, and this is where you’ll place any tasks that are both urgent and important. When you see a task on your to-do list that must be done now, has clear consequences, and affects your long-term goals, place it in this quadrant.
+There should be no question about which tasks fall into this quadrant, because these are the tasks that are at the front of your mind and are likely stressing you out the most.
+Quadrant 2: Schedule
+Quadrant two is the “schedule” quadrant, and this is where you’ll place any tasks that are not urgent but are still important. Because these tasks affect your long-term goals but don’t need to be done right away, you can schedule these tasks for later.
+You’ll tackle these tasks right after you tackle the tasks in quadrant one. You can use various
+time management tips
+to help you accomplish the tasks in this quadrant. Some helpful strategies may include the
+Pareto principle
+or the
+Pomodoro method
+.
+Quadrant 3: Delegate
+Quadrant three is the “delegate” quadrant, and this is where you’ll place any tasks that are urgent but not important. These tasks must be completed now, but they don’t affect your long-term goals.
+Because you don’t have a personal attachment to these tasks and they likely don’t require your specific skill set to complete, you can delegate these tasks to other members of your team. Delegating tasks is one of the most efficient ways to
+manage your workload
+and give your team the opportunity to expand their skill set.
+Quadrant 4: Delete
+Once you’ve gone through your to-do list and added tasks to the first three quadrants, you’ll notice that a handful of tasks are left over. The tasks left over are tasks that weren’t urgent or important.
+These unimportant, non-urgent distractions are simply getting in the way of you accomplishing your goals. Place these remaining items on your to-do list in the fourth quadrant, which is the “delete” quadrant.
+Create an Eisenhower matrix template
+4 tips for prioritizing your tasks
+The best way to understand the difference between urgency and importance is to use the Eisenhower Matrix, but you may still find yourself struggling to prioritize your tasks. Here are some tips that can help you with prioritization as you sort your tasks in each quadrant.
+1. Color-code your tasks
+Color-coding your tasks is a tactic that can help you visualize high-priority items. As you go through your
+to-do list tool
+, try giving yourself four colors based on level of priority. Use the code as follows:
+Green = Highest priority items
+Yellow = Second-highest priority
+Blue = Third-highest priority
+Red = Not a priority
+Once you’ve labeled your tasks by color, these colors will directly translate to your Eisenhower Matrix. Your green tasks are your “do” tasks for quadrant one. Your yellow tasks are your “schedule” tasks for quadrant two. Your blue tasks are your “delegate” tasks for quadrant three, and your red tasks are your “delete” tasks for quadrant four.
+2. Limit tasks to 10 per quadrant
+Even if you have a lot of tasks on your to-do list, try to limit your tasks to 10 items per quadrant. This will keep your Eisenhower Matrix from becoming cluttered and overwhelming.
+You can make multiple matrices, but limiting your task list to necessary
+action items
+will ensure you’re beginning the prioritization process with no time to waste.
+Tired of not Getting Things Done? Master the GTD method in 5 steps
+3. Make personal and professional to-do lists
+Another way to limit the number of items on your Eisenhower Matrix is to create separate matrices for your personal and professional to-do lists.
+Your work and personal tasks require different timelines, resources, and methods, and they’ll likely require different thought processes as well. In order to effectively manage your personal and
+professional goals
+, you’ll need to divide and conquer.
+4. Eliminate, then prioritize
+Eliminate unnecessary tasks first to effectively prioritize. With this strategy, you’ll address quadrant four before moving on to quadrants one, two, and three.
+As you skim through your to-do list, assess what items you’ve written down that don’t need to be there.
+In fact,
+60% of our time
+at work is spent on work about work—things like sharing status approvals or following up on information. If you can quickly scratch off items, go ahead and do so. This will speed up the prioritization process, and you’ll likely go through a second round of elimination on the back end.
+Eisenhower Matrix example
+To get a better understanding of what tasks you may place in each quadrant of your Eisenhower Matrix, we’ve gone ahead and provided some examples for you here.
+Examples of tasks you may include in quadrant 1:
+Examples of tasks you may include in quadrant 2:
+Sign up for a professional development course
+Attend a networking event
+Add improvements to a personal project
+Examples of tasks you may include in quadrant 3:
+Examples of tasks you may include in quadrant 4:
+Remember that it’s best to have separate matrices for work and home life so you can tackle your to-do lists using methods best suited for the time and place.
+How Asana uses work management for project intake
+Learn how Asana's PMO leaders streamline intake and prioritize the right work for the business.
+Sorting through your to-do list is the hardest part of the Eisenhower Matrix, but with automation, you no longer need to do this step manually.
+Use task management software to determine which of your tasks are of highest priority. With task management, you can categorize, color-code, and delegate tasks to your team. Let the Eisenhower Matrix increase your productivity so you can achieve your goals in less time.
+Create an Eisenhower matrix template

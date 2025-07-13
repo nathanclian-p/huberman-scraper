@@ -1,0 +1,886 @@
+maximal oxygen uptake (v̇o
+2max
+)
+in humans was initially described in the 1920s by A. V. Hill (
+27
+,
+28
+). Since then, V̇
+o
+2max
+has been extensively profiled in numerous populations with the upper limit >90 ml·kg
+−1
+·min
+−1
+in a 22-yr-old highly trained elite cross-country skier (
+12
+). In contrast, a V̇
+o
+2max
+of ∼17.5 ml·kg
+−1
+·min
+−1
+[five metabolic equivalents (METs)] is the prognostic exercise capacity for increased risk of mortality and has recently been shown to be a more powerful predictor of mortality than established risk factors for cardiovascular disease (
+41
+). The ∼73 ml·kg
+−1
+·min
+−1
+(21 METs) difference in V̇
+o
+2max
+from the elite endurance athlete and prognostic exercise capacity for mortality represents the largest possible cardiorespiratory reserve in humans. Aerobic capacity is variable (
+33
+), can be improved on the magnitude of 15–30% with endurance training (
+21
+,
+29
+), and is linked to genetic factors that influence upper limits and trainability (
+56
+). Although V̇
+o
+2max
+gradually declines across the life span and is well documented among athletes and nonathletes from age 20 yr to ∼75 yr (
+26
+,
+43
+,
+59
+), little information on V̇
+o
+2max
+and corresponding cardiorespiratory reserve in relationship to lifelong physical activity patterns is available in individuals >80 yr of age.
+1
+This is an emerging knowledge gap for aerobic capacity given that individuals living beyond age 80 yr are the fastest expanding age demographic in our society (
+63
+).
+We recently had the opportunity to examine aerobic capacity in two cohorts of healthy independently living men >80 yr old with differing lifelong physical activity habits. One group consisted of lifelong elite endurance athletes, who were still actively engaged in competitive events, while the other group only performed activities of daily living, with no history of structured exercise. To complement the V̇
+o
+2max
+testing, we obtained skeletal muscle biopsies from their legs to examine the oxidative profile at the cellular and molecular level. We hypothesized that the lifelong endurance athletes would have a greater aerobic profile compared with the age-matched untrained men. The unique aspect of this investigation is that it offers insight into cardiovascular and skeletal muscle health in two distinct phenotypes of healthy octogenarians and establishes new upper limits for aerobic power in men 80–91 years of age.
+METHODS
+Subjects
+Nine lifelong endurance athletes were recruited from a national list of master's cross-country skiers in Sweden. Criteria for inclusion to the lifelong exercise group included a minimum of 50 yr of consistent exercise training with no more than 6 mo of no training at any time point in the past 50 yr. These endurance athletes included a former two-time Olympic champion and several national and regional champions, with a history of vigorous aerobic exercise (4–6 days/wk) and participation in endurance events (cross-country skiing, track and field, and orienteering) throughout their entire adult lives. On average, these veteran athletes had trained ∼8 h/wk (range = 3–20 h) for the past 50+ years. Six men with no history of consistent exercise (beyond activities of daily living) were recruited from Muncie, Indiana, and served as healthy untrained controls. Subject profiles are shown in
+Table 1
+.
+Table 1.
+Subject profile
+Variable
+Octogenarian Athletes
+Untrained Octogenarians
+Age, yr
+81 ± 1
+82 ± 2
+Height, cm
+172 ± 2
+172 ± 4
+Weight, kg
+68 ± 3
+77 ± 5
+BMI, kg/m
+2
+23 ± 1
+*
+26 ± 1
+LBM, kg
+50 ± 2
+50 ± 2
+Hb, g/dl
+14.0 ± 0.3
+14.6 ± 0.7
+Hct, %
+42 ± 1
+43 ± 1
+Glucose, mg/dl
+95 ± 3
+98 ± 5
+Cholesterol, mg/dl
+183 ± 11
+157 ± 15
+Daily Steps
+**
+8026 ± 1210
+*
+4347 ± 1050
+All subjects were carefully screened for past exercise history by filling out an extensive exercise and medical questionnaire and personal interview. All participants underwent a physical examination, which included medical history, blood samples for general health markers, resting ECG, and blood pressure. Participants were excluded if they had any major acute or chronic illness, cardiac, pulmonary, liver, or kidney abnormalities, uncontrolled hypertension, insulin- or noninsulin-dependent diabetes, abnormal blood chemistries, arthritis, a history of neuromuscular problems, or if they smoked tobacco.
+Prior to volunteering for this research, all subjects were briefed on the project objectives and testing procedures by a member of the investigative team. Subjects were informed of the risks and benefits of the research and gave their written consent in accordance with the Human Subjects Institutional Review Boards at Ball State University, Karolinska Institutet, and Mid Sweden University. This study was conducted in accordance with the Declaration of Helsinki.
+Medications
+Four of the nine octogenarian athletes were not taking any prescribed medication, three were taking cholesterol medication, and two were taking blood pressure medication. One of the untrained controls was not taking any prescribed medication. The other five men were taking various cholesterol (
+n
+= 4), blood pressure (
+n
+= 2), thyroid (
+n
+= 2), bladder/prostate (
+n
+= 3), or acid reflux medications (
+n
+= 1). All subjects took over-the-counter pain medication on occasion.
+Daily Physical Activity
+Daily physical activity was indirectly assessed using a pedometer (Lifecorder EX, New LifeStyles, Lees Summit, MO). Subjects were asked to wear the pedometer for 2 wk and to put on the pedometer first thing upon waking and take it off just prior to going to bed each night. Total steps each day were assessed if the subject wore the pedometer for a minimum of 12 h as noted by the first and last movement recorded on each day. Any periods of time >60 min of no recorded movement was not included in the determination of the 12 h.
+Body Composition
+Following 30 min of supine rest, subjects were assessed for body composition via dual X-ray absorptiometry (Lunar Prodigy full-body scanner, Madison, WI). Data were analyzed using enCore 2008 software by GE Health Care. The scanner was calibrated each day prior to the first scan.
+Maximal Oxygen Consumption (V̇
+o
+2max
+)
+Subjects performed a continuous incremental cycle ergometer test with a 12-lead ECG to volitional exhaustion. The endurance athletes warmed up at a 50-W load for two min at 60 RPM. Following the warm-up, the watt load on the cycle ergometer was increased by 15 W/min in a ramped fashion until the subject reached volitional fatigue or could not maintain a cadence of 60 rpm. Similarly, the untrained men warmed up for 2 min at a 20-W load followed by a ramped increase of 10 W/min until volitional fatigue or could not maintain a cadence of 60 rpm. Oxygen uptake was measured breath-by-breath and averaged in 20-s intervals using indirect calorimetry via an automated open circuit system (Ball State: Parvo Medics, Sandy, UT; Karolinska: SensorMedics Vmax, Encore, 229; Viasys Respiratory Care, Yorba Linda, CA). Both systems were calibrated with standardized gases before each test. In addition, the respective pneumotachs were also calibrated before each test using a standard volume of air (3-liter syringe).
+Successful test criteria included a plateau in oxygen uptake with increasing workload, achievement of age-predicted maximum heart rate, a respiratory exchange ratio (RER) of >1.10 or a rating of perceived exertion >19. A physician monitored all testing to ensure subject safety. The average of the highest three consecutive 20-s time points during the last 120 s of the test was used for the measure of maximal oxygen uptake, maximum ventilation, and respiratory exchange ratio. Maximal heart rate was determined from the 12-lead ECG and peak workload from the highest watt output for a completed 20-s stage.
+To compare the Karolinska Institute and Ball State University metabolic carts, a member of the investigative team (S. Trappe) performed a cycle test on each system ∼10-days apart. Because the highest workload obtained by the subjects was 198 W, a comparison evaluation was performed at 100, 150, and 200 W. The V̇
+o
+2
+(l/min) data were nearly identical between systems with values of 1.50, 2.11, and 2.78 l/min and 1.50, 2.08, 2.72 l/min, respectively on the two different metabolic cart systems. The V̇
+o
+2
+at these workloads was in agreement with the predicted oxygen uptake and power output relationship (
+23
+).
+Muscle Biopsy
+The overall approach for the muscle biopsies was identical for the octogenarian athletes and age-matched untrained men. Subjects were asked to refrain from structured exercise and any physical activity outside of normal activities of daily living for 24 h prior to the muscle biopsy. Subjects consumed their normal evening meal and were instructed not to ingest any additional food or caloric beverage until after the muscle biopsy. Subjects arrived at the laboratory in the early morning (∼7:30 AM) by car and had a short walk into the laboratory. Once in the laboratory, subjects rested quietly in the supine position for 30 min. Following this rest period, a muscle biopsy was obtained from the vastus lateralis (
+4
+). Muscle samples were divided into several pieces, quickly frozen in liquid nitrogen, and stored at −190°C for later analysis of enzyme activity and mRNA levels.
+Skeletal Muscle Enzymes
+Oxidative enzymes were determined from a 10- to 20-mg portion of the muscle specimen. Citrate synthase activity was determined through the reduction of DTNB by the release of CoA-SH in the cleaving of acetyl-CoA (
+13
+). β-hydroxyacyl-CoA dehydrogenase (β-HAD) was determined fluorometrically by an indirect measurement of NADH disappearance (
+13
+). All samples were analyzed at the same time using the same chemicals to limit any differences due to potential variations in assays.
+Skeletal Muscle mRNA
+Total RNA extraction and RNA quality check.
+Total RNA was extracted in TRI reagent (Molecular Research Center, Cincinnati, OH). The quality and integrity [RNA integrity number of 8.32 ± 0.06 (SE)] of extracted RNA [0.11 ± 0.01 (SE) μg/μl] were evaluated using an RNA 6000 Nano LabChip kit on an Agilent 2100 Bioanalyzer (Agilent Technologies, Palo Alto, CA).
+Reverse transcription and quantitative PCR.
+Oligo (dT) primed first-strand cDNA was synthesized (150 ng total RNA) using SuperScript II RT (Invitrogen, Carlsbad, CA). Quantification of mRNA levels (in duplicate) was performed in a 72-well Rotor-Gene 3000 centrifugal real-time cycler (Corbett Research, Mortlake, NSW, Australia). Housekeeping gene (HKG) GAPDH was used as a reference gene, as we have previously described (
+31
+,
+45
+). The expression of GAPDH was normalized to a second HKG, RPL01, to compare GAPDH basal level between groups. All primers used in this study were mRNA specific (on different exons and crossing over an intron) and designed for quantitative PCR analysis (qPCR; Vector NTI Advance 9 software) using SYBR green chemistry. Details about primer characteristics and sequences for muscle peroxisome proliferator-activated receptor-γ coactivator 1α (PGC-1α) and mitochondrial transcription factor A (Tfam) have been reported previously by our laboratory (
+14
+,
+24
+,
+64
+). A melting curve analysis was generated to validate that only one product was present. The details about RT and PCR reaction parameters have been reported previously (
+14
+).
+The PGC-1α and Tfam gene expression between groups was compared using the 2
+−ΔC
+T
+(arbitrary units) quantification method (
+36
+). A serial dilution curve (cDNA made from 500 ng of total RNA of human skeletal muscle; Ambion, Austin, TX) was generated for each qPCR run to evaluate reaction efficiencies. The amplification calculated by the Rotor-Gene software was specific and highly efficient (efficiency = 1.04 ± 0.01;
+R
+2
+= 0.99 ± 0.00; slope = 3.22 ± 0.02).
+Statistical Analysis
+Normality of each variable measured was determined using a qq-plot and the Shapiro-Wilk test. Those data that displayed a normal distribution were analyzed using a parametric independent
+t
+-test with the appropriate significance value based on whether equality of variance was assumed or unassumed as determined by Levene's equality of variance test. Nonnormally distributed data were analyzed with a nonparametric independent
+t
+-test. The Pearson correlation test was used for the correlation analyses. All data are presented as means ± SE.
+RESULTS
+Maximal Aerobic Capacity
+The mean ± SE values for V̇
+o
+2max
+, ventilation, heart rate, O
+2
+pulse, RER, and final workload achieved during the maximal cycling test are shown in
+Table 2
+. Absolute V̇
+o
+2max
+(l/min) was 58% higher (
+P
+< 0.05) in the octogenarian athletes. When expressed relative to body weight, V̇
+o
+2max
+(ml·kg
+−1
+·min
+−1
+) was 80% higher (
+P
+< 0.05). The octogenarian athletes also had 25% higher ventilation and 41% higher O
+2
+pulse (
+P
+< 0.05). Although the maximal heart rate was, on average, 14 beats per minute (bpm) higher in the endurance-trained men, this was not significant because of the wide range in observed maximal heart rates. No difference in the maximal RER was observed, with both groups of men achieving levels above 1.10, which was further confirmation of achieving maximal cardiorespiratory values. The maximal workload achieved during the test was 51 W (+39%) greater (
+P
+< 0.05) in octogenarian athletes compared with the untrained octogenarians.
+Table 2.
+Maximal aerobic power test data
+Variable
+Octogenarian Athletes
+Untrained Octogenarians
+V̇
+o
+2
+, l/min
+2.56 ± 0.06
+*
+1.62 ± 0.14
+V̇
+o
+2
+, ml·kg
+−1
+·min
+−1
+38 ± 1
+*
+21 ± 1
+V̇
+o
+2
+, ml·kg LBM
+−1
+·
+min
+−1
+52 ± 2
+*
+32 ± 2
+V̇
+e
+, l/min
+79 ± 3
+*
+63 ± 6
+Heart rate, bpm
+160 ± 5
+146 ± 8
+O
+2
+pulse, ml O
+2
+/beat
+16.1 ± 0.5
+*
+11.4 ± 1.4
+RER
+1.12 ± 0.02
+1.19 ± 0.03
+Final workload, W
+182 ± 4
+*
+131 ± 14
+Individual V̇
+o
+2max
+(ml·kg
+−1
+·min
+−1
+) data points for the octogenarian athletes and untrained octogenarians are shown in
+Fig. 1
+. For comparison, representative V̇
+o
+2max
+data across the life span are shown along with a prognostic value for exercise capacity and mortality (5 METs).
+Fig. 1.
+Individual V̇
+o
+2max
+data from the octogenarian lifelong endurance athletes and healthy untrained octogenarians. The dotted line represents the prognostic exercise capacity [5 metabolic equivalents (METs), 17.5 ml·kg
+−1
+·min
+−1
+] generally necessary for an independent lifestyle and associated with an increased risk for mortality as described by Meyers et al. (
+41
+). The normative values for healthy men across the life span (
+n
+= 44,549) were originally obtained from the Cooper Institute in Dallas, TX, and have been summarized by the American College of Sports Medicine (
+1
+).
+Skeletal Muscle Enzymes
+Figure 2
+shows oxidative enzyme activity for citrate synthase and β-HAD. Citrate synthase (+54%) and β-HAD (+42%) were higher (
+P
+< 0.05) in the octogenarian athletes compared with the untrained octogenarians.
+Fig. 2.
+Citrate synthase and β-hydroxyacyl-CoA dehydrogenase (β-HAD) skeletal muscle enzyme activity from octogenarian lifelong endurance athletes and healthy untrained octogenarian men.
+Skeletal Muscle Basal Gene Expression
+Basal levels of PGC-1α and Tfam mRNA were 135% and 80% greater (
+P
+< 0.05), respectively, in the octogenarian athletes compared with the untrained octogenarians (
+Fig. 3
+).
+Fig. 3.
+Basal peroxisome proliferator-activated receptor-γ coactivator 1α (PGC-1α) and mitochondrial transcription factor A (Tfam) mRNA levels in skeletal muscle from octogenarian lifelong endurance athletes and healthy untrained octogenarian men.
+Correlations
+A positive correlation between V̇
+o
+2max
+and final workload was observed (
+r
+= 0.94;
+P
+< 0.05). A low correlation was observed between V̇
+o
+2max
+and maximal heart rate (
+r
+= 0.27). V̇
+o
+2max
+was positively correlated to maximal ventilation (
+r
+= 0.67;
+P
+< 0.05) and O
+2
+pulse (
+r
+= 0.89;
+P
+< 0.05). Additionally, similar positive correlations were observed between V̇
+o
+2max
+and each of the four skeletal muscle oxidative markers (citrate synthase, β-HAD, PGC-1α, and Tfam) from the vastus lateralis muscle (
+r
+= 0.55–0.61;
+P
+< 0.05).
+DISCUSSION
+The unique aspect of this investigation was the physiological assessment of two cohorts of healthy independent living men >80 yr old with different lifelong physical activity habits. The endurance athletes had been engaged in vigorous aerobic exercise their entire adult lives and were still active in various competitive events and exercised 4–6 days/wk. The age-matched untrained men had no history of structured exercise but must also be considered a unique group of individuals given their age, independent lifestyle, overall health profile, and full engagement in the maximal testing efforts performed in this study. The exercise routine and activities of daily living resulted in the lifelong endurance athletes averaging ∼3,700 more steps per day compared with the nonexercisers. However, the ∼4,300 steps/day of the untrained octogenarians constitutes a respectable amount of physical activity for individuals in this age group, and it further highlights their overall mobility and health status. The primary finding from this investigation was the remarkably high aerobic capacity of the lifelong endurance-trained athletes that are the highest ever reported among octogenarians. The high aerobic power profile was complemented by a robust skeletal muscle oxidative profile at the cellular and molecular level. These data provide insight into cardiovascular and skeletal muscle health in two distinct phenotypes of healthy octogenarians and establish new records for aerobic power in men 80–91 yr of age.
+The V̇
+o
+2max
+range for the nine lifelong exercisers was fairly homogeneous (34–42 ml·kg
+−1
+·min
+−1
+), with seven men ≥36 ml·kg
+−1
+·min
+−1
+and two men >40 ml·kg
+−1
+·min
+−1
+(
+Fig. 1
+). The most unique individual in our group was a 91-yr-old former Olympic champion with an aerobic capacity of 36 ml·kg
+−1
+·min
+−1
+(2.36 l/min). Likewise, the untrained healthy octogenarians had a homogeneous V̇
+o
+2max
+(17–24 ml·kg
+−1
+·min
+−1
+), with four of the six men >20 ml·kg
+−1
+·min
+−1
+and the other two near the 5 MET prognostic exercise capacity for increased risk of dependence and mortality. For comparison, we identified 21 published studies that measured aerobic capacity in individuals >80 yr of age, and these are summarized in
+Table 3
+. From these studies, a total of 464 individuals were identified with 42% men and 58% women. We aggregated an average V̇
+o
+2max
+from reported mean data and, in some cases, estimated individual data points presented graphically in the papers. Overall, the average V̇
+o
+2max
+was 21 ± 4 ml·kg
+−1
+·min
+−1
+from the 195 men and 18 ± 4 ml·kg
+−1
+·min
+−1
+from the 269 women. For the men, this was identical to the 21 ± 1 ml·kg
+−1
+·min
+−1
+of the untrained men in our study. The physical characteristics and physical activity levels from these 195 men were comparable to the untrained men in our study, and thus, it is not surprising that the V̇
+o
+2max
+was similar. Only one study had a subject population that was comparable to the octogenarian athletes in our study. Harridge et al. (
+25
+) reported a V̇
+o
+2max
+of 27 ± 5 ml·kg
+−1
+·min
+−1
+(1.80 l/min) in five men >80 yr with a history of lifelong endurance exercise and were described as highly active at the time of the physiological assessment. On average, the octogenarian athletes in the current study had ∼40% greater aerobic capacity in both relative and absolute terms compared with the lifelong exercisers tested by Harridge et al. (
+25
+), and ∼80% greater than the age-matched untrained men profiled by us and the other study populations summarized in
+Table 3
+.
+Table 3.
+Summary of literature on V̇
+o
+2max
+in men and women >80 yr
+Men
+Women
+Reference
+Subject Population
+Fitness Profile
+Age, yr
+Men, n
+Women, n
+Test Mode
+V̇
+o
+2max
+, l/min
+V̇
+o
+2max
+, ml·kg
+−1
+·min
+−1
+Heart Rate, bpm
+V̇
+o
+2max
+, l/min
+VO
+2
+max, ml·kg
+−1
+·min
+−1
+Heart Rate, bpm
+Cross-sectional Studies
+Dill and Wasserman, 1964 (
+17
+)
+Physiologist
+Active
+90
+1
+C
+1.31
+21.1
+Posner et al., 1987 (
+44
+)
+a
+Senior center
+Healthy nonactive
+>80
+2
+2
+C
+21.0
+18.0
+Fleg and Lakatta, 1988 (
+20
+)
+a
+Independent living
+Healthy nonactive
+80–87
+7
+3
+T
+21.7
+19.7
+Babcock et al., 1992 (
+3
+)
+a
+Independent living
+Healthy nonactive
+84
+1
+C
+1.38
+Toth et al., 1994 (
+57
+)
+a
+Independent living
+Healthy nonactive
+80
+1
+2
+T
+1.30
+1.07
+Malbut et al., 1995 (
+39
+)
+b
+“Medically stable”
+Not reported
+79–82
+10
+C
+1.52
+23.0
+141
+de Wild et al., 1995 (
+16
+)
+a
+Independent living
+Varied
+80–87
+18
+C
+23.8
+Takeshima et al., 1996 (
+54
+)
+a
+Independent living
+Active (3d/wk)
+≥80
+5
+C
+21.1
+Independent living
+Healthy nonactive
+≥80
+11
+C
+15.4
+Harridge et al., 1997 (
+25
+)
+b
+Lifelong endurance
+Vigorous Exercisers
+>80
+5
+C + T
+1.80
+27.1
+139
+Binder et al., 1999 (
+6
+)
+b
+Independent living
+Healthy nonactive
+83 ± 4
+101
+T
+15.0
+131
+Paterson et al., 1999 (
+42
+)
+b
+Independent living
+Healthy nonactive
+80–87
+17
+19
+T
+1.30
+18.2
+144
+0.97
+16.1
+143
+Malatesta et al., 2004 (
+38
+)
+b
+Independent living
+Healthy active
+83 ± 3
+1
+9
+T
+1.39
+23.1
+128
+Stathokostas et al., 2004 (
+53
+)
+a
+Independent living
+Not clearly stated
+80–90+
+6
+3
+T
+18.4
+19.5
+Simar et al., 2005 (
+50
+)
+b
+Independent living
+Healthy active
+81 ± 1
+4
+13
+T
+28.7
+144
+C
+23.0
+138
+Lötscher et al., 2007 (
+37
+)
+a
+Independent living
+Healthy active
+81 ± 3
+23
+32
+C
+25.9
+144
+18.2
+135
+Training Studies
+Malbut et al., 2002 (
+40
+)
+b
+Independent living
+Healthy nonactive
+80–87
+9
+12
+C
+1.49
+21.8
+138
+0.79
+13.8
+126
+Trained (24 wk AE)
+1.47
+22.2
+137
+0.91
+16.2
+129
+Binder et al., 2002 (
+7
+)
+b
+Independent living
+Healthy nonactive
+83 ± 4
+23
+26
+T
+15.8
+15.4
+Independent living
+Trained (36 wk program)
+15.1
+15.2
+Independent living
+Healthy nonactive
+83 ± 4
+32
+34
+T
+16.2
+14.4
+Independent living
+Trained (36 wk program)
+18.5
+16.3
+Vaitkevicius et al., 2002 (
+61
+)
+b
+Independent living
+Healthy nonactive
+84 ± 4
+11
+11
+T
+1.23
+18.3
+133
+Trained (6 mo AE)
+1.31
+19.4
+131
+Evans et al., 2005 (
+19
+)
+b
+Independent living
+Healthy nonactive
+77–87
+8
+2
+T
+1.61
+22.9
+154
+Trained (40–48 wk AE)
+1.81
+26.3
+154
+Recent studies have shown that all-cause mortality risk with increasing exercise capacity reaches an asymptote at 10 METs for men (
+8
+,
+34
+). The ∼11 MET exercise capacity of the octogenarian athletes places them in the lowest mortality risk category and further highlights the extraordinary cardiorespiratory fitness level of these men. For every 1-MET level increase in exercise capacity above 5 METs, the mortality risk is 12% lower (
+34
+,
+41
+). On the basis of exercise capacity, the octogenarian athletes have a ∼50% lower all-cause mortality risk compared with the untrained octogenarians. While exercise capacity is typically a modifiable risk factor, the trainability of the cardiorespiratory and skeletal muscle systems appears attenuated among octogenarians (
+19
+,
+51
+). Thus, the large cardiorespiratory reserve of the octogenarian athletes (∼6 METs), which is nearly equivalent to the exercise capacity of the untrained men, may be even more important to remain above the threshold for aerobic frailty, subsequent disability, and mortality (
+9
+,
+34
+,
+62
+).
+It is also noteworthy that the high aerobic power achieved by the octogenarian athletes is comparable to healthy nonendurance-trained men ∼20 yr younger (75th percentile), ∼40 yr younger (50th percentile), and ∼60 yr younger (20th percentile) (
+Fig. 1
+) (
+1
+). While the lifelong vigorous exercise routine of these aging athletes was a key element to their high aerobic capacity measured in our study, their elite athletic achievements as young adults (age 20–30 yr) suggest they had aerobic capacities at the upper range for humans. An estimated V̇
+o
+2 max
+of 80 ml·kg
+−1
+·min
+−1
+during their prime competitive years would translate to a ∼7.5% decline per decade in aerobic capacity. This is comparable to previous longitudinal and cross-sectional studies that have shown the decline in aerobic capacity of highly trained master runners to be ∼5–7% per decade (
+26
+,
+43
+,
+59
+). However, data from these studies were based upon subjects tested at ages ranging from ∼45 to ∼70 yr old. Although data from the aging athletes of the current study are limited to a single time point, they support the idea that a 5–7% decline in V̇
+o
+2 max
+with age can be extended to lifelong endurance athletes in their 80s and 90s.
+Decreases in maximal heart rate have generally been viewed as the primary cause for a reduction in aerobic capacity with age (
+22
+,
+26
+,
+55
+), although this is not universally accepted in aging (>60 yr) athletes (
+47
+). The average maximal heart rate of 160 beats/min in the octogenarian athletes was the highest reported to date for this age group, but it should be interpreted with some caution, given the high variability that we observed among them (range =134–181 bpm). Six of the nine octogenarian athletes (67%) had a maximal heart rate >160 bpm, which included the 91-yr-old Olympian (169 bpm). Likewise, the untrained men were also quite variable (range = 126–168 bpm), with only two individuals (33%) that had a maximal heart rate >160 bpm. The untrained men's average maximal heart rate was similar to reports in the literature (
+Table 3
+). The variability in heart rate among our subject populations was higher than typically observed across the life span (<80 yr) (
+55
+). The reason for this large variability is unknown, but may be related to the age of the subjects, as several studies have reported a large range in maximal heart rate in individuals >80 yr of age (
+18
+,
+25
+,
+37
+,
+42
+,
+52
+). None of our subjects were taking heart medications that would have directly influenced heart rate. The higher heart rate of the octogenarian athletes challenges the idea that the decline in maximal heart rate with age is typically independent of activity level (
+10
+,
+22
+,
+26
+,
+43
+,
+55
+,
+59
+). Although the high variability in maximal heart rate limits our interpretation, these data provide a preliminary indication that lifelong vigorous endurance exercise may attenuate the decline in maximal heart rate among individuals >80 yr of age.
+The higher O
+2
+pulse observed in the octogenarian athletes is in agreement with previous studies on master athletes compared with age-matched nonexercisers (
+22
+,
+43
+,
+47
+). Oxygen pulse, an indirect indicator of stroke volume, is typically ∼25 ml/min in young endurance athletes (
+59
+) and declines ∼40% (to ∼18 ml/min) in ∼70-yr-old master athletes (
+43
+,
+59
+). The 16 ml/min O
+2
+pulse of the octogenarian athletes suggest a modest ∼12% reduction with the additional 10–20 yr of aging and continued endurance training. It has been well established that the cardiac tissue stiffens with age, which decreases compliance and overall performance of the heart (
+35
+). However, lifelong endurance exercisers (∼65–75 yr) have been shown to maintain a large proportion of their cardiac function as they age (
+2
+,
+10
+,
+48
+). A higher blood volume is associated with training status and may be higher in older active individuals, which would aid in heart dynamics (
+15
+,
+32
+). Although we do not have more detailed heart data or blood volume measures, the higher O
+2
+pulse and high correlation to V̇
+o
+2 max
+suggest enhanced cardiac function among the octogenarian athletes compared with the untrained men.
+We observed higher maximal ventilation among the octogenarian athletes (range = 65–97 l/min) compared with the untrained men (range = 34–78 l/min). Seven of the nine octogenarian athletes (78%) had maximal ventilation >75 l/min, while only one of the untrained men (16%) achieved this level. We observed a positive correlation between ventilation and V̇
+o
+2 max
+, which has been previously reported among older individuals with varying habitual activity levels (
+43
+). The ventilatory efficiency (minute ventilation/V̇
+o
+2
+) was ∼25% lower among the octogenarian athletes and was comparable to young (25 yr) and master-level (45–65 yr) endurance-trained men (
+22
+,
+47
+,
+59
+), suggesting that efficiency at the lungs was relatively unchanged despite the diminished capacity observed in the life-long endurance athletes.
+The muscle biopsy data presented are the first from highly endurance-trained octogenarian athletes. We observed a higher oxidative profile of mitochondrial markers in the octogenarian athletes compared with the untrained octogenarians. These data suggest that lifelong endurance training enhances mitochondrial function in individuals >80 yr of age. Similarly, middle-aged (45–50 yr) and older (70 yr) lifelong endurance athletes have a higher oxidative profile compared with untrained counterparts (
+30
+,
+58
+). The differences in mitochondrial function between the octogenarian athletes and untrained octogenarians were comparable in magnitude to improvements with endurance training in young individuals (
+11
+,
+21
+). It is important to note that mitochondrial function normally declines with age, and this decline does not appear to be reversible with endurance training in sedentary adults >80 yr old or very old animals (
+5
+,
+18
+,
+49
+). Consequently, maintaining a higher oxidative profile as a result of lifelong endurance training likely provides these athletes with greater metabolic flexibility that would be unique for this age category and result in numerous positive health benefits. It must also be considered that in addition to the lifelong endurance exercise of the octogenarian athletes, genetic networks favorable for mitochondrial biogenesis are a potential contributing factor to the enhanced oxidative profile that we observed from these men (
+60
+).
+The higher skeletal muscle oxidative profile among the octogenarian athletes complemented the cardiovascular profile. Both mitochondrial enzyme activity (citrate synthase and β-HAD) and levels of mitochondrial genes (PCG1-α and Tfam) were positively related to aerobic capacity among our subject pool. In this regard, the integrated performance of the skeletal muscle and cardiovascular systems resulted in a 39% greater dynamic power output on the bicycle ergometer during the maximal test to volitional exhaustion in the octogenarian athletes compared with the untrained octogenarians.
+In summary, the cardiovascular and skeletal muscle profile of the octogenarian athletes was approximately double compared with the untrained octogenarians. This is characteristic of a highly trained endurance phenotype and is likely reflective of their lifelong endurance exercise habits, as well as their genetic traits. The remarkable aerobic capacity (∼11 METs) and corresponding functional reserve among the octogenarian athletes are the highest ever recorded in this age group and places them in the lowest all-cause mortality risk category for men of any age. In contrast, untrained independent-living octogenarians have a low functional capacity (∼6 METs) and limited cardiovascular and skeletal muscle plasticity in response to high-intensity exercise programs (
+18
+,
+19
+,
+46
+,
+51
+), thereby providing a significant challenge to remain above the aerobic frailty threshold. The current study supports the idea that a lifestyle incorporating lifelong endurance exercise helps maintain the plasticity of numerous physiological systems beyond 80 yr of age, which has direct benefits to overall health and reduces the risk of disability and mortality.
+GRANTS
+This research was supported by the National Institutes of Heath (NIH; Grant AG038576 to S. Trappe), National Aeronautics and Space Administration (NASA; Grant NNJ04HF72G to S. Trappe), Swedish National Space Board (P. Tesch), Swedish Medical Research Council (T. Gustafsson), and Marianne & Marcus Wallenberg Foundation (T. Gustafsson).
+DISCLOSURES
+No conflicts of interest, financial or otherwise, are declared by the authors.
+AUTHOR CONTRIBUTIONS
+Author contributions: S.T. and P.A.T. conception and design of research; S.T., E.H., A.G., L.K., B.J., W.F., T.T., A.J., T.G., and P.T. performed experiments; S.T., E.H., B.J., and W.F. analyzed data; S.T., E.H., and L.K. interpreted results of experiments; S.T. prepared figures; S.T. drafted manuscript; S.T., E.H., A.G., L.K., B.J., W.F., T.T., T.G., and P.T. edited and revised manuscript; S.T., E.H., A.G., L.K., B.J., W.F., T.T., A.J., T.G., and P.T. approved final version of manuscript.
+FOOTNOTES
+ACKNOWLEDGMENTS
+We would like to thank Tommy Lundberg, Rodrigo Fernandez Gonzalo, and Kevin Murach for their technical assistance.

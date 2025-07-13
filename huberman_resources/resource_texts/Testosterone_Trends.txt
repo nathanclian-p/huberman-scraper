@@ -1,0 +1,23 @@
+From 1999 to 2016, testosterone levels have declined in adolescent and young adult men (AYA), according to results presented at the 2020 American Urological Association Virtual Experience
+1
+.
+“Overall male testosterone decline can be attributed to multiple etiologies. The United States has an aging population with older males exhibiting lower testosterone levels. Furthermore, overall population has an increase in comorbidities, including diabetes, which may have cause this testosterone decrease nationally,” Soum Lokeshwar, MD, MBA, incoming urology resident at Yale School of Medicine, New Haven, Connecticut, said during a press briefing.
+“However, most of these explanations for testosterone deficiency may be attributed to age. This time-dependent decline in testosterone has not been investigated in adolescent and young adult males,” added Lokeshwar, who was at the University Of Miami Miller School of Medicine, Miami, Florida, at the time of the study.
+Testosterone deficiency has a prevalence of 10%-40% among adult males, and 20% among AYA men aged 15-39 years, he added. Therefore, Lokeshwar and colleagues hypothesized that serum total testosterone levels will decline in AYA men.
+The investigators used data from the National Health and Nutrition Examination Surveys (NHANES) from 1999 to 2016 to analyze serum testosterone level changes over time in 4045 AYA males. During the study periods, 3 different assays (Biotin-Streptavidin from 1999-2004, IS-Liquid Chromatography from 2011-2012, and High-Performance-Liquid-Chromatography Tandem Mass Spectrometry from 2013 onwards) were used. However, of note, they demonstrate comparable testosterone values with only some additional accuracy in the latest modality, Lokeshwar said.
+After controlling for confounders—including year of study, age, race, BMI, comorbidity status, alcohol and smoking use, and level of physical activity—total testosterone was lower among men in the later (2011-2016) versus earlier (1999-2000) cycles (
+P
+< 0.001). Mean total testosterone decreased from 1999-2000 (605.39 ng/dL), 2003-2004 (567.44 ng/dL), 2011-2012 (424.96 ng/dL), 2013-2014 (431.76 ng/dL), and 2015-2016 (451.22 ng/dL; all
+P
+< .0001).
+Elevated BMI was associated with reduced total testosterone levels (P < .0001), with the mean BMI increasing from 25.83 in 1999-2000, to 27.96 in 2015-2016 (
+P
+= 0.0006). Lokeshwar noted that even men with a normal BMI (18.5-24.9) had declining total testosterone levels (
+P
+< .05) during the same time frames.
+Potential causes include increased obesity/BMI, assay variations
+According to Lokeshwar, potential causes for these declines could be increased obesity/BMI, assay variations, diet/phytoestrogens, declined exercise and physical activity, fat percentage, marijuana use, and environmental toxins.
+“We’ve seen that lower values of testosterone have been associated with increased comorbidities and an increase risk for all-cause mortality. This decline specifically, in these young adult men, with increased obesity may lead to an increase in precocious cancer,” Lokeshwar said, adding such decreases can also result in a lower libido and an increased risk for erectile dysfunction.
+“This is especially worrisome in this young adult age group, as many men feel stigma and are less likely to seek care for these low libido and erectile dysfunction.” Lokeshwar added. “Testosterone levels in AYA men are used as the benchmark normal levels for testosterone. This is very scary, because generally, when we think of normal values of testosterone, we treat based upon this age group. This may ultimately lead to the undertreatment of testosterone deficiency, which can have large ramifications and severe consequences.”
+Reference
+1. Patel P, Fantus R, Lokeshwar S, et al. Trends in Serum Testosteron Levels Among Adolescent and Young Adults Men in the United State. Presented at: 2020 AUA Virtual Experience; May 15, 2020. Abstract MP78-01.

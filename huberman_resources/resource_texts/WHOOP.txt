@@ -1,0 +1,15 @@
+Disclaimers
+Healthspan
+This feature is not available for users under the age of 18. This feature is for wellness purposes only and not for medical use. Healthspan is not yet available on 4.0 trials.
+Blood Pressure Insights (Beta)
+Blood Pressure Insights (beta) is not a medical device and cannot diagnose or manage medical conditions. It does not provide medical advice. Always consult your doctor for health concerns and never delay or modify medical care based on its information. Blood Pressure Insights is not intended for use if you are pregnant or on blood pressure medication.
+Irregular Heart Rhythm Notifications
+This feature is not intended for users with known atrial fibrillation or users under 22 years old. IHRN is a medically regulated feature and is not available in your region. Find out where else it's available
+here
+.
+Women's Hormonal Insights
+Menstrual Cycle Insights is not a medical device or medical advice and should not be used for conception or contraception. All phases, including the ovulatory phase, are estimates.
+ECG
+This feature is not intended for users with known arrhythmias other than AFib or users under 22 years old. It is not recommended for users with a cardiac pacemaker, ICDs or other implanted electronic devices. ECG is a medically regulated feature and is not available in every region. Find out where else it's available
+here
+.

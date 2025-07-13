@@ -1,0 +1,129 @@
+Patient Adherence to Cognitive-Behavioral Therapy Predicts Long-Term Outcome in Obsessive-Compulsive Disorder
+To the Editor:
+Our prior research
+1
+demonstrated that patient adherence to homework during cognitive-behavioral therapy (CBT) strongly predicts acute outcome for patients with obsessive-compulsive disorder (OCD). To examine whether homework adherence also predicts outcome at 6-month follow-up, we capitalized on data from a clinical trial
+2
+that provided CBT consisting of exposure and ritual prevention (EX/RP) to 30 adults with OCD, measured homework adherence during acute treatment using a reliable and validated scale, and reevaluated severity of OCD 6 months later.
+Method.
+In brief, 30 adults with
+DSM-IV
+-defined OCD were randomly assigned to EX/RP (n
+=
+15) or EX/RP augmented by motivational interviewing strategies (n
+=
+15). Recruitment for the trial occurred from May 2007-January 2009; the trial is further described elsewhere.
+2
+Both treatments followed standard EX/RP procedures
+3
+and included 3 introductory sessions, 15 exposure sessions, and daily homework assignments over 9 weeks. Because there were no significant group differences in patient adherence or treatment outcome at the end of treatment, the groups were combined for these analyses.
+Patient homework adherence was assessed by the therapist at each exposure session using the Patient EX/RP Adherence Scale (PEAS). Shown to be both reliable and valid,
+1
+,
+4
+this 3-item scale assesses patient adherence to exposures and ritual prevention assigned by the therapist as homework. The mean PEAS score, an average of scores across all exposure sessions during acute treatment, has a possible range from 1 (0% adherence) to 7 (100% adherence). OCD severity was evaluated at several timepoints (eg, week 0, week 9, and 6-month follow-up) by independent evaluators using the Yale-Brown Obsessive-Compulsive Scale (YBOCS).
+5
+,
+6
+Mixed-effects regression was used to model YBOCS score as a function of time (=
+0 at 9 weeks and =
+1 at 6 months), PEAS score, baseline YBOCS score, and time-by-PEAS interaction, where the PEAS score is the mean PEAS score during acute treatment. We tested the association between PEAS scores during acute treatment and OCD severity at week 9 and at 6-month follow-up using contrasts within this model.
+Results.
+Of the 30 patients who entered, 25 completed acute EX/RP treatment, and 24 were successfully recontacted 6 months later. Mean (SD) age in years was 40 (13), 14 (47%) were female, and 12 (40%) were being treated with medication (11 receiving a selective serotonin reuptake inhibitor [plus bupropion {n
+=
+2} or a benzodiazepine {n
+=
+2}] and 1 receiving a benzodiazepine alone).
+The mean (SD) PEAS score, indicating patient homework adherence during EX/RP treatment, was 5.2 (0.9) as averaged across all individuals. Adherence varied between individuals, with mean PEAS scores for individuals ranging from 3.2 (<
+50% adherence) to 6.4 (>
+90% adherence). The mean (SD) YBOCS scores, indicating OCD severity, were 28 (4) at baseline (week 0), 14 (8) after EX/RP treatment (week 9), and 18 (9) at 6-month follow-up.
+Patient adherence was associated with OCD severity at week 9 (
+z
+=
+−5.0247,
+P
+=
+.0000) and 6-month follow-up (
+z
+=
+−3.7905,
+P
+=
+.0002). At week 9, a 1-unit PEAS increase (ie, better adherence) corresponded to a 6.5-point YBOCS decrease, a clinically meaningful reduction in OCD severity (as defined by Whittal et al
+7
+and Tolin et al8
+). At 6-month follow-up, a 1-unit PEAS increase corresponded to a 6.4-point YBOCS decrease. Post hoc analyses revealed that early adherence (using PEAS scores from only the first 5 exposure sessions) also predicted 6-month outcome (
+z
+=
+−2.5743,
+P
+=
+.0100); a 1-unit increase in early PEAS score corresponded to a 4.8-point YBOCS decrease at 6-month follow-up.
+Patient homework adherence predicted OCD outcome not only after acute EX/RP treatment but also at 6-month follow-up. Even early adherence predicted 6-month outcome. Future research will need to investigate the mechanism of this long-term effect; perhaps those who adhere during acute EX/RP treatment are more likely to use the skills on their own after treatment has ended. Future research should also examine whether those with poor adherence will benefit more from an intervention to improve adherence specifically or from a different type of treatment altogether. In the meantime, clinicians should pay close attention to early patient adherence and seek to improve it in any way they can.
+Trial Registration:
+ClinicalTrials.gov identifier:
+NCT00316316
+References
+1. Simpson HB, Maher MJ, Wang Y, et al. Patient adherence predicts outcome from cognitive behavioral therapy in obsessive-compulsive disorder.
+J Consult Clin Psychol
+. 2011;79(2):247-252.
+PubMed
+doi:10.1037/a0022659
+2. Simpson HB, Zuckoff AM, Maher MJ, et al. Challenges using motivational interviewing as an adjunct to exposure therapy for obsessive-compulsive disorder.
+Behav Res Ther
+. 2010;48(10):941-948.
+PubMed
+doi:10.1016/j.brat.2010.05.026
+3. Kozak MJ, Foa EB.
+Mastery of Obsessive-Compulsive Disorder: A Cognitive-Behavioral Approach
+. San Antonio, TX: The Psychological Corporation; 1997.
+4. Simpson HB, Maher M, Page JR, et al. Development of a patient adherence scale for exposure and response prevention therapy.
+Behav Ther
+. 2010;41(1):30-37.
+PubMed
+doi:10.1016/j.beth.2008.12.002
+5. Goodman WK, Price LH, Rasmussen SA, et al. The Yale-Brown Obsessive Compulsive Scale, 1: development, use, and reliability.
+Arch Gen Psychiatry
+. 1989;46(11):1006-1011.
+PubMed
+doi:10.1001/archpsyc.1989.01810110048007
+6. Goodman WK, Price LH, Rasmussen SA, et al. The Yale-Brown Obsessive Compulsive Scale, 2: validity.
+Arch Gen Psychiatry
+. 1989;46(11):1012-1016.
+PubMed
+doi:10.1001/archpsyc.1989.01810110054008
+7. Whittal ML, Robichaud M, Thordarson DS, et al. Group and individual treatment of obsessive-compulsive disorder using cognitive therapy and exposure plus response prevention: a 2-year follow-up of two randomized trials.
+J Consult Clin Psychol
+. 2008;76(6):1003-1014.
+PubMed
+doi:10.1037/a0013076
+8. Tolin DF, Diefenbach GJ, Gilliam CM. Stepped care versus standard cognitive-behavioral therapy for obsessive-compulsive disorder: a preliminary study of efficacy and costs.
+Depress Anxiety
+. 2011;28(4):314-323.
+PubMed
+doi:10.1002/da.20804
+Helen Blair Simpson, MD, PhD
+simpson@nyspi.columbia.edu
+Sue M. Marcus, PhD
+Allan Zuckoff, PhD
+Martin Franklin, PhD
+Edna B. Foa, PhD
+Author affiliations:
+Division of Clinical Therapeutics (Dr Simpson) and Division of Biostatistics (Dr Marcus), New York State Psychiatric Institute, New York; Department of Psychiatry (Drs Simpson and Marcus) and Department of Biostatistics (Dr Marcus), Columbia University, New York, New York; Departments of Psychology and Psychiatry, University of Pittsburgh, Pittsburgh, Pennsylvania (Dr Zuckoff); and Department of Psychiatry, University of Pennsylvania School of Medicine, Philadelphia (Drs Franklin and Foa).
+Potential conflicts of interest:
+Dr Simpson
+has received medication at no cost from Janssen for a National Institute of Mental Health-funded trial (2006-2012), research funds from Transcept (2011-present) and Neuropharm (2009) and royalties from Cambridge University Press and UpToDate; and has served on scientific advisory boards for Pfizer (about Lyrica, 2009-2010) and Jazz (about Luvox CR, 2007-2008).
+Dr Foa
+has received research support from Pfizer, Solvay, Eli Lilly, SmithKline Beecham, GlaxoSmithKline, Cephalon, Bristol-Myers Squibb, Forest, Ciba-Geigy, Kali-Duphar, and the American Psychiatric Association; has been a speaker for Pfizer, GlaxoSmithKline, Forest, the American Psychiatric Association, and Jazz; has been a consultant for Actelion; and receives royalties from Bantam and Oxford University Press.
+Drs Marcus
+,
+Zuckoff
+, and
+Franklin
+report no potential conflict of interest.
+Funding/support:
+This study was funded by the National Institute of Mental Health (R34 MH071570) and a 2005 NARSAD Young Investigator Award to Dr Simpson.
+Acknowledgments:
+The authors thank staff of the Anxiety Disorders Clinic and Dr Shawn Cahill for helping to conduct this trial. Dr Cahill reports no potential conflict of interest. The authors also thank Stephen and Constance Lieber for supporting Dr Simpson as a NARSAD Lieber Investigator.
+doi:10.4088/JCP.12l07879
+© Copyright 2012 Physicians Postgraduate Press, Inc.

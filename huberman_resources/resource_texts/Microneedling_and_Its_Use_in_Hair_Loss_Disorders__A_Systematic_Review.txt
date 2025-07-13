@@ -1,0 +1,261 @@
+Of the 42 full texts accessed to assess eligibility, 20 were excluded on the basis of the wrong intervention (
+n
+= 2), outcome (
+n
+= 4), or study design (
+n
+= 14). A total of 22 clinical studies met our criteria for inclusion: 17 trials with randomization and 5 nonrandomized prospective cohorts (Fig.
+1
+). Jadad scores ranged from 1 to 3, with a mean score of 2 (Table S1).
+Fig. 1
+PRISMA flowchart. A PRISMA flowchart detailing the process of eligibility for all records reviewed for the literature review, as well as the number of studies identified, screened, excluded, and included
+Of the 22 studies, 16 were conducted on AGA subjects, 4 on alopecia areata subjects, 1 on alopecia totalis subjects, and 1 on both AGA and telogen effluvium (TE) subjects. A total of 1127 subjects (856 males and 269 females) were included featuring the following hair loss types: AGA (
+n
+= 911), AA (
+n
+= 201), AT (
+n
+= 8), and TE (
+n
+= 7) [
+11
+,
+12
+,
+13
+,
+14
+,
+15
+,
+16
+,
+17
+,
+18
+,
+19
+,
+20
+,
+21
+,
+22
+,
+23
+,
+24
+,
+25
+,
+26
+,
+27
+,
+28
+,
+29
+,
+30
+,
+31
+,
+32
+].
+AGA
+Patients
+Within studies featuring AGA subjects, enrollment ages ranged from 18 to 70 years, with a subject-weighted average of 33.75 years. Of the 15 studies with male AGA subjects, 1 did not enroll subjects based on a classification system, while 14 included males with hair loss based on the Norwood–Hamilton scale: I (0.0%), II (46.7%), III (93.3%), IV (93.3%), V (60%), and VI (26.7%). Of the seven studies with female AGA subjects, one did not enroll subjects based on any classification system, one enrolled based on Sinclair scores, and five enrolled females with hair loss determined by the Ludwig scale: I (80.0%), II (60.0%), and III (60.0%) (Table
+2
+).
+Table 2 Parameter summaries for studies assessing the use of MN on AGA subjects
+Interventions and Comparators
+In total, 536 subjects received MN therapy, while 375 received other hair loss interventions. Across all study groups, MN was included as a standalone therapy in 6 groups (
+n
+= 105). As an adjunct therapy, MN was evaluated alongside topical minoxidil in 10 groups (
+n
+= 234), proprietary topicals and/or growth factor solutions in 3 groups (
+n
+= 46), PRP in 2 groups (
+n
+= 61), continued medication use in 1 group (
+n
+= 50), PRP and systemic medications in 1 group (
+n
+= 42), PRP with topical minoxidil in 1 group (
+n
+= 25), topical minoxidil and continued medications in 1 group (
+n
+= 11), and topical minoxidil alongside growth factors in 1 group (
+n
+= 10) (Table
+2
+).
+MN Procedures
+MN devices tested included manual rollers (
+n
+= 8), automated pens (
+n
+= 7), manual stamps (
+n
+= 1), and automated fractional radiofrequency pens (
+n
+= 1). Needle lengths ranged from 0.25 to 2.50 mm, with a mean needle length of 1.39 mm.
+The frequency of MN sessions ranged from twice weekly to once monthly, with a mean session frequency of once per 2.64 weeks. The number of MN sessions ranged from 3 to 52, with a mean of 9.53 MN sessions per study. Treatment durations averaged 20.01 weeks.
+While four studies did not specify MN session endpoints, 13 studies standardized endpoints by a number of passes, directions, and/or taps (
+n
+= 3), mild erythema (
+n
+= 3), a number of passes and/or bleeding (
+n
+= 3), or passes until hemorrhage (
+n
+= 4) (Table
+2
+).
+Outcomes
+In total, 15 of 17 studies assessed hair parameters through phototrichograms (i.e., hair counts, hair diameters, and/or hair densities). Of the 17 studies, 6 included MN-only groups, whereas all studies tested MN alongside other hair loss interventions.
+Of the six MN monotherapy groups, two noted significant increases to total hair counts, one found significant increases to hair diameters and total hair density, and three showed no effect [
+13
+,
+18
+,
+19
+,
+20
+,
+25
+,
+27
+].
+Of the seven studies testing MN with 5% minoxidil, six found statistically significantly increased hair counts versus 5% minoxidil alone, and for a range of devices and needle lengths: rollers, automated pens, and fractional radiofrequency devices with depths from 0.60 to 2.50 mm [
+11
+,
+15
+,
+18
+,
+19
+,
+21
+,
+23
+,
+25
+]. However, Sohng et al. tested 5% minoxidil with a 0.25 mm needling stamp twice-weekly and found no effect on hair parameters [
+13
+]. When comparing 5% minoxidil with 0.60 mm or 1.20 mm needle lengths, Faghihi et al. found that 0.60 mm needle lengths led to significant hair count and diameter increases versus 5% minoxidil, whereas 1.20 mm needle lengths only saw hair count increases versus 5% minoxidil [
+21
+].
+All three studies testing MN alongside proprietary topicals and/or growth factors noted increases to hair counts [
+16
+,
+18
+,
+27
+]. Lee et al. and Yu et al. demonstrated improved hair parameters but no differences across groups when comparing MN use with topical versus intradermal delivery of proprietary products and/or growth factors [
+18
+,
+27
+]. Conversely, Ozcan et al. found that MN alongside either topical or injectable PRP significantly increased hair counts and diameters similarly across groups, but that subjects receiving MN alongside topical PRP saw greater improvements to anagen:telogen hairs [
+17
+]. Interestingly, in a split-scalp study, Aggarwal et al. showed that both MN and MN with PRP injections increased hair diameters and density equivalently—with no significant differences noted across groups [
+20
+].
+Two studies tested the introduction of MN alongside ongoing hair loss medications [
+14
+,
+22
+]. Burns et al. found that twice monthly MN combined with 5% minoxidil improved Ludwig scores for 11/11 females who had previously plateaued for ≥ 6 months on other hair loss treatments [
+14
+]. Starace et al. showed that the addition of MN improved hair counts in those already using hair loss treatments for > 1 year (Table
+2
+) [
+22
+].
+Adverse Events
+Across 536 subjects receiving MN, no serious adverse events were reported. Of mild adverse events, transient pain, scalp irritation, and mild erythema were most commonly reported. Withdrawal rates across MN groups were low and comparable to non-MN groups.
+AA and AT
+Patients
+Of the five studies with AA and AT subjects, enrollment ages ranged from 16 to 45 years, with a subject-weighted average of 28.34 years. Three investigations enrolled subjects with hair loss gradients according to Severity Of Alopecia Tool (SALT) score, one study enrolled on the basis of severe AA, and one study enrolled on the basis of AT (Table
+3
+).
+Table 3 Parameter summaries for studies assessing the use of MN on AA and AT subjects
+Interventions and Comparators
+In total, 114 subjects received MN therapy while 95 received other hair loss interventions. Of the five studies featuring AA and AT subjects, three compared treatments across patients (
+n
+= 181), while two compared treatments across lesions within the same patients (
+n
+= 28).
+Across all study groups, MN was included as a standalone therapy in three groups (
+n
+= 68). As an adjunct therapy, MN was evaluated alongside a PRP topical in one group (
+n
+= 20), and with 5-aminolevulinic acid or methyl 5-aminolevulinic acid alongside photodynamic therapy in two groups (
+n
+= 25). As a comparator, MN was included as a control against cryotherapy in one group (
+n
+= 40), PRP injections in one group (
+n
+= 20), fractional CO
+2
+laser alongside a PRP topical in one group (
+n
+= 20), triamcinolone acetonide injections in one group (
+n
+= 20), 5% minoxidil injections in one group (
+n
+= 20), and 5-aminolevulinic acid or methyl 5-aminolevulinic acid alongside photodynamic therapy in two groups (
+n
+= 23) (Table
+3
+).
+MN Procedures
+MN devices tested included manual rollers (
+n
+= 3) and automated pens (
+n
+= 2). Needle lengths ranged from 1.00 to 5.00 mm, with a mean needle length of 2.25 mm.
+The frequency of MN sessions ranged from once every 2 weeks to once monthly, with a mean session frequency of once every 3.46 weeks. The number of MN sessions ranged from three to six, with a mean of 4.40 MN sessions per study. Treatment durations averaged 14.20 weeks.
+While one study did not specify MN session endpoints, four studies standardized endpoints by a number of passes (
+n
+= 2), a number of passes and/or mild erythema (
+n
+= 1), or minutes of passes in affected areas (
+n
+= 1) (Table
+3
+).
+Outcomes
+In total, two of five studies assessed hair parameters through objective measurements (i.e., phototrichograms or 4 mm punch biopsies). Subjective measurements for the remaining three studies included Severity of Alopecia Tool (SALT) scores (
+n
+= 2), Lesional Area & Density (LAD) scores (
+n
+= 1), and/or a four-point scale (
+n
+= 1).
+Of the three studies testing standalone MN groups, Aboeldahab et al. and Abdallah et al. showed that MN alone increased hair density and improved SALT scores, respectively [
+28
+,
+30
+]. However, Giorgio et al. demonstrated no changes to hair parameters using a four-point scale to evaluate MN alone [
+31
+].
+When comparing MN with cryotherapy, Aboeldahab et al. found significant increases to hair counts and hair densities across both interventions, with MN demonstrating greater changes to SALT scores versus cryotherapy [
+28
+]. Conversely, Abdallah et al. found that triamcinolone acetonide injections with and without 5% intradermal minoxidil led to greater improvements to SALT and LAD scores versus controls than MN alone [
+30
+].
+As an adjunct therapy, Giorgio et al. showed that MN alongside 5-aminolevulinic acid and photodynamic therapy improved 94% of AA lesions versus 53% of lesions receiving only 5-aminolevulinic acid and photodynamic therapy [
+31
+]. However, Yoo et al. found that in AT subjects, methyl 5-aminolevulinic acid and photodynamic therapy with and without MN led to no hair parameter improvements according to 4 mm punch biopsies [
+32
+].
+Finally, Ragab et al. demonstrated that, over a 3-month period, MN alongside topical PRP improves SALT scores similarly to fractional CO
+2
+laser therapy alongside topical PRP (Table
+3
+) [
+29
+].
+Adverse Events
+Among 114 subjects receiving MN, no serious adverse events were reported. Of mild adverse events, transient pain and mild erythema were most common. Of the five studies, no withdrawals were reported in MN or non-MN groups.
